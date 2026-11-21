@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="470" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การห้ามเลือดและภาวะช็อก (Bleeding and shock)</text>
+<rect x="30.0" y="60.0" width="460.0" height="390.0" rx="12" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.5"/>
+<text x="46.0" y="86.0" font-size="12.3" text-anchor="start" fill="#7f1d1d" font-weight="bold">การห้ามเลือดภายนอก</text>
+<text x="46.0" y="113.0" font-size="12.3" text-anchor="start" fill="#0f172a">1. สวมถุงมือ (ป้องกันการติดเชื้อ)</text>
+<text x="46.0" y="140.0" font-size="12.3" text-anchor="start" fill="#0f172a">2. กดตรงแผลแน่นด้วยผ้าสะอาด/ผ้าก๊อซ อย่างต่อเนื่อง</text>
+<text x="46.0" y="167.0" font-size="12.3" text-anchor="start" fill="#0f172a">3. เลือดซึมผ่าน: เพิ่มผ้าทับ ไม่ต้องเอาผ้าแรกออก</text>
+<text x="46.0" y="194.0" font-size="12.3" text-anchor="start" fill="#0f172a">4. พันผ้าพันแผลกดทับ ตรวจการไหลเวียนปลายแขนขา</text>
+<text x="46.0" y="221.0" font-size="12.3" text-anchor="start" fill="#0f172a">5. เลือดออกรุนแรงที่แขน/ขา ควบคุมไม่ได้ด้วยการกด</text>
+<text x="46.0" y="248.0" font-size="12.3" text-anchor="start" fill="#0f172a">   → tourniquet เหนือแผล จดเวลาที่รัด (ตามการฝึก)</text>
+<text x="46.0" y="275.0" font-size="12.3" text-anchor="start" fill="#0f172a">6. วัตถุปักคาแผล: ห้ามดึงออก — กดรอบ ๆ ยึดให้นิ่ง</text>
+<text x="46.0" y="302.0" font-size="12.3" text-anchor="start" fill="#0f172a">7. ให้นอนราบ ดูแลภาวะช็อก</text>
+<text x="46.0" y="329.0" font-size="12.3" text-anchor="start" fill="#0f172a"></text>
+<text x="46.0" y="356.0" font-size="12.3" text-anchor="start" fill="#7f1d1d" font-weight="bold">เลือดออกภายใน (สงสัย)</text>
+<text x="46.0" y="383.0" font-size="12.3" text-anchor="start" fill="#0f172a">กลไกการบาดเจ็บรุนแรง ท้องแข็ง/ช้ำ ช็อกโดยไม่เห็นเลือด</text>
+<text x="46.0" y="410.0" font-size="12.3" text-anchor="start" fill="#0f172a">→ เฝ้าดู สัญญาณชีพ ปรึกษา TMAS โดยเร็ว (อาจต้องอพยพ)</text>
+<rect x="510.0" y="60.0" width="460.0" height="390.0" rx="12" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="526.0" y="86.0" font-size="12.3" text-anchor="start" fill="#1e3a8a" font-weight="bold">ภาวะช็อก (Shock) — การไหลเวียนไม่พอเลี้ยงอวัยวะ</text>
+<text x="526.0" y="113.0" font-size="12.3" text-anchor="start" fill="#0f172a">สาเหตุ: เสียเลือด/น้ำ (แผลไหม้ ท้องเสีย) หัวใจ แพ้รุนแรง ติดเชื้อ</text>
+<text x="526.0" y="140.0" font-size="12.3" text-anchor="start" fill="#0f172a"></text>
+<text x="526.0" y="167.0" font-size="12.3" text-anchor="start" fill="#1e3a8a" font-weight="bold">อาการ</text>
+<text x="526.0" y="194.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ผิวซีด เย็น ชื้น เหงื่อออก</text>
+<text x="526.0" y="221.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ชีพจรเร็วและเบา หายใจเร็ว ตื้น</text>
+<text x="526.0" y="248.0" font-size="12.3" text-anchor="start" fill="#0f172a">• กระหายน้ำ คลื่นไส้ กระสับกระส่าย ซึม → หมดสติ</text>
+<text x="526.0" y="275.0" font-size="12.3" text-anchor="start" fill="#0f172a"></text>
+<text x="526.0" y="302.0" font-size="12.3" text-anchor="start" fill="#1e3a8a" font-weight="bold">การดูแล</text>
+<text x="526.0" y="329.0" font-size="12.3" text-anchor="start" fill="#0f172a">• แก้สาเหตุ (ห้ามเลือด) · ให้นอนราบ (ยกขาถ้าไม่มีข้อห้าม)</text>
+<text x="526.0" y="356.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ห่มให้อบอุ่น · คลายเสื้อผ้าที่รัด · ให้ออกซิเจนตามการฝึก</text>
+<text x="526.0" y="383.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ห้ามให้กินดื่ม (อาจต้องผ่าตัด) — ชุ่มริมฝีปากได้</text>
+<text x="526.0" y="410.0" font-size="12.3" text-anchor="start" fill="#0f172a">• เฝ้าสัญญาณชีพทุก 5–10 นาที · ปรึกษา TMAS</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 530" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+  <rect width="900" height="530" fill="#ffffff"/>
+  <defs>
+    <marker id="ar" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="13" refY="7" orient="auto"><path d="M0,0 L14,7 L0,14 z" fill="#334155"/></marker>
+  </defs>
+  <text x="450" y="34" text-anchor="middle" font-size="22" font-weight="bold" fill="#0f172a">โครงสร้างความรู้ของ OOW</text>
+
+  <rect x="300" y="58" width="300" height="70" rx="10" fill="#1e3a8a"/>
+  <text x="450" y="88" text-anchor="middle" font-size="17" fill="#fff" font-weight="bold">STCW Convention + Code</text>
+  <text x="450" y="112" text-anchor="middle" font-size="13" fill="#e0e7ff">Reg II/1 · Table A-II/1 · A-VI/1–4 · A-VIII/2</text>
+
+  <rect x="320" y="170" width="260" height="70" rx="10" fill="#2563eb"/>
+  <text x="450" y="200" text-anchor="middle" font-size="17" fill="#fff" font-weight="bold">IMO Model Course 7.03</text>
+  <text x="450" y="224" text-anchor="middle" font-size="13" fill="#e0e7ff">+ 1.07 · 1.08 · 1.22 · 1.27 · 1.39</text>
+  <line x1="450" y1="128" x2="450" y2="168" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+  <text x="462" y="153" font-size="12" fill="#334155">"ต้องทำได้อะไร" → "ควรสอนอะไร"</text>
+
+  <rect x="40" y="290" width="250" height="110" rx="10" fill="#e0f2fe" stroke="#0369a1"/>
+  <text x="165" y="316" text-anchor="middle" font-size="15" font-weight="bold" fill="#0c4a6e">Function 1 Navigation</text>
+  <text x="165" y="340" text-anchor="middle" font-size="12" fill="#0c4a6e">Passage plan · Celestial · Coastal</text>
+  <text x="165" y="358" text-anchor="middle" font-size="12" fill="#0c4a6e">Compass · Met · COLREG · BRM</text>
+  <text x="165" y="376" text-anchor="middle" font-size="12" fill="#0c4a6e">Radar/ARPA · ECDIS · SAR · SMCP</text>
+  <text x="165" y="394" text-anchor="middle" font-size="12" fill="#0c4a6e">Signals · Manoeuvring · Emergencies</text>
+
+  <rect x="325" y="290" width="250" height="110" rx="10" fill="#fef3c7" stroke="#b45309"/>
+  <text x="450" y="316" text-anchor="middle" font-size="15" font-weight="bold" fill="#78350f">Function 2 Cargo</text>
+  <text x="450" y="342" text-anchor="middle" font-size="12" fill="#78350f">Handling · Stowage · Securing</text>
+  <text x="450" y="360" text-anchor="middle" font-size="12" fill="#78350f">IMDG · IMSBC · CSS · Grain</text>
+  <text x="450" y="378" text-anchor="middle" font-size="12" fill="#78350f">Inspection · ESP</text>
+
+  <rect x="610" y="290" width="250" height="110" rx="10" fill="#dcfce7" stroke="#15803d"/>
+  <text x="735" y="316" text-anchor="middle" font-size="15" font-weight="bold" fill="#14532d">Function 3 Ship operation</text>
+  <text x="735" y="340" text-anchor="middle" font-size="12" fill="#14532d">MARPOL · Stability · Construction</text>
+  <text x="735" y="358" text-anchor="middle" font-size="12" fill="#14532d">Fire · LSA · Medical · Law</text>
+  <text x="735" y="376" text-anchor="middle" font-size="12" fill="#14532d">Leadership · Personal safety</text>
+
+  <line x1="400" y1="240" x2="190" y2="288" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+  <line x1="450" y1="240" x2="450" y2="288" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+  <line x1="500" y1="240" x2="710" y2="288" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+
+  <rect x="40" y="430" width="820" height="70" rx="10" fill="#f1f5f9" stroke="#64748b" stroke-dasharray="6 4"/>
+  <text x="450" y="458" text-anchor="middle" font-size="14" font-weight="bold" fill="#0f172a">รายละเอียดใช้งานจริง: SOLAS · MARPOL · COLREG · ISM · ISPS · IMO Resolutions · BPG (ICS)</text>
+  <text x="450" y="482" text-anchor="middle" font-size="13" fill="#334155">ADMIRALTY NP Series · Bowditch · Admiralty Manual of Navigation · IHO/IALA Standards · Nautical Almanac</text>
+  <text x="450" y="515" text-anchor="middle" font-size="11" fill="#64748b">หน้าที่วิทยุสื่อสาร (Radiocommunications) แยกไปอยู่ที่ A-IV/2 (GOC · Model Course 1.25)</text>
+</svg>

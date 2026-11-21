@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 580" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="820" height="580" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="dm" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="#334155"/></marker></defs>
+<text x="410.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Rule 18 — ลำดับความรับผิดชอบระหว่างเรือ (ขณะเห็นกัน)</text>
+<rect x="190.0" y="60" width="440" height="52" rx="8" fill="#991b1b"/>
+<text x="410.0" y="92" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">NUC  |  RAM — ระดับเดียวกัน (กฎไม่ได้กำหนดให้ลำใดหลีกลำใด)</text>
+<rect x="163.0" y="126" width="494" height="52" rx="8" fill="#c2410c"/>
+<text x="410.0" y="158" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">CBD — ทุกลำยกเว้น NUC/RAM ต้องไม่ขัดขวาง (18(d))</text>
+<rect x="136.0" y="192" width="548" height="52" rx="8" fill="#ca8a04"/>
+<text x="410.0" y="224" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">Fishing vessel (engaged in fishing)</text>
+<rect x="109.0" y="258" width="602" height="52" rx="8" fill="#15803d"/>
+<text x="410.0" y="290" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">Sailing vessel</text>
+<rect x="82.0" y="324" width="656" height="52" rx="8" fill="#1d4ed8"/>
+<text x="410.0" y="356" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">Power-driven vessel (รวม WIG ที่แล่นบนผิวน้ำ)</text>
+<rect x="55.0" y="390" width="710" height="52" rx="8" fill="#475569"/>
+<text x="410.0" y="422" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">Seaplane บนน้ำ / WIG ขณะขึ้น-ลง-บินใกล้ผิวน้ำ</text>
+<path d="M 26 440 L 26 70" stroke="#0f172a" stroke-width="3" marker-end="url(#ar)"/>
+<text x="20" y="480" font-size="12">เรือล่างหลีกทาง (keep out of the way) เรือที่อยู่สูงกว่า · CBD: เรืออื่นต้อง "ไม่ขัดขวาง" (not impede) และ CBD เองต้องเดินเรือด้วยความระมัดระวังเป็นพิเศษ</text>
+<text x="20" y="500" font-size="12">Seaplane บนน้ำต้องหลีกห่างทุกลำ (18(e)) · WIG ขณะขึ้น-ลง-บินใกล้ผิวน้ำต้องหลีกห่างทุกลำ แต่ถ้าแล่นบนผิวน้ำถือเป็นเรือกล (18(f))</text>
+<text x="20" y="520" font-size="12" font-weight="bold" fill="#b91c1c">ข้อยกเว้น: ลำดับนี้ใช้ "ยกเว้นที่ Rule 9, 10 และ 13 กำหนดไว้เป็นอย่างอื่น" — เช่น เรือที่กำลังแซงต้องหลบเสมอ ไม่ว่าเป็นเรือประเภทใด</text>
+<text x="20" y="540" font-size="12">เรือประมง/เรือใบ/เรือ &lt; 20 m ต้องไม่ขัดขวางเรือที่แล่นได้เฉพาะในร่องน้ำแคบหรือเรือใน traffic lane (9(b)(c), 10(i)(j))</text>
+</svg>

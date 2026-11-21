@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="720" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="dm" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="#334155"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ทุ่นวัน / รูปทรงสัญญาณกลางวัน (Day shapes) — สีดำ</text>
+<rect x="12" y="60" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="105.0" y="82" text-anchor="middle" font-size="13" font-weight="bold">At anchor</text>
+<circle cx="105.0" cy="160" r="14" fill="#111827"/>
+<text x="105.0" y="236" text-anchor="middle" font-size="11" fill="#334155">ลูกกลม 1 ลูก (ส่วนหน้าเรือ)</text>
+<rect x="208" y="60" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="301.0" y="82" text-anchor="middle" font-size="13" font-weight="bold">NUC</text>
+<circle cx="301.0" cy="138" r="14" fill="#111827"/>
+<circle cx="301.0" cy="182" r="14" fill="#111827"/>
+<text x="301.0" y="236" text-anchor="middle" font-size="11" fill="#334155">ลูกกลม 2 ลูก</text>
+<rect x="404" y="60" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="497.0" y="82" text-anchor="middle" font-size="13" font-weight="bold">Aground</text>
+<circle cx="497.0" cy="116" r="14" fill="#111827"/>
+<circle cx="497.0" cy="160" r="14" fill="#111827"/>
+<circle cx="497.0" cy="204" r="14" fill="#111827"/>
+<text x="497.0" y="236" text-anchor="middle" font-size="11" fill="#334155">ลูกกลม 3 ลูก</text>
+<rect x="600" y="60" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="693.0" y="82" text-anchor="middle" font-size="13" font-weight="bold">RAM</text>
+<circle cx="693.0" cy="110" r="14" fill="#111827"/>
+<path d="M 693.0 132 L 707.0 160 L 693.0 188 L 679.0 160 Z" fill="#111827"/>
+<circle cx="693.0" cy="210" r="14" fill="#111827"/>
+<text x="693.0" y="236" text-anchor="middle" font-size="11" fill="#334155">กลม-ข้าวหลามตัด-กลม</text>
+<rect x="796" y="60" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="889.0" y="82" text-anchor="middle" font-size="13" font-weight="bold">Constrained by draught</text>
+<rect x="877.0" y="136" width="24" height="48" fill="#111827"/>
+<text x="889.0" y="236" text-anchor="middle" font-size="11" fill="#334155">ทรงกระบอก</text>
+<rect x="12" y="260" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="105.0" y="282" text-anchor="middle" font-size="13" font-weight="bold">Fishing (any)</text>
+<path d="M 91.0 331.0 L 119.0 331.0 L 105.0 359.0 Z" fill="#111827"/>
+<path d="M 91.0 389.0 L 119.0 389.0 L 105.0 361.0 Z" fill="#111827"/>
+<text x="105.0" y="436" text-anchor="middle" font-size="11" fill="#334155">กรวย 2 อันยอดชนกัน</text>
+<rect x="208" y="260" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="301.0" y="282" text-anchor="middle" font-size="13" font-weight="bold">Fishing gear > 150 m</text>
+<path d="M 287.0 374.0 L 315.0 374.0 L 301.0 346.0 Z" fill="#111827"/>
+<text x="301.0" y="436" text-anchor="middle" font-size="11" fill="#334155">กรวยยอดชี้ขึ้น (ทิศเครื่องมือ)</text>
+<rect x="404" y="260" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="497.0" y="282" text-anchor="middle" font-size="13" font-weight="bold">Towing, tow > 200 m</text>
+<path d="M 497.0 332 L 511.0 360 L 497.0 388 L 483.0 360 Z" fill="#111827"/>
+<text x="497.0" y="436" text-anchor="middle" font-size="11" fill="#334155">ข้าวหลามตัด (ทั้งเรือลากและถูกลาก)</text>
+<rect x="600" y="260" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="693.0" y="282" text-anchor="middle" font-size="13" font-weight="bold">Motor-sailing</text>
+<path d="M 679.0 346.0 L 707.0 346.0 L 693.0 374.0 Z" fill="#111827"/>
+<text x="693.0" y="436" text-anchor="middle" font-size="11" fill="#334155">กรวยยอดชี้ลง</text>
+<rect x="796" y="260" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="889.0" y="282" text-anchor="middle" font-size="13" font-weight="bold">Mine clearance</text>
+<circle cx="889.0" cy="324" r="14" fill="#111827"/>
+<circle cx="843.0" cy="370" r="14" fill="#111827"/>
+<circle cx="935.0" cy="370" r="14" fill="#111827"/>
+<text x="889.0" y="436" text-anchor="middle" font-size="11" fill="#334155">ลูกกลม 3 ลูก (ยอด+ปลายพรวน)</text>
+<rect x="12" y="460" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="105.0" y="482" text-anchor="middle" font-size="13" font-weight="bold">Dredging มีสิ่งกีดขวาง</text>
+<circle cx="105.0" cy="506" r="10" fill="#111827"/>
+<path d="M 105.0 522 L 113.0 538 L 105.0 554 L 97.0 538 Z" fill="#111827"/>
+<circle cx="105.0" cy="568" r="10" fill="#111827"/>
+<circle cx="47.0" cy="568" r="10" fill="#111827"/>
+<circle cx="47.0" cy="596" r="10" fill="#111827"/>
+<path d="M 163.0 556 L 169.0 568 L 163.0 580 L 157.0 568 Z" fill="#111827"/>
+<path d="M 163.0 584 L 169.0 596 L 163.0 608 L 157.0 596 Z" fill="#111827"/>
+<text x="105.0" y="624" text-anchor="middle" font-size="11" fill="#334155">ลูกกลมคู่ = ด้านห้ามผ่าน</text><text x="105.0" y="639" text-anchor="middle" font-size="11" fill="#334155">ข้าวหลามตัดคู่ = ด้านผ่านได้</text>
+<rect x="208" y="460" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="301.0" y="482" text-anchor="middle" font-size="13" font-weight="bold">Diving (เรือเล็ก) 27(e)</text>
+<line x1="267.0" y1="520" x2="267.0" y2="606" stroke="#334155" stroke-width="3"/><rect x="269.0" y="524" width="32" height="50" fill="#ffffff" stroke="#0f172a"/><path d="M 301.0 524 L 341.0 524 L 325.0 549 L 341.0 574 L 301.0 574 Z" fill="#1d4ed8" stroke="#0f172a"/>
+<text x="301.0" y="636" text-anchor="middle" font-size="11" fill="#334155">ธง A แบบแข็ง สูง ≥ 1 m (ไม่ใช่สีดำ)</text>
+<rect x="404" y="460" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="497.0" y="482" text-anchor="middle" font-size="13" font-weight="bold">RAM ทอดสมอ 27(b)(iv)</text>
+<circle cx="447.0" cy="524" r="14" fill="#111827"/>
+<circle cx="517.0" cy="510" r="14" fill="#111827"/>
+<path d="M 517.0 532 L 531.0 560 L 517.0 588 L 503.0 560 Z" fill="#111827"/>
+<circle cx="517.0" cy="610" r="14" fill="#111827"/>
+<text x="497.0" y="636" text-anchor="middle" font-size="11" fill="#334155">RAM + ลูกกลมทอดสมอ</text>
+<rect x="600" y="460" width="186" height="186" rx="8" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="693.0" y="482" text-anchor="middle" font-size="13" font-weight="bold">Towing RAM 27(c)</text>
+<circle cx="663.0" cy="510" r="14" fill="#111827"/>
+<path d="M 663.0 532 L 677.0 560 L 663.0 588 L 649.0 560 Z" fill="#111827"/>
+<circle cx="663.0" cy="610" r="14" fill="#111827"/>
+<path d="M 733.0 532 L 747.0 560 L 733.0 588 L 719.0 560 Z" fill="#111827"/>
+<text x="693.0" y="636" text-anchor="middle" font-size="11" fill="#334155">RAM + ข้าวหลามตัด (ถ้าลาก > 200 m)</text>
+<rect x="796" y="460" width="186" height="186" rx="8" fill="#fff" stroke="#94a3b8" stroke-dasharray="4 3"/>
+<text x="889" y="484" text-anchor="middle" font-size="13" font-weight="bold" fill="#0f172a">ขนาดจริง (Annex I §6)</text>
+<text x="804" y="512" font-size="11" fill="#334155">• ลูกกลม Ø ≥ 0.6 m</text>
+<text x="804" y="534" font-size="11" fill="#334155">• กรวย ฐาน ≥ 0.6 m สูง = ฐาน</text>
+<text x="804" y="556" font-size="11" fill="#334155">• ทรงกระบอก Ø ≥ 0.6 m สูง 2Ø</text>
+<text x="804" y="578" font-size="11" fill="#334155">• ข้าวหลามตัด = กรวยคู่ฐานชนกัน</text>
+<text x="804" y="600" font-size="11" fill="#334155">• ระยะห่างแนวตั้ง ≥ 1.5 m</text>
+<text x="804" y="622" font-size="11" fill="#334155">• เรือ &lt; 20 m ย่อขนาดได้ตามสัดส่วน</text>
+<text x="20" y="700" font-size="12" fill="#334155">ภาพไม่ตามมาตราส่วน (ระยะห่างจริงระหว่างทุ่นวัน ≥ 1.5 m ห่างกว่าในภาพมาก) · ทุ่นวันทุกแบบเป็นสีดำ ยกเว้นธง A ของงานดำน้ำ</text>
+</svg>

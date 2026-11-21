@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="330" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arr" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L14,7 L0,14 z" fill="#b91c1c"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Closed-loop communication — สั่ง → ทวน → ยืนยัน → รายงานผล</text>
+<rect x="30" y="90" width="215" height="110" rx="12" fill="#eff6ff" stroke="#1e3a8a"/>
+<text x="137" y="125" text-anchor="middle" font-size="14" font-weight="bold">ผู้ส่ง (Pilot/Master/OOW)</text><text x="137" y="160" text-anchor="middle" font-size="14" fill="#1d4ed8">"Starboard ten."</text>
+<path d="M 247 145 L 273 145" stroke="#0f172a" stroke-width="3" marker-end="url(#ar)"/>
+<rect x="275" y="90" width="215" height="110" rx="12" fill="#eff6ff" stroke="#1e3a8a"/>
+<text x="382" y="125" text-anchor="middle" font-size="14" font-weight="bold">ผู้รับทวน (Helmsman)</text><text x="382" y="160" text-anchor="middle" font-size="14" fill="#1d4ed8">"Starboard ten."</text>
+<path d="M 492 145 L 518 145" stroke="#0f172a" stroke-width="3" marker-end="url(#ar)"/>
+<rect x="520" y="90" width="215" height="110" rx="12" fill="#eff6ff" stroke="#1e3a8a"/>
+<text x="627" y="125" text-anchor="middle" font-size="14" font-weight="bold">ผู้ส่งยืนยัน</text><text x="627" y="160" text-anchor="middle" font-size="14" fill="#1d4ed8">"Correct."</text>
+<path d="M 737 145 L 763 145" stroke="#0f172a" stroke-width="3" marker-end="url(#ar)"/>
+<rect x="765" y="90" width="215" height="110" rx="12" fill="#eff6ff" stroke="#1e3a8a"/>
+<text x="872" y="125" text-anchor="middle" font-size="14" font-weight="bold">ผู้รับรายงานผล</text><text x="872" y="160" text-anchor="middle" font-size="14" fill="#1d4ed8">"Wheel is starboard ten."</text>
+<text x="30" y="245" font-size="13">ใช้กับคำสั่งหางเสือ เครื่องจักร การรายงานตำแหน่ง/เป้า และการสื่อสารภายนอก (VTS, เรืออื่น) — ช่วยตัด "การได้ยินผิด" ซึ่งเป็นสาเหตุอุบัติเหตุจำนวนมาก</text>
+<text x="30" y="270" font-size="13">ภาษาเดียวกัน (มักเป็นอังกฤษ + SMCP) · คำสั่งสั้น ชัด · เรียกชื่อผู้รับ · ไม่ใช้คำกำกวม เช่น "OK" แทนการทวนคำสั่ง</text>
+<text x="30" y="295" font-size="13">ปิดวง: เมื่อได้รับรายงานผล ผู้ส่งตรวจที่ rudder angle indicator แล้วรับทราบ ("Thank you") — บางเรือพูดยืนยันหลังรายงานผลแทน หลักคือห้ามจบวงโดยไม่ตรวจ</text>
+</svg>

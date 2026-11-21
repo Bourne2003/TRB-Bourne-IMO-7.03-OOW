@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 590" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="590" fill="#fff"/>
+<defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="context-stroke"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Tropical Revolving Storm — Dangerous / Navigable semicircle</text>
+<text x="260" y="62" text-anchor="middle" font-size="16" font-weight="bold">ซีกโลกเหนือ (ลมหมุนทวนเข็มนาฬิกา)</text>
+<path d="M 260 130 A 180 180 0 0 1 260 490 Z" fill="#fecaca" opacity="0.7"/>
+<path d="M 260 130 A 180 180 0 0 0 260 490 Z" fill="#bbf7d0" opacity="0.7"/>
+<path d="M 260 310 L 260 130 A 180 180 0 0 1 440 310 Z" fill="#ef4444" opacity="0.45"/>
+<circle cx="260" cy="310" r="14" fill="#fff" stroke="#0f172a" stroke-width="2"/><text x="248" y="344" font-size="12">eye</text>
+<line x1="260" y1="480" x2="260" y2="105" stroke="#0f172a" stroke-width="2.5" stroke-dasharray="8 5" marker-end="url(#a)"/>
+<text x="270" y="114" font-size="12" font-weight="bold">ทิศการเคลื่อนที่</text>
+<line x1="370.0" y1="310.0" x2="370.0" y2="276.0" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<line x1="315.0" y1="214.7" x2="285.6" y2="197.7" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<line x1="205.0" y1="214.7" x2="175.6" y2="231.7" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<line x1="150.0" y1="310.0" x2="150.0" y2="344.0" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<line x1="205.0" y1="405.3" x2="234.4" y2="422.3" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<line x1="315.0" y1="405.3" x2="344.4" y2="388.3" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<text x="355" y="250" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">DANGEROUS</text>
+<text x="355" y="268" text-anchor="middle" font-size="12" fill="#991b1b">(advance quadrant อันตรายสุด)</text>
+<text x="165" y="380" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">NAVIGABLE</text>
+<text x="30" y="520" font-size="12">ลม veer → dangerous: ลมกราบขวาหัวเรือ 10°–45°</text>
+<text x="30" y="538" font-size="12">ลม back → navigable: ลมกราบขวาท้ายเรือ</text>
+<text x="30" y="556" font-size="12">บนเส้นทางข้างหน้า: ลมกราบขวาท้ายเรือ</text>
+<text x="740" y="62" text-anchor="middle" font-size="16" font-weight="bold">ซีกโลกใต้ (ลมหมุนตามเข็มนาฬิกา)</text>
+<path d="M 740 130 A 180 180 0 0 0 740 490 Z" fill="#fecaca" opacity="0.7"/>
+<path d="M 740 130 A 180 180 0 0 1 740 490 Z" fill="#bbf7d0" opacity="0.7"/>
+<path d="M 740 310 L 740 130 A 180 180 0 0 0 560 310 Z" fill="#ef4444" opacity="0.45"/>
+<circle cx="740" cy="310" r="14" fill="#fff" stroke="#0f172a" stroke-width="2"/><text x="728" y="344" font-size="12">eye</text>
+<line x1="740" y1="480" x2="740" y2="105" stroke="#0f172a" stroke-width="2.5" stroke-dasharray="8 5" marker-end="url(#a)"/>
+<text x="750" y="114" font-size="12" font-weight="bold">ทิศการเคลื่อนที่</text>
+<line x1="850.0" y1="310.0" x2="850.0" y2="344.0" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<line x1="795.0" y1="214.7" x2="824.4" y2="231.7" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<line x1="685.0" y1="214.7" x2="714.4" y2="197.7" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<line x1="630.0" y1="310.0" x2="630.0" y2="276.0" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<line x1="685.0" y1="405.3" x2="655.6" y2="388.3" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<line x1="795.0" y1="405.3" x2="765.6" y2="422.3" stroke="#1e3a8a" stroke-width="3" marker-end="url(#a)"/>
+<text x="645" y="250" text-anchor="middle" font-size="14" font-weight="bold" fill="#991b1b">DANGEROUS</text>
+<text x="645" y="268" text-anchor="middle" font-size="12" fill="#991b1b">(advance quadrant อันตรายสุด)</text>
+<text x="835" y="380" text-anchor="middle" font-size="14" font-weight="bold" fill="#166534">NAVIGABLE</text>
+<text x="510" y="520" font-size="12">ลม back → dangerous: ลมกราบซ้ายหัวเรือ 10°–45°</text>
+<text x="510" y="538" font-size="12">ลม veer → navigable: ลมกราบซ้ายท้ายเรือ</text>
+<text x="510" y="556" font-size="12">บนเส้นทางข้างหน้า: ลมกราบซ้ายท้ายเรือ</text>
+<line x1="500" y1="60" x2="500" y2="550" stroke="#e2e8f0" stroke-width="2"/>
+</svg>

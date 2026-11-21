@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="640" fill="#fff"/>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">IALA Lateral Marks — Region A และ Region B</text>
+<text x="250" y="66" text-anchor="middle" font-size="17" font-weight="bold" fill="#b91c1c">REGION A (รวมประเทศไทย)</text>
+<text x="750" y="66" text-anchor="middle" font-size="17" font-weight="bold" fill="#15803d">REGION B (อเมริกา ญี่ปุ่น เกาหลี ฟิลิปปินส์)</text>
+<line x1="500" y1="50" x2="500" y2="620" stroke="#cbd5e1" stroke-width="2"/>
+<path d="M 60.0 274 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c1"><path d="M 97.0 201.8 L 143.0 201.8 L 143.0 270 L 97.0 270 Z"/></clipPath>
+<rect x="95.0" y="201.8" width="50" height="68.8" fill="#dc2626" clip-path="url(#c1)"/>
+<path d="M 97.0 201.8 L 143.0 201.8 L 143.0 270 L 97.0 270 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="120" y1="201.8" x2="120" y2="179.8" stroke="#111827" stroke-width="3"/>
+<rect x="112" y="163.8" width="16" height="16" fill="#dc2626" stroke="#111827"/>
+<text x="120" y="300" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">Port hand</text>
+<text x="120" y="317" text-anchor="middle" font-size="13" fill="#0f172a">สีแดง ทรงกระบอก (can)</text>
+<text x="120" y="334" text-anchor="middle" font-size="13" fill="#0f172a">ไฟแดง (ยกเว้น Fl(2+1))</text>
+<path d="M 310.0 274 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c2"><path d="M 370 187.5 L 393.0 270 L 347.0 270 Z"/></clipPath>
+<rect x="345.0" y="187.5" width="50" height="83.1" fill="#16a34a" clip-path="url(#c2)"/>
+<path d="M 370 187.5 L 393.0 270 L 347.0 270 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="370" y1="187.5" x2="370" y2="165.5" stroke="#111827" stroke-width="3"/>
+<path d="M 362.0 165.5 L 378.0 165.5 L 370 149.5 Z" fill="#16a34a" stroke="#111827"/>
+<text x="370" y="300" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">Starboard hand</text>
+<text x="370" y="317" text-anchor="middle" font-size="13" fill="#0f172a">สีเขียว ทรงกรวย (cone)</text>
+<text x="370" y="334" text-anchor="middle" font-size="13" fill="#0f172a">ไฟเขียว (ยกเว้น Fl(2+1))</text>
+<path d="M 60.0 524 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c3"><path d="M 97.0 451.8 L 143.0 451.8 L 143.0 520 L 97.0 520 Z"/></clipPath>
+<rect x="95.0" y="451.8" width="50" height="24.5" fill="#dc2626" clip-path="url(#c3)"/>
+<rect x="95.0" y="475.7" width="50" height="21.1" fill="#16a34a" clip-path="url(#c3)"/>
+<rect x="95.0" y="496.1" width="50" height="24.5" fill="#dc2626" clip-path="url(#c3)"/>
+<path d="M 97.0 451.8 L 143.0 451.8 L 143.0 520 L 97.0 520 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="120" y1="451.8" x2="120" y2="429.8" stroke="#111827" stroke-width="3"/>
+<rect x="112" y="413.8" width="16" height="16" fill="#dc2626" stroke="#111827"/>
+<text x="120" y="550" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">Preferred channel</text>
+<text x="120" y="567" text-anchor="middle" font-size="13" fill="#0f172a">to STARBOARD</text>
+<text x="120" y="584" text-anchor="middle" font-size="13" fill="#0f172a">Fl(2+1)R</text>
+<path d="M 310.0 524 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c4"><path d="M 370 437.5 L 393.0 520 L 347.0 520 Z"/></clipPath>
+<rect x="345.0" y="437.5" width="50" height="29.5" fill="#16a34a" clip-path="url(#c4)"/>
+<rect x="345.0" y="466.4" width="50" height="25.4" fill="#dc2626" clip-path="url(#c4)"/>
+<rect x="345.0" y="491.1" width="50" height="29.5" fill="#16a34a" clip-path="url(#c4)"/>
+<path d="M 370 437.5 L 393.0 520 L 347.0 520 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="370" y1="437.5" x2="370" y2="415.5" stroke="#111827" stroke-width="3"/>
+<path d="M 362.0 415.5 L 378.0 415.5 L 370 399.5 Z" fill="#16a34a" stroke="#111827"/>
+<text x="370" y="550" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">Preferred channel</text>
+<text x="370" y="567" text-anchor="middle" font-size="13" fill="#0f172a">to PORT</text>
+<text x="370" y="584" text-anchor="middle" font-size="13" fill="#0f172a">Fl(2+1)G</text>
+<path d="M 560.0 274 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c5"><path d="M 597.0 201.8 L 643.0 201.8 L 643.0 270 L 597.0 270 Z"/></clipPath>
+<rect x="595.0" y="201.8" width="50" height="68.8" fill="#16a34a" clip-path="url(#c5)"/>
+<path d="M 597.0 201.8 L 643.0 201.8 L 643.0 270 L 597.0 270 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="620" y1="201.8" x2="620" y2="179.8" stroke="#111827" stroke-width="3"/>
+<rect x="612" y="163.8" width="16" height="16" fill="#16a34a" stroke="#111827"/>
+<text x="620" y="300" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">Port hand</text>
+<text x="620" y="317" text-anchor="middle" font-size="13" fill="#0f172a">สีเขียว ทรงกระบอก</text>
+<text x="620" y="334" text-anchor="middle" font-size="13" fill="#0f172a">ไฟเขียว</text>
+<path d="M 810.0 274 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c6"><path d="M 870 187.5 L 893.0 270 L 847.0 270 Z"/></clipPath>
+<rect x="845.0" y="187.5" width="50" height="83.1" fill="#dc2626" clip-path="url(#c6)"/>
+<path d="M 870 187.5 L 893.0 270 L 847.0 270 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="870" y1="187.5" x2="870" y2="165.5" stroke="#111827" stroke-width="3"/>
+<path d="M 862.0 165.5 L 878.0 165.5 L 870 149.5 Z" fill="#dc2626" stroke="#111827"/>
+<text x="870" y="300" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">Starboard hand</text>
+<text x="870" y="317" text-anchor="middle" font-size="13" fill="#0f172a">สีแดง ทรงกรวย</text>
+<text x="870" y="334" text-anchor="middle" font-size="13" fill="#0f172a">ไฟแดง</text>
+<path d="M 560.0 524 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c7"><path d="M 597.0 451.8 L 643.0 451.8 L 643.0 520 L 597.0 520 Z"/></clipPath>
+<rect x="595.0" y="451.8" width="50" height="24.5" fill="#16a34a" clip-path="url(#c7)"/>
+<rect x="595.0" y="475.7" width="50" height="21.1" fill="#dc2626" clip-path="url(#c7)"/>
+<rect x="595.0" y="496.1" width="50" height="24.5" fill="#16a34a" clip-path="url(#c7)"/>
+<path d="M 597.0 451.8 L 643.0 451.8 L 643.0 520 L 597.0 520 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="620" y1="451.8" x2="620" y2="429.8" stroke="#111827" stroke-width="3"/>
+<rect x="612" y="413.8" width="16" height="16" fill="#16a34a" stroke="#111827"/>
+<text x="620" y="550" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">Preferred channel</text>
+<text x="620" y="567" text-anchor="middle" font-size="13" fill="#0f172a">to STARBOARD</text>
+<text x="620" y="584" text-anchor="middle" font-size="13" fill="#0f172a">Fl(2+1)G</text>
+<path d="M 810.0 524 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c8"><path d="M 870 437.5 L 893.0 520 L 847.0 520 Z"/></clipPath>
+<rect x="845.0" y="437.5" width="50" height="29.5" fill="#dc2626" clip-path="url(#c8)"/>
+<rect x="845.0" y="466.4" width="50" height="25.4" fill="#16a34a" clip-path="url(#c8)"/>
+<rect x="845.0" y="491.1" width="50" height="29.5" fill="#dc2626" clip-path="url(#c8)"/>
+<path d="M 870 437.5 L 893.0 520 L 847.0 520 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="870" y1="437.5" x2="870" y2="415.5" stroke="#111827" stroke-width="3"/>
+<path d="M 862.0 415.5 L 878.0 415.5 L 870 399.5 Z" fill="#dc2626" stroke="#111827"/>
+<text x="870" y="550" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">Preferred channel</text>
+<text x="870" y="567" text-anchor="middle" font-size="13" fill="#0f172a">to PORT</text>
+<text x="870" y="584" text-anchor="middle" font-size="13" fill="#0f172a">Fl(2+1)R</text>
+<text x="500" y="632" text-anchor="middle" font-size="13" fill="#334155">ด้านซ้าย/ขวา นับตาม "ทิศทางของทุ่น" (conventional direction of buoyage) — ขาเข้าจากทะเลสู่ท่าเรือ หรือตามเข็มนาฬิการอบทวีป ดูลูกศรบนแผนที่</text>
+</svg>

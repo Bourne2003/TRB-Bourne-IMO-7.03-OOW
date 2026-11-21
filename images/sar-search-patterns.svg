@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 900" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="900" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">รูปแบบการค้นหาตาม IAMSAR (Search patterns) — S = ระยะห่างแนวค้นหา (track spacing)</text>
+<rect x="20" y="48" width="310" height="392" rx="10" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="175" y="364" text-anchor="middle" font-size="14" font-weight="bold" fill="#1d4ed8">Expanding square (SS)</text>
+<text x="175" y="386" text-anchor="middle" font-size="11" fill="#334155">CSP = datum เสมอ · ขาแรกหันเข้าหาลม</text>
+<text x="175" y="403" text-anchor="middle" font-size="11" fill="#334155">ความยาวขา S, S, 2S, 2S, 3S, 3S … เลี้ยว 90°</text>
+<text x="175" y="420" text-anchor="middle" font-size="11" fill="#334155">เป้าอยู่ใกล้ datum · ห้ามใช้หลายลำในพื้นที่เดียว</text>
+<polyline points="162,210 162,183 189,183 189,237 135,237 135,156 216,156 216,264 108,264 108,129 243,129" fill="none" stroke="#1d4ed8" stroke-width="2.4"/>
+<path d="M 162.0 193.8 L 166.5 201.6 L 157.5 201.6 Z" fill="#1d4ed8"/><path d="M 178.2 183.0 L 170.4 187.5 L 170.4 178.5 Z" fill="#1d4ed8"/><path d="M 189.0 215.4 L 184.5 207.6 L 193.5 207.6 Z" fill="#1d4ed8"/><path d="M 156.6 237.0 L 164.4 232.5 L 164.4 241.5 Z" fill="#1d4ed8"/><path d="M 135.0 188.4 L 139.5 196.2 L 130.5 196.2 Z" fill="#1d4ed8"/><path d="M 183.6 156.0 L 175.8 160.5 L 175.8 151.5 Z" fill="#1d4ed8"/><path d="M 216.0 220.8 L 211.5 213.0 L 220.5 213.0 Z" fill="#1d4ed8"/><path d="M 151.2 264.0 L 159.0 259.5 L 159.0 268.5 Z" fill="#1d4ed8"/><path d="M 108.0 183.0 L 112.5 190.8 L 103.5 190.8 Z" fill="#1d4ed8"/><path d="M 189.0 129.0 L 181.2 133.5 L 181.2 124.5 Z" fill="#1d4ed8"/>
+<text x="151" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e3a8a">S</text><text x="176" y="177" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e3a8a">S</text><text x="200" y="214" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e3a8a">2S</text><text x="162" y="252" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e3a8a">2S</text><text x="124" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e3a8a">3S</text><text x="97" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#1e3a8a">5S</text>
+<circle cx="162" cy="210" r="5.5" fill="#b91c1c"/><circle cx="112" cy="334" r="5" fill="#b91c1c"/><text x="122" y="338" font-size="10.5" fill="#b91c1c">= datum = CSP (จุดเริ่มค้นหา)</text>
+<line x1="60" y1="70" x2="60" y2="110" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/><text x="68" y="84" font-size="11">ลม</text>
+<rect x="345" y="48" width="310" height="392" rx="10" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="500" y="364" text-anchor="middle" font-size="14" font-weight="bold" fill="#15803d">Sector search (VS)</text>
+<text x="500" y="386" text-anchor="middle" font-size="11" fill="#334155">ตำแหน่งเป้าค่อนข้างแน่ชัด · พื้นที่วงกลมเล็ก</text>
+<text x="500" y="403" text-anchor="middle" font-size="11" fill="#334155">เรือ: รัศมี R มักใช้ 2–5 nm · เลี้ยวขวา 120°</text>
+<text x="500" y="420" text-anchor="middle" font-size="11" fill="#334155">เวลาต่อขา t = R/V · ไม่พบ → รอบ 2 หมุน 30°</text>
+<circle cx="500" cy="198" r="112" fill="none" stroke="#cbd5e1" stroke-dasharray="4 4"/>
+<polyline points="500.0,198.0 500.0,86.0 597.0,142.0 500.0,198.0 403.0,254.0 403.0,142.0 500.0,198.0 597.0,254.0 500.0,310.0 500.0,198.0" fill="none" stroke="#15803d" stroke-width="2.2"/>
+<path d="M 500.0 130.8 L 504.5 138.6 L 495.5 138.6 Z" fill="#15803d"/><path d="M 558.2 119.6 L 549.2 119.6 L 553.7 111.8 Z" fill="#15803d"/><path d="M 538.8 175.6 L 543.3 167.8 L 547.8 175.6 Z" fill="#15803d"/><path d="M 441.8 231.6 L 446.3 223.8 L 450.8 231.6 Z" fill="#15803d"/><path d="M 403.0 186.8 L 407.5 194.6 L 398.5 194.6 Z" fill="#15803d"/><path d="M 461.2 175.6 L 452.2 175.6 L 456.7 167.8 Z" fill="#15803d"/><path d="M 558.2 231.6 L 549.2 231.6 L 553.7 223.8 Z" fill="#15803d"/><path d="M 538.8 287.6 L 543.3 279.8 L 547.8 287.6 Z" fill="#15803d"/><path d="M 500.0 242.8 L 504.5 250.6 L 495.5 250.6 Z" fill="#15803d"/>
+<circle cx="500.0" cy="155.4" r="8" fill="#fff" stroke="#15803d"/><text x="500.0" y="158.9" text-anchor="middle" font-size="10" font-weight="bold" fill="#15803d">1</text><circle cx="536.9" cy="107.3" r="8" fill="#fff" stroke="#15803d"/><text x="536.9" y="110.8" text-anchor="middle" font-size="10" font-weight="bold" fill="#15803d">2</text><circle cx="560.1" cy="163.3" r="8" fill="#fff" stroke="#15803d"/><text x="560.1" y="166.8" text-anchor="middle" font-size="10" font-weight="bold" fill="#15803d">3</text><circle cx="463.1" cy="219.3" r="8" fill="#fff" stroke="#15803d"/><text x="463.1" y="222.8" text-anchor="middle" font-size="10" font-weight="bold" fill="#15803d">4</text><circle cx="403.0" cy="211.4" r="8" fill="#fff" stroke="#15803d"/><text x="403.0" y="214.9" text-anchor="middle" font-size="10" font-weight="bold" fill="#15803d">5</text><circle cx="439.9" cy="163.3" r="8" fill="#fff" stroke="#15803d"/><text x="439.9" y="166.8" text-anchor="middle" font-size="10" font-weight="bold" fill="#15803d">6</text><circle cx="536.9" cy="219.3" r="8" fill="#fff" stroke="#15803d"/><text x="536.9" y="222.8" text-anchor="middle" font-size="10" font-weight="bold" fill="#15803d">7</text><circle cx="560.1" cy="275.3" r="8" fill="#fff" stroke="#15803d"/><text x="560.1" y="278.8" text-anchor="middle" font-size="10" font-weight="bold" fill="#15803d">8</text><circle cx="500.0" cy="267.4" r="8" fill="#fff" stroke="#15803d"/><text x="500.0" y="270.9" text-anchor="middle" font-size="10" font-weight="bold" fill="#15803d">9</text>
+<circle cx="500" cy="198" r="5.5" fill="#b91c1c"/><circle cx="407" cy="338" r="5" fill="#b91c1c"/><text x="417" y="342" font-size="10.5" fill="#b91c1c">= datum (ทิ้ง smoke float/ทุ่น) · เลข = ลำดับขา</text>
+<text x="506" y="132" font-size="11" font-weight="bold" fill="#14532d">R</text>
+<rect x="670" y="48" width="310" height="392" rx="10" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="825" y="364" text-anchor="middle" font-size="14" font-weight="bold" fill="#b45309">Track line search (TSR / TSN)</text>
+<text x="825" y="386" text-anchor="middle" font-size="11" fill="#334155">เป้าหายระหว่างเส้นทางที่รู้ (เช่นเรือไม่ถึงปลายทาง)</text>
+<text x="825" y="403" text-anchor="middle" font-size="11" fill="#334155">TSR: ค้นห่างเส้นทาง ½S ข้างหนึ่งแล้วย้อนกลับอีกข้าง</text>
+<text x="825" y="420" text-anchor="middle" font-size="11" fill="#334155">TSN: ค้นตามเส้นทางครั้งเดียวแล้วไปต่อ (ไม่ย้อน)</text>
+<line x1="700" y1="160" x2="955" y2="160" stroke="#64748b" stroke-width="2" stroke-dasharray="7 5"/><text x="700" y="124" font-size="10.5" fill="#475569">เส้นทางที่ตั้งใจของเป้า (intended track)</text>
+<polyline points="700,138 940,138 940,182 710,182" fill="none" stroke="#b45309" stroke-width="2.2" marker-end="url(#ar)"/><path d="M 844.0 138.0 L 836.2 142.5 L 836.2 133.5 Z" fill="#b45309"/>
+<text x="962" y="154" font-size="10" fill="#92400e">½S</text><text x="962" y="176" font-size="10" fill="#92400e">½S</text><text x="820" y="206" text-anchor="middle" font-size="11" font-weight="bold" fill="#92400e">TSR (return)</text>
+<line x1="700" y1="276" x2="955" y2="276" stroke="#64748b" stroke-width="2" stroke-dasharray="7 5"/><polyline points="700,250 780,250 780,302 860,302 860,276 950,276" fill="none" stroke="#b45309" stroke-width="2.2" marker-end="url(#ar)"/>
+<text x="820" y="324" text-anchor="middle" font-size="11" font-weight="bold" fill="#92400e">TSN (non-return) — ค้นห่าง S ทั้งสองข้าง แล้วไปต่อ</text>
+<rect x="20" y="452" width="310" height="392" rx="10" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="175" y="768" text-anchor="middle" font-size="14" font-weight="bold" fill="#7c3aed">Parallel track / sweep (PS)</text>
+<text x="175" y="790" text-anchor="middle" font-size="11" fill="#334155">พื้นที่ใหญ่ ตำแหน่งไม่แน่ชัด · แบ่ง sub-area ให้หลายหน่วย</text>
+<text x="175" y="807" text-anchor="middle" font-size="11" fill="#334155">CSP ที่มุมพื้นที่ ห่างจากขอบสองด้าน ½S</text>
+<text x="175" y="824" text-anchor="middle" font-size="11" fill="#334155">ขาค้นหาขนานด้านยาว · ระยะห่างแนว S</text>
+<rect x="50" y="492" width="250" height="200" fill="#ede9fe" fill-opacity="0.5" stroke="#7c3aed" stroke-dasharray="6 4"/>
+<polyline points="70.0,512.0 280.0,512.0 280.0,552.0 70.0,552.0 70.0,592.0 280.0,592.0 280.0,632.0 70.0,632.0 70.0,672.0 280.0,672.0" fill="none" stroke="#7c3aed" stroke-width="2.2" marker-end="url(#ar)"/><path d="M 196.0 512.0 L 188.2 516.5 L 188.2 507.5 Z" fill="#7c3aed"/>
+<circle cx="70.0" cy="512.0" r="5" fill="#b91c1c"/><text x="70.0" y="486" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#b91c1c">CSP</text>
+<line x1="310" y1="512.0" x2="310" y2="552.0" stroke="#334155"/><text x="313" y="536" font-size="11" font-weight="bold">S</text><text x="46" y="516.0" text-anchor="end" font-size="10">½S</text>
+<line x1="175.0" y1="700" x2="175.0" y2="722" stroke="#334155" stroke-width="1.5" marker-end="url(#ar)"/><text x="183.0" y="716" font-size="10.5">direction of creep</text>
+<rect x="345" y="452" width="310" height="392" rx="10" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="500" y="768" text-anchor="middle" font-size="14" font-weight="bold" fill="#0f766e">Creeping line (CS)</text>
+<text x="500" y="790" text-anchor="middle" font-size="11" fill="#334155">ขาค้นหาขนานด้านสั้น เคลื่อนไปตามแกนยาว</text>
+<text x="500" y="807" text-anchor="middle" font-size="11" fill="#334155">ใช้เมื่อพื้นที่ยาวแคบ/เป้าน่าจะอยู่ปลายด้านหนึ่ง</text>
+<text x="500" y="824" text-anchor="middle" font-size="11" fill="#334155">ส่วนใหญ่เป็นงานอากาศยาน (รายละเอียดใน Vol II)</text>
+<rect x="370" y="522" width="262" height="150" fill="#ccfbf1" fill-opacity="0.5" stroke="#0f766e" stroke-dasharray="6 4"/>
+<polyline points="388.5,540.5 388.5,653.5 425.5,653.5 425.5,540.5 462.5,540.5 462.5,653.5 499.5,653.5 499.5,540.5 536.5,540.5 536.5,653.5 573.5,653.5 573.5,540.5 610.5,540.5 610.5,653.5" fill="none" stroke="#0f766e" stroke-width="2.2" marker-end="url(#ar)"/><path d="M 388.5 608.3 L 384.0 600.5 L 393.0 600.5 Z" fill="#0f766e"/>
+<text x="388.5" y="514" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#b91c1c">CSP</text><circle cx="388.5" cy="540.5" r="5" fill="#b91c1c"/>
+<line x1="370" y1="688" x2="632" y2="688" stroke="#334155" stroke-width="1.5" marker-end="url(#ar)"/><text x="501.0" y="704" text-anchor="middle" font-size="10.5">แกนยาว (major axis) = ทิศที่ค้นคืบหน้า</text>
+<line x1="388.5" y1="500" x2="425.5" y2="500" stroke="#334155"/><text x="407" y="495" text-anchor="middle" font-size="11" font-weight="bold">S</text>
+<rect x="670" y="452" width="310" height="392" rx="10" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="825" y="768" text-anchor="middle" font-size="14" font-weight="bold" fill="#be123c">Vessel–aircraft co-ordinated (CSC)</text>
+<text x="825" y="790" text-anchor="middle" font-size="11" fill="#334155">อากาศยานบิน creeping line ตัดเรือไปมา</text>
+<text x="825" y="807" text-anchor="middle" font-size="11" fill="#334155">เรือแล่นตามแกนกลางเป็นจุดอ้างอิงตามที่ OSC สั่ง</text>
+<text x="825" y="824" text-anchor="middle" font-size="11" fill="#334155">ความเร็วเรือ Vs = S × Va ÷ (L + S)</text>
+<polyline points="713.5,512.0 713.5,682.0 750.5,682.0 750.5,512.0 787.5,512.0 787.5,682.0 824.5,682.0 824.5,512.0 861.5,512.0 861.5,682.0 898.5,682.0 898.5,512.0 935.5,512.0 935.5,682.0" fill="none" stroke="#be123c" stroke-width="2" stroke-dasharray="7 4"/>
+<line x1="695" y1="597.0" x2="957" y2="597.0" stroke="#0f172a" stroke-width="3" marker-end="url(#ar)"/><path d="M 845 590.0 L 869 590.0 L 879 597.0 L 869 604.0 L 845 604.0 Z" fill="#334155"/>
+<rect x="838" y="609.0" width="50" height="16" rx="3" fill="#fff"/><text x="863" y="621.0" text-anchor="middle" font-size="10.5" font-weight="bold">เรือ (Vs)</text><text x="955" y="504" text-anchor="end" font-size="10.5" font-weight="bold" fill="#be123c">อากาศยาน (Va) — ขายาว L</text>
+<line x1="713.5" y1="696" x2="750.5" y2="696" stroke="#334155"/><text x="732" y="710" text-anchor="middle" font-size="11" font-weight="bold">S</text>
+<text x="500" y="872" text-anchor="middle" font-size="12" fill="#334155">ค้นหาคนในน้ำด้วย SS/VS: เดินเรือแบบ DR หรืออ้างอิง smoke float/ทุ่นที่ทิ้งไว้ที่ datum เพื่อให้รูปแบบเคลื่อนไปกับกระแสน้ำเหมือนเป้า (IAMSAR Vol III Section 3)</text>
+</svg>

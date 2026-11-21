@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="560" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ECDIS safety settings — ตัวอย่าง draught 9.6 m (ข้อมูลจำลอง)</text>
+<rect x="40" y="40" width="600" height="70" fill="#c9a66b" stroke="#94a3b8" stroke-width="0.5"/><text x="52" y="80.0" font-size="13">บก (land)</text>
+<rect x="40" y="110" width="600" height="50" fill="#9fd5a5" stroke="#94a3b8" stroke-width="0.5"/><text x="52" y="140.0" font-size="13">แห้งเมื่อน้ำลง (drying)</text>
+<rect x="40" y="160" width="600" height="70" fill="#61a5e8" stroke="#94a3b8" stroke-width="0.5"/><text x="52" y="200.0" font-size="13">ตื้นกว่า shallow contour (&lt; 10 m)</text>
+<rect x="40" y="230" width="600" height="110" fill="#a8d4f7" stroke="#94a3b8" stroke-width="0.5"/><text x="52" y="290.0" font-size="13">ระหว่าง shallow – safety contour (10–15 m)</text>
+<rect x="40" y="340" width="600" height="120" fill="#dbeefe" stroke="#94a3b8" stroke-width="0.5"/><text x="52" y="405.0" font-size="13">ระหว่าง safety – deep contour (15–20 m)</text>
+<rect x="40" y="460" width="600" height="100" fill="#ffffff" stroke="#94a3b8" stroke-width="0.5"/><text x="52" y="515.0" font-size="13">ลึกกว่า deep contour (> 20 m)</text>
+<line x1="40" y1="340" x2="640" y2="340" stroke="#111827" stroke-width="4"/>
+<text x="390" y="334" font-size="14" font-weight="bold">SAFETY CONTOUR 15 m (หนา)</text>
+<g transform="translate(560,510)"><circle r="11" fill="none" stroke="#c026d3" stroke-width="2.5"/><path d="M -7 -7 L 7 7 M 7 -7 L -7 7" stroke="#c026d3" stroke-width="2.5"/></g>
+<text x="400" y="540" font-size="12" fill="#a21caf">isolated danger (≤ safety contour) ในน้ำลึก</text>
+<text x="300" y="360" font-size="15" fill="#64748b">18</text>
+<text x="380" y="205" font-size="15" font-weight="bold" fill="#111827">7</text>
+<text x="420" y="470" font-size="15" fill="#64748b">34</text>
+<text x="220" y="262" font-size="15" font-weight="bold" fill="#111827">11</text>
+<text x="520" y="305" font-size="15" fill="#64748b">13</text>
+<text x="250" y="262" font-size="11" fill="#111827">← ตัวเลขดำหนา = ≤ safety depth (12 m) · ตัวเลขเทา = ลึกกว่า</text>
+<rect x="670" y="60" width="315" height="470" rx="10" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="684" y="88" font-size="13" font-weight="bold" fill="#1e3a8a">การคำนวณ (MV Andaman Pearl — สมมติ)</text>
+<text x="684" y="112" font-size="13">Draught สูงสุด              9.60 m</text>
+<text x="684" y="136" font-size="13">Squat (open water 10 kn)    0.65 m</text>
+<text x="684" y="160" font-size="13">UKC policy (≈10% draught)   1.00 m</text>
+<text x="684" y="184" font-size="13">เผื่อ CATZOC B/คลื่น          0.50 m</text>
+<text x="684" y="208" font-size="13">รวม (ไม่นับระดับน้ำ)       11.75 m</text>
+<text x="684" y="232" font-size="13"></text>
+<text x="684" y="256" font-size="13" font-weight="bold" fill="#1e3a8a">ตั้งค่าใน ECDIS</text>
+<text x="684" y="280" font-size="13">Safety depth = 12 m</text>
+<text x="684" y="304" font-size="13">Safety contour = 12 m</text>
+<text x="684" y="328" font-size="13">→ ENC มี contour 10/15/20 m</text>
+<text x="684" y="352" font-size="13">→ ECDIS ใช้ 15 m (ถัดไปที่ลึกกว่า)</text>
+<text x="684" y="376" font-size="13">Shallow contour = 10 m</text>
+<text x="684" y="400" font-size="13">Deep contour = 20 m (≈ 2 × draught)</text>
+<text x="684" y="424" font-size="13">Look-ahead = 6 นาที (10 kn → 1.0 nm)</text>
+<text x="684" y="448" font-size="13">XTL = 0.2 nm (TSS)</text>
+<text x="684" y="472" font-size="13"></text>
+<text x="684" y="496" font-size="13">Four-shade ON, shallow pattern ON</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 730" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="730" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#334155"/></marker></defs>
+<text x="500.0" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">IMO SMCP: ลำดับการสื่อสารทาง VHF และ Message markers 8 ตัว</text>
+<text x="30" y="66" font-size="15" font-weight="bold" fill="#1e3a8a">ก) โครงสร้างการเรียก–ตอบ (ITU RR + SMCP)</text>
+<rect x="30" y="80" width="440" height="92" rx="8" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6"/>
+<text x="40" y="100.0" text-anchor="start" font-size="12.5" font-weight="bold" fill="#0f172a">1. เรียก (call)</text>
+<text x="40" y="117.5" text-anchor="start" font-size="12.5" font-weight="normal" fill="#0f172a">ชื่อสถานีที่เรียก ×(1–3) · "this is" · ชื่อเรา</text>
+<text x="40" y="135.0" text-anchor="start" font-size="12.5" font-weight="normal" fill="#0f172a">"Seaport Control, this is Andaman Pearl."</text>
+<line x1="250" y1="172" x2="250" y2="185" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="30" y="187" width="440" height="92" rx="8" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6"/>
+<text x="40" y="207.0" text-anchor="start" font-size="12.5" font-weight="bold" fill="#0f172a">2. ตอบรับ (answer)</text>
+<text x="40" y="224.5" text-anchor="start" font-size="12.5" font-weight="normal" fill="#0f172a">สถานีที่ถูกเรียกตอบ · อาจให้เปลี่ยนช่อง</text>
+<text x="40" y="242.0" text-anchor="start" font-size="12.5" font-weight="normal" fill="#0f172a">"Andaman Pearl, Seaport Control. Go ahead."</text>
+<line x1="250" y1="279" x2="250" y2="292" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="30" y="294" width="440" height="92" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.6"/>
+<text x="40" y="314.0" text-anchor="start" font-size="12.5" font-weight="bold" fill="#0f172a">3. ข้อความ + message marker</text>
+<text x="40" y="331.5" text-anchor="start" font-size="12.5" font-weight="normal" fill="#0f172a">พูด marker นำหน้าข้อความ · ตัวเลขทีละหลัก</text>
+<text x="40" y="349.0" text-anchor="start" font-size="12.5" font-weight="normal" fill="#0f172a">"QUESTION. What is your ETA at pilot station?"</text>
+<line x1="250" y1="386" x2="250" y2="399" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="30" y="401" width="440" height="92" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.6"/>
+<text x="40" y="421.0" text-anchor="start" font-size="12.5" font-weight="bold" fill="#0f172a">4. ตอบ / ทวนข้อความสำคัญ</text>
+<text x="40" y="438.5" text-anchor="start" font-size="12.5" font-weight="normal" fill="#0f172a">ANSWER ห้ามมีคำถามซ้อน · ทวน (read back)</text>
+<text x="40" y="456.0" text-anchor="start" font-size="12.5" font-weight="normal" fill="#0f172a">"ANSWER. My ETA is zero six three zero local."</text>
+<line x1="250" y1="493" x2="250" y2="506" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="30" y="508" width="440" height="92" rx="8" fill="#dcfce7" stroke="#15803d" stroke-width="1.6"/>
+<text x="40" y="528.0" text-anchor="start" font-size="12.5" font-weight="bold" fill="#0f172a">5. ปิดการพูด</text>
+<text x="40" y="545.5" text-anchor="start" font-size="12.5" font-weight="normal" fill="#0f172a">"Over" = รอคำตอบ · "Out" = จบการติดต่อ</text>
+<text x="40" y="563.0" text-anchor="start" font-size="12.5" font-weight="normal" fill="#0f172a">"... Over."  /  "... Out."</text>
+<text x="30" y="646" font-size="12" fill="#334155">ไม่เข้าใจ/ไม่ได้ยิน → "Say again (please)." · พูดผิด → "Mistake ... correction ..." · ยังไม่มีข้อมูล → "Stand by" + เวลา</text>
+<text x="30" y="665" font-size="12" fill="#334155">ความชัดของสัญญาณ: "I read you bad/one ... poor/two ... fair/three ... good/four ... excellent/five"</text>
+<text x="500" y="66" font-size="15" font-weight="bold" fill="#1e3a8a">ข) Message markers (SMCP General 3 · A1/6)</text>
+<rect x="500" y="80" width="470" height="62" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.6"/>
+<text x="512" y="104" font-size="14" font-weight="bold" fill="#b91c1c">INSTRUCTION</text>
+<text x="640" y="104" font-size="12">คำสั่งจากผู้มีอำนาจ (VTS/เรือรบ) — ต้องทำตาม</text>
+<text x="640" y="124" font-size="12" fill="#7f1d1d">เว้นแต่มีเหตุผลด้านความปลอดภัยและแจ้งกลับ</text>
+<rect x="500" y="148" width="470" height="62" rx="8" fill="#ffedd5" stroke="#c2410c" stroke-width="1.6"/>
+<text x="512" y="172" font-size="14" font-weight="bold" fill="#c2410c">ADVICE</text>
+<text x="640" y="172" font-size="12">คำแนะนำ — ผู้รับตัดสินใจเอง แต่ต้องพิจารณาจริงจัง</text>
+<rect x="500" y="216" width="470" height="62" rx="8" fill="#fef9c3" stroke="#a16207" stroke-width="1.6"/>
+<text x="512" y="240" font-size="14" font-weight="bold" fill="#a16207">WARNING</text>
+<text x="640" y="240" font-size="12">แจ้งอันตราย — ผู้รับต้องสนใจทันที</text>
+<rect x="500" y="284" width="470" height="62" rx="8" fill="#e0f2fe" stroke="#0369a1" stroke-width="1.6"/>
+<text x="512" y="308" font-size="14" font-weight="bold" fill="#0369a1">INFORMATION</text>
+<text x="640" y="308" font-size="12">ข้อเท็จจริงที่สังเกตได้ (การจราจร การเดินเรือ)</text>
+<rect x="500" y="352" width="470" height="62" rx="8" fill="#ede9fe" stroke="#6d28d9" stroke-width="1.6"/>
+<text x="512" y="376" font-size="14" font-weight="bold" fill="#6d28d9">QUESTION</text>
+<text x="640" y="376" font-size="12">คำถาม — ผู้รับต้องตอบกลับ</text>
+<rect x="500" y="420" width="470" height="62" rx="8" fill="#ede9fe" stroke="#6d28d9" stroke-width="1.6"/>
+<text x="512" y="444" font-size="14" font-weight="bold" fill="#6d28d9">ANSWER</text>
+<text x="640" y="444" font-size="12">ตอบคำถามก่อนหน้า — ห้ามมีคำถามซ้อนในคำตอบ</text>
+<rect x="500" y="488" width="470" height="62" rx="8" fill="#dcfce7" stroke="#15803d" stroke-width="1.6"/>
+<text x="512" y="512" font-size="14" font-weight="bold" fill="#15803d">REQUEST</text>
+<text x="640" y="512" font-size="12">ขอให้จัด/ให้บางสิ่ง (ลากจูง เสบียง การอนุญาต)</text>
+<text x="640" y="532" font-size="12" fill="#7f1d1d">ห้ามใช้เรื่องการเดินเรือหรือเพื่อเปลี่ยน COLREG</text>
+<rect x="500" y="556" width="470" height="62" rx="8" fill="#dcfce7" stroke="#15803d" stroke-width="1.6"/>
+<text x="512" y="580" font-size="14" font-weight="bold" fill="#15803d">INTENTION</text>
+<text x="640" y="580" font-size="12">แจ้งการกระทำทางเดินเรือที่ "เรือเรา" จะทำทันที</text>
+<text x="30" y="684" font-size="12" fill="#334155">ใช้ marker ตามดุลยพินิจ พูดนำหน้าข้อความ (หรือส่วนของข้อความ) ที่ต้องการให้ชัดว่าเป็นอะไร</text>
+<text x="30" y="703" font-size="12" fill="#334155">หลีกเลี่ยง may/might/should/could/can → ใช้ QUESTION/ANSWER/INTENTION/ADVICE/WARNING แทน (General 18)</text>
+<text x="30" y="722" font-size="11" fill="#64748b">ชื่อสถานีและเรือในตัวอย่างเป็นชื่อสมมติ · อ้างอิง IMO Res. A.918(22) General sections 3, 4, 6–9, 18 และ A1/6</text>
+</svg>

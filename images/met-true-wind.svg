@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 480" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="920" height="480" fill="#fff"/>
+<defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="context-stroke"/></marker></defs>
+<text x="460.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การหาลมจริง (True wind) จากลมสัมพัทธ์ (Apparent wind)</text>
+<line x1="300.0" y1="400.0" x2="402.6" y2="118.1" stroke="#1d4ed8" stroke-width="3.5" marker-end="url(#a)"/>
+<text x="71.3" y="259.0" font-size="14" font-weight="bold" fill="#1d4ed8">Apparent wind (ไปหา 020°) 25 kn</text>
+<line x1="402.6" y1="118.1" x2="460.1" y2="276.0" stroke="#15803d" stroke-width="3.5" marker-end="url(#a)"/>
+<text x="441.3" y="207.0" font-size="14" font-weight="bold" fill="#15803d">เรือ 160°×14 kn</text>
+<line x1="300" y1="400" x2="460.1" y2="276.0" stroke="#b91c1c" stroke-width="4" marker-end="url(#a)"/>
+<text x="394.0" y="368.0" font-size="14" font-weight="bold" fill="#b91c1c">True wind ไปหา 052° ≈ 16.9 kn → มาจาก 232°</text>
+<rect x="560" y="70" width="345" height="190" rx="10" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="576" y="98" font-size="14">ข้อมูล: เรือ 160°T 14 kn</text>
+<text x="576" y="122" font-size="14">ลมสัมพัทธ์จาก 040° กราบขวา 25 kn</text>
+<text x="576" y="146" font-size="14">→ มาจาก 200°T (ไปหา 020°)</text>
+<text x="576" y="170" font-size="14"></text>
+<text x="576" y="194" font-size="14">True = Apparent + Ship velocity</text>
+<text x="576" y="218" font-size="14">(เวกเตอร์แบบ "ไปหา")</text>
+<text x="576" y="242" font-size="14">ผล: ลมจริงจาก ~232°T ~17 kn</text>
+<text x="560" y="300" font-size="13" fill="#475569">ลมจริงอยู่ "ท้ายเรือ" มากกว่าลมสัมพัทธ์เสมอ</text>
+<line x1="860" y1="420" x2="860" y2="350" stroke="#0f172a" stroke-width="2" marker-end="url(#a)"/><text x="853" y="340" font-size="14" font-weight="bold">N</text>
+</svg>

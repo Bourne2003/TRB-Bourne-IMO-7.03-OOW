@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 590" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="590" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ระบบ COSPAS-SARSAT และ EPIRB 406 MHz</text>
+<rect x="25.0" y="338.0" width="170.0" height="64.0" rx="12" fill="#fff" stroke="#22c55e" stroke-width="2.5"/>
+<text x="110.0" y="364.0" font-size="14" text-anchor="middle" fill="#22c55e" font-weight="bold">EPIRB</text>
+<text x="110.0" y="386.0" font-size="10.5" text-anchor="middle" fill="#0f172a">406 MHz + 121.5 MHz homing</text>
+<rect x="245.0" y="88.0" width="170.0" height="64.0" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="2.5"/>
+<text x="330.0" y="114.0" font-size="14" text-anchor="middle" fill="#1d4ed8" font-weight="bold">ดาวเทียม</text>
+<text x="330.0" y="136.0" font-size="10.5" text-anchor="middle" fill="#0f172a">LEO · MEO (MEOSAR) · GEO</text>
+<rect x="475.0" y="338.0" width="170.0" height="64.0" rx="12" fill="#fff" stroke="#7c3aed" stroke-width="2.5"/>
+<text x="560.0" y="364.0" font-size="14" text-anchor="middle" fill="#7c3aed" font-weight="bold">LUT</text>
+<text x="560.0" y="386.0" font-size="10.5" text-anchor="middle" fill="#0f172a">สถานีภาคพื้นรับสัญญาณ</text>
+<rect x="675.0" y="338.0" width="170.0" height="64.0" rx="12" fill="#fff" stroke="#7c3aed" stroke-width="2.5"/>
+<text x="760.0" y="364.0" font-size="14" text-anchor="middle" fill="#7c3aed" font-weight="bold">MCC</text>
+<text x="760.0" y="386.0" font-size="10.5" text-anchor="middle" fill="#0f172a">ศูนย์ควบคุมภารกิจ</text>
+<rect x="795.0" y="168.0" width="170.0" height="64.0" rx="12" fill="#fff" stroke="#b91c1c" stroke-width="2.5"/>
+<text x="880.0" y="194.0" font-size="14" text-anchor="middle" fill="#b91c1c" font-weight="bold">RCC/MRCC</text>
+<text x="880.0" y="216.0" font-size="10.5" text-anchor="middle" fill="#0f172a">ประสานการค้นหาช่วยเหลือ</text>
+<line x1="150.0" y1="336.0" x2="290.0" y2="156.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="370.0" y1="156.0" x2="530.0" y2="336.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="645.0" y1="370.0" x2="672.0" y2="370.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="820.0" y1="338.0" x2="860.0" y2="236.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<path d="M 720 338 Q 640 200 420 128" fill="none" stroke="#15803d" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#ar)"/><path d="M 250 156 Q 150 210 100 336" fill="none" stroke="#15803d" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#ar)"/><text x="640.0" y="70.0" font-size="11" text-anchor="middle" fill="#15803d" font-weight="bold">Return Link Service (RLS ผ่าน Galileo): MCC → ดาวเทียม → beacon</text>
+<text x="640.0" y="86.0" font-size="10.5" text-anchor="middle" fill="#15803d">แจ้งผู้ประสบภัยว่าระบบได้รับสัญญาณแล้ว (เฉพาะรุ่นที่รองรับ RLS)</text>
+<text x="140.0" y="250.0" font-size="10.5" text-anchor="end" fill="#15803d" font-weight="bold">RLS</text>
+<rect x="40.0" y="425.0" width="920.0" height="150.0" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="1"/>
+<text x="56.0" y="448.0" font-size="11.8" text-anchor="start" fill="#14532d">• ลอยปล่อยอิสระ (float-free) ด้วย HRU เมื่อจมประมาณ 1.5–4 m และเปิดทำงานเองเมื่อสัมผัสน้ำ · หรือเปิดด้วยมือ</text>
+<text x="56.0" y="471.0" font-size="11.8" text-anchor="start" fill="#14532d">• ข้อมูลที่ส่ง: รหัสประจำเครื่อง (15 hex ID; beacon รุ่นที่สอง SGB ใช้ 23 hex) ที่ลงทะเบียนกับเรือ + ตำแหน่ง GNSS</text>
+<text x="56.0" y="494.0" font-size="11.8" text-anchor="start" fill="#14532d">• EPIRB ที่ติดตั้งตั้งแต่ 1 ก.ค. 2022 ต้องมีเครื่องรับ GNSS ในตัวและส่ง AIS locating signal (MSC.471(101))</text>
+<text x="56.0" y="517.0" font-size="11.8" text-anchor="start" fill="#14532d">• ทดสอบตัวเอง (self-test) ทุกเดือน · ตรวจวันหมดอายุแบตเตอรี่/HRU · ทดสอบประจำปี · บำรุงรักษาที่ฝั่งไม่เกินทุก 5 ปี</text>
+<text x="56.0" y="540.0" font-size="11.8" text-anchor="start" fill="#14532d">• ถ้าเปิดโดยไม่ตั้งใจ → อย่าปิดเงียบ ๆ: แจ้ง RCC/MRCC ที่ใกล้ที่สุดเพื่อยกเลิกการแจ้งเหตุ</text>
+<text x="56.0" y="563.0" font-size="11.8" text-anchor="start" fill="#14532d">• MEOSAR (ดาวเทียมวงโคจรระดับกลาง) ทำให้ตรวจจับและหาตำแหน่งได้เร็วกว่าระบบ LEO/GEO เดิมมาก</text>
+</svg>

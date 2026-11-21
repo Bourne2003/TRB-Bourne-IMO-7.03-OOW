@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+  <rect width="900" height="430" fill="#fff"/>
+  <text x="450" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">โครงสร้างข้อความ NAVTEX (ข้อความจำลอง)</text>
+  <rect x="30" y="55" width="460" height="350" rx="8" fill="#0f172a"/>
+  <g font-family="'Courier New', monospace" font-size="15" fill="#a7f3d0">
+    <text x="50" y="90">ZCZC FA42</text>
+    <text x="50" y="118">050830 UTC OCT 26</text>
+    <text x="50" y="146">COASTAL WARNING 042/26</text>
+    <text x="50" y="174">GULF OF THAILAND.</text>
+    <text x="50" y="202">LIGHT BUOY NR 3 IN POSITION</text>
+    <text x="50" y="230">12-31.2N 100-52.8E UNLIT.</text>
+    <text x="50" y="258">MARINERS ADVISED TO NAVIGATE</text>
+    <text x="50" y="286">WITH CAUTION.</text>
+    <text x="50" y="314">CANCEL THIS MSG 120900 UTC OCT 26.</text>
+    <text x="50" y="370">NNNN</text>
+  </g>
+  <g font-size="14">
+    <line x1="140" y1="85" x2="520" y2="85" stroke="#f59e0b"/>
+    <text x="530" y="78" font-weight="bold" fill="#b45309">ZCZC = จุดเริ่มข้อความ</text>
+    <text x="530" y="98" fill="#0f172a">F = รหัสสถานี (B1)</text>
+    <text x="530" y="118" fill="#0f172a">A = ประเภท navigational warning (B2)</text>
+    <text x="530" y="138" fill="#0f172a">42 = ลำดับข้อความ (B3B4)</text>
+    <line x1="270" y1="146" x2="520" y2="180" stroke="#f59e0b"/>
+    <text x="530" y="186" fill="#0f172a">วันเวลา (DTG) และเลขคำเตือน</text>
+    <line x1="330" y1="230" x2="520" y2="236" stroke="#f59e0b"/>
+    <text x="530" y="242" fill="#0f172a">พื้นที่ / สิ่งที่เกิด / ตำแหน่ง</text>
+    <line x1="420" y1="314" x2="520" y2="300" stroke="#f59e0b"/>
+    <text x="530" y="306" fill="#0f172a">เวลาที่คำเตือนยกเลิกเอง</text>
+    <line x1="100" y1="365" x2="520" y2="365" stroke="#f59e0b"/>
+    <text x="530" y="370" font-weight="bold" fill="#b45309">NNNN = จบข้อความ</text>
+  </g>
+</svg>

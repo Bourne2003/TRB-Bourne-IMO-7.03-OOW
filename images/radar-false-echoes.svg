@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="800" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker><marker id="arY" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#facc15"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ภาพลวงบนจอเรดาร์ (False echoes) — 4 แบบที่ต้องแยกให้ออก</text>
+<circle cx="250" cy="190" r="130" fill="#052e16" stroke="#334155" stroke-width="3"/><line x1="250" y1="190" x2="250" y2="60" stroke="#bbf7d0"/><circle cx="250" cy="190" r="3" fill="#fff"/>
+<circle cx="250" cy="190" r="80" fill="none" stroke="#fde68a" stroke-width="1" stroke-dasharray="3 4" opacity="0.7"/>
+<path d="M 250 190 L 227.4 318.0 A 130 130 0 0 1 185.0 302.6 Z" fill="#334155" opacity="0.55"/>
+<rect x="240.2" y="199.2" width="10" height="8" fill="#94a3b8"/>
+<rect x="303.3" y="133.6" width="16" height="10" fill="#4ade80"/><text x="323.3" y="130.6" font-size="11" fill="#bbf7d0">เป้าจริง</text>
+<rect x="215.6" y="260.2" width="14" height="10" fill="#4ade80" opacity="0.6"/>
+<text x="236.6" y="285.2" font-size="11" fill="#fde68a">ภาพลวง</text><text x="236.6" y="299.2" font-size="11" fill="#fde68a">(ระยะเท่ากัน)</text>
+<text x="132" y="198" font-size="11" fill="#e2e8f0">shadow sector</text><text x="132" y="212" font-size="11" fill="#e2e8f0">ทิศเสา/ปล่องควัน</text>
+<text x="250" y="350" text-anchor="middle" font-size="14" font-weight="bold">1) Indirect (reflected) echo</text><text x="250" y="368" text-anchor="middle" font-size="11">ระยะเท่าเป้าจริง แต่ปรากฏในแบริ่งของสิ่งกีดขวางบนเรือ (มักใน shadow sector)</text>
+<circle cx="750" cy="190" r="130" fill="#052e16" stroke="#334155" stroke-width="3"/><line x1="750" y1="190" x2="750" y2="60" stroke="#bbf7d0"/><circle cx="750" cy="190" r="3" fill="#fff"/>
+<rect x="774" y="184" width="12" height="12" fill="#4ade80" opacity="0.8"/>
+<rect x="804" y="184" width="12" height="12" fill="#4ade80" opacity="0.5000000000000001"/>
+<rect x="834" y="184" width="12" height="12" fill="#4ade80" opacity="0.20000000000000018"/>
+<text x="770" y="174" font-size="11" fill="#bbf7d0">ใหญ่ ใกล้ ตรงกราบ</text>
+<text x="750" y="350" text-anchor="middle" font-size="14" font-weight="bold">2) Multiple echoes</text><text x="750" y="368" text-anchor="middle" font-size="11">แบริ่งเดียวกัน ระยะเป็นทวีคูณของระยะจริง (2×, 3×) — สะท้อนไป-มาระหว่างเรือกับเป้า</text>
+<circle cx="250" cy="575" r="130" fill="#052e16" stroke="#334155" stroke-width="3"/><line x1="250" y1="575" x2="250" y2="445" stroke="#bbf7d0"/><circle cx="250" cy="575" r="3" fill="#fff"/>
+<rect x="244" y="519" width="12" height="10" fill="#4ade80"/>
+<path d="M 212 535 A 52 52 0 0 1 288 535" stroke="#4ade80" stroke-width="3" fill="none" opacity="0.6"/>
+<text x="250" y="735" text-anchor="middle" font-size="14" font-weight="bold">3) Side-lobe echoes</text><text x="250" y="753" text-anchor="middle" font-size="11">เป็นส่วนโค้งระยะเดียวกับเป้าจริงที่อยู่ใกล้ — ลด gain/ใช้ STC</text>
+<circle cx="750" cy="575" r="130" fill="#052e16" stroke="#334155" stroke-width="3"/><line x1="750" y1="575" x2="750" y2="445" stroke="#bbf7d0"/><circle cx="750" cy="575" r="3" fill="#fff"/>
+<line x1="793.0" y1="513.6" x2="823.4" y2="470.1" stroke="#fde68a" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arY)"/>
+<rect x="786.0" y="508.6" width="14" height="10" fill="#4ade80"/><text x="779.0" y="517.6" text-anchor="end" font-size="11" fill="#bbf7d0">ปรากฏใกล้ (ระยะผิด)</text>
+<text x="750" y="625" text-anchor="middle" font-size="11" fill="#fde68a">เป้าจริงอยู่ไกลเกิน max range</text><text x="750" y="640" text-anchor="middle" font-size="11" fill="#fde68a">ในแบริ่งเดียวกัน (super-refraction / ducting)</text>
+<text x="750" y="735" text-anchor="middle" font-size="14" font-weight="bold">4) Second-trace echoes</text><text x="750" y="753" text-anchor="middle" font-size="11">echo จากพัลส์ก่อนหน้ากลับมาหลังพัลส์ใหม่ → ระยะผิด — เปลี่ยน PRF/range scale แล้ว echo จะกระโดด</text>
+</svg>

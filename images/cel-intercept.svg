@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 560" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="820" height="560" fill="#fff"/>
+<defs><marker id="ah" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="context-stroke"/></marker></defs>
+<text x="410.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">วิธี Intercept (Marcq St Hilaire)</text>
+<line x1="121.6" y1="115.3" x2="438.0" y2="362.5" stroke="#1d4ed8" stroke-width="1.6" stroke-dasharray="7 5" marker-end="url(#ah)"/>
+<text x="292.4" y="391.9" font-size="14" fill="#1d4ed8" font-weight="bold">ไปทาง GP ของดวงอาทิตย์ Zn 128°</text>
+<circle cx="230" cy="200" r="6" fill="none" stroke="#0f172a" stroke-width="2.5"/><text x="120" y="205" font-size="14" font-weight="bold">DR / AP</text>
+<line x1="230" y1="200" x2="325.3" y2="274.5" stroke="#b91c1c" stroke-width="4"/>
+<text x="236.0" y="162.0" font-size="14" fill="#b91c1c" font-weight="bold">Intercept 2.2' Toward</text>
+<line x1="447.3" y1="118.5" x2="217.0" y2="413.2" stroke="#15803d" stroke-width="3.5"/>
+<text x="457.3" y="128.5" font-size="14" fill="#15803d" font-weight="bold">Position line (ตั้งฉาก azimuth)</text>
+<circle cx="325.3" cy="274.5" r="4" fill="#b91c1c"/><text x="335.3" y="296.5" font-size="12" fill="#b91c1c">ITP</text>
+<line x1="253.0" y1="36.5" x2="90.5" y2="244.6" stroke="#94a3b8" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="70.5" y="264.6" font-size="12" fill="#64748b">ถ้า Ho &lt; Hc → Away (ถอยออกจาก azimuth)</text>
+<line x1="740" y1="150" x2="740" y2="80" stroke="#0f172a" stroke-width="2" marker-end="url(#ah)"/><text x="733" y="70" font-size="14" font-weight="bold">N</text>
+<rect x="520" y="390" width="285" height="140" rx="8" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="534" y="418" font-size="13">Intercept = Ho − Hc</text>
+<text x="534" y="442" font-size="13">Ho > Hc → Toward ("HoMoTo")</text>
+<text x="534" y="466" font-size="13">Ho &lt; Hc → Away</text>
+<text x="534" y="490" font-size="13">ตัวอย่าง A: Ho 39°11.1' Hc 39°08.9'</text>
+<text x="534" y="514" font-size="13">→ 2.2' Toward 128°</text>
+</svg>

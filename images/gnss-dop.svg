@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 470" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+  <rect width="920" height="470" fill="#fff"/>
+  <text x="460" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">เรขาคณิตของดาวเทียมกับ DOP</text>
+  <g transform="translate(230,230)">
+    <circle r="150" fill="#f0fdf4" stroke="#15803d" stroke-width="2"/><circle r="100" fill="none" stroke="#bbf7d0"/><circle r="50" fill="none" stroke="#bbf7d0"/>
+    <text x="-6" y="-156" font-size="12">N</text>
+    <g fill="#1e3a8a"><circle cx="0" cy="-120" r="9"/><circle cx="110" cy="40" r="9"/><circle cx="-105" cy="50" r="9"/><circle cx="0" cy="0" r="9"/><circle cx="60" cy="-60" r="9"/><circle cx="-70" cy="-50" r="9"/></g>
+    <text x="0" y="180" text-anchor="middle" font-size="16" font-weight="bold" fill="#15803d">กระจายทั่วฟ้า → HDOP ≈ 1 (ดี)</text>
+    <path d="M -20 115 L 20 115 M 0 95 L 0 135" stroke="#15803d" stroke-width="3"/>
+    <ellipse cx="0" cy="115" rx="10" ry="10" fill="none" stroke="#15803d" stroke-width="2"/>
+    <text x="26" y="120" font-size="12" fill="#15803d">ความไม่แน่นอนเล็ก</text>
+  </g>
+  <g transform="translate(690,230)">
+    <circle r="150" fill="#fef2f2" stroke="#b91c1c" stroke-width="2"/><circle r="100" fill="none" stroke="#fecaca"/><circle r="50" fill="none" stroke="#fecaca"/>
+    <text x="-6" y="-156" font-size="12">N</text>
+    <g fill="#1e3a8a"><circle cx="70" cy="-90" r="9"/><circle cx="95" cy="-70" r="9"/><circle cx="80" cy="-50" r="9"/><circle cx="110" cy="-100" r="9"/></g>
+    <text x="0" y="180" text-anchor="middle" font-size="16" font-weight="bold" fill="#b91c1c">เกาะกลุ่ม → HDOP สูง (แย่)</text>
+    <ellipse cx="-40" cy="60" rx="55" ry="18" fill="none" stroke="#b91c1c" stroke-width="2" transform="rotate(-35 -40 60)"/>
+    <text x="-78" y="124" font-size="12" fill="#b91c1c">พื้นที่ความไม่แน่นอนยืดยาว</text>
+  </g>
+  <text x="460" y="455" text-anchor="middle" font-size="13" fill="#334155">Position error ≈ DOP × UERE · HDOP: &lt;2 ดีมาก · 2–4 ยอมรับได้ · &gt;4–6 ระวัง (ภาพ sky plot: วงนอก = ขอบฟ้า, จุดกลาง = เหนือศีรษะ)</text>
+</svg>

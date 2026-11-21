@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 780" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="780" fill="#fff"/>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">IALA Cardinal Marks — บอกว่าน้ำปลอดภัยอยู่ด้านไหนของอันตราย</text>
+<circle cx="500" cy="390" r="62" fill="#fde68a" stroke="#b45309" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="500" y="396" text-anchor="middle" font-size="16" font-weight="bold" fill="#92400e">อันตราย</text>
+<line x1="549.5" y1="340.5" x2="726.3" y2="163.7" stroke="#94a3b8" stroke-dasharray="6 5"/>
+<line x1="549.5" y1="439.5" x2="726.3" y2="616.3" stroke="#94a3b8" stroke-dasharray="6 5"/>
+<line x1="450.5" y1="439.5" x2="273.7" y2="616.3" stroke="#94a3b8" stroke-dasharray="6 5"/>
+<line x1="450.5" y1="340.5" x2="273.7" y2="163.7" stroke="#94a3b8" stroke-dasharray="6 5"/>
+<path d="M 440.0 214 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c9"><path d="M 487.35 100 L 512.65 100 L 523.0 210 L 477.0 210 Z"/></clipPath>
+<rect x="475.0" y="100.0" width="50" height="55.6" fill="#111827" clip-path="url(#c9)"/>
+<rect x="475.0" y="155.0" width="50" height="55.6" fill="#facc15" clip-path="url(#c9)"/>
+<path d="M 487.35 100 L 512.65 100 L 523.0 210 L 477.0 210 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="500" y1="100" x2="500" y2="78" stroke="#111827" stroke-width="3"/>
+<path d="M 492.0 58 L 508.0 58 L 500 42 Z" fill="#111827" stroke="#111827"/>
+<path d="M 492.0 78 L 508.0 78 L 500 62 Z" fill="#111827" stroke="#111827"/>
+<text x="500" y="238" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">NORTH</text>
+<text x="500" y="255" text-anchor="middle" font-size="13" fill="#0f172a">ดำบน เหลืองล่าง · กรวยชี้ขึ้นทั้งคู่</text>
+<text x="500" y="272" text-anchor="middle" font-size="13" fill="#0f172a">VQ หรือ Q (ต่อเนื่อง)</text>
+<path d="M 770.0 454 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c10"><path d="M 817.35 340 L 842.65 340 L 853.0 450 L 807.0 450 Z"/></clipPath>
+<rect x="805.0" y="340.0" width="50" height="36.9" fill="#111827" clip-path="url(#c10)"/>
+<rect x="805.0" y="376.3" width="50" height="38.0" fill="#facc15" clip-path="url(#c10)"/>
+<rect x="805.0" y="413.7" width="50" height="36.9" fill="#111827" clip-path="url(#c10)"/>
+<path d="M 817.35 340 L 842.65 340 L 853.0 450 L 807.0 450 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="830" y1="340" x2="830" y2="318" stroke="#111827" stroke-width="3"/>
+<path d="M 822.0 300 L 838.0 300 L 830 284 Z" fill="#111827" stroke="#111827"/>
+<path d="M 822.0 302 L 838.0 302 L 830 318 Z" fill="#111827" stroke="#111827"/>
+<text x="830" y="478" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">EAST</text>
+<text x="830" y="495" text-anchor="middle" font-size="13" fill="#0f172a">ดำ-เหลือง-ดำ · ฐานชนฐาน</text>
+<text x="830" y="512" text-anchor="middle" font-size="13" fill="#0f172a">VQ(3) 5s / Q(3) 10s</text>
+<path d="M 440.0 654 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c11"><path d="M 487.35 540 L 512.65 540 L 523.0 650 L 477.0 650 Z"/></clipPath>
+<rect x="475.0" y="540.0" width="50" height="55.6" fill="#facc15" clip-path="url(#c11)"/>
+<rect x="475.0" y="595.0" width="50" height="55.6" fill="#111827" clip-path="url(#c11)"/>
+<path d="M 487.35 540 L 512.65 540 L 523.0 650 L 477.0 650 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="500" y1="540" x2="500" y2="518" stroke="#111827" stroke-width="3"/>
+<path d="M 492.0 482 L 508.0 482 L 500 498 Z" fill="#111827" stroke="#111827"/>
+<path d="M 492.0 502 L 508.0 502 L 500 518 Z" fill="#111827" stroke="#111827"/>
+<text x="500" y="678" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">SOUTH</text>
+<text x="500" y="695" text-anchor="middle" font-size="13" fill="#0f172a">เหลืองบน ดำล่าง · กรวยชี้ลงทั้งคู่</text>
+<text x="500" y="712" text-anchor="middle" font-size="13" fill="#0f172a">VQ(6)+LFl 10s / Q(6)+LFl 15s</text>
+<path d="M 110.0 454 q 10 -6 20 0 t 20 0 t 20 0 t 20 0 t 20 0 t 20 0" fill="none" stroke="#0284c7" stroke-width="2"/>
+<clipPath id="c12"><path d="M 157.35 340 L 182.65 340 L 193.0 450 L 147.0 450 Z"/></clipPath>
+<rect x="145.0" y="340.0" width="50" height="36.9" fill="#facc15" clip-path="url(#c12)"/>
+<rect x="145.0" y="376.3" width="50" height="38.0" fill="#111827" clip-path="url(#c12)"/>
+<rect x="145.0" y="413.7" width="50" height="36.9" fill="#facc15" clip-path="url(#c12)"/>
+<path d="M 157.35 340 L 182.65 340 L 193.0 450 L 147.0 450 Z" fill="none" stroke="#111827" stroke-width="1.5"/>
+<line x1="170" y1="340" x2="170" y2="318" stroke="#111827" stroke-width="3"/>
+<path d="M 162.0 282 L 178.0 282 L 170 298 Z" fill="#111827" stroke="#111827"/>
+<path d="M 162.0 316 L 178.0 316 L 170 300 Z" fill="#111827" stroke="#111827"/>
+<text x="170" y="478" text-anchor="middle" font-size="14" fill="#0f172a" font-weight="bold">WEST</text>
+<text x="170" y="495" text-anchor="middle" font-size="13" fill="#0f172a">เหลือง-ดำ-เหลือง · ยอดชนยอด</text>
+<text x="170" y="512" text-anchor="middle" font-size="13" fill="#0f172a">VQ(9) 10s / Q(9) 15s</text>
+<rect x="20" y="60" width="300" height="120" rx="8" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="34" y="86" font-size="14" font-weight="bold">ช่วยจำ: ไฟแวบตามหน้าปัดนาฬิกา</text>
+<text x="34" y="107" font-size="14">E = 3 นาฬิกา → 3 แวบ</text>
+<text x="34" y="128" font-size="14">S = 6 นาฬิกา → 6 แวบ + LFl</text>
+<text x="34" y="149" font-size="14">W = 9 นาฬิกา → 9 แวบ</text>
+<text x="34" y="170" font-size="14">N = ต่อเนื่อง (ไม่มีกลุ่ม)</text>
+<rect x="680" y="60" width="300" height="120" rx="8" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="694" y="86" font-size="14" font-weight="bold">ช่วยจำ topmark:</text>
+<text x="694" y="107" font-size="14">N ชี้ขึ้น (เหนือ) · S ชี้ลง (ใต้)</text>
+<text x="694" y="128" font-size="14">W ยอดชนกัน = รูปแก้วไวน์</text>
+<text x="694" y="149" font-size="14">E ฐานชนกัน = รูปไข่ (Egg)</text>
+<text x="694" y="170" font-size="14">สีดำอยู่ด้านที่กรวยชี้</text>
+<text x="500" y="295" text-anchor="middle" font-size="13" fill="#0369a1">ผ่านทางเหนือของทุ่น N</text>
+</svg>

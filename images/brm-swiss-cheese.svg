@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="470" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arr" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L14,7 L0,14 z" fill="#b91c1c"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Swiss Cheese Model (James Reason) — อุบัติเหตุเกิดเมื่อ "รู" ของทุกชั้นเรียงตรงกัน</text>
+<path d="M 140 110 L 200 80 L 200 330 L 140 360 Z" fill="#fde68a" stroke="#92400e"/>
+<ellipse cx="170" cy="145" rx="6.0" ry="10" fill="#fff" stroke="#92400e"/>
+<ellipse cx="170" cy="203.3734939759036" rx="7.8" ry="13" fill="#fff" stroke="#92400e"/>
+<ellipse cx="170" cy="300" rx="4.2" ry="7" fill="#fff" stroke="#92400e"/>
+<text x="170" y="390" text-anchor="middle" font-size="13" font-weight="bold">องค์กร/บริษัท</text><text x="170" y="408" text-anchor="middle" font-size="11" fill="#475569">นโยบาย กำลังคน การฝึก</text>
+<path d="M 330 110 L 390 80 L 390 330 L 330 360 Z" fill="#fcd34d" stroke="#92400e"/>
+<ellipse cx="360" cy="149" rx="6.0" ry="10" fill="#fff" stroke="#92400e"/>
+<ellipse cx="360" cy="212.53012048192772" rx="7.8" ry="13" fill="#fff" stroke="#92400e"/>
+<ellipse cx="360" cy="294" rx="4.2" ry="7" fill="#fff" stroke="#92400e"/>
+<text x="360" y="390" text-anchor="middle" font-size="13" font-weight="bold">การกำกับดูแล</text><text x="360" y="408" text-anchor="middle" font-size="11" fill="#475569">SMS ตรวจสอบ checklist</text>
+<path d="M 520 110 L 580 80 L 580 330 L 520 360 Z" fill="#fbbf24" stroke="#92400e"/>
+<ellipse cx="550" cy="153" rx="6.0" ry="10" fill="#fff" stroke="#92400e"/>
+<ellipse cx="550" cy="221.6867469879518" rx="7.8" ry="13" fill="#fff" stroke="#92400e"/>
+<ellipse cx="550" cy="288" rx="4.2" ry="7" fill="#fff" stroke="#92400e"/>
+<text x="550" y="390" text-anchor="middle" font-size="13" font-weight="bold">เงื่อนไขก่อนเกิด</text><text x="550" y="408" text-anchor="middle" font-size="11" fill="#475569">ความเหนื่อยล้า การสื่อสาร</text>
+<path d="M 710 110 L 770 80 L 770 330 L 710 360 Z" fill="#f59e0b" stroke="#92400e"/>
+<ellipse cx="740" cy="157" rx="6.0" ry="10" fill="#fff" stroke="#92400e"/>
+<ellipse cx="740" cy="230.8433734939759" rx="7.8" ry="13" fill="#fff" stroke="#92400e"/>
+<ellipse cx="740" cy="282" rx="4.2" ry="7" fill="#fff" stroke="#92400e"/>
+<text x="740" y="390" text-anchor="middle" font-size="13" font-weight="bold">การกระทำที่ไม่ปลอดภัย</text><text x="740" y="408" text-anchor="middle" font-size="11" fill="#475569">ไม่ cross-check ปิด alarm</text>
+<text x="40" y="200" font-size="14" font-weight="bold" fill="#b91c1c">อันตราย</text><text x="40" y="218" font-size="12" fill="#b91c1c">(hazard)</text>
+<path d="M 100 200 L 930 240" stroke="#b91c1c" stroke-width="3" stroke-dasharray="10 5" marker-end="url(#arr)"/>
+<text x="860" y="280" font-size="14" font-weight="bold" fill="#b91c1c">อุบัติเหตุ</text><text x="860" y="298" font-size="12" fill="#b91c1c">(เกยตื้น/โดนกัน)</text>
+<text x="40" y="440" font-size="13" fill="#334155">BRM ทำหน้าที่ "อุดรู" — การ cross-check, challenge &amp; response, briefing ทำให้ห่วงโซ่ความผิดพลาด (error chain) ขาดก่อนถึงอุบัติเหตุ</text>
+<text x="40" y="458" font-size="12" fill="#64748b">รูในชั้นซ้าย 3 ชั้น = latent conditions (แฝงอยู่นาน) · รูในชั้นขวาสุด = active failure (เกิดหน้างาน) · เส้นประผ่านรูที่เรียงตรงกันทุกชั้น</text>
+</svg>

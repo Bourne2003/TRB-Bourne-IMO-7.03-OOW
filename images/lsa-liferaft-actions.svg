@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การกระทำทันทีเมื่อขึ้นแพชูชีพ และหลักการรอดชีวิต</text>
+<text x="250.0" y="66.0" font-size="15" text-anchor="middle" fill="#b91c1c" font-weight="bold">การกระทำทันที (Immediate actions)</text>
+<circle cx="52" cy="100" r="14" fill="#b91c1c"/><text x="52.0" y="105.0" font-size="12" text-anchor="middle" fill="#fff" font-weight="bold">1</text>
+<rect x="74.0" y="82.0" width="410.0" height="36.0" rx="8" fill="#fef2f2" stroke="#fecaca" stroke-width="1"/>
+<text x="86.0" y="105.0" font-size="11.6" text-anchor="start" fill="#0f172a">ตัด painter (มีดอยู่ใกล้ทางเข้า) พายออกห่างเรือที่จม</text>
+<circle cx="52" cy="146" r="14" fill="#b91c1c"/><text x="52.0" y="151.0" font-size="12" text-anchor="middle" fill="#fff" font-weight="bold">2</text>
+<rect x="74.0" y="128.0" width="410.0" height="36.0" rx="8" fill="#fef2f2" stroke="#fecaca" stroke-width="1"/>
+<text x="86.0" y="151.0" font-size="11.6" text-anchor="start" fill="#0f172a">มองหาและช่วยผู้รอดชีวิตอื่น ขว้างห่วงช่วยชีวิต (rescue quoit)</text>
+<circle cx="52" cy="192" r="14" fill="#b91c1c"/><text x="52.0" y="197.0" font-size="12" text-anchor="middle" fill="#fff" font-weight="bold">3</text>
+<rect x="74.0" y="174.0" width="410.0" height="36.0" rx="8" fill="#fef2f2" stroke="#fecaca" stroke-width="1"/>
+<text x="86.0" y="197.0" font-size="11.6" text-anchor="start" fill="#0f172a">ปล่อย sea anchor (drogue) ลดการลอยและการพลิก</text>
+<circle cx="52" cy="238" r="14" fill="#b91c1c"/><text x="52.0" y="243.0" font-size="12" text-anchor="middle" fill="#fff" font-weight="bold">4</text>
+<rect x="74.0" y="220.0" width="410.0" height="36.0" rx="8" fill="#fef2f2" stroke="#fecaca" stroke-width="1"/>
+<text x="86.0" y="243.0" font-size="11.6" text-anchor="start" fill="#0f172a">ปิดทางเข้า (อากาศเย็น) ระบายน้ำ (bail) เป่าพื้นแพ (insulated floor)</text>
+<circle cx="52" cy="284" r="14" fill="#b91c1c"/><text x="52.0" y="289.0" font-size="12" text-anchor="middle" fill="#fff" font-weight="bold">5</text>
+<rect x="74.0" y="266.0" width="410.0" height="36.0" rx="8" fill="#fef2f2" stroke="#fecaca" stroke-width="1"/>
+<text x="86.0" y="289.0" font-size="11.6" text-anchor="start" fill="#0f172a">เปิด SART ติดตั้งให้สูง · EPIRB (ถ้านำมา) · VHF พกพา</text>
+<circle cx="52" cy="330" r="14" fill="#b91c1c"/><text x="52.0" y="335.0" font-size="12" text-anchor="middle" fill="#fff" font-weight="bold">6</text>
+<rect x="74.0" y="312.0" width="410.0" height="36.0" rx="8" fill="#fef2f2" stroke="#fecaca" stroke-width="1"/>
+<text x="86.0" y="335.0" font-size="11.6" text-anchor="start" fill="#0f172a">แจกยาแก้เมาคลื่นทันที (ก่อนเมา) · ปฐมพยาบาล</text>
+<circle cx="52" cy="376" r="14" fill="#b91c1c"/><text x="52.0" y="381.0" font-size="12" text-anchor="middle" fill="#fff" font-weight="bold">7</text>
+<rect x="74.0" y="358.0" width="410.0" height="36.0" rx="8" fill="#fef2f2" stroke="#fecaca" stroke-width="1"/>
+<text x="86.0" y="381.0" font-size="11.6" text-anchor="start" fill="#0f172a">ตรวจแพ: รั่ว แรงดันลม (เติมด้วยที่สูบ) · ผูกแพหลายลำเข้าด้วยกัน</text>
+<circle cx="52" cy="422" r="14" fill="#b91c1c"/><text x="52.0" y="427.0" font-size="12" text-anchor="middle" fill="#fff" font-weight="bold">8</text>
+<rect x="74.0" y="404.0" width="410.0" height="36.0" rx="8" fill="#fef2f2" stroke="#fecaca" stroke-width="1"/>
+<text x="86.0" y="427.0" font-size="11.6" text-anchor="start" fill="#0f172a">แบ่งหน้าที่ ผู้เฝ้าระวัง (lookout) หมุนเวียน · บันทึก</text>
+<text x="745.0" y="66.0" font-size="15" text-anchor="middle" fill="#1d4ed8" font-weight="bold">ลำดับความสำคัญในการรอดชีวิต</text>
+<rect x="510.0" y="82.0" width="460.0" height="78.0" rx="10" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="526.0" y="106.0" font-size="13.5" text-anchor="start" fill="#1e3a8a" font-weight="bold">1. Protection (ป้องกันตัว)</text>
+<text x="526.0" y="128.0" font-size="11.3" text-anchor="start" fill="#0f172a">จากความเย็น/ร้อน ลม ฝน — ชุด immersion suit, TPA,</text>
+<text x="526.0" y="145.0" font-size="11.3" text-anchor="start" fill="#0f172a">ใส่เสื้อผ้าแห้ง อยู่รวมกัน ปิดหลังคา</text>
+<rect x="510.0" y="172.0" width="460.0" height="78.0" rx="10" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="526.0" y="196.0" font-size="13.5" text-anchor="start" fill="#1e3a8a" font-weight="bold">2. Location (ให้ถูกพบ)</text>
+<text x="526.0" y="218.0" font-size="11.3" text-anchor="start" fill="#0f172a">EPIRB, SART, VHF, พลุ (ใช้เมื่อเห็นเรือ/เครื่องบิน),</text>
+<text x="526.0" y="235.0" font-size="11.3" text-anchor="start" fill="#0f172a">กระจกสะท้อนแสง ไฟฉาย นกหวีด</text>
+<rect x="510.0" y="262.0" width="460.0" height="78.0" rx="10" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="526.0" y="286.0" font-size="13.5" text-anchor="start" fill="#1e3a8a" font-weight="bold">3. Water (น้ำ)</text>
+<text x="526.0" y="308.0" font-size="11.3" text-anchor="start" fill="#0f172a">งดดื่มน้ำ 24 ชม.แรก (ยกเว้นผู้บาดเจ็บ) แล้วแบ่ง</text>
+<text x="526.0" y="325.0" font-size="11.3" text-anchor="start" fill="#0f172a">ประมาณ 0.5 ลิตร/คน/วัน · ห้ามดื่มน้ำทะเล/ปัสสาวะ · เก็บน้ำฝน</text>
+<rect x="510.0" y="352.0" width="460.0" height="78.0" rx="10" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="526.0" y="376.0" font-size="13.5" text-anchor="start" fill="#1e3a8a" font-weight="bold">4. Food (อาหาร)</text>
+<text x="526.0" y="398.0" font-size="11.3" text-anchor="start" fill="#0f172a">สำคัญน้อยกว่าน้ำ — กินเมื่อมีน้ำพอ</text>
+<text x="526.0" y="415.0" font-size="11.3" text-anchor="start" fill="#0f172a">(อาหารใช้น้ำในการย่อย)</text>
+<rect x="510.0" y="450.0" width="460.0" height="60.0" rx="10" fill="#fff7ed" stroke="#c2410c" stroke-width="1.5"/>
+<text x="526.0" y="474.0" font-size="12" text-anchor="start" fill="#7c2d12" font-weight="bold">ขวัญกำลังใจ (morale) และความเป็นผู้นำ: กำหนดกิจวัตร แบ่งงาน</text>
+<text x="526.0" y="494.0" font-size="12" text-anchor="start" fill="#7c2d12">รักษาความหวัง — คนที่ยอมแพ้มีโอกาสรอดน้อยลงมาก</text>
+</svg>

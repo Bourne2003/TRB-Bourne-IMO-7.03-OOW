@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="980" height="520" fill="#fff"/>
+<defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="context-stroke"/></marker></defs>
+<text x="490.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">มรสุมในเอเชียตะวันออกเฉียงใต้ (แผนภาพอย่างง่าย ไม่ใช่แผนที่จริง)</text>
+<rect x="20" y="55" width="460" height="440" rx="10" fill="#f0f9ff" stroke="#94a3b8"/>
+<text x="250" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#b91c1c">SW Monsoon (พ.ค. – ก.ย./ต.ค.)</text>
+<path d="M 170 100 L 260 100 L 270 180 L 250 260 L 235 330 L 252 420 L 230 430 L 210 340 L 220 250 L 190 170 Z" fill="#f5deb3" stroke="#8b6b3d"/>
+<path d="M 320 100 L 420 100 L 410 200 L 360 260 L 320 230 L 310 160 Z" fill="#f5deb3" stroke="#8b6b3d"/>
+<text x="195" y="140" font-size="12">ไทย/เมียนมา</text><text x="330" y="150" font-size="12">อินโดจีน</text><text x="245" y="300" font-size="11">อ่าวไทย</text>
+<text x="60" y="300" font-size="12">ทะเลอันดามัน</text><text x="360" y="350" font-size="12">ทะเลจีนใต้</text>
+<line x1="65.3" y1="224.7" x2="114.7" y2="175.3" stroke="#b91c1c" stroke-width="5" marker-end="url(#a)"/>
+<line x1="85.3" y1="404.7" x2="134.7" y2="355.3" stroke="#b91c1c" stroke-width="5" marker-end="url(#a)"/>
+<line x1="325.3" y1="324.7" x2="374.7" y2="275.3" stroke="#b91c1c" stroke-width="5" marker-end="url(#a)"/>
+<line x1="395.3" y1="444.7" x2="444.7" y2="395.3" stroke="#b91c1c" stroke-width="5" marker-end="url(#a)"/>
+<line x1="255.3" y1="224.7" x2="304.7" y2="175.3" stroke="#b91c1c" stroke-width="5" marker-end="url(#a)"/>
+<text x="40" y="455" font-size="12">ลมจาก SW ชื้น ฝนหนักฝั่งอันดามัน</text>
+<text x="40" y="473" font-size="12">Sumatras ในช่องแคบมะละกา (กลางคืน)</text>
+<rect x="500" y="55" width="460" height="440" rx="10" fill="#f0f9ff" stroke="#94a3b8"/>
+<text x="730" y="82" text-anchor="middle" font-size="16" font-weight="bold" fill="#1d4ed8">NE Monsoon (พ.ย. – ก.พ./มี.ค.)</text>
+<path d="M 650 100 L 740 100 L 750 180 L 730 260 L 715 330 L 732 420 L 710 430 L 690 340 L 700 250 L 670 170 Z" fill="#f5deb3" stroke="#8b6b3d"/>
+<path d="M 800 100 L 900 100 L 890 200 L 840 260 L 800 230 L 790 160 Z" fill="#f5deb3" stroke="#8b6b3d"/>
+<text x="675" y="140" font-size="12">ไทย/เมียนมา</text><text x="810" y="150" font-size="12">อินโดจีน</text><text x="725" y="300" font-size="11">อ่าวไทย</text>
+<text x="540" y="300" font-size="12">ทะเลอันดามัน</text><text x="840" y="350" font-size="12">ทะเลจีนใต้</text>
+<line x1="594.7" y1="175.3" x2="545.3" y2="224.7" stroke="#1d4ed8" stroke-width="5" marker-end="url(#a)"/>
+<line x1="614.7" y1="355.3" x2="565.3" y2="404.7" stroke="#1d4ed8" stroke-width="5" marker-end="url(#a)"/>
+<line x1="854.7" y1="275.3" x2="805.3" y2="324.7" stroke="#1d4ed8" stroke-width="5" marker-end="url(#a)"/>
+<line x1="924.7" y1="395.3" x2="875.3" y2="444.7" stroke="#1d4ed8" stroke-width="5" marker-end="url(#a)"/>
+<line x1="784.7" y1="175.3" x2="735.3" y2="224.7" stroke="#1d4ed8" stroke-width="5" marker-end="url(#a)"/>
+<text x="520" y="455" font-size="12">ลมจาก NE แรง (monsoon surge) ในทะเลจีนใต้</text>
+<text x="520" y="473" font-size="12">คลื่นลมแรงอ่าวไทยตอนล่าง ฝนภาคใต้ฝั่งอ่าวไทย</text>
+</svg>

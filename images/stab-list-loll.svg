@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 590" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="590" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">เรือเอียงเพราะ G ไม่อยู่กลางลำ (List) กับ เรือเอียงเพราะ GM ติดลบ (Loll)</text>
+<text x="250.0" y="66.0" font-size="14.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold">LIST — G เยื้องไปด้านหนึ่ง, GM เป็นบวก</text>
+<g transform="rotate(6 250 260)"><path d="M 110 140 L 390 140 L 390 370 Q 390 400 360 400 L 140 400 Q 110 400 110 370 Z" fill="#e2e8f0" stroke="#0f172a" stroke-width="2.5"/><line x1="250.0" y1="120.0" x2="250.0" y2="400.0" stroke="#94a3b8" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="272.0" cy="235.0" r="5.5" fill="#b91c1c"/><text x="282.0" y="239.0" font-size="13" text-anchor="start" fill="#b91c1c" font-weight="bold">G₁</text>
+<circle cx="250.0" cy="190.0" r="5.5" fill="#15803d"/><text x="260.0" y="194.0" font-size="13" text-anchor="start" fill="#15803d" font-weight="bold">M</text>
+</g><rect x="60" y="260" width="380" height="170" fill="#bae6fd" opacity="0.45"/><line x1="60.0" y1="260.0" x2="440.0" y2="260.0" stroke="#0284c7" stroke-width="2"/>
+<text x="750.0" y="66.0" font-size="14.5" text-anchor="middle" fill="#b91c1c" font-weight="bold">LOLL — GM ติดลบเมื่อตั้งตรง</text>
+<g transform="rotate(10 750 260)"><path d="M 610 140 L 890 140 L 890 370 Q 890 400 860 400 L 640 400 Q 610 400 610 370 Z" fill="#e2e8f0" stroke="#0f172a" stroke-width="2.5"/><line x1="750.0" y1="120.0" x2="750.0" y2="400.0" stroke="#94a3b8" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="750.0" cy="215.0" r="5.5" fill="#b91c1c"/><text x="760.0" y="219.0" font-size="13" text-anchor="start" fill="#b91c1c" font-weight="bold">G</text>
+<circle cx="750.0" cy="238.0" r="5.5" fill="#15803d"/><text x="760.0" y="242.0" font-size="13" text-anchor="start" fill="#15803d" font-weight="bold">M</text>
+</g><rect x="560" y="260" width="380" height="170" fill="#bae6fd" opacity="0.45"/><line x1="560.0" y1="260.0" x2="940.0" y2="260.0" stroke="#0284c7" stroke-width="2"/>
+<text x="60.0" y="470.0" font-size="12.5" text-anchor="start" fill="#1e3a8a">สาเหตุ: น้ำหนักไม่สมดุลซ้าย-ขวา (สินค้า ถังน้ำ/น้ำมัน)</text>
+<text x="60.0" y="494.0" font-size="12.5" text-anchor="start" fill="#1e3a8a">เอียงไปด้านเดียวคงที่ ตั้งตรงได้ถ้าย้ายน้ำหนักกลับ</text>
+<text x="60.0" y="518.0" font-size="12.5" text-anchor="start" fill="#1e3a8a">tan θ = GG₁ ÷ GM</text>
+<text x="60.0" y="542.0" font-size="12.5" text-anchor="start" fill="#1e3a8a" font-weight="bold">แก้: ถ่ายน้ำหนัก/ballast ไปด้านที่สูง</text>
+<text x="520.0" y="456.0" font-size="12" text-anchor="start" fill="#7f1d1d">สาเหตุ: G สูงเกิน M (ของบนดาดฟ้า ใช้น้ำมันถังล่าง</text>
+<text x="520.0" y="475.0" font-size="12" text-anchor="start" fill="#7f1d1d">FSE มาก น้ำแข็งเกาะ) — ตั้งตรงไม่ได้ เอียงไปข้างใด</text>
+<text x="520.0" y="494.0" font-size="12" text-anchor="start" fill="#7f1d1d">ข้างหนึ่งแล้วอาจ "พลิก" ไปอีกข้าง (flop) · โคลงช้า เฉื่อย</text>
+<text x="520.0" y="513.0" font-size="12" text-anchor="start" fill="#7f1d1d">tan θ = √(2 × |GM| ÷ BM) (ผนังตรง) · GM ที่มุม loll ≈ 2|GM| ÷ cos θ</text>
+<text x="520.0" y="532.0" font-size="12" text-anchor="start" fill="#7f1d1d" font-weight="bold">แก้: ลด G — เติมถังล่างที่ "ด้านต่ำก่อน" แบบถังแบ่ง</text>
+<text x="520.0" y="551.0" font-size="12" text-anchor="start" fill="#7f1d1d">หรือถังกลางลำ ลด FSE ยกของหนักบนลง</text>
+<text x="520.0" y="570.0" font-size="12" text-anchor="start" fill="#7f1d1d" font-weight="bold">ห้าม: เติม ballast ด้านที่สูงเพื่อ "แก้เอียง" — อาจพลิกแรง</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="480" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ระบบโครงเรือ: โครงตามขวาง (Transverse) กับ โครงตามยาว (Longitudinal)</text>
+<text x="260.0" y="66.0" font-size="15" text-anchor="middle" fill="#b45309" font-weight="bold">Transverse framing</text>
+<path d="M 40 100 L 480 100 L 480 320 L 40 320 Z" fill="#f8fafc" stroke="#0f172a" stroke-width="2"/><line x1="60.0" y1="100.0" x2="60.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="96.0" y1="100.0" x2="96.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="132.0" y1="100.0" x2="132.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="168.0" y1="100.0" x2="168.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="204.0" y1="100.0" x2="204.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="240.0" y1="100.0" x2="240.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="276.0" y1="100.0" x2="276.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="312.0" y1="100.0" x2="312.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="348.0" y1="100.0" x2="348.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="384.0" y1="100.0" x2="384.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="420.0" y1="100.0" x2="420.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="456.0" y1="100.0" x2="456.0" y2="320.0" stroke="#b45309" stroke-width="4"/>
+<line x1="40.0" y1="210.0" x2="480.0" y2="210.0" stroke="#475569" stroke-width="6"/>
+<rect x="210.0" y="191.0" width="100.0" height="17.0" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="1"/>
+<text x="260.0" y="204.0" font-size="10.5" text-anchor="middle" fill="#334155">stringer (บางเรือ)</text>
+<text x="260.0" y="360.0" font-size="11" text-anchor="middle" fill="#475569">← หัว/ท้ายเรือ →</text>
+<text x="740.0" y="66.0" font-size="15" text-anchor="middle" fill="#1d4ed8" font-weight="bold">Longitudinal framing (Isherwood)</text>
+<path d="M 520 100 L 960 100 L 960 320 L 520 320 Z" fill="#f8fafc" stroke="#0f172a" stroke-width="2"/><line x1="520.0" y1="115.0" x2="960.0" y2="115.0" stroke="#1d4ed8" stroke-width="4"/>
+<line x1="520.0" y1="142.0" x2="960.0" y2="142.0" stroke="#1d4ed8" stroke-width="4"/>
+<line x1="520.0" y1="169.0" x2="960.0" y2="169.0" stroke="#1d4ed8" stroke-width="4"/>
+<line x1="520.0" y1="196.0" x2="960.0" y2="196.0" stroke="#1d4ed8" stroke-width="4"/>
+<line x1="520.0" y1="223.0" x2="960.0" y2="223.0" stroke="#1d4ed8" stroke-width="4"/>
+<line x1="520.0" y1="250.0" x2="960.0" y2="250.0" stroke="#1d4ed8" stroke-width="4"/>
+<line x1="520.0" y1="277.0" x2="960.0" y2="277.0" stroke="#1d4ed8" stroke-width="4"/>
+<line x1="520.0" y1="304.0" x2="960.0" y2="304.0" stroke="#1d4ed8" stroke-width="4"/>
+<rect x="622.0" y="100.0" width="16.0" height="220.0" rx="0" fill="#94a3b8" stroke="#0f172a" stroke-width="1.5"/>
+<rect x="842.0" y="100.0" width="16.0" height="220.0" rx="0" fill="#94a3b8" stroke="#0f172a" stroke-width="1.5"/>
+<text x="630.0" y="340.0" font-size="10.5" text-anchor="middle" fill="#334155">web frame / transverse</text>
+<text x="850.0" y="340.0" font-size="10.5" text-anchor="middle" fill="#334155">ระยะห่างมาก</text>
+<text x="740.0" y="360.0" font-size="11" text-anchor="middle" fill="#475569">← หัว/ท้ายเรือ →</text>
+<text x="60.0" y="395.0" font-size="12" text-anchor="start" fill="#0f172a">• โครงตามขวางระยะถี่ (frame spacing ~0.6–0.9 m)</text>
+<text x="60.0" y="416.0" font-size="12" text-anchor="start" fill="#0f172a">• แข็งแรงต่อแรงด้านข้าง/แรงกดน้ำ, ง่ายต่อการสร้าง</text>
+<text x="60.0" y="437.0" font-size="12" text-anchor="start" fill="#0f172a">• ช่องระวางโล่ง เหมาะสินค้าทั่วไป เรือเล็ก-กลาง</text>
+<text x="60.0" y="458.0" font-size="12" text-anchor="start" fill="#0f172a">• ความแข็งแรงตามยาวต่ำกว่า สำหรับเรือยาวต้องแผ่นหนา</text>
+<text x="540.0" y="395.0" font-size="12" text-anchor="start" fill="#0f172a">• longitudinals วิ่งตามยาวระยะถี่ มี web frames ห่าง ๆ</text>
+<text x="540.0" y="416.0" font-size="12" text-anchor="start" fill="#0f172a">• แข็งแรงตามยาวสูง (ต้าน hogging/sagging) น้ำหนักเหล็กน้อย</text>
+<text x="540.0" y="437.0" font-size="12" text-anchor="start" fill="#0f172a">• เหมาะเรือยาว: tanker, bulk carrier, container</text>
+<text x="540.0" y="458.0" font-size="12" text-anchor="start" fill="#0f172a">• ระบบผสม (combined): ท้อง/ดาดฟ้าตามยาว ด้านข้างตามขวาง</text>
+</svg>

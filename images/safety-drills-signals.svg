@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 610" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="610" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ตารางการฝึกซ้อมและสัญญาณฉุกเฉิน (สรุปสำหรับ OOW — ตรวจกับ SMS และ Flag)</text>
+<rect x="30.0" y="50.0" width="940.0" height="30.0" rx="6" fill="#1e3a8a" stroke="#1e3a8a" stroke-width="0"/>
+<text x="46.0" y="70.0" font-size="12.5" text-anchor="start" fill="#fff" font-weight="bold">การฝึก</text>
+<text x="380.0" y="70.0" font-size="12.5" text-anchor="start" fill="#fff" font-weight="bold">ความถี่ขั้นต่ำ (ทั่วไป)</text>
+<text x="800.0" y="70.0" font-size="12.5" text-anchor="start" fill="#fff" font-weight="bold">อ้างอิง</text>
+<rect x="30.0" y="84.0" width="940.0" height="34.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="84.0" width="8.0" height="34.0" rx="0" fill="#b91c1c" stroke="#b91c1c" stroke-width="0"/>
+<text x="50.0" y="106.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">Fire drill</text>
+<text x="380.0" y="106.0" font-size="12" text-anchor="start" fill="#0f172a">ทุกเดือน (ทุกคน)</text>
+<text x="800.0" y="106.0" font-size="12" text-anchor="start" fill="#334155">SOLAS III/19</text>
+<rect x="30.0" y="122.0" width="940.0" height="34.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="122.0" width="8.0" height="34.0" rx="0" fill="#c2410c" stroke="#c2410c" stroke-width="0"/>
+<text x="50.0" y="144.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">Abandon ship drill</text>
+<text x="380.0" y="144.0" font-size="12" text-anchor="start" fill="#0f172a">ทุกเดือน (ทุกคน) + ปล่อยเรือชูชีพทุก 3 เดือน</text>
+<text x="800.0" y="144.0" font-size="12" text-anchor="start" fill="#334155">SOLAS III/19</text>
+<rect x="30.0" y="160.0" width="940.0" height="34.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="160.0" width="8.0" height="34.0" rx="0" fill="#ca8a04" stroke="#ca8a04" stroke-width="0"/>
+<text x="50.0" y="182.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">Enclosed space entry and rescue</text>
+<text x="380.0" y="182.0" font-size="12" text-anchor="start" fill="#0f172a">อย่างน้อยทุก 2 เดือน</text>
+<text x="800.0" y="182.0" font-size="12" text-anchor="start" fill="#334155">SOLAS III/19.3.6</text>
+<rect x="30.0" y="198.0" width="940.0" height="34.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="198.0" width="8.0" height="34.0" rx="0" fill="#15803d" stroke="#15803d" stroke-width="0"/>
+<text x="50.0" y="220.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">Rescue boat / MOB</text>
+<text x="380.0" y="220.0" font-size="12" text-anchor="start" fill="#0f172a">เรือกู้ภัยทุกเดือนเท่าที่ทำได้ ≥ ทุก 3 เดือน</text>
+<text x="800.0" y="220.0" font-size="12" text-anchor="start" fill="#334155">SOLAS III/19</text>
+<rect x="30.0" y="236.0" width="940.0" height="34.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="236.0" width="8.0" height="34.0" rx="0" fill="#0369a1" stroke="#0369a1" stroke-width="0"/>
+<text x="50.0" y="258.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">Emergency steering drill</text>
+<text x="380.0" y="258.0" font-size="12" text-anchor="start" fill="#0f172a">อย่างน้อยทุก 3 เดือน</text>
+<text x="800.0" y="258.0" font-size="12" text-anchor="start" fill="#334155">SOLAS V/26</text>
+<rect x="30.0" y="274.0" width="940.0" height="34.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="274.0" width="8.0" height="34.0" rx="0" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="50.0" y="296.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">Security drill / exercise</text>
+<text x="380.0" y="296.0" font-size="12" text-anchor="start" fill="#0f172a">ทุก 3 เดือน / ปีละครั้ง</text>
+<text x="800.0" y="296.0" font-size="12" text-anchor="start" fill="#334155">ISPS Code</text>
+<rect x="30.0" y="312.0" width="940.0" height="34.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="312.0" width="8.0" height="34.0" rx="0" fill="#7c3aed" stroke="#7c3aed" stroke-width="0"/>
+<text x="50.0" y="334.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">SOPEP / damage control / อื่น ๆ</text>
+<text x="380.0" y="334.0" font-size="12" text-anchor="start" fill="#0f172a">ตามแผนการฝึกของบริษัท</text>
+<text x="800.0" y="334.0" font-size="12" text-anchor="start" fill="#334155">SMS / ISM 8</text>
+<rect x="30.0" y="350.0" width="940.0" height="34.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="350.0" width="8.0" height="34.0" rx="0" fill="#be123c" stroke="#be123c" stroke-width="0"/>
+<text x="50.0" y="372.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">ลูกเรือ > 25% ไม่ได้ฝึกบนเรือนี้เดือนก่อน</text>
+<text x="380.0" y="372.0" font-size="12" text-anchor="start" fill="#0f172a">fire + abandon ship ภายใน 24 ชม. หลังออกจากท่า</text>
+<text x="800.0" y="372.0" font-size="12" text-anchor="start" fill="#334155">SOLAS III/19.3.2</text>
+<rect x="30.0" y="388.0" width="940.0" height="34.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="388.0" width="8.0" height="34.0" rx="0" fill="#0f766e" stroke="#0f766e" stroke-width="0"/>
+<text x="50.0" y="410.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">ลูกเรือใหม่: ฝึกใช้ LSA/อุปกรณ์ดับเพลิง</text>
+<text x="380.0" y="410.0" font-size="12" text-anchor="start" fill="#0f172a">โดยเร็ว ไม่เกิน 2 สัปดาห์หลังขึ้นเรือ</text>
+<text x="800.0" y="410.0" font-size="12" text-anchor="start" fill="#334155">SOLAS III/19.4</text>
+<rect x="30.0" y="446.0" width="940.0" height="135.0" rx="10" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.5"/>
+<text x="46.0" y="470.0" font-size="12" text-anchor="start" fill="#7f1d1d" font-weight="bold">สัญญาณ</text>
+<text x="46.0" y="495.0" font-size="12" text-anchor="start" fill="#0f172a">• General emergency alarm: สั้น 7 ครั้งหรือมากกว่า + ยาว 1 ครั้ง (หวูดและระบบสัญญาณ) → ไปจุดรวมพลพร้อม lifejacket/immersion suit</text>
+<text x="46.0" y="520.0" font-size="12" text-anchor="start" fill="#0f172a">• สัญญาณไฟไหม้/คนตกน้ำ/อื่น ๆ: ตาม muster list ของเรือ (เช่น ระฆัง/สัญญาณต่อเนื่อง, "O" มอร์ส −−− สำหรับคนตกน้ำในบางเรือ)</text>
+<text x="46.0" y="545.0" font-size="12" text-anchor="start" fill="#0f172a">• คำสั่งสละเรือ: คำสั่งวาจาของนายเรือ · ประกาศ PA ระบุชนิดเหตุและตำแหน่งเสมอ · การฝึก: ประกาศว่า "This is a drill"</text>
+<text x="46.0" y="570.0" font-size="12" text-anchor="start" fill="#0f172a">• ทุกคนต้องรู้: จุดรวมพล หน้าที่ของตน ทางหนี ตำแหน่ง lifejacket/immersion suit/EEBD ของตน</text>
+<text x="500.0" y="600.0" font-size="11.5" text-anchor="middle" fill="#334155">บันทึกการฝึกทุกครั้งใน log book (SOLAS III/19.5) — ถ้าไม่ได้ฝึกตามกำหนด ต้องบันทึกเหตุผลและขอบเขตที่ทำได้</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 580" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="580" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ขนาดหลักของเรือ (Principal dimensions)</text>
+<path d="M 120 300 L 760 300 Q 800 300 820 260 L 860 170 L 120 175 L 100 170 Q 90 240 120 300 Z" fill="#f1f5f9" stroke="#0f172a" stroke-width="2.5"/><line x1="60.0" y1="240.0" x2="900.0" y2="240.0" stroke="#0284c7" stroke-width="1.8" stroke-dasharray="8 5"/>
+<line x1="100.0" y1="120.0" x2="860.0" y2="120.0" stroke="#b91c1c" stroke-width="1.5" marker-end="url(#arR)"/>
+<line x1="860.0" y1="120.0" x2="100.0" y2="120.0" stroke="#b91c1c" stroke-width="1.5" marker-end="url(#arR)"/>
+<text x="480.0" y="112.0" font-size="12" text-anchor="middle" fill="#b91c1c" font-weight="bold">LOA — ความยาวตลอดลำ</text>
+<line x1="120.0" y1="350.0" x2="822.0" y2="350.0" stroke="#1d4ed8" stroke-width="1.5" marker-end="url(#arB)"/>
+<line x1="822.0" y1="350.0" x2="120.0" y2="350.0" stroke="#1d4ed8" stroke-width="1.5" marker-end="url(#arB)"/>
+<text x="470.0" y="368.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">LBP — ระหว่าง AP (แกนหางเสือ) ถึง FP (หัวเรือที่แนวน้ำบรรทุกฤดูร้อน)</text>
+<line x1="120.0" y1="130.0" x2="120.0" y2="345.0" stroke="#1d4ed8" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="120.0" y="390.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">AP</text>
+<line x1="822.0" y1="130.0" x2="822.0" y2="345.0" stroke="#1d4ed8" stroke-width="1" stroke-dasharray="4 3"/>
+<text x="822.0" y="390.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">FP</text>
+<line x1="471.0" y1="164.0" x2="471.0" y2="320.0" stroke="#64748b" stroke-width="1" stroke-dasharray="2 4"/>
+<text x="471.0" y="334.0" font-size="11" text-anchor="middle" fill="#475569">⊗ กลางลำ (amidships)</text>
+<line x1="501.0" y1="172.6" x2="501.0" y2="240.0" stroke="#15803d" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="507.0" y="210.3" font-size="11.5" text-anchor="start" fill="#15803d" font-weight="bold">Freeboard (กลางลำ)</text>
+<line x1="501.0" y1="240.0" x2="501.0" y2="300.0" stroke="#7c3aed" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="507.0" y="276.0" font-size="11.5" text-anchor="start" fill="#7c3aed" font-weight="bold">Draught</text>
+<line x1="441.0" y1="172.6" x2="441.0" y2="300.0" stroke="#0f172a" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="435.0" y="236.3" font-size="11.5" text-anchor="end" fill="#0f172a" font-weight="bold">Depth (moulded)</text>
+<text x="700.0" y="160.0" font-size="11.5" text-anchor="middle" fill="#334155">Sheer — ดาดฟ้าโค้งขึ้นที่หัว/ท้าย</text>
+<path d="M 560 430 L 570 510 Q 575 530 600 532 L 760 532 Q 785 530 790 510 L 800 430" fill="#f1f5f9" stroke="#0f172a" stroke-width="2"/><path d="M 560 430 Q 680 412 800 430" fill="none" stroke="#0f172a" stroke-width="2"/><text x="680.0" y="408.0" font-size="11" text-anchor="middle" fill="#334155" font-weight="bold">Camber</text>
+<line x1="560.0" y1="546.0" x2="800.0" y2="546.0" stroke="#c2410c" stroke-width="1.5" marker-end="url(#ar)"/>
+<text x="680.0" y="566.0" font-size="11.5" text-anchor="middle" fill="#c2410c" font-weight="bold">Breadth (moulded/extreme)</text>
+<text x="550.0" y="470.0" font-size="11" text-anchor="end" fill="#334155">Flare/tumblehome</text>
+<rect x="40.0" y="420.0" width="330.0" height="110.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="54.0" y="444.0" font-size="12" text-anchor="start" fill="#0f172a">Moulded = วัดถึงด้านในของแผ่นเปลือก</text>
+<text x="54.0" y="463.0" font-size="12" text-anchor="start" fill="#0f172a">Extreme = วัดถึงด้านนอกสุด</text>
+<text x="54.0" y="482.0" font-size="12" text-anchor="start" fill="#0f172a">GT/NT — ตาม Tonnage Convention 1969</text>
+<text x="54.0" y="501.0" font-size="12" text-anchor="start" fill="#0f172a">(ปริมาตร ไม่ใช่น้ำหนัก)</text>
+<text x="54.0" y="520.0" font-size="12" text-anchor="start" fill="#0f172a">DWT/Δ — น้ำหนัก (ตัน)</text>
+</svg>

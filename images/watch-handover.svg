@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การรับ-ส่งยาม (STCW A-VIII/2 Part 4-1 วรรค 19–23) — สิ่งที่ผู้รับยามต้องรู้ก่อนรับ</text>
+<rect x="30" y="60" width="300" height="180" rx="10" fill="#f8fafc" stroke="#1e3a8a"/>
+<rect x="30" y="60" width="300" height="36" rx="10" fill="#1e3a8a"/><text x="180" y="84" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">คำสั่งและข้อจำกัด</text>
+<text x="46" y="130" font-size="14">☐ Master's standing orders</text>
+<text x="46" y="164" font-size="14">☐ Night orders / คำสั่งพิเศษ</text>
+<text x="46" y="198" font-size="14">☐ สถานะ passage plan</text>
+<rect x="350" y="60" width="300" height="180" rx="10" fill="#f8fafc" stroke="#1e3a8a"/>
+<rect x="350" y="60" width="300" height="36" rx="10" fill="#1e3a8a"/><text x="500" y="84" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">ตำแหน่งและการเคลื่อนที่</text>
+<text x="366" y="130" font-size="14">☐ ตำแหน่ง เข็ม ความเร็ว</text>
+<text x="366" y="164" font-size="14">☐ draught, UKC (squat, heel, trim)</text>
+<text x="366" y="198" font-size="14">☐ set &amp; drift ล่าสุด</text>
+<rect x="670" y="60" width="300" height="180" rx="10" fill="#f8fafc" stroke="#1e3a8a"/>
+<rect x="670" y="60" width="300" height="36" rx="10" fill="#1e3a8a"/><text x="820" y="84" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">สภาพแวดล้อม</text>
+<text x="686" y="130" font-size="14">☐ น้ำขึ้นลง กระแสน้ำ</text>
+<text x="686" y="164" font-size="14">☐ อากาศ ทัศนวิสัย (ปัจจุบัน/พยากรณ์)</text>
+<text x="686" y="198" font-size="14">☐ อันตรายที่จะเจอในยาม</text>
+<rect x="30" y="260" width="300" height="180" rx="10" fill="#f8fafc" stroke="#1e3a8a"/>
+<rect x="30" y="260" width="300" height="36" rx="10" fill="#1e3a8a"/><text x="180" y="284" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">การจราจร</text>
+<text x="46" y="330" font-size="14">☐ เรือที่มองเห็นหรือรู้ว่าอยู่ใกล้</text>
+<text x="46" y="364" font-size="14">☐ CPA/TCPA เป้าสำคัญ</text>
+<text x="46" y="398" font-size="14">☐ การตกลงกับเรืออื่น/VTS</text>
+<rect x="350" y="260" width="300" height="180" rx="10" fill="#f8fafc" stroke="#1e3a8a"/>
+<rect x="350" y="260" width="300" height="36" rx="10" fill="#1e3a8a"/><text x="500" y="284" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">อุปกรณ์</text>
+<text x="366" y="330" font-size="14">☐ สภาพเครื่องมือเดินเรือ/ความปลอดภัย</text>
+<text x="366" y="364" font-size="14">☐ gyro/magnetic compass error</text>
+<text x="366" y="398" font-size="14">☐ โหมดถือท้าย, ไฟเดินเรือ</text>
+<rect x="670" y="260" width="300" height="180" rx="10" fill="#f8fafc" stroke="#1e3a8a"/>
+<rect x="670" y="260" width="300" height="36" rx="10" fill="#1e3a8a"/><text x="820" y="284" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">เครื่องจักรและอื่น ๆ</text>
+<text x="686" y="330" font-size="14">☐ ขั้นตอนใช้เครื่องจักรบังคับเรือ</text>
+<text x="686" y="364" font-size="14">☐ งานบนดาดฟ้า/คนทำงานข้างนอก</text>
+<text x="686" y="398" font-size="14">☐ GMDSS, NAVTEX ใหม่</text>
+<text x="30" y="490" font-size="13" fill="#b91c1c" font-weight="bold">ห้ามส่งยามระหว่างกำลังบังคับเรือหลบหลีก · ผู้รับยามต้องปรับสายตาให้ชินความมืดก่อน · ถ้าผู้รับยามไม่พร้อม (ป่วย เมา) ห้ามส่ง แจ้งนายเรือ</text>
+</svg>

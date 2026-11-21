@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ประเภทของไฟ (ISO 3941 — ใช้ในแนวทาง IMO) และสารดับเพลิงที่เหมาะสม</text>
+<rect x="230.0" y="70.0" width="114.0" height="70.0" rx="8" fill="#15803d" stroke="#15803d" stroke-width="0"/>
+<text x="287.0" y="100.0" font-size="22" text-anchor="middle" fill="#fff" font-weight="bold">A</text>
+<text x="287.0" y="122.0" font-size="11" text-anchor="middle" fill="#fff" font-weight="bold">ของแข็ง</text>
+<text x="287.0" y="136.0" font-size="9" text-anchor="middle" fill="#fff">(ไม้ ผ้า กระดาษ พลาสติก)</text>
+<rect x="350.0" y="70.0" width="114.0" height="70.0" rx="8" fill="#b91c1c" stroke="#b91c1c" stroke-width="0"/>
+<text x="407.0" y="100.0" font-size="22" text-anchor="middle" fill="#fff" font-weight="bold">B</text>
+<text x="407.0" y="122.0" font-size="11" text-anchor="middle" fill="#fff" font-weight="bold">ของเหลวไวไฟ</text>
+<text x="407.0" y="136.0" font-size="9" text-anchor="middle" fill="#fff">(น้ำมัน สี ตัวทำละลาย)</text>
+<rect x="470.0" y="70.0" width="114.0" height="70.0" rx="8" fill="#ca8a04" stroke="#ca8a04" stroke-width="0"/>
+<text x="527.0" y="100.0" font-size="22" text-anchor="middle" fill="#fff" font-weight="bold">C</text>
+<text x="527.0" y="122.0" font-size="11" text-anchor="middle" fill="#fff" font-weight="bold">ก๊าซไวไฟ</text>
+<text x="527.0" y="136.0" font-size="9" text-anchor="middle" fill="#fff">(LPG อะเซทิลีน มีเทน)</text>
+<rect x="590.0" y="70.0" width="114.0" height="70.0" rx="8" fill="#475569" stroke="#475569" stroke-width="0"/>
+<text x="647.0" y="100.0" font-size="22" text-anchor="middle" fill="#fff" font-weight="bold">D</text>
+<text x="647.0" y="122.0" font-size="11" text-anchor="middle" fill="#fff" font-weight="bold">โลหะ</text>
+<text x="647.0" y="136.0" font-size="9" text-anchor="middle" fill="#fff">(Mg, ผง Al, Na, Li)</text>
+<rect x="710.0" y="70.0" width="114.0" height="70.0" rx="8" fill="#7c3aed" stroke="#7c3aed" stroke-width="0"/>
+<text x="767.0" y="100.0" font-size="22" text-anchor="middle" fill="#fff" font-weight="bold">F</text>
+<text x="767.0" y="122.0" font-size="11" text-anchor="middle" fill="#fff" font-weight="bold">น้ำมันทำอาหาร</text>
+<text x="767.0" y="136.0" font-size="9" text-anchor="middle" fill="#fff">(ในครัว)</text>
+<rect x="830.0" y="70.0" width="114.0" height="70.0" rx="8" fill="#0369a1" stroke="#0369a1" stroke-width="0"/>
+<text x="887.0" y="100.0" font-size="22" text-anchor="middle" fill="#fff" font-weight="bold">ไฟฟ้า</text>
+<text x="887.0" y="122.0" font-size="11" text-anchor="middle" fill="#fff" font-weight="bold">อุปกรณ์ที่มีไฟ</text>
+<text x="887.0" y="136.0" font-size="9" text-anchor="middle" fill="#fff">(ไม่ใช่ class ใน ISO)</text>
+<rect x="40.0" y="150.0" width="180.0" height="40.0" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="52.0" y="176.0" font-size="13" text-anchor="start" fill="#0f172a" font-weight="bold">น้ำ (jet)</text>
+<rect x="230.0" y="150.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="287.0" y="177.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="350.0" y="150.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="407.0" y="177.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="470.0" y="150.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="527.0" y="177.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="590.0" y="150.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="647.0" y="177.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="710.0" y="150.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="767.0" y="177.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="830.0" y="150.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="887.0" y="177.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="40.0" y="196.0" width="180.0" height="40.0" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="52.0" y="222.0" font-size="13" text-anchor="start" fill="#0f172a" font-weight="bold">น้ำ (spray/mist)</text>
+<rect x="230.0" y="196.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="287.0" y="223.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="350.0" y="196.0" width="114.0" height="40.0" rx="6" fill="#fef9c3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="407.0" y="223.0" font-size="18" text-anchor="middle" fill="#ca8a04" font-weight="bold">△</text>
+<rect x="470.0" y="196.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="527.0" y="223.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="590.0" y="196.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="647.0" y="223.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="710.0" y="196.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="767.0" y="223.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="830.0" y="196.0" width="114.0" height="40.0" rx="6" fill="#fef9c3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="887.0" y="223.0" font-size="18" text-anchor="middle" fill="#ca8a04" font-weight="bold">△</text>
+<rect x="40.0" y="242.0" width="180.0" height="40.0" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="52.0" y="268.0" font-size="13" text-anchor="start" fill="#0f172a" font-weight="bold">โฟม</text>
+<rect x="230.0" y="242.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="287.0" y="269.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="350.0" y="242.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="407.0" y="269.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="470.0" y="242.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="527.0" y="269.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="590.0" y="242.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="647.0" y="269.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="710.0" y="242.0" width="114.0" height="40.0" rx="6" fill="#fef9c3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="767.0" y="269.0" font-size="18" text-anchor="middle" fill="#ca8a04" font-weight="bold">△</text>
+<rect x="830.0" y="242.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="887.0" y="269.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="40.0" y="288.0" width="180.0" height="40.0" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="52.0" y="314.0" font-size="13" text-anchor="start" fill="#0f172a" font-weight="bold">ผง ABC</text>
+<rect x="230.0" y="288.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="287.0" y="315.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="350.0" y="288.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="407.0" y="315.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="470.0" y="288.0" width="114.0" height="40.0" rx="6" fill="#fef9c3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="527.0" y="315.0" font-size="18" text-anchor="middle" fill="#ca8a04" font-weight="bold">△</text>
+<rect x="590.0" y="288.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="647.0" y="315.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="710.0" y="288.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="767.0" y="315.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="830.0" y="288.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="887.0" y="315.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="40.0" y="334.0" width="180.0" height="40.0" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="52.0" y="360.0" font-size="13" text-anchor="start" fill="#0f172a" font-weight="bold">CO₂</text>
+<rect x="230.0" y="334.0" width="114.0" height="40.0" rx="6" fill="#fef9c3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="287.0" y="361.0" font-size="18" text-anchor="middle" fill="#ca8a04" font-weight="bold">△</text>
+<rect x="350.0" y="334.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="407.0" y="361.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="470.0" y="334.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="527.0" y="361.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="590.0" y="334.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="647.0" y="361.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="710.0" y="334.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="767.0" y="361.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="830.0" y="334.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="887.0" y="361.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="40.0" y="380.0" width="180.0" height="40.0" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="52.0" y="406.0" font-size="13" text-anchor="start" fill="#0f172a" font-weight="bold">Wet chemical</text>
+<rect x="230.0" y="380.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="287.0" y="407.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="350.0" y="380.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="407.0" y="407.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="470.0" y="380.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="527.0" y="407.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="590.0" y="380.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="647.0" y="407.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="710.0" y="380.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="767.0" y="407.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="830.0" y="380.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="887.0" y="407.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="40.0" y="426.0" width="180.0" height="40.0" rx="6" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+<text x="52.0" y="452.0" font-size="13" text-anchor="start" fill="#0f172a" font-weight="bold">ผงพิเศษ (D)</text>
+<rect x="230.0" y="426.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="287.0" y="453.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="350.0" y="426.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="407.0" y="453.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="470.0" y="426.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="527.0" y="453.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="590.0" y="426.0" width="114.0" height="40.0" rx="6" fill="#dcfce7" stroke="#e2e8f0" stroke-width="1"/>
+<text x="647.0" y="453.0" font-size="18" text-anchor="middle" fill="#15803d" font-weight="bold">✔</text>
+<rect x="710.0" y="426.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="767.0" y="453.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<rect x="830.0" y="426.0" width="114.0" height="40.0" rx="6" fill="#fee2e2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="887.0" y="453.0" font-size="18" text-anchor="middle" fill="#b91c1c" font-weight="bold">✘</text>
+<text x="40.0" y="488.0" font-size="12" text-anchor="start" fill="#0f172a">✔ เหมาะสม · △ ใช้ได้จำกัด/มีเงื่อนไข (เช่น CO₂ กับไฟ A ดับผิวแต่ไม่เย็นลึก; ไฟก๊าซต้องปิดต้นทางก่อน; spray น้ำกับไฟฟ้าแรงต่ำตามคู่มือ) · ✘ ไม่เหมาะ/อันตราย</text>
+<text x="40.0" y="508.0" font-size="12" text-anchor="start" fill="#475569">ระบบสหรัฐฯ (NFPA): A, B, C = ไฟฟ้า, D, K = น้ำมันทำอาหาร — ดูป้ายบนถังดับเพลิงของเรือเสมอ</text>
+</svg>

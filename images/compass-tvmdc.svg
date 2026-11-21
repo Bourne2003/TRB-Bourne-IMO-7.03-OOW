@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="960" height="520" fill="#fff"/>
+<defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="context-stroke"/></marker></defs>
+<text x="480.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">True – Magnetic – Compass North (ตัวอย่าง: Var 0.5°W, Dev 2.1°E)</text>
+<line x1="260" y1="430" x2="260.0" y2="90.0" stroke="#15803d" stroke-width="3.5" marker-end="url(#a)"/>
+<text x="234.0" y="80.0" font-size="15" font-weight="bold" fill="#15803d">True N</text>
+<line x1="260" y1="430" x2="214.1" y2="103.2" stroke="#1d4ed8" stroke-width="3" marker-end="url(#a)"/>
+<text x="104.1" y="95.2" font-size="15" font-weight="bold" fill="#1d4ed8">Magnetic N</text>
+<line x1="260" y1="430" x2="337.4" y2="119.5" stroke="#b91c1c" stroke-width="3" marker-end="url(#a)"/>
+<text x="343.4" y="111.5" font-size="15" font-weight="bold" fill="#b91c1c">Compass N</text>
+<path d="M 228.0 202.2 A 230 230 0 0 1 260.0 200.0" fill="none" stroke="#1d4ed8" stroke-width="2.5"/>
+<text x="123.1" y="178.6" font-size="13" font-weight="bold" fill="#1d4ed8">Variation (W)</text>
+<path d="M 221.0 152.7 A 280 280 0 0 1 327.7 158.3" fill="none" stroke="#b91c1c" stroke-width="2.5"/>
+<text x="347.3" y="168.4" font-size="13" font-weight="bold" fill="#b91c1c">Deviation (E)</text>
+<circle cx="260" cy="430" r="6" fill="#0f172a"/>
+<text x="40" y="500" font-size="12" fill="#64748b">(มุมในภาพขยายให้เห็นชัด ไม่ได้ตามสเกล)</text>
+<rect x="520" y="70" width="420" height="420" rx="10" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="540" y="102" font-size="15" font-weight="bold">T  →  V  →  M  →  D  →  C</text>
+<text x="540" y="127" font-size="15">True Virgins Make Dull Company</text>
+<text x="540" y="152" font-size="15"></text>
+<text x="540" y="177" font-size="15" font-weight="bold">Compass Error = Variation + Deviation</text>
+<text x="540" y="202" font-size="15">(E = +, W = −)</text>
+<text x="540" y="227" font-size="15"></text>
+<text x="540" y="252" font-size="15">Compass → True : บวก E / ลบ W</text>
+<text x="540" y="277" font-size="15">True → Compass : ลบ E / บวก W</text>
+<text x="540" y="302" font-size="15">"Error East, Compass Least;</text>
+<text x="540" y="327" font-size="15"> Error West, Compass Best"</text>
+<text x="540" y="352" font-size="15"></text>
+<text x="540" y="377" font-size="15">ตัวอย่าง: True 160.0°</text>
+<text x="540" y="402" font-size="15">+ Var 0.5°W → Magnetic 160.5°</text>
+<text x="540" y="427" font-size="15">− Dev 2.1°E → Compass 158.4°C</text>
+<text x="540" y="452" font-size="15" font-weight="bold">CE = 1.6°E → Compass = True − 1.6°</text>
+</svg>

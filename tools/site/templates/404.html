@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ไม่พบหน้านี้ · สมุดบันทึกการฝึก OOW</title>
+<meta name="robots" content="noindex">
+<meta name="color-scheme" content="light dark">
+<!--
+  GitHub Pages serves this one file for every missing path, at any depth, so nothing here can be a relative URL.
+  - CSS and JS are inline. The script finds the site base: the path up to the project segment {{BASE_PATH}}
+    (works on *.github.io and on a custom domain), then sets the links and attaches the site's own fonts from there.
+  - Old GitHub-style links (*.md, README.md) are sent to the matching .html page, keeping ?query and #fragment.
+  - Without JavaScript the links point at the canonical address {{SITE_URL}}.
+  - The reader's theme (Aa panel, stored in localStorage) is honoured, as on every other page.
+  The site address and its path are filled in by tools/build_site.py from its SITE_URL constant.
+-->
+<script>
+(function(){var r=document.documentElement;try{var p=JSON.parse(localStorage.getItem('oow703:prefs')||'{}')||{};
+if(/^(light|sepia|dark)$/.test(p.theme))r.setAttribute('data-theme',p.theme);}catch(e){}})();
+</script>
+<style>
+:root{color-scheme:light;--paper:#FCFBF8;--ink:#1F1D1A;--muted:#6B655C;--link:#24477A;--rule:#E4DFD5}
+:root[data-theme="sepia"]{--paper:#F4ECD8;--ink:#3B2F22;--muted:#6E5F4B;--link:#2E4C6D;--rule:#DCCFB2}
+@media (prefers-color-scheme:dark){:root:not([data-theme]){color-scheme:dark;--paper:#1A1917;--ink:#E6E1D6;--muted:#A39C8E;--link:#9DB8E0;--rule:#34312C}}
+:root[data-theme="dark"]{color-scheme:dark;--paper:#1A1917;--ink:#E6E1D6;--muted:#A39C8E;--link:#9DB8E0;--rule:#34312C}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%;font-synthesis:none}
+body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:2rem 1.25rem;
+  background:var(--paper);color:var(--ink);font:400 1.0625rem/1.75 "Sarabun","Noto Sans Thai","Leelawadee UI",Thonburi,Tahoma,sans-serif}
+main{max-width:30rem;text-align:center}
+.k{margin:0 0 .75rem;font-size:.8125rem;line-height:1.5;color:var(--muted)}
+h1{margin:0;font:600 1.75rem/1.5 "Trirong","Sarabun","Noto Serif Thai",Tahoma,serif}
+p{margin:.75rem 0 0}
+.m{color:var(--muted)}
+.l{margin-top:1.75rem;padding-top:1.25rem;border-top:1px solid var(--rule)}
+a{color:var(--link);text-decoration:underline 1px;text-underline-offset:.32em;display:inline-block;min-height:2.75rem;line-height:2.75rem;padding:0 .4rem}
+a:focus-visible{outline:2px solid var(--link);outline-offset:3px;border-radius:2px}
+</style>
+</head>
+<body>
+<main>
+<p class="k">สมุดบันทึกการฝึก OOW · TIRAPHONG NANTAPAN</p>
+<h1>ไม่พบหน้านี้</h1>
+<p class="m">หน้าอาจถูกย้าย หรือที่อยู่พิมพ์ผิด</p>
+<p class="l"><a id="go-home" href="{{SITE_URL}}index.html">หน้าแรก</a> · <a id="go-toc" href="{{SITE_URL}}index.html#toc">สารบัญ</a> · <a id="go-search" href="{{SITE_URL}}search.html">ค้นหา</a></p>
+</main>
+<script>
+(function(){
+  var P = '{{BASE_PATH}}', p = location.pathname, i = p.toLowerCase().indexOf(P.toLowerCase()), base = '/';
+  if (i >= 0) base = p.slice(0, i + P.length);
+  else if (/\.github\.io$/i.test(location.hostname)) { var s = p.split('/')[1]; base = s ? '/' + s + '/' : '/'; }
+  if (/\.md$/i.test(p)) {
+    var to = /(^|\/)README\.md$/i.test(p) ? base + 'index.html' : p.replace(/\.md$/i, '.html');
+    location.replace(to + location.search + location.hash);
+    return;
+  }
+  document.getElementById('go-home').href = base + 'index.html';
+  document.getElementById('go-toc').href = base + 'index.html#toc';
+  document.getElementById('go-search').href = base + 'search.html';
+  var F = base + 'assets/fonts/', R = {
+    thai: 'U+02D7,U+0303,U+0331,U+0E01-0E5B,U+200C-200D,U+25CC',
+    latin: 'U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD'
+  }, css = '';
+  [['Sarabun', 'sarabun', 400], ['Trirong', 'trirong', 600]].forEach(function (f) {
+    ['thai', 'latin'].forEach(function (sub) {
+      css += '@font-face{font-family:' + f[0] + ';font-weight:' + f[2] + ';font-display:swap;src:url("' + F + f[1] + '-' + sub + '-' + f[2] +
+        '-normal.woff2") format("woff2");unicode-range:' + R[sub] + '}';
+    });
+  });
+  var st = document.createElement('style');
+  st.textContent = css;
+  document.head.appendChild(st);
+})();
+</script>
+</body>
+</html>

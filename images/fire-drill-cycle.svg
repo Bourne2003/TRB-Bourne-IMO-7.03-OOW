@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="500" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การจัดการฝึกซ้อมดับเพลิง (Organizing fire drills)</text>
+<circle cx="260.0" cy="110.0" r="52" fill="#fff7ed" stroke="#c2410c" stroke-width="2.5"/><text x="260.0" y="106.0" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">วางแผน</text>
+<text x="260.0" y="122.0" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">สถานการณ์</text>
+<circle cx="385.1" cy="170.2" r="52" fill="#fff7ed" stroke="#c2410c" stroke-width="2.5"/><text x="385.1" y="166.2" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">ประเมินความเสี่ยง</text>
+<text x="385.1" y="182.2" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">ของการฝึก</text>
+<circle cx="416.0" cy="305.6" r="52" fill="#fff7ed" stroke="#c2410c" stroke-width="2.5"/><text x="416.0" y="309.6" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">บรีฟทีม</text>
+<circle cx="329.4" cy="414.2" r="52" fill="#fff7ed" stroke="#c2410c" stroke-width="2.5"/><text x="329.4" y="410.2" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">ปฏิบัติเหมือน</text>
+<text x="329.4" y="426.2" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">เหตุจริง</text>
+<circle cx="190.6" cy="414.2" r="52" fill="#fff7ed" stroke="#c2410c" stroke-width="2.5"/><text x="190.6" y="418.2" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">ประเมินผล</text>
+<circle cx="104.0" cy="305.6" r="52" fill="#fff7ed" stroke="#c2410c" stroke-width="2.5"/><text x="104.0" y="301.6" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">Debrief</text>
+<text x="104.0" y="317.6" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">บทเรียน</text>
+<circle cx="134.9" cy="170.2" r="52" fill="#fff7ed" stroke="#c2410c" stroke-width="2.5"/><text x="134.9" y="166.2" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">บันทึก</text>
+<text x="134.9" y="182.2" font-size="11" text-anchor="middle" fill="#7c2d12" font-weight="bold">ปรับปรุง</text>
+<circle cx="260" cy="270" r="70" fill="#fef2f2" stroke="#b91c1c" stroke-width="2" stroke-dasharray="6 4"/><text x="260.0" y="266.0" font-size="14" text-anchor="middle" fill="#b91c1c" font-weight="bold">ทุกเดือน</text>
+<text x="260.0" y="286.0" font-size="11" text-anchor="middle" fill="#b91c1c">(SOLAS III/19)</text>
+<rect x="500.0" y="60.0" width="470.0" height="420.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="514.0" y="84.0" font-size="12.2" text-anchor="start" fill="#0f172a" font-weight="bold">สิ่งที่ fire drill ต้องมี (SOLAS III/19.3.4)</text>
+<text x="514.0" y="105.0" font-size="12.2" text-anchor="start" fill="#0f172a">• รายงานตัวที่สถานีและเตรียมปฏิบัติหน้าที่ตาม muster list</text>
+<text x="514.0" y="126.0" font-size="12.2" text-anchor="start" fill="#0f172a">• เดินเครื่องสูบดับเพลิง ใช้หัวฉีดน้ำอย่างน้อย 2 ชุด</text>
+<text x="514.0" y="147.0" font-size="12.2" text-anchor="start" fill="#0f172a">  แสดงว่าระบบทำงานได้</text>
+<text x="514.0" y="168.0" font-size="12.2" text-anchor="start" fill="#0f172a">• ตรวจชุดนักดับเพลิงและอุปกรณ์ช่วยชีวิตส่วนบุคคล</text>
+<text x="514.0" y="189.0" font-size="12.2" text-anchor="start" fill="#0f172a">• ตรวจอุปกรณ์สื่อสารที่เกี่ยวข้อง</text>
+<text x="514.0" y="210.0" font-size="12.2" text-anchor="start" fill="#0f172a">• ตรวจการทำงานของประตูกันน้ำ ประตูกันไฟ fire dampers</text>
+<text x="514.0" y="231.0" font-size="12.2" text-anchor="start" fill="#0f172a">  และช่องลมเข้า-ออกหลักของระบบระบายอากาศในพื้นที่ฝึก</text>
+<text x="514.0" y="252.0" font-size="12.2" text-anchor="start" fill="#0f172a">• ตรวจการเตรียมการสำหรับการสละเรือที่อาจตามมา</text>
+<text x="514.0" y="273.0" font-size="12.2" text-anchor="start" fill="#0f172a"></text>
+<text x="514.0" y="294.0" font-size="12.2" text-anchor="start" fill="#0f172a" font-weight="bold">ข้อกำหนดเวลา</text>
+<text x="514.0" y="315.0" font-size="12.2" text-anchor="start" fill="#0f172a">• ลูกเรือทุกคนฝึก fire drill และ abandon ship drill</text>
+<text x="514.0" y="336.0" font-size="12.2" text-anchor="start" fill="#0f172a">  อย่างน้อยเดือนละครั้ง</text>
+<text x="514.0" y="357.0" font-size="12.2" text-anchor="start" fill="#0f172a">• ภายใน 24 ชม. หลังออกจากท่า ถ้าลูกเรือเกิน 25%</text>
+<text x="514.0" y="378.0" font-size="12.2" text-anchor="start" fill="#0f172a">  ไม่ได้ร่วมฝึกบนเรือลำนั้นในเดือนก่อน</text>
+<text x="514.0" y="399.0" font-size="12.2" text-anchor="start" fill="#0f172a">• บันทึกใน logbook (วันที่ รายละเอียด อุปกรณ์ที่ใช้)</text>
+<text x="514.0" y="420.0" font-size="12.2" text-anchor="start" fill="#0f172a"></text>
+<text x="514.0" y="441.0" font-size="12.2" text-anchor="start" fill="#0f172a">เคล็ดลับ: เปลี่ยนสถานที่และชนิดไฟทุกครั้ง (ห้องเครื่อง ครัว</text>
+<text x="514.0" y="462.0" font-size="12.2" text-anchor="start" fill="#0f172a">ห้องพัก ระวาง/ตู้ DG ห้องสี ไฟฟ้า) ใส่คนบาดเจ็บ/ควัน</text>
+</svg>

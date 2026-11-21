@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="480" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การตรวจเรือโดยรัฐเจ้าท่า (Port State Control) — ลำดับทั่วไป</text>
+<rect x="40.0" y="60.0" width="295.0" height="130.0" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="2.5"/>
+<rect x="40.0" y="60.0" width="295.0" height="40.0" rx="12" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<rect x="40.0" y="85.0" width="295.0" height="15.0" rx="0" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="187.0" y="87.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">เลือกเรือ</text>
+<text x="187.0" y="134.0" font-size="11.8" text-anchor="middle" fill="#0f172a">ตามระบบความเสี่ยงของ MOU</text>
+<text x="187.0" y="156.0" font-size="11.8" text-anchor="middle" fill="#0f172a">(ประวัติ อายุ ธง RO บริษัท)</text>
+<line x1="336.0" y1="125.0" x2="353.0" y2="125.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="355.0" y="60.0" width="295.0" height="130.0" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="2.5"/>
+<rect x="355.0" y="60.0" width="295.0" height="40.0" rx="12" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<rect x="355.0" y="85.0" width="295.0" height="15.0" rx="0" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="502.0" y="87.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">Initial inspection</text>
+<text x="502.0" y="134.0" font-size="11.8" text-anchor="middle" fill="#0f172a">ตรวจใบรับรอง/เอกสาร</text>
+<text x="502.0" y="156.0" font-size="11.8" text-anchor="middle" fill="#0f172a">ความประทับใจทั่วไป สภาพเรือ</text>
+<line x1="651.0" y1="125.0" x2="668.0" y2="125.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="670.0" y="60.0" width="295.0" height="130.0" rx="12" fill="#fff" stroke="#ca8a04" stroke-width="2.5"/>
+<rect x="670.0" y="60.0" width="295.0" height="40.0" rx="12" fill="#ca8a04" stroke="#ca8a04" stroke-width="0"/>
+<rect x="670.0" y="85.0" width="295.0" height="15.0" rx="0" fill="#ca8a04" stroke="#ca8a04" stroke-width="0"/>
+<text x="817.0" y="87.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">Clear grounds?</text>
+<text x="817.0" y="134.0" font-size="11.8" text-anchor="middle" fill="#0f172a">ใบรับรองไม่ถูกต้อง ข้อบกพร่องชัด</text>
+<text x="817.0" y="156.0" font-size="11.8" text-anchor="middle" fill="#0f172a">ลูกเรือไม่คุ้นเคยขั้นตอนสำคัญ</text>
+<rect x="40.0" y="220.0" width="295.0" height="130.0" rx="12" fill="#fff" stroke="#ca8a04" stroke-width="2.5"/>
+<rect x="40.0" y="220.0" width="295.0" height="40.0" rx="12" fill="#ca8a04" stroke="#ca8a04" stroke-width="0"/>
+<rect x="40.0" y="245.0" width="295.0" height="15.0" rx="0" fill="#ca8a04" stroke="#ca8a04" stroke-width="0"/>
+<text x="187.0" y="247.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">More detailed inspection</text>
+<text x="187.0" y="294.0" font-size="11.8" text-anchor="middle" fill="#0f172a">ตรวจละเอียด ทดสอบอุปกรณ์</text>
+<text x="187.0" y="316.0" font-size="11.8" text-anchor="middle" fill="#0f172a">สั่งฝึกซ้อม (fire/abandon ship)</text>
+<line x1="336.0" y1="285.0" x2="353.0" y2="285.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="355.0" y="220.0" width="295.0" height="130.0" rx="12" fill="#fff" stroke="#c2410c" stroke-width="2.5"/>
+<rect x="355.0" y="220.0" width="295.0" height="40.0" rx="12" fill="#c2410c" stroke="#c2410c" stroke-width="0"/>
+<rect x="355.0" y="245.0" width="295.0" height="15.0" rx="0" fill="#c2410c" stroke="#c2410c" stroke-width="0"/>
+<text x="502.0" y="247.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">ผลการตรวจ</text>
+<text x="502.0" y="294.0" font-size="11.8" text-anchor="middle" fill="#0f172a">ไม่มีข้อบกพร่อง / ข้อบกพร่องต้องแก้</text>
+<text x="502.0" y="316.0" font-size="11.8" text-anchor="middle" fill="#0f172a">ภายในเวลา / ก่อนออก</text>
+<line x1="651.0" y1="285.0" x2="668.0" y2="285.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="670.0" y="220.0" width="295.0" height="130.0" rx="12" fill="#fff" stroke="#b91c1c" stroke-width="2.5"/>
+<rect x="670.0" y="220.0" width="295.0" height="40.0" rx="12" fill="#b91c1c" stroke="#b91c1c" stroke-width="0"/>
+<rect x="670.0" y="245.0" width="295.0" height="15.0" rx="0" fill="#b91c1c" stroke="#b91c1c" stroke-width="0"/>
+<text x="817.0" y="247.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">Detention</text>
+<text x="817.0" y="294.0" font-size="11.8" text-anchor="middle" fill="#0f172a">ข้อบกพร่องร้ายแรงที่ทำให้เรือไม่ปลอดภัย</text>
+<text x="817.0" y="316.0" font-size="11.8" text-anchor="middle" fill="#0f172a">กักเรือจนแก้ไข — เผยแพร่ข้อมูล</text>
+<rect x="40.0" y="385.0" width="920.0" height="85.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="56.0" y="410.0" font-size="11.8" text-anchor="start" fill="#0f172a">MOU ภูมิภาค เช่น Paris MOU, Tokyo MOU (เอเชีย-แปซิฟิก), Indian Ocean MOU · USCG ใช้ระบบของสหรัฐฯ เอง (ไม่ใช่ MOU) — มี CIC หัวข้อเฉพาะทุกปี</text>
+<text x="56.0" y="434.0" font-size="11.8" text-anchor="start" fill="#0f172a">OOW ช่วยได้มาก: รู้หน้าที่ฉุกเฉินของตน สาธิตอุปกรณ์ที่รับผิดชอบได้ (ECDIS, GMDSS, LSA, ไฟฉุกเฉิน) บันทึกตรงกัน (log, ชั่วโมงพัก)</text>
+<text x="56.0" y="458.0" font-size="11.8" text-anchor="start" fill="#0f172a">ตอบคำถามตามจริง สุภาพ แจ้งนายเรือ — ข้อบกพร่องเล็ก ๆ ที่แก้ได้ทันที ควรแก้ก่อนเรือเข้าท่า (เตรียม PSC checklist ล่วงหน้า)</text>
+</svg>

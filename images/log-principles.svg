@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+  <rect width="960" height="470" fill="#fff"/>
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1d4ed8"/></marker>
+  <marker id="b" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#b91c1c"/></marker></defs>
+  <text x="480" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">หลักการ Log: Electromagnetic และ Doppler</text>
+  <text x="240" y="66" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e3a8a">EM log (STW)</text>
+  <rect x="40" y="90" width="400" height="80" fill="#64748b"/><text x="240" y="135" text-anchor="middle" font-size="14" fill="#fff">ท้องเรือ</text>
+  <rect x="215" y="170" width="50" height="22" rx="6" fill="#0f172a"/>
+  <path d="M 200 192 Q 240 250 280 192" fill="none" stroke="#7c3aed" stroke-width="2"/><path d="M 185 192 Q 240 285 295 192" fill="none" stroke="#7c3aed" stroke-width="2"/>
+  <text x="300" y="235" font-size="13" fill="#7c3aed">สนามแม่เหล็กจากขดลวด</text>
+  <line x1="80" y1="300" x2="400" y2="300" stroke="#1d4ed8" stroke-width="3" marker-end="url(#a)"/><text x="90" y="290" font-size="13" fill="#1d4ed8">น้ำไหลผ่าน (ตัวนำ)</text>
+  <text x="50" y="340" font-size="13">E = B × l × v  (Faraday)</text>
+  <text x="50" y="362" font-size="13">แรงดันที่ขั้วไฟฟ้า ∝ ความเร็วผ่านน้ำ</text>
+  <text x="50" y="384" font-size="12" fill="#b45309">ข้อจำกัด: boundary layer, คราบ/เพรียง,</text>
+  <text x="50" y="402" font-size="12" fill="#b45309">ต้อง calibrate · วัดได้เฉพาะเทียบน้ำ</text>
+  <line x1="480" y1="60" x2="480" y2="450" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="720" y="66" text-anchor="middle" font-size="16" font-weight="bold" fill="#991b1b">Doppler log (SOG / STW)</text>
+  <rect x="520" y="90" width="400" height="80" fill="#64748b"/><text x="720" y="135" text-anchor="middle" font-size="14" fill="#fff">ท้องเรือ → ทิศเดินหน้า</text>
+  <rect x="695" y="170" width="50" height="22" rx="6" fill="#0f172a"/>
+  <line x1="705" y1="192" x2="600" y2="400" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#b)"/>
+  <line x1="735" y1="192" x2="840" y2="400" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#b)"/>
+  <path d="M 520 420 L 920 420" stroke="#92400e" stroke-width="5"/><text x="530" y="445" font-size="13" fill="#92400e">พื้นทะเล (bottom track ≤ ~200 m)</text>
+  <text x="625" y="330" text-anchor="end" font-size="12" fill="#b91c1c">ลำหลัง (aft beam):</text>
+  <text x="625" y="346" text-anchor="end" font-size="12" fill="#b91c1c">ความถี่ต่ำลง</text>
+  <text x="815" y="330" font-size="12" fill="#b91c1c">ลำหน้า (fwd beam):</text>
+  <text x="815" y="346" font-size="12" fill="#b91c1c">ความถี่สูงขึ้น</text>
+  <text x="528" y="222" font-size="13">Δf = 2f · v · cos θ / c</text>
+  <text x="528" y="242" font-size="12">(ใช้ผลต่างของลำหน้า-หลัง</text>
+  <text x="528" y="258" font-size="12">ลดผลของ trim/pitch)</text>
+  <text x="790" y="230" font-size="12" fill="#475569">แบบ dual-axis</text>
+  <text x="790" y="248" font-size="12" fill="#475569">วัดความเร็วขวาง</text>
+  <text x="790" y="266" font-size="12" fill="#475569">หัว/ท้ายได้</text>
+</svg>

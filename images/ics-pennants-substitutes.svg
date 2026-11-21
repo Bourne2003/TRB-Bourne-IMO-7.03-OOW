@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 870" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="870" fill="#fff"/>
+<text x="500.0" y="32" text-anchor="middle" font-size="20" font-weight="bold">ธงตัวเลข (numeral pennants) ธงแทน (substitutes) และธงตอบรับ — ICS</text>
+<text x="500" y="54" text-anchor="middle" font-size="12.5" fill="#334155">ชุดธงสัญญาณ 1 ชุด = ธงอักษร 26 + ธงตัวเลข 10 + ธงแทน 3 + answering pennant 1 (ICS Chapter 1)</text>
+<text x="24" y="86" font-size="15" font-weight="bold" fill="#1e3a8a">1) Numeral pennants — ธงชายรูปเรียว ปลายตัด (ด้านซ้าย = ด้านเสา/hoist)</text>
+<rect x="24" y="100" width="184" height="108" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p28"><path d="M 38 112 L 158 126.0 L 158 154.0 L 38 168 Z"/></clipPath><g clip-path="url(#p28)"><rect x="38.0" y="112.0" width="120.0" height="56.0" fill="#ffffff"/><circle cx="74.0" cy="140.0" r="16.8" fill="#d4202a"/></g><path d="M 38 112 L 158 126.0 L 158 154.0 L 38 168 Z" fill="none" stroke="#475569"/>
+<text x="182" y="148" font-size="24" font-weight="bold" fill="#0f172a">1</text>
+<text x="116" y="194" text-anchor="middle" font-size="11.5">ขาว · วงกลมแดง</text>
+<rect x="218" y="100" width="184" height="108" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p29"><path d="M 232 112 L 352 126.0 L 352 154.0 L 232 168 Z"/></clipPath><g clip-path="url(#p29)"><rect x="232.0" y="112.0" width="120.0" height="56.0" fill="#1f3f9a"/><circle cx="268.0" cy="140.0" r="16.8" fill="#ffffff"/></g><path d="M 232 112 L 352 126.0 L 352 154.0 L 232 168 Z" fill="none" stroke="#475569"/>
+<text x="376" y="148" font-size="24" font-weight="bold" fill="#0f172a">2</text>
+<text x="310" y="194" text-anchor="middle" font-size="11.5">น้ำเงิน · วงกลมขาว</text>
+<rect x="412" y="100" width="184" height="108" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p30"><path d="M 426 112 L 546 126.0 L 546 154.0 L 426 168 Z"/></clipPath><g clip-path="url(#p30)"><rect x="426.0" y="112.0" width="40.0" height="56.0" fill="#d4202a"/><rect x="466.0" y="112.0" width="40.0" height="56.0" fill="#ffffff"/><rect x="506.0" y="112.0" width="41.0" height="56.0" fill="#1f3f9a"/></g><path d="M 426 112 L 546 126.0 L 546 154.0 L 426 168 Z" fill="none" stroke="#475569"/>
+<text x="570" y="148" font-size="24" font-weight="bold" fill="#0f172a">3</text>
+<text x="504" y="194" text-anchor="middle" font-size="11.5">แดง–ขาว–น้ำเงิน (แนวตั้ง)</text>
+<rect x="606" y="100" width="184" height="108" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p31"><path d="M 620 112 L 740 126.0 L 740 154.0 L 620 168 Z"/></clipPath><g clip-path="url(#p31)"><rect x="620.0" y="112.0" width="120.0" height="56.0" fill="#d4202a"/><rect x="620.0" y="133.0" width="120.0" height="14.0" fill="#ffffff"/><rect x="645.2" y="112.0" width="16.8" height="56.0" fill="#ffffff"/></g><path d="M 620 112 L 740 126.0 L 740 154.0 L 620 168 Z" fill="none" stroke="#475569"/>
+<text x="764" y="148" font-size="24" font-weight="bold" fill="#0f172a">4</text>
+<text x="698" y="194" text-anchor="middle" font-size="11.5">แดง · กากบาทขาว</text>
+<rect x="800" y="100" width="184" height="108" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p32"><path d="M 814 112 L 934 126.0 L 934 154.0 L 814 168 Z"/></clipPath><g clip-path="url(#p32)"><rect x="814.0" y="112.0" width="60.0" height="56.0" fill="#f6c800"/><rect x="874.0" y="112.0" width="61.0" height="56.0" fill="#1f3f9a"/></g><path d="M 814 112 L 934 126.0 L 934 154.0 L 814 168 Z" fill="none" stroke="#475569"/>
+<text x="958" y="148" font-size="24" font-weight="bold" fill="#0f172a">5</text>
+<text x="892" y="194" text-anchor="middle" font-size="11.5">เหลือง (ด้านเสา) | น้ำเงิน</text>
+<rect x="24" y="218" width="184" height="108" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p33"><path d="M 38 230 L 158 244.0 L 158 272.0 L 38 286 Z"/></clipPath><g clip-path="url(#p33)"><rect x="38.0" y="230.0" width="120.0" height="28.0" fill="#111111"/><rect x="38.0" y="258.0" width="120.0" height="28.0" fill="#ffffff"/></g><path d="M 38 230 L 158 244.0 L 158 272.0 L 38 286 Z" fill="none" stroke="#475569"/>
+<text x="182" y="266" font-size="24" font-weight="bold" fill="#0f172a">6</text>
+<text x="116" y="312" text-anchor="middle" font-size="11.5">ดำ (บน) / ขาว (ล่าง)</text>
+<rect x="218" y="218" width="184" height="108" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p34"><path d="M 232 230 L 352 244.0 L 352 272.0 L 232 286 Z"/></clipPath><g clip-path="url(#p34)"><rect x="232.0" y="230.0" width="120.0" height="28.0" fill="#f6c800"/><rect x="232.0" y="258.0" width="120.0" height="28.0" fill="#d4202a"/></g><path d="M 232 230 L 352 244.0 L 352 272.0 L 232 286 Z" fill="none" stroke="#475569"/>
+<text x="376" y="266" font-size="24" font-weight="bold" fill="#0f172a">7</text>
+<text x="310" y="312" text-anchor="middle" font-size="11.5">เหลือง (บน) / แดง (ล่าง)</text>
+<rect x="412" y="218" width="184" height="108" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p35"><path d="M 426 230 L 546 244.0 L 546 272.0 L 426 286 Z"/></clipPath><g clip-path="url(#p35)"><rect x="426.0" y="230.0" width="120.0" height="56.0" fill="#ffffff"/><rect x="426.0" y="251.0" width="120.0" height="14.0" fill="#d4202a"/><rect x="451.2" y="230.0" width="16.8" height="56.0" fill="#d4202a"/></g><path d="M 426 230 L 546 244.0 L 546 272.0 L 426 286 Z" fill="none" stroke="#475569"/>
+<text x="570" y="266" font-size="24" font-weight="bold" fill="#0f172a">8</text>
+<text x="504" y="312" text-anchor="middle" font-size="11.5">ขาว · กากบาทแดง</text>
+<rect x="606" y="218" width="184" height="108" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p36"><path d="M 620 230 L 740 244.0 L 740 272.0 L 620 286 Z"/></clipPath><g clip-path="url(#p36)"><rect x="620.0" y="230.0" width="60.0" height="28.0" fill="#ffffff"/><rect x="680.0" y="230.0" width="61.0" height="28.0" fill="#111111"/><rect x="620.0" y="258.0" width="60.0" height="28.0" fill="#d4202a"/><rect x="680.0" y="258.0" width="61.0" height="28.0" fill="#f6c800"/></g><path d="M 620 230 L 740 244.0 L 740 272.0 L 620 286 Z" fill="none" stroke="#475569"/>
+<text x="764" y="266" font-size="24" font-weight="bold" fill="#0f172a">9</text>
+<text x="698" y="312" text-anchor="middle" font-size="11.5">สี่ส่วน: ขาว ดำ / แดง เหลือง</text>
+<rect x="800" y="218" width="184" height="108" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p37"><path d="M 814 230 L 934 244.0 L 934 272.0 L 814 286 Z"/></clipPath><g clip-path="url(#p37)"><rect x="814.0" y="230.0" width="120.0" height="56.0" fill="#f6c800"/><rect x="854.0" y="230.0" width="40.0" height="56.0" fill="#d4202a"/></g><path d="M 814 230 L 934 244.0 L 934 272.0 L 814 286 Z" fill="none" stroke="#475569"/>
+<text x="958" y="266" font-size="24" font-weight="bold" fill="#0f172a">0</text>
+<text x="892" y="312" text-anchor="middle" font-size="11.5">เหลือง–แดง–เหลือง (แนวตั้ง)</text>
+<text x="24" y="352" font-size="15" font-weight="bold" fill="#1e3a8a">2) Substitutes (ธงแทน รูปสามเหลี่ยม) และ Code / Answering pennant</text>
+<rect x="24" y="366" width="232" height="112" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p38"><path d="M 36 380 L 132 408.0 L 36 436 Z"/></clipPath><g clip-path="url(#p38)"><path d="M 36 380 L 132 408.0 L 36 436 Z" fill="#1f3f9a"/><path d="M 36 389.5 L 97.4 408.0 L 36 426.5 Z" fill="#f6c800"/></g><path d="M 36 380 L 132 408.0 L 36 436 Z" fill="none" stroke="#475569"/>
+<text x="140" y="406" font-size="12.5" font-weight="bold">1st substitute</text>
+<text x="140" y="464" text-anchor="middle" font-size="11.5">น้ำเงิน ขอบรอบสามเหลี่ยมเหลือง</text>
+<rect x="266" y="366" width="232" height="112" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p39"><path d="M 278 380 L 374 408.0 L 278 436 Z"/></clipPath><g clip-path="url(#p39)"><rect x="278.0" y="380.0" width="48.0" height="56.0" fill="#1f3f9a"/><rect x="326.0" y="380.0" width="48.0" height="56.0" fill="#ffffff"/></g><path d="M 278 380 L 374 408.0 L 278 436 Z" fill="none" stroke="#475569"/>
+<text x="382" y="406" font-size="12.5" font-weight="bold">2nd substitute</text>
+<text x="382" y="464" text-anchor="middle" font-size="11.5">น้ำเงิน (ด้านเสา) | ขาว</text>
+<rect x="508" y="366" width="232" height="112" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p40"><path d="M 520 380 L 616 408.0 L 520 436 Z"/></clipPath><g clip-path="url(#p40)"><rect x="520.0" y="380.0" width="96.0" height="56.0" fill="#ffffff"/><rect x="520.0" y="398.7" width="96.0" height="18.7" fill="#111111"/></g><path d="M 520 380 L 616 408.0 L 520 436 Z" fill="none" stroke="#475569"/>
+<text x="624" y="406" font-size="12.5" font-weight="bold">3rd substitute</text>
+<text x="624" y="464" text-anchor="middle" font-size="11.5">ขาว · แถบดำแนวนอนกลาง</text>
+<rect x="750" y="366" width="232" height="112" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p41"><path d="M 762 380 L 858 394.0 L 858 422.0 L 762 436 Z"/></clipPath><g clip-path="url(#p41)"><rect x="762.0" y="380.0" width="19.7" height="56.0" fill="#d4202a"/><rect x="781.2" y="380.0" width="19.7" height="56.0" fill="#ffffff"/><rect x="800.4" y="380.0" width="19.7" height="56.0" fill="#d4202a"/><rect x="819.6" y="380.0" width="19.7" height="56.0" fill="#ffffff"/><rect x="838.8" y="380.0" width="19.7" height="56.0" fill="#d4202a"/></g><path d="M 762 380 L 858 394.0 L 858 422.0 L 762 436 Z" fill="none" stroke="#475569"/>
+<text x="866" y="406" font-size="12.5" font-weight="bold">Code / Answering</text>
+<text x="866" y="464" text-anchor="middle" font-size="11.5">แดง–ขาว 5 แถบแนวตั้ง</text>
+<text x="24" y="512" font-size="15" font-weight="bold" fill="#1e3a8a">3) ตัวอย่างการใช้ธงแทน (อ่านจากบนลงล่าง)</text>
+<text x="40" y="542" font-size="14" font-weight="bold">"VV"</text>
+<line x1="46" y1="552" x2="46" y2="648" stroke="#334155" stroke-width="2"/>
+<clipPath id="f42"><rect x="48" y="558" width="54" height="36"/></clipPath><g clip-path="url(#f42)"><rect x="48" y="558" width="54" height="36" fill="#ffffff"/><path d="M 48 558 L 102 594 M 102 558 L 48 594" stroke="#d4202a" stroke-width="7.92"/></g><rect x="48" y="558" width="54" height="36" fill="none" stroke="#475569"/>
+<text x="132" y="581" font-size="12">V</text>
+<clipPath id="p43"><path d="M 48 600 L 118 618.0 L 48 636 Z"/></clipPath><g clip-path="url(#p43)"><path d="M 48 600 L 118 618.0 L 48 636 Z" fill="#1f3f9a"/><path d="M 48 606.1 L 92.8 618.0 L 48 629.9 Z" fill="#f6c800"/></g><path d="M 48 600 L 118 618.0 L 48 636 Z" fill="none" stroke="#475569"/>
+<text x="132" y="623" font-size="12">1st sub</text>
+<text x="40" y="802" font-size="11.5" fill="#334155">ธงแทนที่ 1 ซ้ำธงบนสุด</text>
+<text x="360" y="542" font-size="14" font-weight="bold">"1100"</text>
+<line x1="366" y1="552" x2="366" y2="732" stroke="#334155" stroke-width="2"/>
+<clipPath id="p44"><path d="M 368 558 L 438 567.0 L 438 585.0 L 368 594 Z"/></clipPath><g clip-path="url(#p44)"><rect x="368.0" y="558.0" width="70.0" height="36.0" fill="#ffffff"/><circle cx="389.0" cy="576.0" r="10.8" fill="#d4202a"/></g><path d="M 368 558 L 438 567.0 L 438 585.0 L 368 594 Z" fill="none" stroke="#475569"/>
+<text x="452" y="581" font-size="12">1</text>
+<clipPath id="p45"><path d="M 368 600 L 438 618.0 L 368 636 Z"/></clipPath><g clip-path="url(#p45)"><path d="M 368 600 L 438 618.0 L 368 636 Z" fill="#1f3f9a"/><path d="M 368 606.1 L 412.8 618.0 L 368 629.9 Z" fill="#f6c800"/></g><path d="M 368 600 L 438 618.0 L 368 636 Z" fill="none" stroke="#475569"/>
+<text x="452" y="623" font-size="12">1st sub</text>
+<clipPath id="p46"><path d="M 368 642 L 438 651.0 L 438 669.0 L 368 678 Z"/></clipPath><g clip-path="url(#p46)"><rect x="368.0" y="642.0" width="70.0" height="36.0" fill="#f6c800"/><rect x="391.3" y="642.0" width="23.3" height="36.0" fill="#d4202a"/></g><path d="M 368 642 L 438 651.0 L 438 669.0 L 368 678 Z" fill="none" stroke="#475569"/>
+<text x="452" y="665" font-size="12">0</text>
+<clipPath id="p47"><path d="M 368 684 L 438 702.0 L 368 720 Z"/></clipPath><g clip-path="url(#p47)"><rect x="368.0" y="684.0" width="70.0" height="36.0" fill="#ffffff"/><rect x="368.0" y="696.0" width="70.0" height="12.0" fill="#111111"/></g><path d="M 368 684 L 438 702.0 L 368 720 Z" fill="none" stroke="#475569"/>
+<text x="452" y="707" font-size="12">3rd sub</text>
+<text x="360" y="802" font-size="11.5" fill="#334155">S1 ซ้ำ 1 · S3 ซ้ำผืนที่ 3 (เลข 0)</text>
+<text x="680" y="542" font-size="14" font-weight="bold">"L 2330"</text>
+<line x1="686" y1="552" x2="686" y2="774" stroke="#334155" stroke-width="2"/>
+<clipPath id="f48"><rect x="688" y="558" width="54" height="36"/></clipPath><g clip-path="url(#f48)"><rect x="688" y="558" width="27.0" height="18.0" fill="#f6c800"/><rect x="715.0" y="558" width="27.0" height="18.0" fill="#111111"/><rect x="688" y="576.0" width="27.0" height="18.0" fill="#111111"/><rect x="715.0" y="576.0" width="27.0" height="18.0" fill="#f6c800"/></g><rect x="688" y="558" width="54" height="36" fill="none" stroke="#475569"/>
+<text x="772" y="581" font-size="12">L</text>
+<clipPath id="p49"><path d="M 688 600 L 758 609.0 L 758 627.0 L 688 636 Z"/></clipPath><g clip-path="url(#p49)"><rect x="688.0" y="600.0" width="70.0" height="36.0" fill="#1f3f9a"/><circle cx="709.0" cy="618.0" r="10.8" fill="#ffffff"/></g><path d="M 688 600 L 758 609.0 L 758 627.0 L 688 636 Z" fill="none" stroke="#475569"/>
+<text x="772" y="623" font-size="12">2</text>
+<clipPath id="p50"><path d="M 688 642 L 758 651.0 L 758 669.0 L 688 678 Z"/></clipPath><g clip-path="url(#p50)"><rect x="688.0" y="642.0" width="23.3" height="36.0" fill="#d4202a"/><rect x="711.3" y="642.0" width="23.3" height="36.0" fill="#ffffff"/><rect x="734.7" y="642.0" width="24.3" height="36.0" fill="#1f3f9a"/></g><path d="M 688 642 L 758 651.0 L 758 669.0 L 688 678 Z" fill="none" stroke="#475569"/>
+<text x="772" y="665" font-size="12">3</text>
+<clipPath id="p51"><path d="M 688 684 L 758 702.0 L 688 720 Z"/></clipPath><g clip-path="url(#p51)"><rect x="688.0" y="684.0" width="35.0" height="36.0" fill="#1f3f9a"/><rect x="723.0" y="684.0" width="35.0" height="36.0" fill="#ffffff"/></g><path d="M 688 684 L 758 702.0 L 688 720 Z" fill="none" stroke="#475569"/>
+<text x="772" y="707" font-size="12">2nd sub</text>
+<clipPath id="p52"><path d="M 688 726 L 758 735.0 L 758 753.0 L 688 762 Z"/></clipPath><g clip-path="url(#p52)"><rect x="688.0" y="726.0" width="70.0" height="36.0" fill="#f6c800"/><rect x="711.3" y="726.0" width="23.3" height="36.0" fill="#d4202a"/></g><path d="M 688 726 L 758 735.0 L 758 753.0 L 688 762 Z" fill="none" stroke="#475569"/>
+<text x="772" y="749" font-size="12">0</text>
+<text x="680" y="802" font-size="11.5" fill="#334155">S2 ตามหลังธงตัวเลข → ซ้ำเลขตัวที่ 2 (3)</text>
+<text x="24" y="850" font-size="12" fill="#334155">ธงแทนใช้ซ้ำธง "ประเภทเดียวกัน" (อักษรหรือตัวเลข) ที่อยู่ติดเหนือมัน · ในกลุ่มเดียวใช้ธงแทนแต่ละผืนได้ครั้งเดียว · answering pennant ที่ใช้เป็นจุดทศนิยมไม่นับ</text>
+</svg>

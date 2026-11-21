@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="300" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การแยกพลังงาน: Lockout / Tagout (LOTO)</text>
+<rect x="25.0" y="70.0" width="148.0" height="140.0" rx="10" fill="#fff" stroke="#1d4ed8" stroke-width="2"/>
+<rect x="25.0" y="70.0" width="148.0" height="40.0" rx="10" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<rect x="25.0" y="95.0" width="148.0" height="15.0" rx="0" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="99.0" y="96.0" font-size="13.5" text-anchor="middle" fill="#fff" font-weight="bold">1. เตรียม</text>
+<text x="99.0" y="140.0" font-size="11" text-anchor="middle" fill="#0f172a">ระบุแหล่งพลังงานทั้งหมด</text>
+<text x="99.0" y="162.0" font-size="11" text-anchor="middle" fill="#0f172a">(ไฟฟ้า ไฮดรอลิก ลม ไอน้ำ</text>
+<text x="99.0" y="184.0" font-size="11" text-anchor="middle" fill="#0f172a">สปริง แรงโน้มถ่วง)</text>
+<line x1="174.0" y1="150.0" x2="185.0" y2="150.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="187.0" y="70.0" width="148.0" height="140.0" rx="10" fill="#fff" stroke="#1d4ed8" stroke-width="2"/>
+<rect x="187.0" y="70.0" width="148.0" height="40.0" rx="10" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<rect x="187.0" y="95.0" width="148.0" height="15.0" rx="0" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="261.0" y="96.0" font-size="13.5" text-anchor="middle" fill="#fff" font-weight="bold">2. แจ้ง</text>
+<text x="261.0" y="140.0" font-size="11" text-anchor="middle" fill="#0f172a">แจ้งผู้เกี่ยวข้อง</text>
+<text x="261.0" y="162.0" font-size="11" text-anchor="middle" fill="#0f172a">(ห้องเครื่อง สะพาน)</text>
+<line x1="336.0" y1="150.0" x2="347.0" y2="150.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="349.0" y="70.0" width="148.0" height="140.0" rx="10" fill="#fff" stroke="#1d4ed8" stroke-width="2"/>
+<rect x="349.0" y="70.0" width="148.0" height="40.0" rx="10" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<rect x="349.0" y="95.0" width="148.0" height="15.0" rx="0" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="423.0" y="96.0" font-size="13.5" text-anchor="middle" fill="#fff" font-weight="bold">3. ปิด/แยก</text>
+<text x="423.0" y="140.0" font-size="11" text-anchor="middle" fill="#0f172a">ปิดเครื่อง ตัดเบรกเกอร์</text>
+<text x="423.0" y="162.0" font-size="11" text-anchor="middle" fill="#0f172a">ปิดวาล์ว ลดแรงดัน</text>
+<line x1="498.0" y1="150.0" x2="509.0" y2="150.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="511.0" y="70.0" width="148.0" height="140.0" rx="10" fill="#fff" stroke="#1d4ed8" stroke-width="2"/>
+<rect x="511.0" y="70.0" width="148.0" height="40.0" rx="10" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<rect x="511.0" y="95.0" width="148.0" height="15.0" rx="0" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="585.0" y="96.0" font-size="13.5" text-anchor="middle" fill="#fff" font-weight="bold">4. ล็อก + ป้าย</text>
+<text x="585.0" y="140.0" font-size="11" text-anchor="middle" fill="#0f172a">กุญแจส่วนตัวของผู้ทำงาน</text>
+<text x="585.0" y="162.0" font-size="11" text-anchor="middle" fill="#0f172a">ป้ายชื่อ วันที่ เหตุผล</text>
+<line x1="660.0" y1="150.0" x2="671.0" y2="150.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="673.0" y="70.0" width="148.0" height="140.0" rx="10" fill="#fff" stroke="#1d4ed8" stroke-width="2"/>
+<rect x="673.0" y="70.0" width="148.0" height="40.0" rx="10" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<rect x="673.0" y="95.0" width="148.0" height="15.0" rx="0" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="747.0" y="96.0" font-size="13.5" text-anchor="middle" fill="#fff" font-weight="bold">5. ตรวจยืนยัน</text>
+<text x="747.0" y="140.0" font-size="11" text-anchor="middle" fill="#0f172a">ทดลองสตาร์ท/วัดไฟ</text>
+<text x="747.0" y="162.0" font-size="11" text-anchor="middle" fill="#0f172a">ว่าไม่มีพลังงานเหลือ</text>
+<line x1="822.0" y1="150.0" x2="833.0" y2="150.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="835.0" y="70.0" width="148.0" height="140.0" rx="10" fill="#fff" stroke="#1d4ed8" stroke-width="2"/>
+<rect x="835.0" y="70.0" width="148.0" height="40.0" rx="10" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<rect x="835.0" y="95.0" width="148.0" height="15.0" rx="0" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="909.0" y="96.0" font-size="13.5" text-anchor="middle" fill="#fff" font-weight="bold">6. คืนระบบ</text>
+<text x="909.0" y="140.0" font-size="11" text-anchor="middle" fill="#0f172a">งานเสร็จ ตรวจพื้นที่</text>
+<text x="909.0" y="162.0" font-size="11" text-anchor="middle" fill="#0f172a">คนออกครบ ผู้ล็อกปลดเอง</text>
+<text x="909.0" y="184.0" font-size="11" text-anchor="middle" fill="#0f172a">แจ้งทุกฝ่าย</text>
+<text x="500.0" y="245.0" font-size="12.5" text-anchor="middle" fill="#b91c1c" font-weight="bold">ใช้กับงานซ่อมเครื่องจักร กว้าน เครน ฝาระวาง ปั๊ม ระบบไฟฟ้า — "ห้ามปลดล็อกของคนอื่น"</text>
+<text x="500.0" y="270.0" font-size="12" text-anchor="middle" fill="#334155">หลายคนทำงานร่วม → ใช้ตัวล็อกหลายรู (hasp) ทุกคนใส่กุญแจของตน · บันทึกใน isolation log ตาม SMS</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ความผนึกน้ำ (Watertight integrity): ผนังกั้นน้ำ ช่องเปิด และจุดที่น้ำอาจไหลเข้า</text>
+<path d="M 60 300 L 120 360 L 860 360 L 930 290 L 940 200 L 120 200 L 60 230 Z" fill="#e2e8f0" stroke="#0f172a" stroke-width="2.5"/><line x1="20.0" y1="300.0" x2="980.0" y2="300.0" stroke="#0284c7" stroke-width="1.8" stroke-dasharray="8 5"/>
+<text x="24.0" y="294.0" font-size="11" text-anchor="start" fill="#0284c7">แนวน้ำ</text>
+<rect x="80.0" y="120.0" width="110.0" height="80.0" rx="0" fill="#cbd5e1" stroke="#0f172a" stroke-width="2"/>
+<line x1="150.0" y1="200.0" x2="150.0" y2="360.0" stroke="#b91c1c" stroke-width="4"/>
+<text x="150.0" y="380.0" font-size="11" text-anchor="middle" fill="#b91c1c" font-weight="bold">Aft peak bhd</text>
+<line x1="250.0" y1="200.0" x2="250.0" y2="360.0" stroke="#b91c1c" stroke-width="4"/>
+<text x="250.0" y="380.0" font-size="11" text-anchor="middle" fill="#b91c1c" font-weight="bold">E/R bhd</text>
+<line x1="420.0" y1="200.0" x2="420.0" y2="360.0" stroke="#b91c1c" stroke-width="4"/>
+<line x1="590.0" y1="200.0" x2="590.0" y2="360.0" stroke="#b91c1c" stroke-width="4"/>
+<line x1="760.0" y1="200.0" x2="760.0" y2="360.0" stroke="#b91c1c" stroke-width="4"/>
+<line x1="860.0" y1="200.0" x2="860.0" y2="360.0" stroke="#b91c1c" stroke-width="4"/>
+<text x="860.0" y="380.0" font-size="11" text-anchor="middle" fill="#b91c1c" font-weight="bold">Collision bhd</text>
+<rect x="243.0" y="320.0" width="14.0" height="30.0" rx="0" fill="#facc15" stroke="#854d0e" stroke-width="1.5"/>
+<text x="250.0" y="400.0" font-size="11" text-anchor="middle" fill="#854d0e" font-weight="bold">ประตูกันน้ำ (WT door)</text>
+<rect x="300.0" y="185.0" width="110.0" height="15.0" rx="0" fill="#94a3b8" stroke="#0f172a" stroke-width="1.5"/>
+<rect x="470.0" y="185.0" width="110.0" height="15.0" rx="0" fill="#94a3b8" stroke="#0f172a" stroke-width="1.5"/>
+<rect x="640.0" y="185.0" width="110.0" height="15.0" rx="0" fill="#94a3b8" stroke="#0f172a" stroke-width="1.5"/>
+<text x="525.0" y="175.0" font-size="11.5" text-anchor="middle" fill="#0f172a" font-weight="bold">ฝาระวาง (weathertight)</text>
+<line x1="880.0" y1="200.0" x2="880.0" y2="170.0" stroke="#0f172a" stroke-width="3"/>
+<circle cx="880" cy="166" r="5" fill="#0f172a"/><line x1="905.0" y1="200.0" x2="905.0" y2="170.0" stroke="#0f172a" stroke-width="3"/>
+<circle cx="905" cy="166" r="5" fill="#0f172a"/><text x="895.0" y="150.0" font-size="11" text-anchor="middle" fill="#0f172a" font-weight="bold">ท่ออากาศ/ช่องระบาย</text>
+<rect x="170.0" y="140.0" width="16.0" height="20.0" rx="0" fill="#fff" stroke="#0f172a" stroke-width="1.5"/>
+<text x="200.0" y="112.0" font-size="11" text-anchor="start" fill="#0f172a">ประตูภายนอก/ช่องหน้าต่าง (weathertight)</text>
+<circle cx="330" cy="345" r="5" fill="#0369a1"/><circle cx="520" cy="345" r="5" fill="#0369a1"/><circle cx="700" cy="345" r="5" fill="#0369a1"/><text x="520.0" y="395.0" font-size="11" text-anchor="middle" fill="#0369a1" font-weight="bold">● sea valves / overboard discharges — ต้องปิดได้จริง เปิดเฉพาะเมื่อใช้</text>
+<rect x="40.0" y="420.0" width="920.0" height="90.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="56.0" y="442.0" font-size="11.6" text-anchor="start" fill="#0f172a">Watertight = กันน้ำได้ทั้งสองทิศภายใต้แรงดันน้ำที่ออกแบบ (ผนังกั้นน้ำ ประตูกันน้ำ) · Weathertight = กันน้ำเข้าไม่ได้ในสภาพทะเลใด ๆ (ฝาระวาง ประตูภายนอก)</text>
+<text x="56.0" y="462.0" font-size="11.6" text-anchor="start" fill="#0f172a">Downflooding point = ช่องเปิดที่ปิดกันน้ำไม่ได้ซึ่งเมื่อจมน้ำแล้วน้ำจะไหลเข้า (กำหนดมุม θf ใน GZ curve)</text>
+<text x="56.0" y="482.0" font-size="11.6" text-anchor="start" fill="#0f172a">ก่อนออกเรือและในทะเล: ประตูกันน้ำปิด (ตามที่อนุญาตให้เปิด), ฝาระวาง/manhole/ประตูภายนอกปิดล็อก, ฝา sounding/air pipe อยู่ในสภาพดี, ระบบสัญญาณและไฟแสดงทำงาน</text>
+<text x="56.0" y="502.0" font-size="11.6" text-anchor="start" fill="#0f172a">ผนังกั้นที่มีสายไฟ/ท่อผ่านต้องรักษาความผนึกน้ำของจุดผ่าน (transits) — การเจาะ/เดินสายใหม่ต้องได้รับอนุมัติ</text>
+</svg>

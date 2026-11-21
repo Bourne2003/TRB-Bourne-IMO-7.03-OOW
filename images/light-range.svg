@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="960" height="520" fill="#fff"/>
+<text x="480.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Geographical range ของไฟ — ความโค้งของโลกบังแสง</text>
+<path d="M 0 509.0 A 733 733 0 0 1 960 509.0 L 960 520 L 0 520 Z" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="2"/>
+<rect x="110" y="304.5" width="20" height="120" fill="#f8fafc" stroke="#111827"/><circle cx="120" cy="304.5" r="8" fill="#facc15" stroke="#111827"/>
+<text x="60" y="288.5" font-size="14" font-weight="bold">ไฟ (H เหนือระดับน้ำ)</text>
+<line x1="860" y1="436.2" x2="860" y2="353.6" stroke="#111827" stroke-width="4"/><circle cx="860" cy="353.6" r="7" fill="#0f172a"/>
+<text x="870" y="339.6" text-anchor="end" font-size="14" font-weight="bold">ตาผู้สังเกต (h)</text>
+<line x1="120" y1="304.5" x2="860" y2="353.6" stroke="#d97706" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="800" y="305.6" text-anchor="end" font-size="12" fill="#92400e">เส้นแสงเฉียดขอบฟ้า (ภาพขยายความโค้ง ไม่แสดงการหักเหของแสง)</text>
+<circle cx="528.5" cy="331.6" r="5" fill="#b91c1c"/><text x="468.5" y="359.6" font-size="13" fill="#b91c1c" font-weight="bold">จุดสัมผัสขอบฟ้า</text>
+<text x="264.3" y="396.7" font-size="14" fill="#0f172a">d₁ ≈ 2.08 √H</text>
+<text x="654.3" y="412.0" font-size="14" fill="#0f172a">d₂ ≈ 2.08 √h</text>
+<rect x="20" y="50" width="450" height="134" rx="8" fill="#fff" stroke="#94a3b8"/>
+<text x="34" y="76" font-size="13">Geographical range (nm) ≈ 2.08 (√H + √h)  [H, h เป็นเมตร]</text>
+<text x="34" y="100" font-size="13">ตัวอย่าง: H = 45 m, h = 16 m → 2.08 (6.71 + 4.00) ≈ 22.3 nm</text>
+<text x="34" y="124" font-size="13">ตาราง Geographical Range ใน List of Lights (IHO S-12) ใช้ 2.03 → ≈ 21.7 nm</text>
+<text x="34" y="148" font-size="13">Visible range = ค่าที่น้อยกว่าระหว่าง</text>
+<text x="34" y="172" font-size="13">luminous range กับ geographical range</text>
+</svg>

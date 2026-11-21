@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การจัดการงานและภาระงาน (Task and workload management)</text>
+<rect x="60.0" y="80.0" width="220.0" height="160.0" rx="12" fill="#fff" stroke="#b91c1c" stroke-width="2.5"/>
+<text x="170.0" y="110.0" font-size="14" text-anchor="middle" fill="#b91c1c" font-weight="bold">ด่วน + สำคัญ</text>
+<text x="170.0" y="136.0" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">→ ทำทันที</text>
+<text x="170.0" y="170.0" font-size="11.5" text-anchor="middle" fill="#334155">เหตุฉุกเฉิน ความปลอดภัย</text>
+<text x="170.0" y="190.0" font-size="11.5" text-anchor="middle" fill="#334155">เรือกำลังเข้าใกล้อันตราย</text>
+<rect x="290.0" y="80.0" width="220.0" height="160.0" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="2.5"/>
+<text x="400.0" y="110.0" font-size="14" text-anchor="middle" fill="#1d4ed8" font-weight="bold">ไม่ด่วน + สำคัญ</text>
+<text x="400.0" y="136.0" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">→ วางแผน/กำหนดเวลา</text>
+<text x="400.0" y="170.0" font-size="11.5" text-anchor="middle" fill="#334155">บำรุงรักษาตาม PMS การฝึก</text>
+<text x="400.0" y="190.0" font-size="11.5" text-anchor="middle" fill="#334155">วางแผนเดินทาง เตรียมท่า</text>
+<rect x="60.0" y="250.0" width="220.0" height="160.0" rx="12" fill="#fff" stroke="#ca8a04" stroke-width="2.5"/>
+<text x="170.0" y="280.0" font-size="14" text-anchor="middle" fill="#ca8a04" font-weight="bold">ด่วน + ไม่สำคัญ</text>
+<text x="170.0" y="306.0" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">→ มอบหมาย/จัดการสั้น ๆ</text>
+<text x="170.0" y="340.0" font-size="11.5" text-anchor="middle" fill="#334155">คำขอเอกสารบางอย่าง</text>
+<text x="170.0" y="360.0" font-size="11.5" text-anchor="middle" fill="#334155">งานธุรการที่รอได้ไม่นาน</text>
+<rect x="290.0" y="250.0" width="220.0" height="160.0" rx="12" fill="#fff" stroke="#64748b" stroke-width="2.5"/>
+<text x="400.0" y="280.0" font-size="14" text-anchor="middle" fill="#64748b" font-weight="bold">ไม่ด่วน + ไม่สำคัญ</text>
+<text x="400.0" y="306.0" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">→ ตัดออก/เลื่อน</text>
+<text x="400.0" y="340.0" font-size="11.5" text-anchor="middle" fill="#334155">งานที่ไม่เพิ่มความปลอดภัย</text>
+<text x="400.0" y="360.0" font-size="11.5" text-anchor="middle" fill="#334155">หรือคุณค่า</text>
+<text x="285.0" y="68.0" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">การจัดลำดับความสำคัญ (prioritization)</text>
+<rect x="540.0" y="70.0" width="430.0" height="62.0" rx="10" fill="#f0f9ff" stroke="#0369a1" stroke-width="1.5"/>
+<text x="554.0" y="94.0" font-size="13" text-anchor="start" fill="#075985" font-weight="bold">1. วางแผนและประสาน</text>
+<text x="554.0" y="116.0" font-size="11.3" text-anchor="start" fill="#0f172a">กำหนดงาน เป้าหมาย ลำดับ จุดเชื่อมกับฝ่ายอื่น (ห้องเครื่อง ท่า)</text>
+<rect x="540.0" y="144.0" width="430.0" height="62.0" rx="10" fill="#f0f9ff" stroke="#0369a1" stroke-width="1.5"/>
+<text x="554.0" y="168.0" font-size="13" text-anchor="start" fill="#075985" font-weight="bold">2. มอบหมายบุคลากร</text>
+<text x="554.0" y="190.0" font-size="11.3" text-anchor="start" fill="#0f172a">ตามความสามารถ ประสบการณ์ ใบประกาศ และสภาพความเหนื่อยล้า</text>
+<rect x="540.0" y="218.0" width="430.0" height="62.0" rx="10" fill="#f0f9ff" stroke="#0369a1" stroke-width="1.5"/>
+<text x="554.0" y="242.0" font-size="13" text-anchor="start" fill="#075985" font-weight="bold">3. ข้อจำกัดเวลาและทรัพยากร</text>
+<text x="554.0" y="264.0" font-size="11.3" text-anchor="start" fill="#0f172a">ชั่วโมงพัก อุปกรณ์ สภาพอากาศ เวลาในท่า งบประมาณ</text>
+<rect x="540.0" y="292.0" width="430.0" height="62.0" rx="10" fill="#f0f9ff" stroke="#0369a1" stroke-width="1.5"/>
+<text x="554.0" y="316.0" font-size="13" text-anchor="start" fill="#075985" font-weight="bold">4. จัดลำดับความสำคัญ</text>
+<text x="554.0" y="338.0" font-size="11.3" text-anchor="start" fill="#0f172a">ความปลอดภัยและงานวิกฤตก่อน — ปรับเมื่อสถานการณ์เปลี่ยน</text>
+<rect x="540.0" y="366.0" width="430.0" height="62.0" rx="10" fill="#f0f9ff" stroke="#0369a1" stroke-width="1.5"/>
+<text x="554.0" y="390.0" font-size="13" text-anchor="start" fill="#075985" font-weight="bold">5. ติดตามและทบทวน</text>
+<text x="554.0" y="412.0" font-size="11.3" text-anchor="start" fill="#0f172a">ตรวจความคืบหน้า สื่อสาร ปรับแผน debrief</text>
+<rect x="60.0" y="440.0" width="450.0" height="60.0" rx="10" fill="#fff7ed" stroke="#c2410c" stroke-width="1.2"/>
+<text x="76.0" y="464.0" font-size="12" text-anchor="start" fill="#7c2d12" font-weight="bold">ภาระงานสูงเกิน → ผิดพลาด ความเหนื่อยล้า; ต่ำเกิน → เบื่อ ขาดสมาธิ</text>
+<text x="76.0" y="486.0" font-size="12" text-anchor="start" fill="#7c2d12">ผู้นำต้องคาดการณ์ช่วงงานหนัก (เข้าท่า ขนถ่าย) และเตรียมคนล่วงหน้า</text>
+</svg>

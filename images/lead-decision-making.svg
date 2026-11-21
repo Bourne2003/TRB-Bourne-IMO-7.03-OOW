@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 580" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="580" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การตัดสินใจ: DODAR และการประเมินความเสี่ยง (risk matrix)</text>
+<circle cx="250.0" cy="140.0" r="55" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2.5"/><text x="250.0" y="122.0" font-size="12.5" text-anchor="middle" fill="#1e3a8a" font-weight="bold">D — Diagnose</text>
+<text x="250.0" y="144.0" font-size="10.5" text-anchor="middle" fill="#0f172a">ประเมินสถานการณ์</text>
+<text x="250.0" y="160.0" font-size="10.5" text-anchor="middle" fill="#0f172a">เกิดอะไรขึ้น</text>
+<circle cx="392.7" cy="243.6" r="55" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2.5"/><text x="392.7" y="225.6" font-size="12.5" text-anchor="middle" fill="#1e3a8a" font-weight="bold">O — Options</text>
+<text x="392.7" y="247.6" font-size="10.5" text-anchor="middle" fill="#0f172a">สร้างทางเลือก</text>
+<text x="392.7" y="263.6" font-size="10.5" text-anchor="middle" fill="#0f172a">ข้อดี-ข้อเสีย</text>
+<circle cx="338.2" cy="411.4" r="55" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2.5"/><text x="338.2" y="393.4" font-size="12.5" text-anchor="middle" fill="#1e3a8a" font-weight="bold">D — Decide</text>
+<text x="338.2" y="415.4" font-size="10.5" text-anchor="middle" fill="#0f172a">เลือกแนวทาง</text>
+<text x="338.2" y="431.4" font-size="10.5" text-anchor="middle" fill="#0f172a">(และแผนสำรอง)</text>
+<circle cx="161.8" cy="411.4" r="55" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2.5"/><text x="161.8" y="393.4" font-size="12.5" text-anchor="middle" fill="#1e3a8a" font-weight="bold">A — Assign</text>
+<text x="161.8" y="415.4" font-size="10.5" text-anchor="middle" fill="#0f172a">มอบหมายงาน</text>
+<text x="161.8" y="431.4" font-size="10.5" text-anchor="middle" fill="#0f172a">สื่อสารชัด</text>
+<circle cx="107.3" cy="243.6" r="55" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2.5"/><text x="107.3" y="225.6" font-size="12.5" text-anchor="middle" fill="#1e3a8a" font-weight="bold">R — Review</text>
+<text x="107.3" y="247.6" font-size="10.5" text-anchor="middle" fill="#0f172a">ประเมินผล</text>
+<text x="107.3" y="263.6" font-size="10.5" text-anchor="middle" fill="#0f172a">ปรับเมื่อจำเป็น</text>
+<path d="M 311.0 153.0 A 150 150 0 0 1 361.5 189.6" fill="none" stroke="#1d4ed8" stroke-width="2" marker-end="url(#ar)"/><path d="M 399.2 305.7 A 150 150 0 0 1 379.9 365.0" fill="none" stroke="#1d4ed8" stroke-width="2" marker-end="url(#ar)"/><path d="M 281.2 436.7 A 150 150 0 0 1 218.8 436.7" fill="none" stroke="#1d4ed8" stroke-width="2" marker-end="url(#ar)"/><path d="M 120.1 365.0 A 150 150 0 0 1 100.8 305.7" fill="none" stroke="#1d4ed8" stroke-width="2" marker-end="url(#ar)"/><path d="M 138.5 189.6 A 150 150 0 0 1 189.0 153.0" fill="none" stroke="#1d4ed8" stroke-width="2" marker-end="url(#ar)"/><text x="250.0" y="295.0" font-size="14" text-anchor="middle" fill="#1d4ed8" font-weight="bold">วนซ้ำ</text>
+<rect x="560.0" y="306.0" width="72.0" height="54.0" rx="0" fill="#bbf7d0" stroke="#fff" stroke-width="2"/>
+<text x="596.0" y="338.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">1</text>
+<rect x="632.0" y="306.0" width="72.0" height="54.0" rx="0" fill="#bbf7d0" stroke="#fff" stroke-width="2"/>
+<text x="668.0" y="338.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">2</text>
+<rect x="704.0" y="306.0" width="72.0" height="54.0" rx="0" fill="#fde68a" stroke="#fff" stroke-width="2"/>
+<text x="740.0" y="338.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">3</text>
+<rect x="776.0" y="306.0" width="72.0" height="54.0" rx="0" fill="#fde68a" stroke="#fff" stroke-width="2"/>
+<text x="812.0" y="338.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">4</text>
+<rect x="848.0" y="306.0" width="72.0" height="54.0" rx="0" fill="#fde68a" stroke="#fff" stroke-width="2"/>
+<text x="884.0" y="338.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">5</text>
+<rect x="560.0" y="252.0" width="72.0" height="54.0" rx="0" fill="#bbf7d0" stroke="#fff" stroke-width="2"/>
+<text x="596.0" y="284.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">2</text>
+<rect x="632.0" y="252.0" width="72.0" height="54.0" rx="0" fill="#fde68a" stroke="#fff" stroke-width="2"/>
+<text x="668.0" y="284.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">4</text>
+<rect x="704.0" y="252.0" width="72.0" height="54.0" rx="0" fill="#fde68a" stroke="#fff" stroke-width="2"/>
+<text x="740.0" y="284.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">6</text>
+<rect x="776.0" y="252.0" width="72.0" height="54.0" rx="0" fill="#fecaca" stroke="#fff" stroke-width="2"/>
+<text x="812.0" y="284.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">8</text>
+<rect x="848.0" y="252.0" width="72.0" height="54.0" rx="0" fill="#fecaca" stroke="#fff" stroke-width="2"/>
+<text x="884.0" y="284.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">10</text>
+<rect x="560.0" y="198.0" width="72.0" height="54.0" rx="0" fill="#fde68a" stroke="#fff" stroke-width="2"/>
+<text x="596.0" y="230.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">3</text>
+<rect x="632.0" y="198.0" width="72.0" height="54.0" rx="0" fill="#fde68a" stroke="#fff" stroke-width="2"/>
+<text x="668.0" y="230.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">6</text>
+<rect x="704.0" y="198.0" width="72.0" height="54.0" rx="0" fill="#fecaca" stroke="#fff" stroke-width="2"/>
+<text x="740.0" y="230.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">9</text>
+<rect x="776.0" y="198.0" width="72.0" height="54.0" rx="0" fill="#fecaca" stroke="#fff" stroke-width="2"/>
+<text x="812.0" y="230.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">12</text>
+<rect x="848.0" y="198.0" width="72.0" height="54.0" rx="0" fill="#f87171" stroke="#fff" stroke-width="2"/>
+<text x="884.0" y="230.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">15</text>
+<rect x="560.0" y="144.0" width="72.0" height="54.0" rx="0" fill="#fde68a" stroke="#fff" stroke-width="2"/>
+<text x="596.0" y="176.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">4</text>
+<rect x="632.0" y="144.0" width="72.0" height="54.0" rx="0" fill="#fecaca" stroke="#fff" stroke-width="2"/>
+<text x="668.0" y="176.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">8</text>
+<rect x="704.0" y="144.0" width="72.0" height="54.0" rx="0" fill="#fecaca" stroke="#fff" stroke-width="2"/>
+<text x="740.0" y="176.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">12</text>
+<rect x="776.0" y="144.0" width="72.0" height="54.0" rx="0" fill="#f87171" stroke="#fff" stroke-width="2"/>
+<text x="812.0" y="176.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">16</text>
+<rect x="848.0" y="144.0" width="72.0" height="54.0" rx="0" fill="#f87171" stroke="#fff" stroke-width="2"/>
+<text x="884.0" y="176.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">20</text>
+<rect x="560.0" y="90.0" width="72.0" height="54.0" rx="0" fill="#fde68a" stroke="#fff" stroke-width="2"/>
+<text x="596.0" y="122.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">5</text>
+<rect x="632.0" y="90.0" width="72.0" height="54.0" rx="0" fill="#fecaca" stroke="#fff" stroke-width="2"/>
+<text x="668.0" y="122.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">10</text>
+<rect x="704.0" y="90.0" width="72.0" height="54.0" rx="0" fill="#f87171" stroke="#fff" stroke-width="2"/>
+<text x="740.0" y="122.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">15</text>
+<rect x="776.0" y="90.0" width="72.0" height="54.0" rx="0" fill="#f87171" stroke="#fff" stroke-width="2"/>
+<text x="812.0" y="122.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">20</text>
+<rect x="848.0" y="90.0" width="72.0" height="54.0" rx="0" fill="#f87171" stroke="#fff" stroke-width="2"/>
+<text x="884.0" y="122.4" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">25</text>
+<text x="740.0" y="382.0" font-size="12" text-anchor="middle" fill="#0f172a">ความรุนแรงของผลที่ตามมา (severity) →</text>
+<text x="544" y="225.0" font-size="12" text-anchor="middle" transform="rotate(-90 544 225.0)">โอกาสเกิด (likelihood) →</text><text x="740.0" y="76.0" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">Risk = Likelihood × Severity (ตัวอย่าง 5×5)</text>
+<rect x="560.0" y="405.0" width="410.0" height="160.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<rect x="576.0" y="418.0" width="14.0" height="14.0" rx="2" fill="#bbf7d0" stroke="#94a3b8" stroke-width="1"/>
+<text x="598.0" y="430.0" font-size="11.6" text-anchor="start" fill="#0f172a">ต่ำ (1–2): ยอมรับได้ ควบคุมตามปกติ</text>
+<rect x="576.0" y="440.0" width="14.0" height="14.0" rx="2" fill="#fde68a" stroke="#94a3b8" stroke-width="1"/>
+<text x="598.0" y="452.0" font-size="11.6" text-anchor="start" fill="#0f172a">ต่ำ–กลาง (3–6): ลดให้ต่ำที่สุดเท่าที่ทำได้ (ALARP)</text>
+<rect x="576.0" y="462.0" width="14.0" height="14.0" rx="2" fill="#fecaca" stroke="#94a3b8" stroke-width="1"/>
+<text x="598.0" y="474.0" font-size="11.6" text-anchor="start" fill="#0f172a">กลาง–สูง (8–12): ต้องมีมาตรการเพิ่มก่อนเริ่มงาน</text>
+<rect x="576.0" y="484.0" width="14.0" height="14.0" rx="2" fill="#f87171" stroke="#94a3b8" stroke-width="1"/>
+<text x="598.0" y="496.0" font-size="11.6" text-anchor="start" fill="#0f172a">สูง (15–25): ห้ามทำจนกว่าจะลดความเสี่ยง/อนุมัติระดับสูง</text>
+<text x="576.0" y="528.0" font-size="11.6" text-anchor="start" fill="#0f172a">ลำดับการควบคุม: ขจัด → ทดแทน → วิศวกรรม → บริหาร/ขั้นตอน → PPE</text>
+<text x="576.0" y="550.0" font-size="11" text-anchor="start" fill="#64748b">แถบสีเป็นตัวอย่าง — ใช้ risk matrix ของบริษัท (SMS) เสมอ</text>
+</svg>

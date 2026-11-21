@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 640" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+  <rect width="920" height="640" fill="#fff"/>
+  <text x="460" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">หลักการหาตำแหน่ง GNSS — Pseudorange</text>
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker></defs>
+  <path d="M 0 470 Q 460 400 920 470 L 920 640 L 0 640 Z" fill="#bfdbfe"/>
+  <text x="40" y="600" font-size="13" fill="#1e3a8a">ผิวโลก</text>
+  <g>
+    <circle cx="120" cy="110" r="14" fill="#1e3a8a"/><rect x="92" y="104" width="18" height="12" fill="#60a5fa"/><rect x="130" y="104" width="18" height="12" fill="#60a5fa"/><text x="100" y="80" font-size="13" font-weight="bold">SV1</text>
+    <circle cx="380" cy="80" r="14" fill="#1e3a8a"/><rect x="352" y="74" width="18" height="12" fill="#60a5fa"/><rect x="390" y="74" width="18" height="12" fill="#60a5fa"/><text x="360" y="54" font-size="13" font-weight="bold">SV2</text>
+    <circle cx="640" cy="100" r="14" fill="#1e3a8a"/><rect x="612" y="94" width="18" height="12" fill="#60a5fa"/><rect x="650" y="94" width="18" height="12" fill="#60a5fa"/><text x="620" y="70" font-size="13" font-weight="bold">SV3</text>
+    <circle cx="840" cy="170" r="14" fill="#1e3a8a"/><rect x="812" y="164" width="18" height="12" fill="#60a5fa"/><rect x="850" y="164" width="18" height="12" fill="#60a5fa"/><text x="820" y="140" font-size="13" font-weight="bold">SV4</text>
+  </g>
+  <g stroke="#475569" stroke-width="1.5" stroke-dasharray="6 4" marker-end="url(#a)">
+    <line x1="128" y1="122" x2="452" y2="428"/><line x1="382" y1="94" x2="458" y2="424"/><line x1="636" y1="114" x2="466" y2="424"/><line x1="830" y1="182" x2="472" y2="428"/>
+  </g>
+  <g fill="none" stroke-width="2">
+    <circle cx="120" cy="110" r="474" stroke="#ef4444" opacity="0.35"/>
+    <circle cx="380" cy="80" r="363" stroke="#f59e0b" opacity="0.45"/>
+    <circle cx="640" cy="100" r="374" stroke="#10b981" opacity="0.45"/>
+    <circle cx="840" cy="170" r="455" stroke="#8b5cf6" opacity="0.35"/>
+  </g>
+  <path d="M 450 440 L 486 440 L 480 452 L 456 452 Z" fill="#0f172a"/><line x1="468" y1="440" x2="468" y2="424" stroke="#0f172a" stroke-width="2"/>
+  <circle cx="468" cy="432" r="7" fill="#facc15" stroke="#0f172a"/>
+  <text x="495" y="445" font-size="14" font-weight="bold">เรือ (x, y, z, Δt)</text>
+  <rect x="560" y="475" width="320" height="150" rx="8" fill="#f8fafc" stroke="#94a3b8"/>
+  <text x="574" y="501" font-size="13" font-weight="bold">Pseudorange = c × Δเวลา</text>
+  <text x="574" y="525" font-size="13">ตัวแปรที่ไม่รู้ 4 ตัว: x, y, z และ</text>
+  <text x="574" y="545" font-size="13">clock bias ของเครื่องรับ (Δt)</text>
+  <text x="574" y="569" font-size="13" font-weight="bold" fill="#b91c1c">→ ต้องใช้ดาวเทียม ≥ 4 ดวง</text>
+  <text x="574" y="593" font-size="12" fill="#475569">ผลพลอยได้: เวลา UTC แม่นยำมาก</text>
+  <text x="574" y="611" font-size="12" fill="#475569">(ภาพ 2 มิติ: วงกลม = ทรงกลมระยะ)</text>
+</svg>

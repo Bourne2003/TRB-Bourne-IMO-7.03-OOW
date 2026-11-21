@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="420" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="dm" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="#334155"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Annex II — สัญญาณเพิ่มเติมของเรือประมงที่ทำการประมงใกล้กัน</text>
+<rect x="24" y="50" width="232" height="290" rx="8" fill="#0b1220"/>
+<text x="140.0" y="74" text-anchor="middle" font-size="13" font-weight="bold" fill="#e2e8f0">อวนลาก: ปล่อยอวน</text>
+<text x="140.0" y="92" text-anchor="middle" font-size="11" fill="#94a3b8">(shooting nets)</text>
+<circle cx="120.0" cy="130" r="12" fill="#22c55e" opacity="0.25"/><circle cx="120.0" cy="130" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="120.0" cy="160" r="12" fill="#ffffff" opacity="0.25"/><circle cx="120.0" cy="160" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="120.0" cy="220" r="12" fill="#ffffff" opacity="0.25"/><circle cx="120.0" cy="220" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="120.0" cy="246" r="12" fill="#ffffff" opacity="0.25"/><circle cx="120.0" cy="246" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<path d="M 146.0 122 L 152.0 122 L 152.0 168 L 146.0 168" fill="none" stroke="#cbd5e1"/><text x="158.0" y="149" font-size="11" fill="#cbd5e1">Rule 26</text>
+<path d="M 146.0 212 L 152.0 212 L 152.0 254 L 146.0 254" fill="none" stroke="#facc15"/><text x="158.0" y="237" font-size="11" fill="#facc15">Annex II</text>
+<path d="M 80.0 286 L 200.0 286 L 188.0 300 L 92.0 300 Z" fill="#1e293b" stroke="#475569"/>
+<text x="140.0" y="326" text-anchor="middle" font-size="12" fill="#e2e8f0">ขาวบนขาว</text>
+<rect x="264" y="50" width="232" height="290" rx="8" fill="#0b1220"/>
+<text x="380.0" y="74" text-anchor="middle" font-size="13" font-weight="bold" fill="#e2e8f0">อวนลาก: กู้อวน</text>
+<text x="380.0" y="92" text-anchor="middle" font-size="11" fill="#94a3b8">(hauling nets)</text>
+<circle cx="360.0" cy="130" r="12" fill="#22c55e" opacity="0.25"/><circle cx="360.0" cy="130" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="360.0" cy="160" r="12" fill="#ffffff" opacity="0.25"/><circle cx="360.0" cy="160" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="360.0" cy="220" r="12" fill="#ffffff" opacity="0.25"/><circle cx="360.0" cy="220" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="360.0" cy="246" r="12" fill="#ef4444" opacity="0.25"/><circle cx="360.0" cy="246" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<path d="M 386.0 122 L 392.0 122 L 392.0 168 L 386.0 168" fill="none" stroke="#cbd5e1"/><text x="398.0" y="149" font-size="11" fill="#cbd5e1">Rule 26</text>
+<path d="M 386.0 212 L 392.0 212 L 392.0 254 L 386.0 254" fill="none" stroke="#facc15"/><text x="398.0" y="237" font-size="11" fill="#facc15">Annex II</text>
+<path d="M 320.0 286 L 440.0 286 L 428.0 300 L 332.0 300 Z" fill="#1e293b" stroke="#475569"/>
+<text x="380.0" y="326" text-anchor="middle" font-size="12" fill="#e2e8f0">ขาวบนแดง</text>
+<rect x="504" y="50" width="232" height="290" rx="8" fill="#0b1220"/>
+<text x="620.0" y="74" text-anchor="middle" font-size="13" font-weight="bold" fill="#e2e8f0">อวนลาก: อวนติดสิ่งกีดขวาง</text>
+<text x="620.0" y="92" text-anchor="middle" font-size="11" fill="#94a3b8">(net fast on obstruction)</text>
+<circle cx="600.0" cy="130" r="12" fill="#22c55e" opacity="0.25"/><circle cx="600.0" cy="130" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="600.0" cy="160" r="12" fill="#ffffff" opacity="0.25"/><circle cx="600.0" cy="160" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="600.0" cy="220" r="12" fill="#ef4444" opacity="0.25"/><circle cx="600.0" cy="220" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="600.0" cy="246" r="12" fill="#ef4444" opacity="0.25"/><circle cx="600.0" cy="246" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<path d="M 626.0 122 L 632.0 122 L 632.0 168 L 626.0 168" fill="none" stroke="#cbd5e1"/><text x="638.0" y="149" font-size="11" fill="#cbd5e1">Rule 26</text>
+<path d="M 626.0 212 L 632.0 212 L 632.0 254 L 626.0 254" fill="none" stroke="#facc15"/><text x="638.0" y="237" font-size="11" fill="#facc15">Annex II</text>
+<path d="M 560.0 286 L 680.0 286 L 668.0 300 L 572.0 300 Z" fill="#1e293b" stroke="#475569"/>
+<text x="620.0" y="326" text-anchor="middle" font-size="12" fill="#e2e8f0">แดงบนแดง</text>
+<rect x="744" y="50" width="232" height="290" rx="8" fill="#0b1220"/>
+<text x="860.0" y="74" text-anchor="middle" font-size="13" font-weight="bold" fill="#e2e8f0">อวนล้อม (purse seine)</text>
+<text x="860.0" y="92" text-anchor="middle" font-size="11" fill="#94a3b8">(hampered by gear)</text>
+<circle cx="840.0" cy="130" r="12" fill="#ef4444" opacity="0.25"/><circle cx="840.0" cy="130" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="840.0" cy="160" r="12" fill="#ffffff" opacity="0.25"/><circle cx="840.0" cy="160" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<line x1="851.0" y1="220.0" x2="857.0" y2="220.0" stroke="#facc15" stroke-width="2"/><line x1="847.8" y1="227.8" x2="852.0" y2="232.0" stroke="#facc15" stroke-width="2"/><line x1="840.0" y1="231.0" x2="840.0" y2="237.0" stroke="#facc15" stroke-width="2"/><line x1="832.2" y1="227.8" x2="828.0" y2="232.0" stroke="#facc15" stroke-width="2"/><line x1="829.0" y1="220.0" x2="823.0" y2="220.0" stroke="#facc15" stroke-width="2"/><line x1="832.2" y1="212.2" x2="828.0" y2="208.0" stroke="#facc15" stroke-width="2"/><line x1="840.0" y1="209.0" x2="840.0" y2="203.0" stroke="#facc15" stroke-width="2"/><line x1="847.8" y1="212.2" x2="852.0" y2="208.0" stroke="#facc15" stroke-width="2"/><circle cx="840.0" cy="220" r="12" fill="#facc15" opacity="0.25"/><circle cx="840.0" cy="220" r="7" fill="#facc15" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="840.0" cy="246" r="12" fill="#713f12" opacity="0.25"/><circle cx="840.0" cy="246" r="7" fill="#713f12" stroke="#0f172a" stroke-width="0.8"/>
+<path d="M 866.0 122 L 872.0 122 L 872.0 168 L 866.0 168" fill="none" stroke="#cbd5e1"/><text x="878.0" y="149" font-size="11" fill="#cbd5e1">Rule 26</text>
+<path d="M 866.0 212 L 872.0 212 L 872.0 254 L 866.0 254" fill="none" stroke="#facc15"/><text x="878.0" y="237" font-size="11" fill="#facc15">Annex II</text>
+<path d="M 800.0 286 L 920.0 286 L 908.0 300 L 812.0 300 Z" fill="#1e293b" stroke="#475569"/>
+<text x="860.0" y="326" text-anchor="middle" font-size="12" fill="#e2e8f0">เหลือง 2 ดวงกะพริบสลับ</text>
+<text x="24" y="362" font-size="12" fill="#334155">ไฟ Annex II อยู่ต่ำกว่าไฟ Rule 26(b)(i)/(c)(i) ห่างกัน ≥ 0.9 m มองเห็นรอบตัว ≥ 1 ไมล์ แต่ระยะน้อยกว่าไฟเรือประมงตามกฎหลัก</text>
+<text x="24" y="382" font-size="12" fill="#334155">อวนลาก (ทั้ง demersal และ pelagic) ยาว ≥ 20 m ต้องแสดง · &lt; 20 m อาจแสดง · อวนล้อมอาจแสดง (may) เฉพาะเมื่อถูกเครื่องมือประมงขัดขวาง · เหลืองดวงทึบในภาพ = จังหวะที่ดับ</text>
+<text x="24" y="402" font-size="12" fill="#334155">ลากคู่ (pair trawling): กลางคืนแต่ละลำส่องไฟฉายไปข้างหน้าและไปทางอีกลำของคู่ และเมื่อปล่อย/กู้อวน/อวนติด ให้แสดงไฟตามสามกรอบแรกด้วย</text>
+</svg>

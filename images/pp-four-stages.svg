@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+  <rect width="760" height="520" fill="#fff"/>
+  <defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto"><path d="M0,0 L16,8 L0,16 z" fill="#1e3a8a"/></marker></defs>
+  <text x="380" y="34" text-anchor="middle" font-size="21" font-weight="bold" fill="#0f172a">Passage Planning — IMO Res. A.893(21)</text>
+  <circle cx="380" cy="280" r="160" fill="none" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="6 6"/>
+  <path d="M 470 148 A 160 160 0 0 1 528 222" fill="none" stroke="#1e3a8a" stroke-width="4" marker-end="url(#a)"/>
+  <path d="M 528 338 A 160 160 0 0 1 470 412" fill="none" stroke="#1e3a8a" stroke-width="4" marker-end="url(#a)"/>
+  <path d="M 290 412 A 160 160 0 0 1 232 338" fill="none" stroke="#1e3a8a" stroke-width="4" marker-end="url(#a)"/>
+  <path d="M 232 222 A 160 160 0 0 1 290 148" fill="none" stroke="#1e3a8a" stroke-width="4" marker-end="url(#a)"/>
+  <rect x="290" y="70" width="180" height="84" rx="12" fill="#1e3a8a"/>
+  <text x="380" y="100" text-anchor="middle" font-size="18" fill="#fff" font-weight="bold">1. APPRAISAL</text>
+  <text x="380" y="124" text-anchor="middle" font-size="13" fill="#e0e7ff">รวบรวม/ประเมินข้อมูล</text>
+  <text x="380" y="142" text-anchor="middle" font-size="11" fill="#c7d2fe">charts · pubs · NMs · weather · ship</text>
+  <rect x="520" y="238" width="200" height="84" rx="12" fill="#2563eb"/>
+  <text x="620" y="268" text-anchor="middle" font-size="18" fill="#fff" font-weight="bold">2. PLANNING</text>
+  <text x="620" y="292" text-anchor="middle" font-size="13" fill="#e0e7ff">วางเส้นทาง berth-to-berth</text>
+  <text x="620" y="310" text-anchor="middle" font-size="11" fill="#c7d2fe">no-go · XTL · WOP · PI · abort</text>
+  <rect x="290" y="406" width="180" height="84" rx="12" fill="#0e7490"/>
+  <text x="380" y="436" text-anchor="middle" font-size="18" fill="#fff" font-weight="bold">3. EXECUTION</text>
+  <text x="380" y="460" text-anchor="middle" font-size="13" fill="#cffafe">ยุทธวิธีการเดินทาง</text>
+  <text x="380" y="478" text-anchor="middle" font-size="11" fill="#a5f3fc">ETA · tides · daylight · manning</text>
+  <rect x="40" y="238" width="200" height="84" rx="12" fill="#15803d"/>
+  <text x="140" y="268" text-anchor="middle" font-size="18" fill="#fff" font-weight="bold">4. MONITORING</text>
+  <text x="140" y="292" text-anchor="middle" font-size="13" fill="#dcfce7">ติดตามตำแหน่งเทียบแผน</text>
+  <text x="140" y="310" text-anchor="middle" font-size="11" fill="#bbf7d0">fix · cross-check · XTE · re-plan</text>
+  <text x="380" y="270" text-anchor="middle" font-size="15" fill="#334155" font-weight="bold">SOLAS V/34</text>
+  <text x="380" y="292" text-anchor="middle" font-size="13" fill="#334155">STCW A-VIII/2 Part 2</text>
+  <text x="380" y="312" text-anchor="middle" font-size="12" fill="#64748b">ข้อมูลใหม่ → ย้อนกลับไปประเมิน</text>
+</svg>

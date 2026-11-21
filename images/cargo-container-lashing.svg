@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="560" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">อุปกรณ์ยึดตู้สินค้าบนดาดฟ้า (Container lashing) และแรงที่กระทำ</text>
+<rect x="60.0" y="430.0" width="520.0" height="22.0" rx="0" fill="#94a3b8" stroke="#0f172a" stroke-width="1.5"/>
+<text x="320.0" y="446.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ฝาระวาง (hatch cover)</text>
+<rect x="30.0" y="220.0" width="26.0" height="232.0" rx="0" fill="#cbd5e1" stroke="#0f172a" stroke-width="1.2"/>
+<text x="43.0" y="472.0" font-size="11" text-anchor="middle" fill="#334155">lashing bridge</text>
+<rect x="70.0" y="352.0" width="160.0" height="76.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="74.0" y="356.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="74.0" y="414.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="216.0" y="356.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="216.0" y="414.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="70.0" y="274.0" width="160.0" height="76.0" rx="0" fill="#e0e7ff" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="74.0" y="278.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="74.0" y="336.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="216.0" y="278.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="216.0" y="336.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="70.0" y="196.0" width="160.0" height="76.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="74.0" y="200.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="74.0" y="258.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="216.0" y="200.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="216.0" y="258.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="70.0" y="118.0" width="160.0" height="76.0" rx="0" fill="#e0e7ff" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="74.0" y="122.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="74.0" y="180.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="216.0" y="122.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="216.0" y="180.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="74.0" y="426.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="216.0" y="426.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="74.0" y="348.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="216.0" y="348.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="74.0" y="270.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="216.0" y="270.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="74.0" y="192.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="216.0" y="192.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="240.0" y="352.0" width="160.0" height="76.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="244.0" y="356.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="244.0" y="414.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="386.0" y="356.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="386.0" y="414.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="240.0" y="274.0" width="160.0" height="76.0" rx="0" fill="#e0e7ff" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="244.0" y="278.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="244.0" y="336.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="386.0" y="278.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="386.0" y="336.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="240.0" y="196.0" width="160.0" height="76.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="244.0" y="200.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="244.0" y="258.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="386.0" y="200.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="386.0" y="258.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="240.0" y="118.0" width="160.0" height="76.0" rx="0" fill="#e0e7ff" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="244.0" y="122.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="244.0" y="180.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="386.0" y="122.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="386.0" y="180.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="244.0" y="426.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="386.0" y="426.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="244.0" y="348.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="386.0" y="348.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="244.0" y="270.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="386.0" y="270.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="244.0" y="192.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="386.0" y="192.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="410.0" y="352.0" width="160.0" height="76.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="414.0" y="356.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="414.0" y="414.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="556.0" y="356.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="556.0" y="414.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="410.0" y="274.0" width="160.0" height="76.0" rx="0" fill="#e0e7ff" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="414.0" y="278.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="414.0" y="336.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="556.0" y="278.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="556.0" y="336.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="410.0" y="196.0" width="160.0" height="76.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="414.0" y="200.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="414.0" y="258.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="556.0" y="200.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="556.0" y="258.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="410.0" y="118.0" width="160.0" height="76.0" rx="0" fill="#e0e7ff" stroke="#1d4ed8" stroke-width="1.4"/>
+<rect x="414.0" y="122.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="414.0" y="180.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="556.0" y="122.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="556.0" y="180.0" width="10.0" height="10.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.5"/>
+<rect x="414.0" y="426.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="556.0" y="426.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="414.0" y="348.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="556.0" y="348.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="414.0" y="270.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="556.0" y="270.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="414.0" y="192.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<rect x="556.0" y="192.0" width="10.0" height="6.0" rx="0" fill="#f59e0b" stroke="#92400e" stroke-width="0.8"/>
+<line x1="72.0" y1="430.0" x2="220.0" y2="278.0" stroke="#b91c1c" stroke-width="2.5"/>
+<line x1="228.0" y1="430.0" x2="80.0" y2="278.0" stroke="#b91c1c" stroke-width="2.5"/>
+<rect x="90.0" y="400.0" width="10.0" height="26.0" rx="0" fill="#f97316" stroke="#9a3412" stroke-width="1"/>
+<rect x="200.0" y="400.0" width="10.0" height="26.0" rx="0" fill="#f97316" stroke="#9a3412" stroke-width="1"/>
+<line x1="242.0" y1="430.0" x2="390.0" y2="278.0" stroke="#b91c1c" stroke-width="2.5"/>
+<line x1="398.0" y1="430.0" x2="250.0" y2="278.0" stroke="#b91c1c" stroke-width="2.5"/>
+<rect x="260.0" y="400.0" width="10.0" height="26.0" rx="0" fill="#f97316" stroke="#9a3412" stroke-width="1"/>
+<rect x="370.0" y="400.0" width="10.0" height="26.0" rx="0" fill="#f97316" stroke="#9a3412" stroke-width="1"/>
+<text x="600.0" y="110.0" font-size="15" text-anchor="start" fill="#0f172a" font-weight="bold">ส่วนประกอบหลัก</text>
+<rect x="600.0" y="128.0" width="16.0" height="16.0" rx="0" fill="#f59e0b" stroke="#0f172a" stroke-width="0.8"/>
+<text x="626.0" y="141.0" font-size="12" text-anchor="start" fill="#0f172a">Twistlock (SATL/FAT) และ stacking cone — ยึดมุมตู้ระหว่างชั้น</text>
+<rect x="600.0" y="158.0" width="16.0" height="16.0" rx="0" fill="#b91c1c" stroke="#0f172a" stroke-width="0.8"/>
+<text x="626.0" y="171.0" font-size="12" text-anchor="start" fill="#0f172a">Lashing rod — ยึดแนวทแยงจากฝาระวาง/lashing bridge</text>
+<rect x="600.0" y="188.0" width="16.0" height="16.0" rx="0" fill="#f97316" stroke="#0f172a" stroke-width="0.8"/>
+<text x="626.0" y="201.0" font-size="12" text-anchor="start" fill="#0f172a">Turnbuckle (bottle screw) — ปรับความตึง lashing rod</text>
+<rect x="600.0" y="218.0" width="16.0" height="16.0" rx="0" fill="#334155" stroke="#0f172a" stroke-width="0.8"/>
+<text x="626.0" y="231.0" font-size="12" text-anchor="start" fill="#0f172a">Corner casting — จุดยึดมุมตู้ 8 มุม (ISO)</text>
+<rect x="600.0" y="248.0" width="16.0" height="16.0" rx="0" fill="#cbd5e1" stroke="#0f172a" stroke-width="0.8"/>
+<text x="626.0" y="261.0" font-size="12" text-anchor="start" fill="#0f172a">Lashing bridge — ให้ lash ได้สูงขึ้น ลดแรงต่อชั้นบน</text>
+<rect x="600.0" y="278.0" width="16.0" height="16.0" rx="0" fill="#94a3b8" stroke="#0f172a" stroke-width="0.8"/>
+<text x="626.0" y="291.0" font-size="12" text-anchor="start" fill="#0f172a">Bridge fitting / buttress — ยึดระหว่างแถวบนสุด (บางเรือ)</text>
+<text x="600.0" y="340.0" font-size="15" text-anchor="start" fill="#0f172a" font-weight="bold">แรงที่กระทำต่อตู้ในทะเล</text>
+<text x="600.0" y="366.0" font-size="12" text-anchor="start" fill="#0f172a">• แรงขวาง (transverse) จากการโคลง — มากที่สุดที่ชั้นบนและหัว/ท้ายเรือ</text>
+<text x="600.0" y="388.0" font-size="12" text-anchor="start" fill="#0f172a">• แรงตามยาว (longitudinal) จากการโต้ (pitch)</text>
+<text x="600.0" y="410.0" font-size="12" text-anchor="start" fill="#0f172a">• แรงตั้ง (vertical) จากการ heave/pitch — ตู้ยกตัว (racking/tipping)</text>
+<text x="600.0" y="432.0" font-size="12" text-anchor="start" fill="#0f172a">• ลมบนตู้ชั้นบนและคลื่นกระแทก (green sea)</text>
+<text x="600.0" y="454.0" font-size="12" text-anchor="start" fill="#0f172a">• ขีดจำกัด: น้ำหนักกองตู้ (stack weight), ความสูงกอง, GM สูงเกิน</text>
+<text x="600.0" y="476.0" font-size="12" text-anchor="start" fill="#0f172a">  → โคลงเร็ว แรงเร่งสูง (ตรวจด้วย lashing computer)</text>
+<text x="600.0" y="498.0" font-size="12" text-anchor="start" fill="#0f172a">• Parametric rolling ทำให้ lashing ล้มเหลวทั้งกองได้</text>
+<text x="320.0" y="70.0" font-size="13" text-anchor="middle" fill="#334155" font-weight="bold">ตัวอย่างการยึดแบบ cross lashing (มองจากหัว/ท้าย)</text>
+<text x="320.0" y="520.0" font-size="12" text-anchor="middle" fill="#b91c1c">การจัดยึดจริงต้องเป็นไปตาม Cargo Securing Manual (CSM) ของเรือ และผลคำนวณ lashing software</text>
+</svg>

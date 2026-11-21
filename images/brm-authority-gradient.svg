@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="380" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arr" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L14,7 L0,14 z" fill="#b91c1c"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Authority Gradient — ความชันของลำดับอำนาจบนสะพานเดินเรือ</text>
+<line x1="60" y1="280" x2="280" y2="90.0" stroke="#b91c1c" stroke-width="6"/>
+<circle cx="60" cy="280" r="14" fill="#64748b"/><text x="60" y="316" text-anchor="middle" font-size="12">OOW/ลูกเรือ</text>
+<circle cx="280" cy="90.0" r="16" fill="#1e3a8a"/><text x="280" y="66.0" text-anchor="middle" font-size="12">นายเรือ</text>
+<text x="180" y="330" text-anchor="middle" font-size="15" font-weight="bold" fill="#b91c1c">ชันเกินไป (Too steep)</text><text x="180" y="352" text-anchor="middle" font-size="13">ลูกน้องไม่กล้าทัก</text>
+<line x1="380" y1="280" x2="600" y2="190.0" stroke="#15803d" stroke-width="6"/>
+<circle cx="380" cy="280" r="14" fill="#64748b"/><text x="380" y="316" text-anchor="middle" font-size="12">OOW/ลูกเรือ</text>
+<circle cx="600" cy="190.0" r="16" fill="#1e3a8a"/><text x="600" y="166.0" text-anchor="middle" font-size="12">นายเรือ</text>
+<text x="500" y="330" text-anchor="middle" font-size="15" font-weight="bold" fill="#15803d">เหมาะสม (Optimal)</text><text x="500" y="352" text-anchor="middle" font-size="13">ผู้นำชัด + ทีมกล้าพูด</text>
+<line x1="700" y1="280" x2="920" y2="268.0" stroke="#b45309" stroke-width="6"/>
+<circle cx="700" cy="280" r="14" fill="#64748b"/><text x="700" y="316" text-anchor="middle" font-size="12">OOW/ลูกเรือ</text>
+<circle cx="920" cy="268.0" r="16" fill="#1e3a8a"/><text x="920" y="244.0" text-anchor="middle" font-size="12">นายเรือ</text>
+<text x="820" y="330" text-anchor="middle" font-size="15" font-weight="bold" fill="#b45309">แบนเกินไป (Too flat)</text><text x="820" y="352" text-anchor="middle" font-size="13">ไม่มีใครตัดสินใจ</text>
+</svg>

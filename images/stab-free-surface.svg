@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="470" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ผลของผิวน้ำอิสระ (Free surface effect) และการแบ่งถังตามยาว</text>
+<text x="200.0" y="70.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">ถังไม่แบ่ง: ของเหลวไหลไปด้านต่ำ</text>
+<rect x="70.0" y="100.0" width="260.0" height="140.0" rx="0" fill="#fff" stroke="#0f172a" stroke-width="2.5"/>
+<polygon points="72,180 328,120 328,238 72,238" fill="#38bdf8" opacity="0.7"/><line x1="140.0" y1="205.0" x2="260.0" y2="190.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<text x="200.0" y="262.0" font-size="11" text-anchor="middle" fill="#334155">มุมเอียงเล็กน้อย → ผิวน้ำยังขนานพื้นโลก</text>
+<text x="520.0" y="70.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">แบ่งกลาง 2 ช่อง: FSE เหลือ 1/4</text>
+<rect x="390.0" y="100.0" width="260.0" height="140.0" rx="0" fill="#fff" stroke="#0f172a" stroke-width="2.5"/>
+<line x1="520.0" y1="100.0" x2="520.0" y2="240.0" stroke="#0f172a" stroke-width="3"/>
+<polygon points="392,165 518,135 518,238 392,238" fill="#38bdf8" opacity="0.7"/><polygon points="522,165 648,135 648,238 522,238" fill="#38bdf8" opacity="0.7"/><text x="520.0" y="262.0" font-size="11" text-anchor="middle" fill="#334155">มุมเอียงเล็กน้อย → ผิวน้ำยังขนานพื้นโลก</text>
+<text x="830.0" y="70.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">ผลต่อ G</text>
+<line x1="830.0" y1="90.0" x2="830.0" y2="260.0" stroke="#94a3b8" stroke-width="1" stroke-dasharray="4 3"/>
+<circle cx="830.0" cy="120.0" r="5.5" fill="#15803d"/><text x="842.0" y="124.0" font-size="13" text-anchor="start" fill="#15803d" font-weight="bold">M</text>
+<circle cx="830.0" cy="200.0" r="5.5" fill="#b91c1c"/><text x="842.0" y="204.0" font-size="13" text-anchor="start" fill="#b91c1c" font-weight="bold">G (solid)</text>
+<circle cx="830.0" cy="165.0" r="5.5" fill="#c2410c"/><text x="842.0" y="169.0" font-size="13" text-anchor="start" fill="#c2410c" font-weight="bold">Gv (virtual)</text>
+<line x1="800.0" y1="200.0" x2="800.0" y2="165.0" stroke="#c2410c" stroke-width="2" marker-end="url(#ar)"/>
+<text x="794.0" y="186.0" font-size="12" text-anchor="end" fill="#c2410c" font-weight="bold">FSC</text>
+<text x="830.0" y="285.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">GM (fluid) = GM (solid) − FSC</text>
+<rect x="40.0" y="310.0" width="920.0" height="140.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="56.0" y="338.0" font-size="12.3" text-anchor="start" fill="#0f172a" font-weight="bold">FSM (t·m) = i × ρ  โดย i = l × b³ ÷ 12 (ถังสี่เหลี่ยม: l ความยาวถัง, b ความกว้างถัง, ρ ความหนาแน่นของเหลวในถัง)  ·  FSC = ΣFSM ÷ Δ</text>
+<text x="56.0" y="366.0" font-size="12.3" text-anchor="start" fill="#0f172a">ตัวอย่าง: ถัง 20 × 12 m น้ำทะเล → i = 2,880 m⁴, FSM ≈ 2,952 t·m, Δ 31,000 t → FSC ≈ 0.095 m  ·  แบ่งกลางเป็น 2 ช่อง → FSM ≈ 738 t·m (1/4)</text>
+<text x="56.0" y="394.0" font-size="12.3" text-anchor="start" fill="#0f172a">แบ่ง n ช่องเท่ากันตามยาว → FSE ลดเหลือ 1/n² · FSE ไม่ขึ้นกับปริมาณของเหลว (ถ้ายังมีผิวอิสระ) และไม่ขึ้นกับตำแหน่งถังในเรือ</text>
+<text x="56.0" y="422.0" font-size="12.3" text-anchor="start" fill="#0f172a">ลดผล: ถังเต็ม (pressed up) หรือว่างจริง · หลีกเลี่ยงถังหย่อนหลายถังพร้อมกัน · ระวังน้ำดับเพลิง/น้ำเข้าเรือที่สะสมบนดาดฟ้า</text>
+</svg>

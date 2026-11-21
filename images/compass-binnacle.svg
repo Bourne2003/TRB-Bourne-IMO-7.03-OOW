@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="900" height="560" fill="#fff"/>
+<defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="context-stroke"/></marker></defs>
+<text x="450.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Binnacle และตัวแก้ Deviation</text>
+<rect x="330" y="200" width="140" height="300" rx="12" fill="#e2e8f0" stroke="#475569" stroke-width="2"/>
+<ellipse cx="400" cy="150" rx="95" ry="30" fill="#cbd5e1" stroke="#475569" stroke-width="2"/>
+<path d="M 305 150 L 320 205 L 480 205 L 495 150" fill="#cbd5e1" stroke="#475569" stroke-width="2"/>
+<ellipse cx="400" cy="140" rx="70" ry="20" fill="#fef3c7" stroke="#92400e"/>
+<text x="400" y="145" text-anchor="middle" font-size="12" fill="#92400e">compass bowl</text>
+<rect x="388" y="60" width="24" height="60" fill="#94a3b8"/><text x="420" y="80" font-size="12">azimuth circle / hood</text>
+<circle cx="250" cy="160" r="34" fill="#64748b" stroke="#1e293b" stroke-width="2"/>
+<line x1="284" y1="160" x2="305" y2="155" stroke="#475569" stroke-width="6"/>
+<circle cx="550" cy="160" r="34" fill="#64748b" stroke="#1e293b" stroke-width="2"/>
+<line x1="516" y1="160" x2="495" y2="155" stroke="#475569" stroke-width="6"/>
+<text x="170" y="215" font-size="13" font-weight="bold">Quadrantal spheres</text><text x="170" y="233" font-size="12">(soft iron) → แก้ D, E</text>
+<rect x="370" y="230" width="60" height="150" fill="#94a3b8" opacity="0.5" stroke="#475569" stroke-dasharray="4 3"/>
+<rect x="490" y="230" width="26" height="170" rx="6" fill="#0f172a"/><text x="525" y="300" font-size="13" font-weight="bold">Flinders bar</text><text x="525" y="318" font-size="12">(vertical soft iron) → แก้ B ส่วน induced</text>
+<rect x="340" y="300" width="50" height="8" fill="#dc2626"/><rect x="410" y="300" width="50" height="8" fill="#2563eb"/>
+<rect x="340" y="330" width="50" height="8" fill="#dc2626"/><rect x="410" y="330" width="50" height="8" fill="#2563eb"/>
+<rect x="340" y="360" width="50" height="8" fill="#dc2626"/><rect x="410" y="360" width="50" height="8" fill="#2563eb"/>
+<text x="70" y="320" font-size="13" font-weight="bold">Fore-and-aft magnets → แก้ B</text><text x="70" y="340" font-size="13" font-weight="bold">Athwartship magnets → แก้ C</text>
+<line x1="290" y1="330" x2="338" y2="330" stroke="#334155"/>
+<rect x="394" y="215" width="12" height="70" fill="#7c3aed"/><text x="70" y="260" font-size="13" font-weight="bold">Heeling error magnet (bucket)</text><text x="70" y="278" font-size="12">แนวดิ่งใต้เข็มทิศ → แก้ heeling error</text>
+<line x1="290" y1="262" x2="392" y2="250" stroke="#334155"/>
+<text x="400" y="530" text-anchor="middle" font-size="13" fill="#334155">Coefficient A → แก้ด้วยการวางแนว lubber line/เข็มทิศให้ตรงแนวหัวเรือ (ไม่ใช้แม่เหล็ก)</text>
+</svg>

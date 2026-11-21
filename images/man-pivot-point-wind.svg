@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker><marker id="arO" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#c2410c"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Pivot point และผลของลมต่อเรือที่มี headway / หยุดนิ่ง / sternway</text>
+<text x="170.0" y="70.0" font-size="15" text-anchor="middle" fill="#0f172a" font-weight="bold">มี headway (เดินหน้า)</text>
+<text x="170.0" y="90.0" font-size="12" text-anchor="middle" fill="#334155">pivot point ≈ 1/4–1/3 L จากหัว</text>
+<polygon points="170.0,110.0 195.0,165.0 195.0,410.0 145.0,410.0 145.0,165.0" fill="#e2e8f0" stroke="#0f172a" stroke-width="1.5"/>
+<rect x="148" y="320" width="44" height="50" fill="#94a3b8" stroke="#0f172a"/><text x="200.0" y="358.0" font-size="10" text-anchor="start" fill="#334155">ที่พัก</text>
+<circle cx="170" cy="194.0" r="9" fill="#facc15" stroke="#854d0e" stroke-width="2"/><text x="156.0" y="198.0" font-size="12" text-anchor="end" fill="#854d0e" font-weight="bold">P</text>
+<circle cx="170" cy="285" r="6" fill="#1d4ed8"/><text x="180.0" y="289.0" font-size="12" text-anchor="start" fill="#1d4ed8" font-weight="bold">W</text>
+<line x1="30.0" y1="170.0" x2="110.0" y2="170.0" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arB)"/>
+<line x1="30.0" y1="260.0" x2="110.0" y2="260.0" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arB)"/>
+<line x1="30.0" y1="350.0" x2="110.0" y2="350.0" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arB)"/>
+<text x="30.0" y="160.0" font-size="12" text-anchor="start" fill="#1d4ed8" font-weight="bold">ลม</text>
+<line x1="240.0" y1="300.0" x2="240.0" y2="220.0" stroke="#0f172a" stroke-width="3" marker-end="url(#ar)"/>
+<text x="248.0" y="260.0" font-size="11" text-anchor="start" fill="#0f172a">headway</text>
+<line x1="200.0" y1="380.0" x2="255.0" y2="380.0" stroke="#b91c1c" stroke-width="3" marker-end="url(#arR)"/>
+<line x1="140.0" y1="140.0" x2="95.0" y2="140.0" stroke="#b91c1c" stroke-width="3" marker-end="url(#arR)"/>
+<text x="170.0" y="465.0" font-size="12" text-anchor="middle" fill="#b91c1c">W อยู่ท้าย P ไกล → ท้ายถูกพัดไปใต้ลม</text>
+<text x="170.0" y="482.0" font-size="12" text-anchor="middle" fill="#b91c1c" font-weight="bold">หัวเรือ "หันเข้าหาลม" (bow seeks the wind)</text>
+<text x="500.0" y="70.0" font-size="15" text-anchor="middle" fill="#0f172a" font-weight="bold">ไม่มี way (หยุดนิ่ง)</text>
+<text x="500.0" y="90.0" font-size="12" text-anchor="middle" fill="#334155">แรงต้านด้านข้างกระจายทั้งลำ</text>
+<polygon points="500.0,110.0 525.0,165.0 525.0,410.0 475.0,410.0 475.0,165.0" fill="#e2e8f0" stroke="#0f172a" stroke-width="1.5"/>
+<rect x="478" y="320" width="44" height="50" fill="#94a3b8" stroke="#0f172a"/><text x="530.0" y="358.0" font-size="10" text-anchor="start" fill="#334155">ที่พัก</text>
+<circle cx="500" cy="270.0" r="9" fill="#facc15" stroke="#854d0e" stroke-width="2"/><text x="486.0" y="274.0" font-size="12" text-anchor="end" fill="#854d0e" font-weight="bold">P</text>
+<circle cx="500" cy="285" r="6" fill="#1d4ed8"/><text x="510.0" y="289.0" font-size="12" text-anchor="start" fill="#1d4ed8" font-weight="bold">W</text>
+<line x1="360.0" y1="170.0" x2="440.0" y2="170.0" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arB)"/>
+<line x1="360.0" y1="260.0" x2="440.0" y2="260.0" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arB)"/>
+<line x1="360.0" y1="350.0" x2="440.0" y2="350.0" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arB)"/>
+<text x="360.0" y="160.0" font-size="12" text-anchor="start" fill="#1d4ed8" font-weight="bold">ลม</text>
+<line x1="540.0" y1="200.0" x2="600.0" y2="200.0" stroke="#b91c1c" stroke-width="3" marker-end="url(#arR)"/>
+<line x1="540.0" y1="320.0" x2="600.0" y2="320.0" stroke="#b91c1c" stroke-width="3" marker-end="url(#arR)"/>
+<text x="500.0" y="465.0" font-size="12" text-anchor="middle" fill="#b91c1c">ดริฟต์ไปใต้ลมทั้งลำ ส่วนใหญ่วางตัว</text>
+<text x="500.0" y="482.0" font-size="12" text-anchor="middle" fill="#b91c1c" font-weight="bold">ขวางลมหรือเฉียง (ขึ้นกับรูปทรง/ที่พัก)</text>
+<text x="830.0" y="70.0" font-size="15" text-anchor="middle" fill="#0f172a" font-weight="bold">มี sternway (ถอยหลัง)</text>
+<text x="830.0" y="90.0" font-size="12" text-anchor="middle" fill="#334155">pivot point ≈ 1/4 L จากท้าย</text>
+<polygon points="830.0,110.0 855.0,165.0 855.0,410.0 805.0,410.0 805.0,165.0" fill="#e2e8f0" stroke="#0f172a" stroke-width="1.5"/>
+<rect x="808" y="320" width="44" height="50" fill="#94a3b8" stroke="#0f172a"/><text x="860.0" y="358.0" font-size="10" text-anchor="start" fill="#334155">ที่พัก</text>
+<circle cx="830" cy="335.0" r="9" fill="#facc15" stroke="#854d0e" stroke-width="2"/><text x="816.0" y="339.0" font-size="12" text-anchor="end" fill="#854d0e" font-weight="bold">P</text>
+<circle cx="830" cy="285" r="6" fill="#1d4ed8"/><text x="840.0" y="289.0" font-size="12" text-anchor="start" fill="#1d4ed8" font-weight="bold">W</text>
+<line x1="690.0" y1="170.0" x2="770.0" y2="170.0" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arB)"/>
+<line x1="690.0" y1="260.0" x2="770.0" y2="260.0" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arB)"/>
+<line x1="690.0" y1="350.0" x2="770.0" y2="350.0" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arB)"/>
+<text x="690.0" y="160.0" font-size="12" text-anchor="start" fill="#1d4ed8" font-weight="bold">ลม</text>
+<line x1="900.0" y1="220.0" x2="900.0" y2="300.0" stroke="#0f172a" stroke-width="3" marker-end="url(#ar)"/>
+<text x="908.0" y="260.0" font-size="11" text-anchor="start" fill="#0f172a">sternway</text>
+<line x1="860.0" y1="140.0" x2="915.0" y2="140.0" stroke="#b91c1c" stroke-width="3" marker-end="url(#arR)"/>
+<line x1="800.0" y1="380.0" x2="755.0" y2="380.0" stroke="#b91c1c" stroke-width="3" marker-end="url(#arR)"/>
+<text x="830.0" y="465.0" font-size="12" text-anchor="middle" fill="#b91c1c">W อยู่หน้า P → หัวถูกพัดไปใต้ลม</text>
+<text x="830.0" y="482.0" font-size="12" text-anchor="middle" fill="#b91c1c" font-weight="bold">ท้ายเรือ "หันเข้าหาลม" (stern seeks the wind)</text>
+<text x="500.0" y="505.0" font-size="12" text-anchor="middle" fill="#334155">P = pivot point (จุดหมุนที่ปรากฏ) · W = จุดศูนย์กลางพื้นที่รับลม (centre of windage) — แนวโน้มจริงขึ้นกับรูปเรือ ระดับกินน้ำ trim และตำแหน่งที่พัก</text>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 560" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1100" height="560" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="550.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">เครื่องหมายแนวน้ำบรรทุก (Load line mark) และ Deck line — ขนาดตาม Load Line Convention</text>
+<rect x="182.5" y="92.0" width="135.0" height="11.2" rx="0" fill="#0f172a" stroke="#0f172a" stroke-width="0"/>
+<text x="250.0" y="84.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">Deck line 300 × 25 mm</text>
+<line x1="250.0" y1="105.2" x2="250.0" y2="150.0" stroke="#475569" stroke-width="1" stroke-dasharray="3 3"/>
+<line x1="250.0" y1="175.0" x2="250.0" y2="324.0" stroke="#475569" stroke-width="1" stroke-dasharray="3 3"/>
+<path d="M 238 152 l 24 -6 M 238 172 l 24 -6" stroke="#475569" stroke-width="1.5" fill="none"/><text x="232.0" y="140.0" font-size="11" text-anchor="end" fill="#475569">Summer freeboard ที่กำหนด</text>
+<text x="232.0" y="156.0" font-size="11" text-anchor="end" fill="#475569">(ขอบบน deck line ถึงขอบบน</text>
+<text x="232.0" y="172.0" font-size="11" text-anchor="end" fill="#475569">เส้นผ่ากลางวงกลม — ไม่ตามมาตราส่วน)</text>
+<circle cx="250" cy="330" r="61.88" fill="none" stroke="#0f172a" stroke-width="11.25"/><rect x="148.8" y="330.0" width="202.5" height="11.2" rx="0" fill="#0f172a" stroke="#0f172a" stroke-width="0"/>
+<text x="165.6" y="326.0" font-size="44" text-anchor="middle" fill="#0f172a" font-weight="bold">X</text>
+<text x="334.4" y="326.0" font-size="44" text-anchor="middle" fill="#0f172a" font-weight="bold">X</text>
+<rect x="487.4" y="156.8" width="11.2" height="297.0" rx="0" fill="#0f172a" stroke="#0f172a" stroke-width="0"/>
+<rect x="498.6" y="330.0" width="103.5" height="11.2" rx="0" fill="#0f172a" stroke="#0f172a" stroke-width="0"/>
+<text x="610.1" y="341.0" font-size="15" text-anchor="start" fill="#0f172a" font-weight="bold">S</text>
+<text x="632.1" y="340.0" font-size="10.5" text-anchor="start" fill="#475569"></text>
+<rect x="498.6" y="240.0" width="103.5" height="11.2" rx="0" fill="#0f172a" stroke="#0f172a" stroke-width="0"/>
+<text x="610.1" y="251.0" font-size="15" text-anchor="start" fill="#0f172a" font-weight="bold">T</text>
+<text x="632.1" y="250.0" font-size="10.5" text-anchor="start" fill="#475569">S+1/48</text>
+<rect x="498.6" y="420.0" width="103.5" height="11.2" rx="0" fill="#0f172a" stroke="#0f172a" stroke-width="0"/>
+<text x="610.1" y="431.0" font-size="15" text-anchor="start" fill="#0f172a" font-weight="bold">W</text>
+<text x="632.1" y="430.0" font-size="10.5" text-anchor="start" fill="#475569">S−1/48</text>
+<rect x="498.6" y="442.5" width="103.5" height="11.2" rx="0" fill="#0f172a" stroke="#0f172a" stroke-width="0"/>
+<text x="610.1" y="453.5" font-size="15" text-anchor="start" fill="#0f172a" font-weight="bold">WNA</text>
+<text x="652.1" y="452.5" font-size="10.5" text-anchor="start" fill="#475569">W−50 mm</text>
+<rect x="383.9" y="246.8" width="103.5" height="11.2" rx="0" fill="#b91c1c" stroke="#b91c1c" stroke-width="0"/>
+<text x="375.9" y="257.8" font-size="15" text-anchor="end" fill="#b91c1c" font-weight="bold">F</text>
+<text x="347.9" y="256.8" font-size="10.5" text-anchor="end" fill="#475569">S + FWA</text>
+<rect x="383.9" y="156.8" width="103.5" height="11.2" rx="0" fill="#b91c1c" stroke="#b91c1c" stroke-width="0"/>
+<text x="375.9" y="167.8" font-size="15" text-anchor="end" fill="#b91c1c" font-weight="bold">TF</text>
+<text x="347.9" y="166.8" font-size="10.5" text-anchor="end" fill="#475569">T + FWA</text>
+<line x1="148.8" y1="416.0" x2="351.2" y2="416.0" stroke="#64748b" stroke-width="1"/>
+<text x="250.0" y="432.0" font-size="10.5" text-anchor="middle" fill="#475569">เส้นผ่าวงกลม 450 mm · วงกลม Ø นอก 300 mm</text>
+<line x1="250.0" y1="448.0" x2="493.0" y2="448.0" stroke="#64748b" stroke-width="1" marker-end="url(#ar)"/>
+<text x="371.5" y="464.0" font-size="10.5" text-anchor="middle" fill="#475569">540 mm (ศูนย์กลางวงกลม → เส้นตั้ง)</text>
+<text x="550.4" y="490.0" font-size="10.5" text-anchor="middle" fill="#475569">← เส้นแนวน้ำยาว 230 mm →</text>
+<text x="330.0" y="540.0" font-size="10.5" text-anchor="middle" fill="#475569">← ท้ายเรือ · หัวเรือ →   (ภาพด้านขวาของเรือ · มาตราส่วน 0.45 px ต่อ mm)</text>
+<rect x="712.0" y="54.0" width="376.0" height="490.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="726.0" y="78.0" font-size="12" text-anchor="start" fill="#0f172a" font-weight="bold">ความหมาย (LL 1966/1988 Reg. 4–8, 40)</text>
+<text x="726.0" y="101.3" font-size="12" text-anchor="start" fill="#0f172a">S — Summer: ขอบบนเสมอขอบบนเส้นผ่าวงกลม</text>
+<text x="726.0" y="124.6" font-size="12" text-anchor="start" fill="#0f172a">T — Tropical: สูงกว่า S = 1/48 summer draught</text>
+<text x="726.0" y="147.9" font-size="12" text-anchor="start" fill="#0f172a">W — Winter: ต่ำกว่า S = 1/48 summer draught</text>
+<text x="726.0" y="171.2" font-size="12" text-anchor="start" fill="#0f172a">WNA — ต่ำกว่า W 50 mm (เรือยาว ≤ 100 m)</text>
+<text x="726.0" y="194.5" font-size="12" text-anchor="start" fill="#0f172a">F — Fresh: สูงกว่า S = FWA (อยู่ท้ายเส้นตั้ง)</text>
+<text x="726.0" y="217.8" font-size="12" text-anchor="start" fill="#0f172a">TF — Tropical fresh: สูงกว่า T = FWA</text>
+<text x="726.0" y="241.1" font-size="12" text-anchor="start" fill="#0f172a">FWA (mm) = Δ ÷ (4 × TPC)</text>
+<text x="726.0" y="264.4" font-size="12" text-anchor="start" fill="#0f172a">DWA = FWA × (1025 − ρ) ÷ 25</text>
+<text x="726.0" y="287.7" font-size="12" text-anchor="start" fill="#0f172a"></text>
+<text x="726.0" y="311.0" font-size="12" text-anchor="start" fill="#0f172a" font-weight="bold">ขนาด (ทุกเส้นกว้าง 25 mm)</text>
+<text x="726.0" y="334.3" font-size="12" text-anchor="start" fill="#0f172a">• Deck line ยาว 300 mm ที่กลางลำ</text>
+<text x="726.0" y="357.6" font-size="12" text-anchor="start" fill="#0f172a">• วงกลม Ø นอก 300 mm, เส้นผ่ากลางยาว 450 mm</text>
+<text x="726.0" y="380.9" font-size="12" text-anchor="start" fill="#0f172a">• เส้นแนวน้ำยาว 230 mm ออกจากเส้นตั้งที่อยู่</text>
+<text x="726.0" y="404.2" font-size="12" text-anchor="start" fill="#0f172a">  ห่างศูนย์กลางวงกลม 540 mm ไปทางหัวเรือ</text>
+<text x="726.0" y="427.5" font-size="12" text-anchor="start" fill="#0f172a">• อักษรย่อหน่วยงานที่กำหนด freeboard ~115×75 mm</text>
+<text x="726.0" y="450.8" font-size="12" text-anchor="start" fill="#0f172a">• ขาว/เหลืองบนพื้นเข้ม หรือดำบนพื้นสว่าง + ทำถาวร</text>
+<text x="726.0" y="474.1" font-size="12" text-anchor="start" fill="#0f172a"></text>
+<text x="726.0" y="497.4" font-size="12" text-anchor="start" fill="#0f172a" font-weight="bold">ตัวอย่าง (สมมุติ): summer draught 9.60 m</text>
+<text x="726.0" y="520.7" font-size="12" text-anchor="start" fill="#0f172a">→ 1/48 = 200 mm · Δ 31,000 t, TPC 42 → FWA ≈ 185 mm</text>
+</svg>

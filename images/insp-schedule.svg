@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ตัวอย่างแผนหมุนเวียนการตรวจ (Inspection rotation) ให้ครอบคลุมทุกพื้นที่ภายใน 12 เดือน</text>
+<text x="327.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ม.ค.</text>
+<text x="381.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ก.พ.</text>
+<text x="435.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">มี.ค.</text>
+<text x="489.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">เม.ย.</text>
+<text x="543.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">พ.ค.</text>
+<text x="597.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">มิ.ย.</text>
+<text x="651.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ก.ค.</text>
+<text x="705.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ส.ค.</text>
+<text x="759.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ก.ย.</text>
+<text x="813.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ต.ค.</text>
+<text x="867.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">พ.ย.</text>
+<text x="921.0" y="86.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ธ.ค.</text>
+<rect x="30.0" y="98.0" width="260.0" height="30.0" rx="0" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="38.0" y="118.0" font-size="12" text-anchor="start" fill="#0f172a">ระวาง 1–5 (หลังขนลงทุกครั้ง)</text>
+<rect x="302.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="356.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="410.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="464.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="518.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="572.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="626.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="680.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="734.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="788.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="842.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="896.0" y="98.0" width="50.0" height="30.0" rx="4" fill="#f59e0b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="134.0" width="260.0" height="30.0" rx="0" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="38.0" y="154.0" font-size="12" text-anchor="start" fill="#0f172a">ฝาระวาง (ตรวจด้วยตา/ทุกเที่ยว)</text>
+<rect x="302.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="356.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="410.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="464.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="518.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="572.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="626.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="680.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="734.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="788.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="842.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="896.0" y="134.0" width="50.0" height="30.0" rx="4" fill="#64748b" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="170.0" width="260.0" height="30.0" rx="0" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="38.0" y="190.0" font-size="12" text-anchor="start" fill="#0f172a">ฝาระวาง (ทดสอบผนึกน้ำ)</text>
+<rect x="302.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#475569" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="356.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="410.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="464.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#475569" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="518.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="572.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="626.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#475569" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="680.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="734.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="788.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#475569" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="842.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="896.0" y="170.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="206.0" width="260.0" height="30.0" rx="0" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="38.0" y="226.0" font-size="12" text-anchor="start" fill="#0f172a">Topside tanks 1P/S–2P/S</text>
+<rect x="302.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#1d4ed8" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="356.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="410.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="464.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="518.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="572.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="626.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#1d4ed8" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="680.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="734.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="788.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="842.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="896.0" y="206.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="242.0" width="260.0" height="30.0" rx="0" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="38.0" y="262.0" font-size="12" text-anchor="start" fill="#0f172a">Topside tanks 3P/S–5P/S</text>
+<rect x="302.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="356.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#1d4ed8" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="410.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="464.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="518.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="572.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="626.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="680.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#1d4ed8" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="734.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="788.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="842.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="896.0" y="242.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="278.0" width="260.0" height="30.0" rx="0" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="38.0" y="298.0" font-size="12" text-anchor="start" fill="#0f172a">Hopper/DB tanks 1–2</text>
+<rect x="302.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="356.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="410.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#0369a1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="464.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="518.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="572.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="626.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="680.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="734.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#0369a1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="788.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="842.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="896.0" y="278.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="314.0" width="260.0" height="30.0" rx="0" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="38.0" y="334.0" font-size="12" text-anchor="start" fill="#0f172a">Hopper/DB tanks 3–5</text>
+<rect x="302.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="356.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="410.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="464.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#0369a1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="518.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="572.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="626.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="680.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="734.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="788.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#0369a1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="842.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="896.0" y="314.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="350.0" width="260.0" height="30.0" rx="0" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="38.0" y="370.0" font-size="12" text-anchor="start" fill="#0f172a">Fore peak / Aft peak</text>
+<rect x="302.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="356.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="410.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="464.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="518.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#7c3aed" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="572.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="626.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="680.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="734.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="788.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="842.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#7c3aed" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="896.0" y="350.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="30.0" y="386.0" width="260.0" height="30.0" rx="0" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="38.0" y="406.0" font-size="12" text-anchor="start" fill="#0f172a">Void spaces, pipe duct, chain locker</text>
+<rect x="302.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="356.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="410.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="464.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="518.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="572.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#be185d" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="626.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="680.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="734.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="788.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="842.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#f1f5f9" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="896.0" y="386.0" width="50.0" height="30.0" rx="4" fill="#be185d" stroke="#e2e8f0" stroke-width="1"/>
+<text x="500.0" y="446.0" font-size="12" text-anchor="middle" fill="#0f172a">แต่ละถังถูกตรวจ 2 ครั้งต่อปีในตัวอย่างนี้ — ปรับตามอายุเรือ สภาพ coating ประวัติความเสียหาย ข้อกำหนดบริษัท/สมาคมจัดชั้น และโอกาสที่ถังว่าง</text>
+<text x="500.0" y="466.0" font-size="12" text-anchor="middle" fill="#475569">ตารางสมมุติสำหรับเรือ bulk 5 ระวาง — การตรวจของลูกเรือไม่แทนที่การ survey ของสมาคมจัดชั้น แต่เป็นเอกสารสนับสนุนใน ESP</text>
+</svg>

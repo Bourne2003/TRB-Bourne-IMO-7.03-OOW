@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="680" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ใบรับรองและเอกสารสำคัญของเรือสินค้า (ตัวอย่าง — ตรวจรายการเต็มตาม FAL/รัฐเจ้าของธง)</text>
+<rect x="30.0" y="50.0" width="940.0" height="30.0" rx="6" fill="#1e3a8a" stroke="#1e3a8a" stroke-width="0"/>
+<text x="46.0" y="70.0" font-size="12.5" text-anchor="start" fill="#fff" font-weight="bold">ใบรับรอง/เอกสาร</text>
+<text x="560.0" y="70.0" font-size="12.5" text-anchor="start" fill="#fff" font-weight="bold">ตามกฎ</text>
+<text x="770.0" y="70.0" font-size="12.5" text-anchor="start" fill="#fff" font-weight="bold">อายุ/การตรวจ (ทั่วไป)</text>
+<rect x="30.0" y="84.0" width="940.0" height="32.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="105.0" font-size="12" text-anchor="start" fill="#0f172a">Certificate of Registry</text>
+<text x="560.0" y="105.0" font-size="11.5" text-anchor="start" fill="#334155">ทะเบียนเรือ/สัญชาติ</text>
+<text x="770.0" y="105.0" font-size="11.5" text-anchor="start" fill="#334155">ตามรัฐเจ้าของธง</text>
+<rect x="30.0" y="118.0" width="940.0" height="32.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="139.0" font-size="12" text-anchor="start" fill="#0f172a">International Tonnage Certificate (1969)</text>
+<text x="560.0" y="139.0" font-size="11.5" text-anchor="start" fill="#334155">GT/NT</text>
+<text x="770.0" y="139.0" font-size="11.5" text-anchor="start" fill="#334155">ไม่มีวันหมดอายุ (เว้นดัดแปลง)</text>
+<rect x="30.0" y="152.0" width="940.0" height="32.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="173.0" font-size="12" text-anchor="start" fill="#0f172a">International Load Line Certificate</text>
+<text x="560.0" y="173.0" font-size="11.5" text-anchor="start" fill="#334155">Load Line Convention</text>
+<text x="770.0" y="173.0" font-size="11.5" text-anchor="start" fill="#334155">5 ปี + annual survey</text>
+<rect x="30.0" y="186.0" width="940.0" height="32.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="207.0" font-size="12" text-anchor="start" fill="#0f172a">Cargo Ship Safety Construction / Equipment / Radio</text>
+<text x="560.0" y="207.0" font-size="11.5" text-anchor="start" fill="#334155">SOLAS</text>
+<text x="770.0" y="207.0" font-size="11.5" text-anchor="start" fill="#334155">5 ปี (Radio มี periodical)</text>
+<rect x="30.0" y="220.0" width="940.0" height="32.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="241.0" font-size="12" text-anchor="start" fill="#0f172a">IOPP · ISPP · IAPP · IEE</text>
+<text x="560.0" y="241.0" font-size="11.5" text-anchor="start" fill="#334155">MARPOL I, IV, VI</text>
+<text x="770.0" y="241.0" font-size="11.5" text-anchor="start" fill="#334155">5 ปี (IEE ตลอดอายุเรือ)</text>
+<rect x="30.0" y="254.0" width="940.0" height="32.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="275.0" font-size="12" text-anchor="start" fill="#0f172a">International BWM Certificate</text>
+<text x="560.0" y="275.0" font-size="11.5" text-anchor="start" fill="#334155">BWM Convention</text>
+<text x="770.0" y="275.0" font-size="11.5" text-anchor="start" fill="#334155">5 ปี</text>
+<rect x="30.0" y="288.0" width="940.0" height="32.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="309.0" font-size="12" text-anchor="start" fill="#0f172a">International Anti-fouling System Certificate</text>
+<text x="560.0" y="309.0" font-size="11.5" text-anchor="start" fill="#334155">AFS</text>
+<text x="770.0" y="309.0" font-size="11.5" text-anchor="start" fill="#334155">ตามการเปลี่ยนระบบสี</text>
+<rect x="30.0" y="322.0" width="940.0" height="32.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="343.0" font-size="12" text-anchor="start" fill="#0f172a">Safety Management Certificate (SMC) + copy of DOC</text>
+<text x="560.0" y="343.0" font-size="11.5" text-anchor="start" fill="#334155">ISM Code</text>
+<text x="770.0" y="343.0" font-size="11.5" text-anchor="start" fill="#334155">5 ปี (intermediate audit)</text>
+<rect x="30.0" y="356.0" width="940.0" height="32.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="377.0" font-size="12" text-anchor="start" fill="#0f172a">International Ship Security Certificate (ISSC)</text>
+<text x="560.0" y="377.0" font-size="11.5" text-anchor="start" fill="#334155">ISPS Code</text>
+<text x="770.0" y="377.0" font-size="11.5" text-anchor="start" fill="#334155">5 ปี (intermediate verification)</text>
+<rect x="30.0" y="390.0" width="940.0" height="32.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="411.0" font-size="12" text-anchor="start" fill="#0f172a">Maritime Labour Certificate + DMLC I/II</text>
+<text x="560.0" y="411.0" font-size="11.5" text-anchor="start" fill="#334155">MLC 2006</text>
+<text x="770.0" y="411.0" font-size="11.5" text-anchor="start" fill="#334155">5 ปี (intermediate inspection)</text>
+<rect x="30.0" y="424.0" width="940.0" height="32.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="445.0" font-size="12" text-anchor="start" fill="#0f172a">Minimum Safe Manning Document</text>
+<text x="560.0" y="445.0" font-size="11.5" text-anchor="start" fill="#334155">SOLAS V/14</text>
+<text x="770.0" y="445.0" font-size="11.5" text-anchor="start" fill="#334155">ตามรัฐเจ้าของธง</text>
+<rect x="30.0" y="458.0" width="940.0" height="32.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="479.0" font-size="12" text-anchor="start" fill="#0f172a">Continuous Synopsis Record (CSR)</text>
+<text x="560.0" y="479.0" font-size="11.5" text-anchor="start" fill="#334155">SOLAS XI-1/5</text>
+<text x="770.0" y="479.0" font-size="11.5" text-anchor="start" fill="#334155">บันทึกประวัติต่อเนื่อง</text>
+<rect x="30.0" y="492.0" width="940.0" height="32.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="513.0" font-size="12" text-anchor="start" fill="#0f172a">ประกันภัยตามอนุสัญญา (CLC · Bunkers · Wreck Removal)</text>
+<text x="560.0" y="513.0" font-size="11.5" text-anchor="start" fill="#334155">ความรับผิดทางแพ่ง</text>
+<text x="770.0" y="513.0" font-size="11.5" text-anchor="start" fill="#334155">ตามระยะประกัน</text>
+<rect x="30.0" y="526.0" width="940.0" height="32.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="547.0" font-size="12" text-anchor="start" fill="#0f172a">DOC for Dangerous Goods · Certificate of Fitness · Grain</text>
+<text x="560.0" y="547.0" font-size="11.5" text-anchor="start" fill="#334155">SOLAS II-2/19 · IBC/IGC · Grain</text>
+<text x="770.0" y="547.0" font-size="11.5" text-anchor="start" fill="#334155">ตามชนิดเรือ</text>
+<rect x="30.0" y="560.0" width="940.0" height="32.0" rx="4" fill="#eef2ff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="581.0" font-size="12" text-anchor="start" fill="#0f172a">ใบประกาศนียบัตรลูกเรือ (CoC, CoP, endorsement, medical)</text>
+<text x="560.0" y="581.0" font-size="11.5" text-anchor="start" fill="#334155">STCW · MLC</text>
+<text x="770.0" y="581.0" font-size="11.5" text-anchor="start" fill="#334155">ตามใบแต่ละใบ</text>
+<rect x="30.0" y="594.0" width="940.0" height="32.0" rx="4" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+<text x="46.0" y="615.0" font-size="12" text-anchor="start" fill="#0f172a">International Certificate on Inventory of Hazardous Materials (IHM)</text>
+<text x="560.0" y="615.0" font-size="11.5" text-anchor="start" fill="#334155">Hong Kong Conv. (26 มิ.ย. 2025)</text>
+<text x="770.0" y="615.0" font-size="11.5" text-anchor="start" fill="#334155">≤ 5 ปี (เรือ ≥ 500 GT)</text>
+<text x="500.0" y="650.0" font-size="12" text-anchor="middle" fill="#b91c1c">บันทึก (logs): Official log, deck/engine log, ORB, GRB, BWRB, Cargo Record Book, GMDSS log, hours of rest — เป็นเอกสารทางกฎหมาย</text>
+<text x="500.0" y="670.0" font-size="11.5" text-anchor="middle" fill="#475569">ใช้ระบบการสำรวจและออกใบรับรองที่ประสานกัน (HSSC) — annual window ± 3 เดือนจากวันครบรอบ</text>
+</svg>

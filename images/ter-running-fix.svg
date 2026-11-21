@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 560" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="860" height="560" fill="#fff"/>
+<defs><marker id="a1" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="a1b" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="a1r" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="a1g" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="430.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Running Fix — เลื่อนเส้นตำแหน่ง (Transferred position line)</text>
+<path d="M 520 60 L 860 60 L 860 330 Q 760 300 700 250 Q 640 200 600 140 Q 560 100 520 60 Z" fill="#f5deb3" stroke="#8b6b3d" stroke-width="2"/>
+<circle cx="600" cy="140" r="8" fill="#a21caf"/><text x="610" y="130" font-size="14" font-weight="bold" fill="#701a75">Lt (ประภาคาร)</text>
+<line x1="72.7" y1="500.7" x2="652.3" y2="345.4" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="6 5"/>
+<line x1="600" y1="140" x2="185.1" y2="453.5" stroke="#1d4ed8" stroke-width="2.5"/>
+<text x="35.1" y="471.5" font-size="13" fill="#1d4ed8" font-weight="bold">1st brg 0900 (052.9°)</text>
+<line x1="600" y1="140" x2="514.3" y2="458.7" stroke="#b91c1c" stroke-width="2.5"/>
+<text x="524.3" y="458.7" font-size="13" fill="#b91c1c" font-weight="bold">2nd brg 0930 (015.1°)</text>
+<line x1="181.9" y1="455.9" x2="568.3" y2="352.4" stroke="#0f172a" stroke-width="2.5" marker-end="url(#a1)"/>
+<text x="370.3" y="324.4" font-size="13" font-weight="bold">เข็ม 075° × ระยะที่แล่น 30 นาที</text>
+<line x1="727.9" y1="231.8" x2="432.6" y2="454.8" stroke="#1d4ed8" stroke-width="2.5" stroke-dasharray="10 4"/>
+<polygon points="727.9,231.8 722.4,242.8 715.8,234.0" fill="#1d4ed8"/>
+<polygon points="721.5,236.6 716.0,247.6 709.4,238.9" fill="#1d4ed8"/>
+<polygon points="432.6,454.8 438.1,443.8 444.7,452.6" fill="#1d4ed8"/>
+<polygon points="439.0,450.0 444.5,439.0 451.1,447.8" fill="#1d4ed8"/>
+<text x="735.9" y="223.8" font-size="13" fill="#1d4ed8" font-weight="bold">transferred 1st LOP</text>
+<circle cx="536.4" cy="376.5" r="12" fill="none" stroke="#0f172a" stroke-width="2.5"/><circle cx="536.4" cy="376.5" r="3" fill="#0f172a"/>
+<text x="554.4" y="406.5" font-size="14" font-weight="bold">Running fix 0930</text>
+<text x="300" y="545" font-size="13" fill="#334155">เส้นทึบ = position line · เส้นประหัวลูกศรคู่ = เส้นที่เลื่อนมา · ใช้ ground track ถ้ารู้กระแสน้ำ</text>
+</svg>

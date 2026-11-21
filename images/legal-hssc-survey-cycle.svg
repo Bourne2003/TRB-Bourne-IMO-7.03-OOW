@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="360" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">รอบการสำรวจแบบประสาน (HSSC) ของใบรับรองอายุ 5 ปี — ตัวอย่างแนวคิด</text>
+<line x1="80.0" y1="170.0" x2="920.0" y2="170.0" stroke="#0f172a" stroke-width="3"/>
+<line x1="80.0" y1="158.0" x2="80.0" y2="182.0" stroke="#0f172a" stroke-width="2"/>
+<text x="80.0" y="204.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ปีที่ 0</text>
+<line x1="248.0" y1="158.0" x2="248.0" y2="182.0" stroke="#0f172a" stroke-width="2"/>
+<text x="248.0" y="204.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ปีที่ 1</text>
+<rect x="220.0" y="122.0" width="56.0" height="22.0" rx="4" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1"/>
+<text x="248.0" y="137.0" font-size="10.5" text-anchor="middle" fill="#1e3a8a" font-weight="bold">±3 ด.</text>
+<text x="248.0" y="112.0" font-size="11" text-anchor="middle" fill="#1e3a8a">Annual</text>
+<line x1="416.0" y1="158.0" x2="416.0" y2="182.0" stroke="#0f172a" stroke-width="2"/>
+<text x="416.0" y="204.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ปีที่ 2</text>
+<rect x="388.0" y="122.0" width="56.0" height="22.0" rx="4" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1"/>
+<text x="416.0" y="137.0" font-size="10.5" text-anchor="middle" fill="#1e3a8a" font-weight="bold">±3 ด.</text>
+<text x="416.0" y="112.0" font-size="11" text-anchor="middle" fill="#1e3a8a">Annual หรือ Intermediate</text>
+<line x1="584.0" y1="158.0" x2="584.0" y2="182.0" stroke="#0f172a" stroke-width="2"/>
+<text x="584.0" y="204.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ปีที่ 3</text>
+<rect x="556.0" y="122.0" width="56.0" height="22.0" rx="4" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1"/>
+<text x="584.0" y="137.0" font-size="10.5" text-anchor="middle" fill="#1e3a8a" font-weight="bold">±3 ด.</text>
+<text x="584.0" y="112.0" font-size="11" text-anchor="middle" fill="#1e3a8a">Annual หรือ Intermediate</text>
+<line x1="752.0" y1="158.0" x2="752.0" y2="182.0" stroke="#0f172a" stroke-width="2"/>
+<text x="752.0" y="204.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ปีที่ 4</text>
+<rect x="724.0" y="122.0" width="56.0" height="22.0" rx="4" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="1"/>
+<text x="752.0" y="137.0" font-size="10.5" text-anchor="middle" fill="#1e3a8a" font-weight="bold">±3 ด.</text>
+<text x="752.0" y="112.0" font-size="11" text-anchor="middle" fill="#1e3a8a">Annual</text>
+<line x1="920.0" y1="158.0" x2="920.0" y2="182.0" stroke="#0f172a" stroke-width="2"/>
+<text x="920.0" y="204.0" font-size="12" text-anchor="middle" fill="#0f172a" font-weight="bold">ปีที่ 5</text>
+<rect x="50.0" y="120.0" width="60.0" height="24.0" rx="4" fill="#bbf7d0" stroke="#15803d" stroke-width="1"/>
+<text x="80.0" y="136.0" font-size="11" text-anchor="middle" fill="#14532d" font-weight="bold">Initial</text>
+<rect x="850.0" y="120.0" width="70.0" height="24.0" rx="4" fill="#fecaca" stroke="#b91c1c" stroke-width="1"/>
+<text x="885.0" y="136.0" font-size="11" text-anchor="middle" fill="#7f1d1d" font-weight="bold">Renewal</text>
+<text x="500.0" y="250.0" font-size="11.8" text-anchor="middle" fill="#0f172a">Intermediate survey: ภายใน ±3 เดือนของวันครบรอบปีที่ 2 หรือ 3 (แทน annual ครั้งนั้น) · Renewal: ภายใน 3 เดือนก่อนหมดอายุ (ใบใหม่นับต่อจากวันหมดอายุเดิม)</text>
+<text x="500.0" y="274.0" font-size="11.8" text-anchor="middle" fill="#0f172a">ISM/ISPS/MLC ใช้รอบ audit/inspection คล้ายกัน (intermediate ระหว่างปีที่ 2–3) · Bottom inspection 2 ครั้งในรอบ 5 ปี</text>
+<text x="500.0" y="310.0" font-size="11.8" text-anchor="middle" fill="#475569">การสำรวจแต่ละครั้งต้องสลักหลัง (endorse) ในใบรับรอง — OOW ช่วยเตรียมอุปกรณ์/สาธิตการทำงานให้ surveyor</text>
+</svg>

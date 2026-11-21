@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="500" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">แผลไหม้: กฎเลขเก้า (Rule of nines) สำหรับผู้ใหญ่ และการปฐมพยาบาล</text>
+<circle cx="230" cy="95" r="28" fill="#fde68a" stroke="#0f172a" stroke-width="2"/><rect x="185.0" y="125.0" width="90.0" height="140.0" rx="10" fill="#fecaca" stroke="#0f172a" stroke-width="2"/>
+<path d="M 185 135 L 140 250 L 155 256 L 190 170 Z" fill="#bfdbfe" stroke="#0f172a" stroke-width="2"/><path d="M 275 135 L 320 250 L 305 256 L 270 170 Z" fill="#bfdbfe" stroke="#0f172a" stroke-width="2"/><rect x="188.0" y="265.0" width="38.0" height="160.0" rx="8" fill="#bbf7d0" stroke="#0f172a" stroke-width="2"/>
+<rect x="234.0" y="265.0" width="38.0" height="160.0" rx="8" fill="#bbf7d0" stroke="#0f172a" stroke-width="2"/>
+<text x="230.0" y="100.0" font-size="13" text-anchor="middle" fill="#0f172a" font-weight="bold">9%</text>
+<text x="230.0" y="190.0" font-size="12" text-anchor="middle" fill="#7f1d1d" font-weight="bold">ลำตัวหน้า 18%</text>
+<text x="230.0" y="208.0" font-size="12" text-anchor="middle" fill="#7f1d1d" font-weight="bold">ลำตัวหลัง 18%</text>
+<text x="130.0" y="205.0" font-size="12" text-anchor="end" fill="#1e3a8a" font-weight="bold">แขน 9%</text>
+<text x="330.0" y="205.0" font-size="12" text-anchor="start" fill="#1e3a8a" font-weight="bold">แขน 9%</text>
+<text x="180.0" y="350.0" font-size="12" text-anchor="end" fill="#14532d" font-weight="bold">ขา 18%</text>
+<text x="280.0" y="350.0" font-size="12" text-anchor="start" fill="#14532d" font-weight="bold">ขา 18%</text>
+<line x1="228.0" y1="270.0" x2="178.0" y2="296.0" stroke="#334155" stroke-width="1.2"/>
+<text x="174.0" y="300.0" font-size="10.5" text-anchor="end" fill="#334155" font-weight="bold">อวัยวะเพศ 1%</text>
+<text x="230.0" y="455.0" font-size="12" text-anchor="middle" fill="#334155" font-weight="bold">ฝ่ามือผู้ป่วย (รวมนิ้ว) ≈ 1% ของพื้นที่ผิวกาย</text>
+<text x="230.0" y="474.0" font-size="10.5" text-anchor="middle" fill="#64748b">รวม 9+18+36+36+1 = 100% · เด็กใช้ตารางอื่น (ศีรษะสัดส่วนใหญ่กว่า)</text>
+<rect x="440.0" y="60.0" width="530.0" height="420.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="454.0" y="86.0" font-size="12.3" text-anchor="start" fill="#b91c1c" font-weight="bold">การปฐมพยาบาลแผลไหม้จากความร้อน</text>
+<text x="454.0" y="113.0" font-size="12.3" text-anchor="start" fill="#0f172a">1. หยุดการไหม้: ดับไฟที่ตัว (หยุด–ล้ม–กลิ้ง/คลุม) ย้ายออกจากต้นเหตุ</text>
+<text x="454.0" y="140.0" font-size="12.3" text-anchor="start" fill="#0f172a">2. ทำให้เย็นด้วยน้ำสะอาดไหลผ่าน (ไม่เย็นจัด) ประมาณ 20 นาที</text>
+<text x="454.0" y="167.0" font-size="12.3" text-anchor="start" fill="#0f172a">3. ถอดแหวน นาฬิกา เสื้อผ้าที่ไม่ติดแผล (ก่อนบวม)</text>
+<text x="454.0" y="194.0" font-size="12.3" text-anchor="start" fill="#0f172a">4. คลุมแผลหลวม ๆ ด้วยแผ่นฟิล์ม/ผ้าปลอดเชื้อไม่ติดแผล</text>
+<text x="454.0" y="221.0" font-size="12.3" text-anchor="start" fill="#0f172a">5. ห้าม: ทายา/เนย/ยาสีฟัน เจาะตุ่มพอง ใช้น้ำแข็ง</text>
+<text x="454.0" y="248.0" font-size="12.3" text-anchor="start" fill="#0f172a">6. ป้องกันตัวเย็น ประเมินช็อก ให้ยาแก้ปวดตามคำแนะนำ</text>
+<text x="454.0" y="275.0" font-size="12.3" text-anchor="start" fill="#0f172a">7. แผลกว้าง/ลึก/ที่หน้า มือ อวัยวะเพศ ทางเดินหายใจ → ปรึกษา TMAS</text>
+<text x="454.0" y="302.0" font-size="12.3" text-anchor="start" fill="#0f172a"></text>
+<text x="454.0" y="329.0" font-size="12.3" text-anchor="start" fill="#b91c1c" font-weight="bold">กรณีพิเศษ</text>
+<text x="454.0" y="356.0" font-size="12.3" text-anchor="start" fill="#0f172a">• สารเคมี: ปัดผงออก ล้างน้ำปริมาณมากนาน ดู MFAG/SDS</text>
+<text x="454.0" y="383.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ไฟฟ้า: ตัดไฟก่อนสัมผัส ตรวจทางเข้า-ออกของกระแส ตรวจหัวใจ</text>
+<text x="454.0" y="410.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ทางเดินหายใจ (หน้าไหม้ ขนจมูกไหม้ เสียงแหบ) = อันตรายมาก</text>
+<text x="454.0" y="437.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ประเมินพื้นที่: ผู้ใหญ่ > ~15% (หรือตามคู่มือ) มีโอกาสช็อก</text>
+</svg>

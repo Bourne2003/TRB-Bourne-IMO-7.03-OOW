@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 1170" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="980" height="1170" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="dm" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="#334155"/></marker></defs>
+<text x="490.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ไฟของเรือประเภทต่าง ๆ ในเวลากลางคืน (Part C) — ภาพสรุปสำหรับท่องจำ</text>
+<rect x="14" y="54" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="130.0" y="74" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Power-driven &lt; 50 m (มองจากหัว)</text>
+<path d="M 70.0 215 L 190.0 215 L 178.0 229 L 82.0 229 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="130.0" cy="155" r="12" fill="#ffffff" opacity="0.25"/><circle cx="130.0" cy="155" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="108.0" cy="193" r="12" fill="#ef4444" opacity="0.25"/><circle cx="108.0" cy="193" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="152.0" cy="193" r="12" fill="#22c55e" opacity="0.25"/><circle cx="152.0" cy="193" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="130.0" y="246" text-anchor="middle" font-size="11" fill="#cbd5e1">masthead + sidelights</text>
+<rect x="254" y="54" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="370.0" y="74" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Power-driven ≥ 50 m (เห็นกราบขวา)</text>
+<path d="M 310.0 215 L 430.0 215 L 418.0 229 L 322.0 229 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="400.0" cy="165" r="12" fill="#ffffff" opacity="0.25"/><circle cx="400.0" cy="165" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="340.0" cy="143" r="12" fill="#ffffff" opacity="0.25"/><circle cx="340.0" cy="143" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="380.0" cy="193" r="12" fill="#22c55e" opacity="0.25"/><circle cx="380.0" cy="193" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="370.0" y="246" text-anchor="middle" font-size="11" fill="#cbd5e1">หัวไปขวา: masthead หน้าต่ำ-หลังสูง + เขียว</text>
+<rect x="494" y="54" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="610.0" y="74" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Towing ≤ 200 m (มองจากท้าย)</text>
+<path d="M 550.0 215 L 670.0 215 L 658.0 229 L 562.0 229 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="610.0" cy="195" r="12" fill="#ffffff" opacity="0.25"/><circle cx="610.0" cy="195" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="610.0" cy="173" r="12" fill="#facc15" opacity="0.25"/><circle cx="610.0" cy="173" r="7" fill="#facc15" stroke="#0f172a" stroke-width="0.8"/>
+<text x="610.0" y="246" text-anchor="middle" font-size="11" fill="#cbd5e1">sternlight + towing light เหลือง</text>
+<rect x="734" y="54" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="850.0" y="74" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Towing > 200 m (มองจากหัว)</text>
+<path d="M 790.0 215 L 910.0 215 L 898.0 229 L 802.0 229 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="850.0" cy="175" r="12" fill="#ffffff" opacity="0.25"/><circle cx="850.0" cy="175" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="850.0" cy="153" r="12" fill="#ffffff" opacity="0.25"/><circle cx="850.0" cy="153" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="850.0" cy="131" r="12" fill="#ffffff" opacity="0.25"/><circle cx="850.0" cy="131" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="828.0" cy="193" r="12" fill="#ef4444" opacity="0.25"/><circle cx="828.0" cy="193" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="872.0" cy="193" r="12" fill="#22c55e" opacity="0.25"/><circle cx="872.0" cy="193" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="850.0" y="246" text-anchor="middle" font-size="11" fill="#cbd5e1">masthead 3 ดวงแนวตั้ง</text>
+<rect x="14" y="264" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="130.0" y="284" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">NUC – making way (หัว)</text>
+<path d="M 70.0 425 L 190.0 425 L 178.0 439 L 82.0 439 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="130.0" cy="365" r="12" fill="#ef4444" opacity="0.25"/><circle cx="130.0" cy="365" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="130.0" cy="343" r="12" fill="#ef4444" opacity="0.25"/><circle cx="130.0" cy="343" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="108.0" cy="403" r="12" fill="#ef4444" opacity="0.25"/><circle cx="108.0" cy="403" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="152.0" cy="403" r="12" fill="#22c55e" opacity="0.25"/><circle cx="152.0" cy="403" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="130.0" y="456" text-anchor="middle" font-size="11" fill="#cbd5e1">2 แดง all-round + ไฟข้าง</text>
+<rect x="254" y="264" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="370.0" y="284" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">RAM – making way (หัว)</text>
+<path d="M 310.0 425 L 430.0 425 L 418.0 439 L 322.0 439 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="370.0" cy="375" r="12" fill="#ef4444" opacity="0.25"/><circle cx="370.0" cy="375" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="370.0" cy="353" r="12" fill="#ffffff" opacity="0.25"/><circle cx="370.0" cy="353" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="370.0" cy="331" r="12" fill="#ef4444" opacity="0.25"/><circle cx="370.0" cy="331" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="386.0" cy="315" r="12" fill="#ffffff" opacity="0.25"/><circle cx="386.0" cy="315" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="348.0" cy="403" r="12" fill="#ef4444" opacity="0.25"/><circle cx="348.0" cy="403" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="392.0" cy="403" r="12" fill="#22c55e" opacity="0.25"/><circle cx="392.0" cy="403" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="370.0" y="456" text-anchor="middle" font-size="11" fill="#cbd5e1">แดง-ขาว-แดง + masthead</text>
+<rect x="494" y="264" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="610.0" y="284" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Constrained by draught (หัว)</text>
+<path d="M 550.0 425 L 670.0 425 L 658.0 439 L 562.0 439 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="610.0" cy="375" r="12" fill="#ef4444" opacity="0.25"/><circle cx="610.0" cy="375" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="610.0" cy="353" r="12" fill="#ef4444" opacity="0.25"/><circle cx="610.0" cy="353" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="610.0" cy="331" r="12" fill="#ef4444" opacity="0.25"/><circle cx="610.0" cy="331" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="626.0" cy="313" r="12" fill="#ffffff" opacity="0.25"/><circle cx="626.0" cy="313" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="588.0" cy="403" r="12" fill="#ef4444" opacity="0.25"/><circle cx="588.0" cy="403" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="632.0" cy="403" r="12" fill="#22c55e" opacity="0.25"/><circle cx="632.0" cy="403" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="610.0" y="456" text-anchor="middle" font-size="11" fill="#cbd5e1">3 แดง all-round (option)</text>
+<rect x="734" y="264" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="850.0" y="284" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Trawling – making way (หัว)</text>
+<path d="M 790.0 425 L 910.0 425 L 898.0 439 L 802.0 439 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="850.0" cy="365" r="12" fill="#22c55e" opacity="0.25"/><circle cx="850.0" cy="365" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="850.0" cy="343" r="12" fill="#ffffff" opacity="0.25"/><circle cx="850.0" cy="343" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="864.0" cy="321" r="12" fill="#ffffff" opacity="0.25"/><circle cx="864.0" cy="321" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="828.0" cy="403" r="12" fill="#ef4444" opacity="0.25"/><circle cx="828.0" cy="403" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="872.0" cy="403" r="12" fill="#22c55e" opacity="0.25"/><circle cx="872.0" cy="403" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="850.0" y="456" text-anchor="middle" font-size="11" fill="#cbd5e1">เขียวบนขาว (+masthead หลัง)</text>
+<rect x="14" y="474" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="130.0" y="494" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Fishing (not trawling) – ไม่มี way</text>
+<path d="M 70.0 635 L 190.0 635 L 178.0 649 L 82.0 649 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="130.0" cy="553" r="12" fill="#ef4444" opacity="0.25"/><circle cx="130.0" cy="553" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="130.0" cy="575" r="12" fill="#ffffff" opacity="0.25"/><circle cx="130.0" cy="575" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="160.0" cy="595" r="12" fill="#ffffff" opacity="0.25"/><circle cx="160.0" cy="595" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<text x="130.0" y="666" text-anchor="middle" font-size="11" fill="#cbd5e1">แดงบนขาว (+ขาวทิศเครื่องมือ)</text>
+<rect x="254" y="474" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="370.0" y="494" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Pilot vessel on duty (หัว)</text>
+<path d="M 310.0 635 L 430.0 635 L 418.0 649 L 322.0 649 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="370.0" cy="575" r="12" fill="#ef4444" opacity="0.25"/><circle cx="370.0" cy="575" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="370.0" cy="553" r="12" fill="#ffffff" opacity="0.25"/><circle cx="370.0" cy="553" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="348.0" cy="613" r="12" fill="#ef4444" opacity="0.25"/><circle cx="348.0" cy="613" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="392.0" cy="613" r="12" fill="#22c55e" opacity="0.25"/><circle cx="392.0" cy="613" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="370.0" y="666" text-anchor="middle" font-size="11" fill="#cbd5e1">ขาวบนแดง ("White Hat Red Nose")</text>
+<rect x="494" y="474" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="610.0" y="494" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">At anchor ≥ 50 m (หัวเรือไปทางซ้าย)</text>
+<path d="M 550.0 635 L 670.0 635 L 658.0 649 L 562.0 649 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="576.0" cy="575" r="12" fill="#ffffff" opacity="0.25"/><circle cx="576.0" cy="575" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="644.0" cy="599" r="12" fill="#ffffff" opacity="0.25"/><circle cx="644.0" cy="599" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<text x="610.0" y="666" text-anchor="middle" font-size="11" fill="#cbd5e1">ขาวหัวสูงกว่าขาวท้าย</text>
+<rect x="734" y="474" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="850.0" y="494" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Aground (หัวเรือไปทางซ้าย)</text>
+<path d="M 790.0 635 L 910.0 635 L 898.0 649 L 802.0 649 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="816.0" cy="575" r="12" fill="#ffffff" opacity="0.25"/><circle cx="816.0" cy="575" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="884.0" cy="599" r="12" fill="#ffffff" opacity="0.25"/><circle cx="884.0" cy="599" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="850.0" cy="565" r="12" fill="#ef4444" opacity="0.25"/><circle cx="850.0" cy="565" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="850.0" cy="543" r="12" fill="#ef4444" opacity="0.25"/><circle cx="850.0" cy="543" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<text x="850.0" y="666" text-anchor="middle" font-size="11" fill="#cbd5e1">anchor lights + 2 แดง</text>
+<rect x="14" y="684" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="130.0" y="704" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Sailing vessel (หัว)</text>
+<path d="M 70.0 845 L 190.0 845 L 178.0 859 L 82.0 859 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="108.0" cy="823" r="12" fill="#ef4444" opacity="0.25"/><circle cx="108.0" cy="823" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="152.0" cy="823" r="12" fill="#22c55e" opacity="0.25"/><circle cx="152.0" cy="823" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="130.0" cy="765" r="12" fill="#ef4444" opacity="0.25"/><circle cx="130.0" cy="765" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="130.0" cy="743" r="12" fill="#22c55e" opacity="0.25"/><circle cx="130.0" cy="743" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="130.0" y="876" text-anchor="middle" font-size="11" fill="#cbd5e1">ไฟข้าง (+ แดงบนเขียว option)</text>
+<rect x="254" y="684" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="370.0" y="704" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Dredger RAM – obstruction</text>
+<path d="M 310.0 845 L 430.0 845 L 418.0 859 L 322.0 859 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="370.0" cy="779" r="12" fill="#ef4444" opacity="0.25"/><circle cx="370.0" cy="779" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="370.0" cy="757" r="12" fill="#ffffff" opacity="0.25"/><circle cx="370.0" cy="757" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="370.0" cy="735" r="12" fill="#ef4444" opacity="0.25"/><circle cx="370.0" cy="735" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="326.0" cy="815" r="12" fill="#ef4444" opacity="0.25"/><circle cx="326.0" cy="815" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="326.0" cy="793" r="12" fill="#ef4444" opacity="0.25"/><circle cx="326.0" cy="793" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="414.0" cy="815" r="12" fill="#22c55e" opacity="0.25"/><circle cx="414.0" cy="815" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="414.0" cy="793" r="12" fill="#22c55e" opacity="0.25"/><circle cx="414.0" cy="793" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="370.0" y="876" text-anchor="middle" font-size="11" fill="#cbd5e1">แดงคู่ = ด้านกีดขวาง เขียวคู่ = ผ่านได้</text>
+<rect x="494" y="684" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="610.0" y="704" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Mine clearance (หัว)</text>
+<path d="M 550.0 845 L 670.0 845 L 658.0 859 L 562.0 859 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="610.0" cy="741" r="12" fill="#22c55e" opacity="0.25"/><circle cx="610.0" cy="741" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="576.0" cy="767" r="12" fill="#22c55e" opacity="0.25"/><circle cx="576.0" cy="767" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="644.0" cy="767" r="12" fill="#22c55e" opacity="0.25"/><circle cx="644.0" cy="767" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="610.0" cy="795" r="12" fill="#ffffff" opacity="0.25"/><circle cx="610.0" cy="795" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="588.0" cy="823" r="12" fill="#ef4444" opacity="0.25"/><circle cx="588.0" cy="823" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="632.0" cy="823" r="12" fill="#22c55e" opacity="0.25"/><circle cx="632.0" cy="823" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="610.0" y="876" text-anchor="middle" font-size="11" fill="#cbd5e1">3 เขียว + ไฟเรือกล — อันตรายภายใน 1000 m</text>
+<rect x="734" y="684" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="850.0" y="704" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Air-cushion (non-displacement)</text>
+<path d="M 790.0 845 L 910.0 845 L 898.0 859 L 802.0 859 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="850.0" cy="785" r="12" fill="#ffffff" opacity="0.25"/><circle cx="850.0" cy="785" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<line x1="861.0" y1="755.0" x2="867.0" y2="755.0" stroke="#facc15" stroke-width="2"/><line x1="857.8" y1="762.8" x2="862.0" y2="767.0" stroke="#facc15" stroke-width="2"/><line x1="850.0" y1="766.0" x2="850.0" y2="772.0" stroke="#facc15" stroke-width="2"/><line x1="842.2" y1="762.8" x2="838.0" y2="767.0" stroke="#facc15" stroke-width="2"/><line x1="839.0" y1="755.0" x2="833.0" y2="755.0" stroke="#facc15" stroke-width="2"/><line x1="842.2" y1="747.2" x2="838.0" y2="743.0" stroke="#facc15" stroke-width="2"/><line x1="850.0" y1="744.0" x2="850.0" y2="738.0" stroke="#facc15" stroke-width="2"/><line x1="857.8" y1="747.2" x2="862.0" y2="743.0" stroke="#facc15" stroke-width="2"/><circle cx="850.0" cy="755" r="12" fill="#facc15" opacity="0.25"/><circle cx="850.0" cy="755" r="7" fill="#facc15" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="828.0" cy="823" r="12" fill="#ef4444" opacity="0.25"/><circle cx="828.0" cy="823" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="872.0" cy="823" r="12" fill="#22c55e" opacity="0.25"/><circle cx="872.0" cy="823" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="850.0" y="876" text-anchor="middle" font-size="11" fill="#cbd5e1">+ เหลืองกะพริบ all-round</text>
+<rect x="14" y="894" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="130.0" y="914" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">Towing ≤ 200 m (มองจากหัว)</text>
+<path d="M 70.0 1055 L 190.0 1055 L 178.0 1069 L 82.0 1069 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="130.0" cy="995" r="12" fill="#ffffff" opacity="0.25"/><circle cx="130.0" cy="995" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="130.0" cy="973" r="12" fill="#ffffff" opacity="0.25"/><circle cx="130.0" cy="973" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="108.0" cy="1033" r="12" fill="#ef4444" opacity="0.25"/><circle cx="108.0" cy="1033" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="152.0" cy="1033" r="12" fill="#22c55e" opacity="0.25"/><circle cx="152.0" cy="1033" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="130.0" y="1086" text-anchor="middle" font-size="11" fill="#cbd5e1">masthead 2 ดวงแนวตั้ง + ไฟข้าง</text>
+<rect x="254" y="894" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="370.0" y="914" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">NUC – ไม่มี way (ทุกมุมมอง)</text>
+<path d="M 310.0 1055 L 430.0 1055 L 418.0 1069 L 322.0 1069 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="370.0" cy="995" r="12" fill="#ef4444" opacity="0.25"/><circle cx="370.0" cy="995" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="370.0" cy="973" r="12" fill="#ef4444" opacity="0.25"/><circle cx="370.0" cy="973" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<text x="370.0" y="1086" text-anchor="middle" font-size="11" fill="#cbd5e1">2 แดง all-round เท่านั้น ไม่มีไฟข้าง</text>
+<rect x="494" y="894" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="610.0" y="914" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">RAM ทอดสมอ (หัวเรือไปทางซ้าย)</text>
+<path d="M 550.0 1055 L 670.0 1055 L 658.0 1069 L 562.0 1069 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="560.0" cy="999" r="12" fill="#ffffff" opacity="0.25"/><circle cx="560.0" cy="999" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="660.0" cy="1023" r="12" fill="#ffffff" opacity="0.25"/><circle cx="660.0" cy="1023" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="610.0" cy="995" r="12" fill="#ef4444" opacity="0.25"/><circle cx="610.0" cy="995" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="610.0" cy="973" r="12" fill="#ffffff" opacity="0.25"/><circle cx="610.0" cy="973" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="610.0" cy="951" r="12" fill="#ef4444" opacity="0.25"/><circle cx="610.0" cy="951" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<text x="610.0" y="1086" text-anchor="middle" font-size="11" fill="#cbd5e1">แดง-ขาว-แดง + ไฟทอดสมอ</text>
+<rect x="734" y="894" width="232" height="202" rx="8" fill="#0b1220"/>
+<text x="850.0" y="914" text-anchor="middle" font-size="12" font-weight="bold" fill="#e2e8f0">WIG craft ขึ้น/ลง/บินใกล้ผิวน้ำ</text>
+<path d="M 790.0 1055 L 910.0 1055 L 898.0 1069 L 802.0 1069 Z" fill="#1e293b" stroke="#475569"/>
+<circle cx="850.0" cy="995" r="12" fill="#ffffff" opacity="0.25"/><circle cx="850.0" cy="995" r="7" fill="#ffffff" stroke="#0f172a" stroke-width="0.8"/>
+<line x1="861.0" y1="963.0" x2="867.0" y2="963.0" stroke="#ef4444" stroke-width="2"/><line x1="857.8" y1="970.8" x2="862.0" y2="975.0" stroke="#ef4444" stroke-width="2"/><line x1="850.0" y1="974.0" x2="850.0" y2="980.0" stroke="#ef4444" stroke-width="2"/><line x1="842.2" y1="970.8" x2="838.0" y2="975.0" stroke="#ef4444" stroke-width="2"/><line x1="839.0" y1="963.0" x2="833.0" y2="963.0" stroke="#ef4444" stroke-width="2"/><line x1="842.2" y1="955.2" x2="838.0" y2="951.0" stroke="#ef4444" stroke-width="2"/><line x1="850.0" y1="952.0" x2="850.0" y2="946.0" stroke="#ef4444" stroke-width="2"/><line x1="857.8" y1="955.2" x2="862.0" y2="951.0" stroke="#ef4444" stroke-width="2"/><circle cx="850.0" cy="963" r="12" fill="#ef4444" opacity="0.25"/><circle cx="850.0" cy="963" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="828.0" cy="1033" r="12" fill="#ef4444" opacity="0.25"/><circle cx="828.0" cy="1033" r="7" fill="#ef4444" stroke="#0f172a" stroke-width="0.8"/>
+<circle cx="872.0" cy="1033" r="12" fill="#22c55e" opacity="0.25"/><circle cx="872.0" cy="1033" r="7" fill="#22c55e" stroke="#0f172a" stroke-width="0.8"/>
+<text x="850.0" y="1086" text-anchor="middle" font-size="11" fill="#cbd5e1">+ แดงกะพริบความเข้มสูง all-round</text>
+<text x="20" y="1122" font-size="12" fill="#334155">ภาพเป็นแผนผัง ไม่ตามมาตราส่วน · ดวงที่มีรัศมีเส้นรอบ = ไฟกะพริบ (flashing) · ไฟ all-round ที่วางแนวตั้งห่างกัน ≥ 2 m (เรือ ≥ 20 m) ตาม Annex I §2(i)</text>
+<text x="20" y="1142" font-size="12" fill="#334155">เรือขุดลอก: ไฟคู่ด้านข้างต้องไม่สูงกว่าดวงล่างสุดของแดง-ขาว-แดง และห่างออกไปทางข้าง ≥ 2 m (Annex I §4(b))</text>
+<text x="20" y="1162" font-size="12" fill="#334155">เรือประมงที่ไม่ใช่อวนลาก: ไฟขาวบอกทิศเครื่องมือห่างจากไฟแดง/ขาว 2–6 m ไม่สูงกว่าไฟขาว all-round และไม่ต่ำกว่าไฟข้าง (Annex I §4(a))</text>
+</svg>

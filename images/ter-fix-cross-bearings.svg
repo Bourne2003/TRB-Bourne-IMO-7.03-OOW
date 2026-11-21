@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 600" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="880" height="600" fill="#fff"/>
+<defs><marker id="a1" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="a1b" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="a1r" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="a1g" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="440.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Fix ด้วยแบริ่ง 3 เส้น (Cross bearings)</text>
+<path d="M 0 60 L 880 60 L 880 150 Q 760 200 640 170 Q 560 150 480 210 Q 400 260 300 220 Q 200 180 120 230 Q 60 260 0 250 Z" fill="#f5deb3" stroke="#8b6b3d" stroke-width="2"/>
+<line x1="150" y1="226" x2="505.4" y2="505.9" stroke="#1d4ed8" stroke-width="2"/>
+<circle cx="150" cy="226" r="7" fill="#a21caf"/><text x="120" y="212" font-size="14" font-weight="bold" fill="#701a75">Lt A</text>
+<text x="300.3" y="338.0" font-size="13" fill="#1d4ed8" font-weight="bold">308.2°T</text>
+<line x1="440" y1="228" x2="479.7" y2="519.2" stroke="#1d4ed8" stroke-width="2"/>
+<circle cx="440" cy="228" r="7" fill="#a21caf"/><text x="410" y="214" font-size="14" font-weight="bold" fill="#701a75">Tower B (conspic)</text>
+<text x="462.8" y="336.7" font-size="13" fill="#1d4ed8" font-weight="bold">352.2°T</text>
+<line x1="760" y1="182" x2="431.2" y2="501.8" stroke="#1d4ed8" stroke-width="2"/>
+<circle cx="760" cy="182" r="7" fill="#a21caf"/><text x="730" y="168" font-size="14" font-weight="bold" fill="#701a75">Pt C</text>
+<text x="636.2" y="310.2" font-size="13" fill="#1d4ed8" font-weight="bold">045.8°T</text>
+<polygon points="474.6,481.7 471.9,462.1 462.0,471.8" fill="#fecaca" stroke="#b91c1c" stroke-width="1.5"/>
+<circle cx="469.5" cy="471.9" r="19.0" fill="none" stroke="#0f172a" stroke-width="2"/><circle cx="469.5" cy="471.9" r="2" fill="#0f172a"/>
+<text x="498.6" y="477.9" font-size="14" font-weight="bold">Fix 0815 (cocked hat เล็ก ใช้จุดกลาง)</text>
+<rect x="20" y="490" width="400" height="98" rx="8" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="34" y="514" font-size="13">• มุมตัดดี: 3 เส้นห่างกันประมาณ 60°/120°</text>
+<text x="34" y="536" font-size="13">• วัดวัตถุใกล้หัว/ท้ายก่อน ใกล้แนวกราบหลังสุด</text>
+<text x="34" y="558" font-size="13">• สามเหลี่ยมใหญ่ → ตรวจ ID วัตถุ / compass error</text>
+<text x="34" y="580" font-size="13">• ทุ่นลอยไม่ควรใช้เป็นวัตถุหลัก</text>
+</svg>

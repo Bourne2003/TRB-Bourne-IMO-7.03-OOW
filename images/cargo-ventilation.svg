@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="480" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การระบายอากาศในระวาง: Ship's sweat กับ Cargo sweat และกฎ dew point</text>
+<rect x="40.0" y="60.0" width="440.0" height="250.0" rx="12" fill="#f8fafc" stroke="#1d4ed8" stroke-width="2"/>
+<text x="260.0" y="88.0" font-size="16" text-anchor="middle" fill="#1d4ed8" font-weight="bold">Ship's sweat (เหงื่อตัวเรือ)</text>
+<text x="260.0" y="108.0" font-size="12.5" text-anchor="middle" fill="#334155">เรือเดินจากที่อุ่นไปที่เย็น</text>
+<path d="M 70 140 L 210 140 L 210 280 L 70 280 Z" fill="#fff" stroke="#0f172a" stroke-width="2"/><rect x="90.0" y="220.0" width="100.0" height="60.0" rx="0" fill="#fde68a" stroke="#92400e" stroke-width="1"/>
+<text x="140.0" y="255.0" font-size="12" text-anchor="middle" fill="#78350f" font-weight="bold">สินค้า</text>
+<circle cx="85" cy="148" r="3.5" fill="#1d4ed8"/><line x1="85.0" y1="156.0" x2="85.0" y2="196.0" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="3 3"/>
+<circle cx="107" cy="154" r="3.5" fill="#1d4ed8"/><line x1="107.0" y1="156.0" x2="107.0" y2="196.0" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="3 3"/>
+<circle cx="129" cy="148" r="3.5" fill="#1d4ed8"/><line x1="129.0" y1="156.0" x2="129.0" y2="196.0" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="3 3"/>
+<circle cx="151" cy="154" r="3.5" fill="#1d4ed8"/><line x1="151.0" y1="156.0" x2="151.0" y2="196.0" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="3 3"/>
+<circle cx="173" cy="148" r="3.5" fill="#1d4ed8"/><line x1="173.0" y1="156.0" x2="173.0" y2="196.0" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="3 3"/>
+<circle cx="195" cy="154" r="3.5" fill="#1d4ed8"/><line x1="195.0" y1="156.0" x2="195.0" y2="196.0" stroke="#1d4ed8" stroke-width="1.2" stroke-dasharray="3 3"/>
+<text x="230.0" y="142.0" font-size="11.5" text-anchor="start" fill="#0f172a">อากาศในระวางอุ่นและชื้น</text>
+<text x="230.0" y="165.0" font-size="11.5" text-anchor="start" fill="#0f172a">แต่ผนัง/ดาดฟ้าเย็นลงตามทะเล</text>
+<text x="230.0" y="188.0" font-size="11.5" text-anchor="start" fill="#0f172a">ผิวโลหะเย็นกว่า dew point</text>
+<text x="230.0" y="211.0" font-size="11.5" text-anchor="start" fill="#0f172a">ของอากาศในระวาง</text>
+<text x="230.0" y="234.0" font-size="11.5" text-anchor="start" fill="#0f172a">→ ไอน้ำกลั่นตัวใต้ดาดฟ้า หยดลงสินค้า</text>
+<text x="230.0" y="257.0" font-size="11.5" text-anchor="start" fill="#0f172a">แก้: ระบายอากาศถ้าอากาศภายนอก</text>
+<text x="230.0" y="280.0" font-size="11.5" text-anchor="start" fill="#0f172a">มี dew point ต่ำกว่าในระวาง</text>
+<rect x="520.0" y="60.0" width="440.0" height="250.0" rx="12" fill="#f8fafc" stroke="#b91c1c" stroke-width="2"/>
+<text x="740.0" y="88.0" font-size="16" text-anchor="middle" fill="#b91c1c" font-weight="bold">Cargo sweat (เหงื่อสินค้า)</text>
+<text x="740.0" y="108.0" font-size="12.5" text-anchor="middle" fill="#334155">เรือเดินจากที่เย็นไปที่อุ่น</text>
+<path d="M 550 140 L 690 140 L 690 280 L 550 280 Z" fill="#fff" stroke="#0f172a" stroke-width="2"/><rect x="570.0" y="220.0" width="100.0" height="60.0" rx="0" fill="#fde68a" stroke="#92400e" stroke-width="1"/>
+<text x="620.0" y="255.0" font-size="12" text-anchor="middle" fill="#78350f" font-weight="bold">สินค้า</text>
+<circle cx="580" cy="216" r="3.5" fill="#b91c1c"/><circle cx="600" cy="216" r="3.5" fill="#b91c1c"/><circle cx="620" cy="216" r="3.5" fill="#b91c1c"/><circle cx="640" cy="216" r="3.5" fill="#b91c1c"/><circle cx="660" cy="216" r="3.5" fill="#b91c1c"/><line x1="550.0" y1="160.0" x2="580.0" y2="190.0" stroke="#b91c1c" stroke-width="2" marker-end="url(#arR)"/>
+<text x="554.0" y="154.0" font-size="10.5" text-anchor="start" fill="#b91c1c">อากาศอุ่นชื้นเข้า</text>
+<text x="710.0" y="142.0" font-size="11.5" text-anchor="start" fill="#0f172a">สินค้ายังเย็นจากต้นทาง</text>
+<text x="710.0" y="165.0" font-size="11.5" text-anchor="start" fill="#0f172a">อากาศภายนอกอุ่นชื้นเข้ามา</text>
+<text x="710.0" y="188.0" font-size="11.5" text-anchor="start" fill="#0f172a">สัมผัสผิวสินค้าที่เย็น</text>
+<text x="710.0" y="211.0" font-size="11.5" text-anchor="start" fill="#0f172a">→ ไอน้ำกลั่นตัวบนสินค้าโดยตรง</text>
+<text x="710.0" y="234.0" font-size="11.5" text-anchor="start" fill="#0f172a">แก้: งด/ลดระบายอากาศ ถ้า dew point</text>
+<text x="710.0" y="257.0" font-size="11.5" text-anchor="start" fill="#0f172a">อากาศภายนอกสูงกว่า</text>
+<text x="710.0" y="280.0" font-size="11.5" text-anchor="start" fill="#0f172a">อุณหภูมิสินค้า</text>
+<rect x="40.0" y="330.0" width="920.0" height="130.0" rx="12" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="56.0" y="358.0" font-size="12" text-anchor="start" fill="#14532d" font-weight="bold">กฎ dew point (ใช้กับสินค้าส่วนใหญ่): ระบายอากาศเมื่อ dew point ของอากาศภายนอก ต่ำกว่า dew point ของอากาศในระวาง — ถ้าสูงกว่า งดระบาย</text>
+<text x="56.0" y="384.0" font-size="12" text-anchor="start" fill="#14532d">กฎ 3 องศา (สินค้าดูดความชื้น เช่น เมล็ดพืช ข้าว กาแฟ โกโก้ — เมื่อวัด dew point ในระวางไม่ได้): ระบายอากาศเมื่ออุณหภูมิอากาศภายนอก</text>
+<text x="56.0" y="410.0" font-size="12" text-anchor="start" fill="#14532d">ต่ำกว่าอุณหภูมิสินค้า (วัดตอนบรรทุก) อย่างน้อย 3°C · อ่าน dry/wet bulb ทั้งภายในและภายนอก และบันทึกใน ventilation log ทุกยาม</text>
+<text x="56.0" y="436.0" font-size="12" text-anchor="start" fill="#14532d">ไม่ระบายอากาศเมื่อคลื่นซัดน้ำเข้าช่องระบาย สินค้าที่ห้ามระบาย (เช่นบางชนิดใน IMSBC) หรือมีการรมยาในระวาง — ทำตามคำแนะนำผู้ส่ง/IMSBC/คู่มือเรือ</text>
+</svg>

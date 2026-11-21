@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 610" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="960" height="610" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="dm" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="#334155"/></marker></defs>
+<text x="480.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">สถานการณ์การพบกัน: Head-on / Crossing / Overtaking (Rules 13–15)</text>
+<path d="M 300 320 L 277.0 101.2 A 220 220 0 0 1 323.0 101.2 Z" fill="#f59e0b" opacity="0.45" stroke="#f59e0b"/>
+<path d="M 300 320 L 323.0 101.2 A 220 220 0 0 1 503.3 404.2 Z" fill="#22c55e" opacity="0.25" stroke="#22c55e"/>
+<path d="M 300 320 L 96.7 404.2 A 220 220 0 0 1 277.0 101.2 Z" fill="#ef4444" opacity="0.25" stroke="#ef4444"/>
+<path d="M 300 320 L 503.3 404.2 A 220 220 0 0 1 96.7 404.2 Z" fill="#64748b" opacity="0.25" stroke="#64748b"/>
+<polygon points="300.0,285.0 310.0,302.5 310.0,355.0 290.0,355.0 290.0,302.5" fill="#334155" stroke="#0f172a"/>
+<text x="242" y="92" font-size="14" font-weight="bold" fill="#b45309">Head-on (Rule 14)</text>
+<text x="370" y="280" font-size="14" font-weight="bold" fill="#15803d">เรืออื่นอยู่กราบขวา:</text><text x="370" y="300" font-size="13" fill="#15803d">เรา = Give-way (Rule 15)</text>
+<text x="70" y="280" font-size="14" font-weight="bold" fill="#b91c1c">เรืออื่นอยู่กราบซ้าย:</text><text x="70" y="300" font-size="13" fill="#b91c1c">เรา = Stand-on (Rule 17)</text>
+<text x="150" y="490" font-size="14" font-weight="bold" fill="#334155">เรือที่ตามมาทันเราจากเขตนี้ = กำลังแซง</text><text x="150" y="510" font-size="13" fill="#334155">(เห็นไฟท้ายเรา) → เขาต้องหลบ (Rule 13)</text>
+<rect x="580" y="70" width="360" height="460" rx="10" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="596" y="96" font-size="13" font-weight="bold" fill="#1e3a8a">Rule 13 Overtaking</text>
+<text x="596" y="119" font-size="13">เข้ามาจากทิศ > 22.5° abaft the beam</text>
+<text x="596" y="142" font-size="13">กลางคืนเห็นเฉพาะไฟท้าย ไม่เห็นไฟข้าง</text>
+<text x="596" y="165" font-size="13">ผู้แซงต้องหลบจนพ้นและผ่านไปแล้ว</text>
+<text x="596" y="188" font-size="13">สงสัย → ให้ถือว่ากำลังแซง</text>
+<text x="596" y="211" font-size="13"></text>
+<text x="596" y="234" font-size="13" font-weight="bold" fill="#1e3a8a">Rule 14 Head-on</text>
+<text x="596" y="257" font-size="13">สวนกันตรงหรือเกือบตรง (reciprocal)</text>
+<text x="596" y="280" font-size="13">เห็นไฟเสาเรียงกัน และ/หรือ ไฟข้างทั้งสอง</text>
+<text x="596" y="303" font-size="13">ทั้งสองลำเปลี่ยนเข็มไปทางขวา</text>
+<text x="596" y="326" font-size="13"></text>
+<text x="596" y="349" font-size="13" font-weight="bold" fill="#1e3a8a">Rule 15 Crossing</text>
+<text x="596" y="372" font-size="13">ลำที่เห็นอีกลำทางกราบขวาของตน = หลบ</text>
+<text x="596" y="395" font-size="13">หลีกเลี่ยงการตัดหน้า (avoid crossing ahead)</text>
+<text x="596" y="418" font-size="13"></text>
+<text x="596" y="441" font-size="13" font-weight="bold" fill="#1e3a8a">Rule 16/17</text>
+<text x="596" y="464" font-size="13">Give-way: early &amp; substantial action</text>
+<text x="596" y="487" font-size="13">Stand-on: keep course &amp; speed</text>
+<text x="596" y="510" font-size="13">→ may act / shall act เมื่อจำเป็น</text>
+<text x="20" y="566" font-size="12" fill="#334155">หมายเหตุ: เขต head-on ±6° ในภาพเป็นแนวทางประมาณในทางปฏิบัติเท่านั้น — Rule 14 ใช้คำว่า "ahead or nearly ahead" ไม่ได้กำหนดตัวเลขมุม</text>
+<text x="20" y="586" font-size="12" fill="#334155">เขตกราบซ้าย/ขวาใช้กับ crossing ระหว่างเรือกลสองลำที่มองเห็นกัน (Rule 15) — ถ้าเป็นเรือต่างประเภท ให้ดู Rule 18 ก่อน</text>
+</svg>

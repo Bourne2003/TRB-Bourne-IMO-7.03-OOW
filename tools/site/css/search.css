@@ -1,0 +1,37 @@
+/* search page only — inlined into search.html by tools/build_site.py */
+.search-h{margin-top:clamp(2rem, 7vh, 4rem) !important; font-size:clamp(1.6em, 1.2em + 1.6vw, 2em)}
+.search-form input{width:100%; min-height:3rem; padding:.6rem 1rem; border:1px solid var(--muted); border-radius:8px; background:var(--paper); font:400 1.0625rem/1.5 var(--font-ui); -webkit-appearance:none; appearance:none}
+.search-form input::placeholder{color:var(--muted); opacity:1}
+.prose .search-status{min-height:1.45em; margin-top:.9rem; font:400 .875rem/1.45 var(--font-ui); color:var(--muted)}
+.search-results > * + *{margin-top:2rem}
+.prose .sr-doc{padding-bottom:.4rem; border-bottom:1px solid var(--rule); font:700 1rem/1.5 var(--font-ui)}
+.prose .sr-doc a{color:var(--ink); text-decoration:none}
+.sr-num{color:var(--rubric); margin-inline-end:.35em; font-variant-numeric:tabular-nums}
+.prose .sr-list{list-style:none; padding:0}
+.sr-list li{padding:.65rem 0}
+.sr-n{font-size:.8125rem; font-weight:400; color:var(--muted)}
+.sr-list li + li{margin:0; border-top:1px solid var(--rule)}
+.sr-title{font-weight:var(--fw-bold)}
+.sr-tag{display:inline-block; margin-inline-start:.4em; padding:0 .45em; border:1px solid; border-radius:999px; font:700 .72rem/1.45 var(--font-ui); color:var(--rubric); vertical-align:.1em}
+.prose .sr-snip{margin-top:.2rem; font-size:.92em; line-height:1.7}
+mark{background:var(--mark-bg); color:inherit; padding:0 .1em; border-radius:2px}
+.sr-title mark{color:var(--ink)}
+
+.search-h{font-family:var(--font-ui)!important;letter-spacing:-.035em}
+.search-form input{
+  border:1px solid var(--rule);
+  border-radius:16px;
+  background:var(--glass-panel,var(--paper));
+  box-shadow:0 18px 48px rgba(0,0,0,.10);
+  backdrop-filter:blur(18px);
+}
+.search-results .sr-doc{
+  margin-top:.6rem;
+  padding:.9rem 1.1rem;
+  border:1px solid var(--rule);
+  border-radius:16px;
+  background:var(--glass-panel,var(--paper));
+  box-shadow:0 14px 38px rgba(0,0,0,.08);
+}
+.sr-list li{border-bottom:1px solid var(--rule);border-radius:10px}
+.sr-list li:last-child{border-bottom:0}

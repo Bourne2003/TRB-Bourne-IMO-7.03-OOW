@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="560" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การขอคำปรึกษาทางการแพทย์ทางวิทยุ (TMAS — Telemedical Assistance Service)</text>
+<rect x="10.0" y="80.0" width="280.0" height="60.0" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="2.5"/>
+<text x="150.0" y="116.0" font-size="13.5" text-anchor="middle" fill="#1d4ed8" font-weight="bold">เรือ (นายเรือ/ผู้ดูแลการแพทย์)</text>
+<rect x="360.0" y="80.0" width="280.0" height="60.0" rx="12" fill="#fff" stroke="#7c3aed" stroke-width="2.5"/>
+<text x="500.0" y="116.0" font-size="13.5" text-anchor="middle" fill="#7c3aed" font-weight="bold">MRCC / สถานีวิทยุชายฝั่ง</text>
+<rect x="710.0" y="80.0" width="280.0" height="60.0" rx="12" fill="#fff" stroke="#15803d" stroke-width="2.5"/>
+<text x="850.0" y="116.0" font-size="13.5" text-anchor="middle" fill="#15803d" font-weight="bold">TMAS (แพทย์)</text>
+<line x1="292.0" y1="104.0" x2="356.0" y2="104.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="642.0" y1="104.0" x2="706.0" y2="104.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<line x1="706.0" y1="118.0" x2="292.0" y2="118.0" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="6 4" marker-end="url(#ar)"/>
+<text x="500.0" y="160.0" font-size="12" text-anchor="middle" fill="#334155">ติดต่อตรงได้ (โทรศัพท์ดาวเทียม/อีเมล) หรือผ่าน MRCC — คำแนะนำกลับมาที่เรือ; MEDEVAC ประสานโดย MRCC</text>
+<rect x="40.0" y="190.0" width="450.0" height="350.0" rx="10" fill="#eff6ff" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="56.0" y="216.0" font-size="12.3" text-anchor="start" fill="#1e3a8a" font-weight="bold">ข้อมูลที่ต้องเตรียม (ข้อความ MEDICO)</text>
+<text x="56.0" y="242.0" font-size="12.3" text-anchor="start" fill="#0f172a">• เรือ: ชื่อ call sign ตำแหน่ง เข็ม ความเร็ว ETA</text>
+<text x="56.0" y="268.0" font-size="12.3" text-anchor="start" fill="#0f172a">  ท่าที่ใกล้ที่สุด สภาพอากาศ</text>
+<text x="56.0" y="294.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ผู้ป่วย: อายุ เพศ ตำแหน่งงาน สัญชาติ</text>
+<text x="56.0" y="320.0" font-size="12.3" text-anchor="start" fill="#0f172a">• เกิดอะไรขึ้น เมื่อไร อย่างไร (กลไกการบาดเจ็บ)</text>
+<text x="56.0" y="346.0" font-size="12.3" text-anchor="start" fill="#0f172a">• อาการ ตำแหน่งที่เจ็บ ความรุนแรง การเปลี่ยนแปลง</text>
+<text x="56.0" y="372.0" font-size="12.3" text-anchor="start" fill="#0f172a">• สัญญาณชีพ: ชีพจร การหายใจ ความดัน</text>
+<text x="56.0" y="398.0" font-size="12.3" text-anchor="start" fill="#0f172a">  อุณหภูมิ SpO₂ ระดับความรู้สึกตัว</text>
+<text x="56.0" y="424.0" font-size="12.3" text-anchor="start" fill="#0f172a">• โรคประจำตัว ยาที่ใช้ แพ้ยา</text>
+<text x="56.0" y="450.0" font-size="12.3" text-anchor="start" fill="#0f172a">• การรักษา/ยาที่ให้แล้ว (เวลา ขนาด) และผล</text>
+<text x="56.0" y="476.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ยาและอุปกรณ์ที่มีในตู้ยา (อ้างอิงรายการ)</text>
+<text x="56.0" y="502.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ภาพถ่าย/คลิป (ถ้าระบบรองรับ)</text>
+<rect x="510.0" y="190.0" width="450.0" height="350.0" rx="10" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+<text x="526.0" y="216.0" font-size="12.3" text-anchor="start" fill="#14532d" font-weight="bold">หลักปฏิบัติ</text>
+<text x="526.0" y="242.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ใช้ IMGS (WHO) ประกอบ — กรอกแบบฟอร์มก่อนโทร</text>
+<text x="526.0" y="268.0" font-size="12.3" text-anchor="start" fill="#0f172a">• บันทึกคำแนะนำ ทวนกลับให้ชัด (ยา ขนาด เวลา)</text>
+<text x="526.0" y="294.0" font-size="12.3" text-anchor="start" fill="#0f172a">• เฝ้าดูและบันทึกสัญญาณชีพเป็นระยะ รายงานซ้ำ</text>
+<text x="526.0" y="320.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ภาษาอังกฤษง่าย ชัด (SMCP — 1.7)</text>
+<text x="526.0" y="346.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ข้อความด่วน: PAN PAN (ขอคำแนะนำ/อพยพ)</text>
+<text x="526.0" y="372.0" font-size="12.3" text-anchor="start" fill="#0f172a">  MAYDAY ถ้าชีวิตอยู่ในอันตรายร้ายแรงและเร่งด่วน</text>
+<text x="526.0" y="398.0" font-size="12.3" text-anchor="start" fill="#0f172a">• MEDEVAC: เตรียมพื้นที่เฮลิคอปเตอร์/เรือรับ (1.6)</text>
+<text x="526.0" y="424.0" font-size="12.3" text-anchor="start" fill="#0f172a">  เอกสาร ยาที่ให้ ประวัติ ไปกับผู้ป่วย</text>
+<text x="526.0" y="450.0" font-size="12.3" text-anchor="start" fill="#0f172a">• รักษาความลับทางการแพทย์</text>
+<text x="526.0" y="476.0" font-size="12.3" text-anchor="start" fill="#0f172a">• บันทึกใน medical log และ logbook</text>
+<text x="526.0" y="502.0" font-size="12.3" text-anchor="start" fill="#0f172a">• ICS มีส่วนสัญญาณทางการแพทย์ (Medical section)</text>
+</svg>

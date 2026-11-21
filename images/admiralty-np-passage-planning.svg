@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 690" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="690" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#334155"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ADMIRALTY publications ชุด NP — ใช้ในขั้นไหนของ passage planning</text>
+<text x="500.0" y="52" text-anchor="middle" font-size="13" fill="#475569">ขั้นตอนตาม IMO Res. A.893(21) Guidelines for Voyage Planning · ตัวเลขในวงเล็บคือ Section ของ Weekly NMs ที่ใช้แก้ไข</text>
+<rect x="18" y="74" width="232" height="480" rx="10" fill="#eff6ff" stroke="#1e3a8a" stroke-width="2"/>
+<rect x="18" y="74" width="232" height="46" rx="10" fill="#1e3a8a"/>
+<rect x="18" y="104" width="232" height="16" fill="#1e3a8a"/>
+<text x="134.0" y="95" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">1. APPRAISAL</text>
+<text x="134.0" y="113" text-anchor="middle" font-size="12" fill="#e2e8f0">รวบรวม/ประเมินข้อมูล</text>
+<rect x="26" y="132" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="34" y="150" font-size="12" font-weight="bold" fill="#1e3a8a">NP131 Catalogue</text>
+<text x="34" y="167" font-size="11.5" fill="#334155">เลือกแผนที่/ENC ที่ต้องใช้</text>
+<rect x="26" y="184" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="34" y="202" font-size="12" font-weight="bold" fill="#1e3a8a">NP1–NP72 Sailing Directions (IV)</text>
+<text x="34" y="219" font-size="11.5" fill="#334155">ชายฝั่ง ท่า กฎท้องถิ่น</text>
+<rect x="26" y="236" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="34" y="254" font-size="12" font-weight="bold" fill="#1e3a8a">NP136(1)/(2) Ocean Passages (VII)</text>
+<text x="34" y="271" font-size="11.5" fill="#334155">เส้นทางเดินสมุทรตามฤดู</text>
+<rect x="26" y="288" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="34" y="306" font-size="12" font-weight="bold" fill="#1e3a8a">Routeing Charts 5124–5128</text>
+<text x="34" y="323" font-size="11.5" fill="#334155">ลม กระแสน้ำ load line</text>
+<rect x="26" y="340" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="34" y="358" font-size="12" font-weight="bold" fill="#1e3a8a">NP100 Mariner's Handbook (VII)</text>
+<text x="34" y="375" font-size="11.5" fill="#334155">ความน่าเชื่อถือของข้อมูล</text>
+<rect x="26" y="392" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="34" y="410" font-size="12" font-weight="bold" fill="#1e3a8a">NP350 Distance Tables</text>
+<text x="34" y="427" font-size="11.5" fill="#334155">ระยะทางระหว่างท่า</text>
+<rect x="26" y="444" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="34" y="462" font-size="12" font-weight="bold" fill="#1e3a8a">NP247 / NAVAREA in force (III)</text>
+<text x="34" y="479" font-size="11.5" fill="#334155">T&amp;P และคำเตือนที่มีผล</text>
+<rect x="26" y="496" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="34" y="514" font-size="12" font-weight="bold" fill="#1e3a8a">Q-series Security Charts</text>
+<text x="34" y="531" font-size="11.5" fill="#334155">พื้นที่เสี่ยง การรายงาน</text>
+<line x1="251" y1="97" x2="262" y2="97" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="262" y="74" width="232" height="480" rx="10" fill="#f0fdf4" stroke="#166534" stroke-width="2"/>
+<rect x="262" y="74" width="232" height="46" rx="10" fill="#166534"/>
+<rect x="262" y="104" width="232" height="16" fill="#166534"/>
+<text x="378.0" y="95" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">2. PLANNING</text>
+<text x="378.0" y="113" text-anchor="middle" font-size="12" fill="#e2e8f0">ลากเส้นทาง/ทำ plan</text>
+<rect x="270" y="132" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="278" y="150" font-size="12" font-weight="bold" fill="#166534">แผนที่กระดาษ / ENC-AVCS (II, VIII)</text>
+<text x="278" y="167" font-size="11.5" fill="#334155">แผนที่ทางการ เป็นปัจจุบัน</text>
+<rect x="270" y="184" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="278" y="202" font-size="12" font-weight="bold" fill="#166534">NP5011 / NP5012</text>
+<text x="278" y="219" font-size="11.5" fill="#334155">อ่านสัญลักษณ์กระดาษ/ENC</text>
+<rect x="270" y="236" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="278" y="254" font-size="12" font-weight="bold" fill="#166534">NP74–NP88 List of Lights (V)</text>
+<text x="278" y="271" font-size="11.5" fill="#334155">ไฟ landfall, sector, clearing</text>
+<rect x="270" y="288" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="278" y="306" font-size="12" font-weight="bold" fill="#166534">NP282 ALRS Vol 2 (VI)</text>
+<text x="278" y="323" font-size="11.5" fill="#334155">Racon, AIS AtoN, legal time</text>
+<rect x="270" y="340" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="278" y="358" font-size="12" font-weight="bold" fill="#166534">NP286 ALRS Vol 6 (VI)</text>
+<text x="278" y="375" font-size="11.5" fill="#334155">จุดรายงาน VTS นำร่อง ท่า</text>
+<rect x="270" y="392" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="278" y="410" font-size="12" font-weight="bold" fill="#166534">NP201–NP208 ATT / TotalTide</text>
+<text x="278" y="427" font-size="11.5" fill="#334155">UKC, tidal window, air draught</text>
+<rect x="270" y="444" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="278" y="462" font-size="12" font-weight="bold" fill="#166534">Tidal Stream Atlases</text>
+<text x="278" y="479" font-size="11.5" fill="#334155">กระแสน้ำรายชั่วโมง</text>
+<rect x="270" y="496" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="278" y="514" font-size="12" font-weight="bold" fill="#166534">Ships' Routeing (IMO)</text>
+<text x="278" y="531" font-size="11.5" fill="#334155">TSS, ATBA, ระบบรายงาน</text>
+<line x1="495" y1="97" x2="506" y2="97" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="506" y="74" width="232" height="480" rx="10" fill="#fff7ed" stroke="#9a3412" stroke-width="2"/>
+<rect x="506" y="74" width="232" height="46" rx="10" fill="#9a3412"/>
+<rect x="506" y="104" width="232" height="16" fill="#9a3412"/>
+<text x="622.0" y="95" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">3. EXECUTION</text>
+<text x="622.0" y="113" text-anchor="middle" font-size="12" fill="#e2e8f0">เดินเรือตาม plan</text>
+<rect x="514" y="132" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="522" y="150" font-size="12" font-weight="bold" fill="#9a3412">NP74–NP88 List of Lights</text>
+<text x="522" y="167" font-size="11.5" fill="#334155">ระบุไฟด้วยคาบ/จังหวะ</text>
+<rect x="514" y="184" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="522" y="202" font-size="12" font-weight="bold" fill="#9a3412">NP283 ALRS Vol 3</text>
+<text x="522" y="219" font-size="11.5" fill="#334155">ตาราง NAVTEX, SafetyNET, อากาศ</text>
+<rect x="514" y="236" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="522" y="254" font-size="12" font-weight="bold" fill="#9a3412">NP281 ALRS Vol 1</text>
+<text x="522" y="271" font-size="11.5" fill="#334155">สถานีวิทยุ TMAS</text>
+<rect x="514" y="288" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="522" y="306" font-size="12" font-weight="bold" fill="#9a3412">NP285 ALRS Vol 5</text>
+<text x="522" y="323" font-size="11.5" fill="#334155">ขั้นตอน GMDSS</text>
+<rect x="514" y="340" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="522" y="358" font-size="12" font-weight="bold" fill="#9a3412">NP286 ALRS Vol 6</text>
+<text x="522" y="375" font-size="11.5" fill="#334155">ช่อง VHF VTS/นำร่อง</text>
+<rect x="514" y="392" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="522" y="410" font-size="12" font-weight="bold" fill="#9a3412">NP314 Nautical Almanac</text>
+<text x="522" y="427" font-size="11.5" fill="#334155">GHA/Dec ดาราศาสตร์</text>
+<rect x="514" y="444" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="522" y="462" font-size="12" font-weight="bold" fill="#9a3412">NP401 / NP303 Sight Reduction</text>
+<text x="522" y="479" font-size="11.5" fill="#334155">คำนวณ intercept</text>
+<rect x="514" y="496" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="522" y="514" font-size="12" font-weight="bold" fill="#9a3412">Sailing Directions</text>
+<text x="522" y="531" font-size="11.5" fill="#334155">directions เข้าท่า</text>
+<line x1="739" y1="97" x2="750" y2="97" stroke="#334155" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="750" y="74" width="232" height="480" rx="10" fill="#faf5ff" stroke="#6b21a8" stroke-width="2"/>
+<rect x="750" y="74" width="232" height="46" rx="10" fill="#6b21a8"/>
+<rect x="750" y="104" width="232" height="16" fill="#6b21a8"/>
+<text x="866.0" y="95" text-anchor="middle" font-size="15" font-weight="bold" fill="#fff">4. MONITORING</text>
+<text x="866.0" y="113" text-anchor="middle" font-size="12" fill="#e2e8f0">ติดตาม/ปรับแผน</text>
+<rect x="758" y="132" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="766" y="150" font-size="12" font-weight="bold" fill="#6b21a8">Weekly NMs (I–VIII)</text>
+<text x="766" y="167" font-size="11.5" fill="#334155">แก้ไขทุกสัปดาห์</text>
+<rect x="758" y="184" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="766" y="202" font-size="12" font-weight="bold" fill="#6b21a8">NP234A/B Cumulative List</text>
+<text x="766" y="219" font-size="11.5" fill="#334155">ตรวจว่าแผนที่แก้ครบ</text>
+<rect x="758" y="236" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="766" y="254" font-size="12" font-weight="bold" fill="#6b21a8">NP247(1)/(2) Annual Summary</text>
+<text x="766" y="271" font-size="11.5" fill="#334155">Annual NMs, T&amp;P ต้นปี</text>
+<rect x="758" y="288" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="766" y="306" font-size="12" font-weight="bold" fill="#6b21a8">NAVTEX / SafetyNET / SafetyCast</text>
+<text x="766" y="323" font-size="11.5" fill="#334155">คำเตือนใหม่ระหว่างทาง</text>
+<rect x="758" y="340" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="766" y="358" font-size="12" font-weight="bold" fill="#6b21a8">NP133A / NP133C (VII)</text>
+<text x="766" y="375" font-size="11.5" fill="#334155">บันทึกการแก้ไข</text>
+<rect x="758" y="392" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="766" y="410" font-size="12" font-weight="bold" fill="#6b21a8">NP294</text>
+<text x="766" y="427" font-size="11.5" fill="#334155">วิธีแก้ไขผลิตภัณฑ์ ADMIRALTY</text>
+<rect x="758" y="444" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="766" y="462" font-size="12" font-weight="bold" fill="#6b21a8">e-NP / ADSD / ADP</text>
+<text x="766" y="479" font-size="11.5" fill="#334155">ฉบับดิจิทัล อัปเดตอัตโนมัติ</text>
+<rect x="758" y="496" width="216" height="44" rx="6" fill="#fff" stroke="#cbd5e1"/>
+<text x="766" y="514" font-size="12" font-weight="bold" fill="#6b21a8">H102 (รายงานกลับ UKHO)</text>
+<text x="766" y="531" font-size="11.5" fill="#334155">แจ้งอันตราย/ข้อมูลผิด</text>
+<path d="M 866.0 554 L 866.0 568 L 134.0 568 L 134.0 556" fill="none" stroke="#64748b" stroke-width="1.6" stroke-dasharray="6 4" marker-end="url(#ar)"/>
+<text x="500.0" y="585" text-anchor="middle" font-size="12" fill="#475569">ข้อมูลใหม่ (NMs, คำเตือน, สภาพอากาศ) → ทบทวนและแก้ plan ได้ตลอด แต่ต้องแจ้งนายเรือและบันทึก</text>
+<text x="18" y="614" font-size="13" font-weight="bold" fill="#0f172a">ADMIRALTY Weekly NMs — Section ไหนแก้อะไร</text>
+<rect x="18.0" y="622" width="115.2" height="44" rx="6" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="75.6" y="639" text-anchor="middle" font-size="12" font-weight="bold" fill="#0f172a">Section I</text>
+<text x="75.6" y="656" text-anchor="middle" font-size="9.5" fill="#334155">ดัชนี · New Editions</text>
+<rect x="139.2" y="622" width="115.2" height="44" rx="6" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="196.9" y="639" text-anchor="middle" font-size="12" font-weight="bold" fill="#0f172a">Section II</text>
+<text x="196.9" y="656" text-anchor="middle" font-size="9.5" fill="#334155">แผนที่กระดาษ (รวม T&amp;P)</text>
+<rect x="260.5" y="622" width="115.2" height="44" rx="6" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="318.1" y="639" text-anchor="middle" font-size="12" font-weight="bold" fill="#0f172a">Section III</text>
+<text x="318.1" y="656" text-anchor="middle" font-size="9.5" fill="#334155">NAVAREA I warnings</text>
+<rect x="381.8" y="622" width="115.2" height="44" rx="6" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="439.4" y="639" text-anchor="middle" font-size="12" font-weight="bold" fill="#0f172a">Section IV</text>
+<text x="439.4" y="656" text-anchor="middle" font-size="9.5" fill="#334155">Sailing Directions</text>
+<rect x="503.0" y="622" width="115.2" height="44" rx="6" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="560.6" y="639" text-anchor="middle" font-size="12" font-weight="bold" fill="#0f172a">Section V</text>
+<text x="560.6" y="656" text-anchor="middle" font-size="9.5" fill="#334155">List of Lights</text>
+<rect x="624.2" y="622" width="115.2" height="44" rx="6" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="681.9" y="639" text-anchor="middle" font-size="12" font-weight="bold" fill="#0f172a">Section VI</text>
+<text x="681.9" y="656" text-anchor="middle" font-size="9.5" fill="#334155">List of Radio Signals</text>
+<rect x="745.5" y="622" width="115.2" height="44" rx="6" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="803.1" y="639" text-anchor="middle" font-size="12" font-weight="bold" fill="#0f172a">Section VII</text>
+<text x="803.1" y="656" text-anchor="middle" font-size="9.5" fill="#334155">สิ่งพิมพ์อื่น เช่น NP100</text>
+<rect x="866.8" y="622" width="115.2" height="44" rx="6" fill="#f1f5f9" stroke="#94a3b8"/>
+<text x="924.4" y="639" text-anchor="middle" font-size="12" font-weight="bold" fill="#0f172a">Section VIII</text>
+<text x="924.4" y="656" text-anchor="middle" font-size="9.5" fill="#334155">บริการดิจิทัล</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="900" height="600" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="dm" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="#334155"/></marker></defs>
+<text x="450.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Rule 19(d) — การหลบเมื่อทัศนวิสัยจำกัด (ตรวจพบด้วยเรดาร์อย่างเดียว)</text>
+<path d="M 330 330 L 90.0 330.0 A 240 240 0 0 1 330.0 90.0 Z" fill="#ef4444" opacity="0.3" stroke="#ef4444"/>
+<path d="M 330 330 L 330.0 90.0 A 240 240 0 0 1 570.0 330.0 Z" fill="#f59e0b" opacity="0.3" stroke="#f59e0b"/>
+<path d="M 330 330 L 570.0 330.0 A 240 240 0 0 1 90.0 330.0 Z" fill="#3b82f6" opacity="0.22" stroke="#3b82f6"/>
+<polygon points="330.0,295.0 340.0,312.5 340.0,365.0 320.0,365.0 320.0,312.5" fill="#334155" stroke="#0f172a"/>
+<text x="110" y="210" font-size="14" font-weight="bold" fill="#b91c1c">เป้าอยู่หน้าแนวกราบ (ซ้าย)</text><text x="110" y="230" font-size="13" fill="#b91c1c">หลีกเลี่ยงการเปลี่ยนเข็มไปทางซ้าย</text><text x="110" y="248" font-size="13" fill="#b91c1c">→ เปลี่ยนไปทางขวา</text>
+<text x="370" y="210" font-size="14" font-weight="bold" fill="#b45309">เป้าอยู่หน้าแนวกราบ (ขวา)</text><text x="370" y="230" font-size="13" fill="#b45309">หลีกเลี่ยงการเปลี่ยนเข็มไปทางซ้าย</text><text x="370" y="248" font-size="13" fill="#b45309">→ เปลี่ยนไปทางขวา (หรือลดความเร็ว)</text>
+<text x="130" y="470" font-size="14" font-weight="bold" fill="#1d4ed8">เป้าอยู่ตรงกราบหรือหลังแนวกราบ</text><text x="130" y="490" font-size="13" fill="#1d4ed8">หลีกเลี่ยงการเปลี่ยนเข็ม "เข้าหา" เป้า</text><text x="130" y="508" font-size="13" fill="#1d4ed8">(เป้ากราบขวา → อย่าหันขวา, เป้ากราบซ้าย → อย่าหันซ้าย)</text>
+<rect x="610" y="70" width="280" height="366" rx="10" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="624" y="96" font-size="13">ข้อยกเว้นข้อ (i): ถ้าเป้าข้างหน้า</text>
+<text x="624" y="119" font-size="13">กำลังถูกเราแซง ไม่บังคับข้อนี้</text>
+<text x="624" y="142" font-size="13"></text>
+<text x="624" y="165" font-size="13">Rule 19(e): ได้ยินสัญญาณหมอก</text>
+<text x="624" y="188" font-size="13">ทางหน้าแนวกราบ หรือหลีกเลี่ยง</text>
+<text x="624" y="211" font-size="13">close-quarters ไม่ได้</text>
+<text x="624" y="234" font-size="13">→ ลดความเร็วต่ำสุดที่ยังถือท้ายได้</text>
+<text x="624" y="257" font-size="13">→ ถ้าจำเป็นหยุดเรือ (take all way off)</text>
+<text x="624" y="280" font-size="13">→ เดินเรือด้วยความระมัดระวังสูงสุด</text>
+<text x="624" y="303" font-size="13"></text>
+<text x="624" y="326" font-size="13">ไม่มี stand-on / give-way ใน Rule 19</text>
+<text x="624" y="349" font-size="13">ทุกลำต้องหลบ</text>
+<text x="624" y="372" font-size="13"></text>
+<text x="624" y="395" font-size="13">กฎใช้คำว่า "shall be avoided"</text>
+<text x="624" y="418" font-size="13">(ให้หลีกเลี่ยงเท่าที่ทำได้)</text>
+</svg>

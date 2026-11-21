@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="640" fill="#fff"/>
+<defs><pattern id="stripes" width="12" height="12" patternUnits="userSpaceOnUse"><rect width="6" height="12" fill="#dc2626"/><rect x="6" width="6" height="12" fill="#fff"/></pattern><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">IMDG Code: ประเภทสินค้าอันตราย 9 ประเภท และคำศัพท์การแยกเก็บ (Segregation)</text>
+<polygon points="110,66 154,110 110,154 66,110" fill="#f97316" stroke="#0f172a" stroke-width="2"/><text x="110.0" y="144.0" font-size="16" text-anchor="middle" fill="#0f172a" font-weight="bold">1</text>
+<text x="166.0" y="104.0" font-size="14" text-anchor="start" fill="#0f172a" font-weight="bold">Class 1: วัตถุระเบิด</text>
+<text x="166.0" y="124.0" font-size="11" text-anchor="start" fill="#334155">Explosives (1.1–1.6)</text>
+<polygon points="420,66 464,110 420,154 376,110" fill="#15803d" stroke="#0f172a" stroke-width="2"/><text x="420.0" y="144.0" font-size="16" text-anchor="middle" fill="#0f172a" font-weight="bold">2</text>
+<text x="476.0" y="104.0" font-size="14" text-anchor="start" fill="#0f172a" font-weight="bold">Class 2: ก๊าซ</text>
+<text x="476.0" y="124.0" font-size="11" text-anchor="start" fill="#334155">2.1 ไวไฟ (แดง) · 2.2 ไม่ไวไฟ</text>
+<text x="476.0" y="139.0" font-size="11" text-anchor="start" fill="#334155">ไม่เป็นพิษ (เขียว) · 2.3 พิษ (ขาว)</text>
+<polygon points="730,66 774,110 730,154 686,110" fill="#dc2626" stroke="#0f172a" stroke-width="2"/><text x="730.0" y="144.0" font-size="16" text-anchor="middle" fill="#0f172a" font-weight="bold">3</text>
+<text x="786.0" y="104.0" font-size="14" text-anchor="start" fill="#0f172a" font-weight="bold">Class 3: ของเหลวไวไฟ</text>
+<text x="786.0" y="124.0" font-size="11" text-anchor="start" fill="#334155">Flammable liquids</text>
+<polygon points="110,186 154,230 110,274 66,230" fill="#ef4444" stroke="#0f172a" stroke-width="2"/><polygon points="110,186 154,230 110,274 66,230" fill="url(#stripes)" stroke="#0f172a" stroke-width="2"/><text x="110.0" y="264.0" font-size="16" text-anchor="middle" fill="#0f172a" font-weight="bold">4</text>
+<text x="166.0" y="224.0" font-size="14" text-anchor="start" fill="#0f172a" font-weight="bold">Class 4: ของแข็งไวไฟ ฯลฯ</text>
+<text x="166.0" y="244.0" font-size="11" text-anchor="start" fill="#334155">4.1 ของแข็งไวไฟ · 4.2 ลุกไหม้เอง</text>
+<text x="166.0" y="259.0" font-size="11" text-anchor="start" fill="#334155">4.3 ถูกน้ำแล้วเกิดก๊าซไวไฟ</text>
+<polygon points="420,186 464,230 420,274 376,230" fill="#facc15" stroke="#0f172a" stroke-width="2"/><text x="420.0" y="264.0" font-size="16" text-anchor="middle" fill="#0f172a" font-weight="bold">5</text>
+<text x="476.0" y="224.0" font-size="14" text-anchor="start" fill="#0f172a" font-weight="bold">Class 5: ออกซิไดซ์/เปอร์ออกไซด์</text>
+<text x="476.0" y="244.0" font-size="11" text-anchor="start" fill="#334155">5.1 Oxidizing · 5.2 Organic peroxides</text>
+<polygon points="730,186 774,230 730,274 686,230" fill="#f8fafc" stroke="#0f172a" stroke-width="2"/><text x="730.0" y="264.0" font-size="16" text-anchor="middle" fill="#0f172a" font-weight="bold">6</text>
+<text x="786.0" y="224.0" font-size="14" text-anchor="start" fill="#0f172a" font-weight="bold">Class 6: พิษ/ติดเชื้อ</text>
+<text x="786.0" y="244.0" font-size="11" text-anchor="start" fill="#334155">6.1 Toxic · 6.2 Infectious</text>
+<polygon points="110,306 154,350 110,394 66,350" fill="#fde047" stroke="#0f172a" stroke-width="2"/><polygon points="66,350 110,394 154,350" fill="#fff"/><polygon points="110,306 154,350 110,394 66,350" fill="none" stroke="#0f172a" stroke-width="2"/><text x="110.0" y="384.0" font-size="16" text-anchor="middle" fill="#0f172a" font-weight="bold">7</text>
+<text x="166.0" y="344.0" font-size="14" text-anchor="start" fill="#0f172a" font-weight="bold">Class 7: กัมมันตรังสี</text>
+<text x="166.0" y="364.0" font-size="11" text-anchor="start" fill="#334155">Radioactive (I, II, III, fissile)</text>
+<polygon points="420,306 464,350 420,394 376,350" fill="#1f2937" stroke="#0f172a" stroke-width="2"/><polygon points="420,306 464,350 376,350" fill="#fff"/><polygon points="420,306 464,350 420,394 376,350" fill="none" stroke="#0f172a" stroke-width="2"/><text x="420.0" y="384.0" font-size="16" text-anchor="middle" fill="#fff" font-weight="bold">8</text>
+<text x="476.0" y="344.0" font-size="14" text-anchor="start" fill="#0f172a" font-weight="bold">Class 8: กัดกร่อน</text>
+<text x="476.0" y="364.0" font-size="11" text-anchor="start" fill="#334155">Corrosive</text>
+<polygon points="730,306 774,350 730,394 686,350" fill="#f1f5f9" stroke="#0f172a" stroke-width="2"/><line x1="709.0" y1="320.0" x2="709.0" y2="344.0" stroke="#0f172a" stroke-width="3"/>
+<line x1="716.0" y1="320.0" x2="716.0" y2="344.0" stroke="#0f172a" stroke-width="3"/>
+<line x1="723.0" y1="320.0" x2="723.0" y2="344.0" stroke="#0f172a" stroke-width="3"/>
+<line x1="730.0" y1="320.0" x2="730.0" y2="344.0" stroke="#0f172a" stroke-width="3"/>
+<line x1="737.0" y1="320.0" x2="737.0" y2="344.0" stroke="#0f172a" stroke-width="3"/>
+<line x1="744.0" y1="320.0" x2="744.0" y2="344.0" stroke="#0f172a" stroke-width="3"/>
+<line x1="751.0" y1="320.0" x2="751.0" y2="344.0" stroke="#0f172a" stroke-width="3"/>
+<text x="730.0" y="384.0" font-size="16" text-anchor="middle" fill="#0f172a" font-weight="bold">9</text>
+<text x="786.0" y="344.0" font-size="14" text-anchor="start" fill="#0f172a" font-weight="bold">Class 9: อันตรายอื่น ๆ</text>
+<text x="786.0" y="364.0" font-size="11" text-anchor="start" fill="#334155">Miscellaneous (เช่น lithium batteries)</text>
+<text x="40.0" y="460.0" font-size="14" text-anchor="start" fill="#0f172a" font-weight="bold">คำศัพท์การแยกเก็บ (IMDG Code ส่วนที่ 7) — จากหลวมไปเข้มงวด</text>
+<rect x="40.0" y="482.0" width="30.0" height="28.0" rx="4" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="55.0" y="501.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">1</text>
+<text x="80.0" y="495.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">Away from</text>
+<text x="80.0" y="509.0" font-size="11.5" text-anchor="start" fill="#334155">แยกห่างพอไม่ให้ทำปฏิกิริยากันถ้าเกิดอุบัติเหตุ (อยู่ช่องเดียวกันได้)</text>
+<rect x="40.0" y="518.0" width="30.0" height="28.0" rx="4" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="55.0" y="537.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">2</text>
+<text x="80.0" y="531.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">Separated from</text>
+<text x="80.0" y="545.0" font-size="11.5" text-anchor="start" fill="#334155">ต่างช่อง/ต่างระวาง (หรือบนดาดฟ้าตามระยะที่กำหนด)</text>
+<rect x="40.0" y="554.0" width="30.0" height="28.0" rx="4" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="55.0" y="573.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">3</text>
+<text x="80.0" y="567.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">Separated by a complete compartment or hold from</text>
+<text x="80.0" y="581.0" font-size="11.5" text-anchor="start" fill="#334155">มีระวาง/ช่องเต็มหนึ่งช่องคั่นกลาง</text>
+<rect x="40.0" y="590.0" width="30.0" height="28.0" rx="4" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="55.0" y="609.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">4</text>
+<text x="80.0" y="603.0" font-size="12.5" text-anchor="start" fill="#0f172a" font-weight="bold">Separated longitudinally by an intervening complete compartment or hold from</text>
+<text x="80.0" y="617.0" font-size="11.5" text-anchor="start" fill="#334155">คั่นด้วยระวางเต็มตามแนวยาวเรือ</text>
+<text x="620.0" y="500.0" font-size="12" text-anchor="start" fill="#0f172a">ใช้ร่วมกับ Dangerous Goods List (คอลัมน์</text>
+<text x="620.0" y="518.0" font-size="12" text-anchor="start" fill="#0f172a">stowage &amp; segregation, SG codes), ตาราง</text>
+<text x="620.0" y="536.0" font-size="12" text-anchor="start" fill="#0f172a">segregation 7.2.4 และตารางเฉพาะเรือ container</text>
+<text x="620.0" y="554.0" font-size="12" text-anchor="start" fill="#0f172a">"X" ในตาราง = ดู DGL เป็นรายสาร</text>
+<text x="620.0" y="582.0" font-size="11" text-anchor="start" fill="#b91c1c">ป้ายในภาพเป็นแบบย่อเพื่อจำสี — รูปสัญลักษณ์</text>
+<text x="620.0" y="598.0" font-size="11" text-anchor="start" fill="#b91c1c">จริงดูจาก IMDG Code 5.2</text>
+</svg>

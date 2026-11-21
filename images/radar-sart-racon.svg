@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 780" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="780" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker><marker id="arY" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#facc15"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">SART (9 GHz) และ Racon บนจอเรดาร์ X-band</text>
+<circle cx="260" cy="250" r="170" fill="#052e16" stroke="#334155" stroke-width="3"/><circle cx="260" cy="250" r="3" fill="#fff"/>
+<circle cx="294.6" cy="230.0" r="3.2" fill="#4ade80"/>
+<circle cx="303.3" cy="225.0" r="3.2" fill="#4ade80"/>
+<circle cx="312.0" cy="220.0" r="3.2" fill="#4ade80"/>
+<circle cx="320.6" cy="215.0" r="3.2" fill="#4ade80"/>
+<circle cx="329.3" cy="210.0" r="3.2" fill="#4ade80"/>
+<circle cx="337.9" cy="205.0" r="3.2" fill="#4ade80"/>
+<circle cx="346.6" cy="200.0" r="3.2" fill="#4ade80"/>
+<circle cx="355.3" cy="195.0" r="3.2" fill="#4ade80"/>
+<circle cx="363.9" cy="190.0" r="3.2" fill="#4ade80"/>
+<circle cx="372.6" cy="185.0" r="3.2" fill="#4ade80"/>
+<circle cx="381.2" cy="180.0" r="3.2" fill="#4ade80"/>
+<circle cx="389.9" cy="175.0" r="3.2" fill="#4ade80"/>
+<text x="100" y="450" font-size="13" font-weight="bold">SART ระยะไกล: จุด 12 จุดเรียงออกไปด้านไกล</text>
+<text x="100" y="468" font-size="12">ตำแหน่ง SART = จุดแรกที่ใกล้เรือที่สุด · ยาวประมาณ 8 nm</text>
+<text x="100" y="486" font-size="12">ใกล้ &lt; ~1 nm: จุดกลายเป็นส่วนโค้ง → วงกลมรอบศูนย์กลาง</text>
+<text x="280" y="190" font-size="11" fill="#bbf7d0">SART</text>
+<text x="260" y="400" text-anchor="middle" font-size="11" fill="#bbf7d0">range scale 12 nm</text>
+<circle cx="740" cy="250" r="170" fill="#052e16" stroke="#334155" stroke-width="3"/><circle cx="740" cy="250" r="3" fill="#fff"/>
+<rect x="683.0" y="215.0" width="10" height="10" fill="#4ade80"/>
+<line x1="679.4" y1="215.0" x2="660.3" y2="204.0" stroke="#4ade80" stroke-width="6"/>
+<line x1="653.4" y1="200.0" x2="648.2" y2="197.0" stroke="#4ade80" stroke-width="6"/>
+<line x1="641.3" y1="193.0" x2="622.2" y2="182.0" stroke="#4ade80" stroke-width="6"/>
+<text x="680" y="120" font-size="11" fill="#bbf7d0">Racon "K" (−·−)</text>
+<text x="580" y="450" font-size="13" font-weight="bold">Racon: รหัสมอร์สเริ่มด้านหลังเป้า ยื่นออกไปตามรัศมี</text>
+<text x="580" y="468" font-size="12">ใช้ระบุทุ่น/ประภาคาร/แท่น · ระยะวัดที่จุดเริ่มต้นของรหัส</text>
+<text x="580" y="486" font-size="12">interference rejection อาจลบ racon/SART ออก</text>
+<line x1="40" y1="510" x2="960" y2="510" stroke="#cbd5e1"/>
+<text x="500" y="536" text-anchor="middle" font-size="15" font-weight="bold">ภาพ SART เปลี่ยนไปเมื่อเรือเราเข้าใกล้ (ใช้ระบุระยะคร่าว ๆ)</text>
+<circle cx="180" cy="640" r="80" fill="#052e16" stroke="#334155" stroke-width="3"/><circle cx="180" cy="640" r="2.5" fill="#fff"/>
+<circle cx="189.0" cy="624.4" r="2" fill="#4ade80"/>
+<circle cx="191.5" cy="620.1" r="2" fill="#4ade80"/>
+<circle cx="194.0" cy="615.8" r="2" fill="#4ade80"/>
+<circle cx="196.5" cy="611.4" r="2" fill="#4ade80"/>
+<circle cx="199.0" cy="607.1" r="2" fill="#4ade80"/>
+<circle cx="201.5" cy="602.8" r="2" fill="#4ade80"/>
+<circle cx="204.0" cy="598.4" r="2" fill="#4ade80"/>
+<circle cx="206.5" cy="594.1" r="2" fill="#4ade80"/>
+<circle cx="209.0" cy="589.8" r="2" fill="#4ade80"/>
+<circle cx="211.5" cy="585.4" r="2" fill="#4ade80"/>
+<circle cx="214.0" cy="581.1" r="2" fill="#4ade80"/>
+<circle cx="216.5" cy="576.8" r="2" fill="#4ade80"/>
+<text x="180" y="742" text-anchor="middle" font-size="12" font-weight="bold">ไกลกว่า ~1 nm: 12 จุดเรียงตามรัศมี</text>
+<circle cx="500" cy="640" r="80" fill="#052e16" stroke="#334155" stroke-width="3"/><circle cx="500" cy="640" r="2.5" fill="#fff"/>
+<path d="M 504.3 626.7 A 14 14 0 0 1 509.4 629.6" fill="none" stroke="#4ade80" stroke-width="2"/>
+<path d="M 506.1 618.9 A 22 22 0 0 1 515.3 624.2" fill="none" stroke="#4ade80" stroke-width="2"/>
+<path d="M 507.3 610.9 A 30 30 0 0 1 521.6 619.2" fill="none" stroke="#4ade80" stroke-width="2"/>
+<path d="M 507.9 602.8 A 38 38 0 0 1 528.2 614.6" fill="none" stroke="#4ade80" stroke-width="2"/>
+<path d="M 508.0 594.7 A 46 46 0 0 1 535.2 610.4" fill="none" stroke="#4ade80" stroke-width="2"/>
+<path d="M 507.5 586.5 A 54 54 0 0 1 542.6 606.8" fill="none" stroke="#4ade80" stroke-width="2"/>
+<path d="M 506.5 578.3 A 62 62 0 0 1 550.2 603.6" fill="none" stroke="#4ade80" stroke-width="2"/>
+<path d="M 504.9 570.2 A 70 70 0 0 1 558.0 600.9" fill="none" stroke="#4ade80" stroke-width="2"/>
+<text x="500" y="742" text-anchor="middle" font-size="12" font-weight="bold">~1 nm: จุดกลายเป็นส่วนโค้ง (side lobes)</text>
+<circle cx="820" cy="640" r="80" fill="#052e16" stroke="#334155" stroke-width="3"/><circle cx="820" cy="640" r="2.5" fill="#fff"/>
+<circle cx="820" cy="640" r="10" fill="none" stroke="#4ade80" stroke-width="1.8" opacity="0.9"/>
+<circle cx="820" cy="640" r="18" fill="none" stroke="#4ade80" stroke-width="1.8" opacity="0.9"/>
+<circle cx="820" cy="640" r="26" fill="none" stroke="#4ade80" stroke-width="1.8" opacity="0.9"/>
+<circle cx="820" cy="640" r="34" fill="none" stroke="#4ade80" stroke-width="1.8" opacity="0.9"/>
+<circle cx="820" cy="640" r="42" fill="none" stroke="#4ade80" stroke-width="1.8" opacity="0.9"/>
+<circle cx="820" cy="640" r="50" fill="none" stroke="#4ade80" stroke-width="1.8" opacity="0.9"/>
+<circle cx="820" cy="640" r="58" fill="none" stroke="#4ade80" stroke-width="1.8" opacity="0.9"/>
+<circle cx="820" cy="640" r="66" fill="none" stroke="#4ade80" stroke-width="1.8" opacity="0.9"/>
+<text x="820" y="742" text-anchor="middle" font-size="12" font-weight="bold">ใกล้มาก: วงกลมซ้อนรอบเรือเรา</text>
+<text x="500" y="770" text-anchor="middle" font-size="12" fill="#334155">ใกล้ SART แล้วลด gain/ปรับ clutter เพื่อหาทิศ — ค้นหาด้วยสายตา/ไฟส่องควบคู่ (MSC.510(105): ตรวจพบได้ ≥ 5 nm จากเสาอากาศ 15 m)</text>
+</svg>

@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1010 1042" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1010" height="1042" fill="#fff"/>
+<text x="505.0" y="32" text-anchor="middle" font-size="20" font-weight="bold">ธงอักษร ICS และความหมายของสัญญาณอักษรเดียว (Single-letter signals)</text>
+<rect x="15" y="52" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f1"><rect x="25" y="64" width="72" height="48"/></clipPath><g clip-path="url(#f1)"><rect x="25" y="64" width="36.0" height="48" fill="#ffffff"/><path d="M 61.0 64 L 97 64 L 79.0 88.0 L 97 112 L 61.0 112 Z" fill="#1f3f9a"/></g><path d="M 25 64 L 97 64 L 79.0 88.0 L 97 112 L 25 112 Z" fill="none" stroke="#475569"/>
+<text x="61" y="134" text-anchor="middle" font-size="15" font-weight="bold">A</text>
+<text x="107" y="78" font-size="11.5">I have a diver down; keep well clear at</text>
+<text x="107" y="95" font-size="11.5">slow speed</text>
+<rect x="345" y="52" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f2"><rect x="355" y="64" width="72" height="48"/></clipPath><g clip-path="url(#f2)"><path d="M 355 64 L 427 64 L 409.0 88.0 L 427 112 L 355 112 Z" fill="#d4202a"/></g><path d="M 355 64 L 427 64 L 409.0 88.0 L 427 112 L 355 112 Z" fill="none" stroke="#475569"/>
+<text x="391" y="134" text-anchor="middle" font-size="15" font-weight="bold">B</text>
+<text x="437" y="78" font-size="11.5">I am taking in, discharging or carrying</text>
+<text x="437" y="95" font-size="11.5">dangerous goods</text>
+<rect x="675" y="52" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f3"><rect x="685" y="64" width="72" height="48"/></clipPath><g clip-path="url(#f3)"><rect x="685" y="64.0" width="72" height="10.1" fill="#1f3f9a"/><rect x="685" y="73.6" width="72" height="10.1" fill="#ffffff"/><rect x="685" y="83.2" width="72" height="10.1" fill="#d4202a"/><rect x="685" y="92.8" width="72" height="10.1" fill="#ffffff"/><rect x="685" y="102.4" width="72" height="10.1" fill="#1f3f9a"/></g><rect x="685" y="64" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="721" y="134" text-anchor="middle" font-size="15" font-weight="bold">C</text>
+<text x="767" y="78" font-size="11.5">Affirmative (YES)</text>
+<rect x="15" y="160" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f4"><rect x="25" y="172" width="72" height="48"/></clipPath><g clip-path="url(#f4)"><rect x="25" y="172" width="72" height="48" fill="#f6c800"/><rect x="25" y="184.0" width="72" height="24.0" fill="#1f3f9a"/></g><rect x="25" y="172" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="61" y="242" text-anchor="middle" font-size="15" font-weight="bold">D</text>
+<text x="107" y="186" font-size="11.5">Keep clear of me; I am manoeuvring with</text>
+<text x="107" y="203" font-size="11.5">difficulty</text>
+<rect x="345" y="160" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f5"><rect x="355" y="172" width="72" height="48"/></clipPath><g clip-path="url(#f5)"><rect x="355" y="172" width="72" height="24.0" fill="#1f3f9a"/><rect x="355" y="196.0" width="72" height="24.0" fill="#d4202a"/></g><rect x="355" y="172" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="391" y="242" text-anchor="middle" font-size="15" font-weight="bold">E</text>
+<text x="437" y="186" font-size="11.5">I am altering my course to starboard</text>
+<rect x="675" y="160" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f6"><rect x="685" y="172" width="72" height="48"/></clipPath><g clip-path="url(#f6)"><rect x="685" y="172" width="72" height="48" fill="#ffffff"/><path d="M 721.0 172 L 757 196.0 L 721.0 220 L 685 196.0 Z" fill="#d4202a"/></g><rect x="685" y="172" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="721" y="242" text-anchor="middle" font-size="15" font-weight="bold">F</text>
+<text x="767" y="186" font-size="11.5">I am disabled; communicate with me</text>
+<rect x="15" y="268" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f7"><rect x="25" y="280" width="72" height="48"/></clipPath><g clip-path="url(#f7)"><rect x="25.0" y="280" width="12.5" height="48" fill="#f6c800"/><rect x="37.0" y="280" width="12.5" height="48" fill="#1f3f9a"/><rect x="49.0" y="280" width="12.5" height="48" fill="#f6c800"/><rect x="61.0" y="280" width="12.5" height="48" fill="#1f3f9a"/><rect x="73.0" y="280" width="12.5" height="48" fill="#f6c800"/><rect x="85.0" y="280" width="12.5" height="48" fill="#1f3f9a"/></g><rect x="25" y="280" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="61" y="350" text-anchor="middle" font-size="15" font-weight="bold">G</text>
+<text x="107" y="294" font-size="11.5">I require a pilot (fishing vsl: I am</text>
+<text x="107" y="311" font-size="11.5">hauling nets)</text>
+<rect x="345" y="268" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f8"><rect x="355" y="280" width="72" height="48"/></clipPath><g clip-path="url(#f8)"><rect x="355" y="280" width="36.0" height="48" fill="#ffffff"/><rect x="391.0" y="280" width="36.0" height="48" fill="#d4202a"/></g><rect x="355" y="280" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="391" y="350" text-anchor="middle" font-size="15" font-weight="bold">H</text>
+<text x="437" y="294" font-size="11.5">I have a pilot on board</text>
+<rect x="675" y="268" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f9"><rect x="685" y="280" width="72" height="48"/></clipPath><g clip-path="url(#f9)"><rect x="685" y="280" width="72" height="48" fill="#f6c800"/><circle cx="721.0" cy="304.0" r="13.440000000000001" fill="#111111"/></g><rect x="685" y="280" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="721" y="350" text-anchor="middle" font-size="15" font-weight="bold">I</text>
+<text x="767" y="294" font-size="11.5">I am altering my course to port</text>
+<rect x="15" y="376" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f10"><rect x="25" y="388" width="72" height="48"/></clipPath><g clip-path="url(#f10)"><rect x="25" y="388" width="72" height="48" fill="#1f3f9a"/><rect x="25" y="404.0" width="72" height="16.0" fill="#ffffff"/></g><rect x="25" y="388" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="61" y="458" text-anchor="middle" font-size="15" font-weight="bold">J</text>
+<text x="107" y="402" font-size="11.5">I am on fire and have dangerous cargo on</text>
+<text x="107" y="419" font-size="11.5">board: keep well clear of me (or:</text>
+<text x="107" y="436" font-size="11.5">leaking dangerous cargo)</text>
+<rect x="345" y="376" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f11"><rect x="355" y="388" width="72" height="48"/></clipPath><g clip-path="url(#f11)"><rect x="355" y="388" width="36.0" height="48" fill="#f6c800"/><rect x="391.0" y="388" width="36.0" height="48" fill="#1f3f9a"/></g><rect x="355" y="388" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="391" y="458" text-anchor="middle" font-size="15" font-weight="bold">K</text>
+<text x="437" y="402" font-size="11.5">I wish to communicate with you</text>
+<rect x="675" y="376" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f12"><rect x="685" y="388" width="72" height="48"/></clipPath><g clip-path="url(#f12)"><rect x="685" y="388" width="36.0" height="24.0" fill="#f6c800"/><rect x="721.0" y="388" width="36.0" height="24.0" fill="#111111"/><rect x="685" y="412.0" width="36.0" height="24.0" fill="#111111"/><rect x="721.0" y="412.0" width="36.0" height="24.0" fill="#f6c800"/></g><rect x="685" y="388" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="721" y="458" text-anchor="middle" font-size="15" font-weight="bold">L</text>
+<text x="767" y="402" font-size="11.5">You should stop your vessel instantly</text>
+<rect x="15" y="484" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f13"><rect x="25" y="496" width="72" height="48"/></clipPath><g clip-path="url(#f13)"><rect x="25" y="496" width="72" height="48" fill="#1f3f9a"/><path d="M 25 496 L 97 544 M 97 496 L 25 544" stroke="#ffffff" stroke-width="10.56"/></g><rect x="25" y="496" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="61" y="566" text-anchor="middle" font-size="15" font-weight="bold">M</text>
+<text x="107" y="510" font-size="11.5">My vessel is stopped and making no way</text>
+<text x="107" y="527" font-size="11.5">through the water</text>
+<rect x="345" y="484" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f14"><rect x="355" y="496" width="72" height="48"/></clipPath><g clip-path="url(#f14)"><rect x="355.0" y="496.0" width="18.5" height="12.5" fill="#1f3f9a"/><rect x="355.0" y="508.0" width="18.5" height="12.5" fill="#ffffff"/><rect x="355.0" y="520.0" width="18.5" height="12.5" fill="#1f3f9a"/><rect x="355.0" y="532.0" width="18.5" height="12.5" fill="#ffffff"/><rect x="373.0" y="496.0" width="18.5" height="12.5" fill="#ffffff"/><rect x="373.0" y="508.0" width="18.5" height="12.5" fill="#1f3f9a"/><rect x="373.0" y="520.0" width="18.5" height="12.5" fill="#ffffff"/><rect x="373.0" y="532.0" width="18.5" height="12.5" fill="#1f3f9a"/><rect x="391.0" y="496.0" width="18.5" height="12.5" fill="#1f3f9a"/><rect x="391.0" y="508.0" width="18.5" height="12.5" fill="#ffffff"/><rect x="391.0" y="520.0" width="18.5" height="12.5" fill="#1f3f9a"/><rect x="391.0" y="532.0" width="18.5" height="12.5" fill="#ffffff"/><rect x="409.0" y="496.0" width="18.5" height="12.5" fill="#ffffff"/><rect x="409.0" y="508.0" width="18.5" height="12.5" fill="#1f3f9a"/><rect x="409.0" y="520.0" width="18.5" height="12.5" fill="#ffffff"/><rect x="409.0" y="532.0" width="18.5" height="12.5" fill="#1f3f9a"/></g><rect x="355" y="496" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="391" y="566" text-anchor="middle" font-size="15" font-weight="bold">N</text>
+<text x="437" y="510" font-size="11.5">Negative (NO)</text>
+<rect x="675" y="484" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f15"><rect x="685" y="496" width="72" height="48"/></clipPath><g clip-path="url(#f15)"><path d="M 685 496 L 757 496 L 757 544 Z" fill="#d4202a"/><path d="M 685 496 L 757 544 L 685 544 Z" fill="#f6c800"/></g><rect x="685" y="496" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="721" y="566" text-anchor="middle" font-size="15" font-weight="bold">O</text>
+<text x="767" y="510" font-size="11.5">Man overboard</text>
+<rect x="15" y="592" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f16"><rect x="25" y="604" width="72" height="48"/></clipPath><g clip-path="url(#f16)"><rect x="25" y="604" width="72" height="48" fill="#1f3f9a"/><rect x="49.0" y="620.0" width="24.0" height="16.0" fill="#ffffff"/></g><rect x="25" y="604" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="61" y="674" text-anchor="middle" font-size="15" font-weight="bold">P</text>
+<text x="107" y="618" font-size="11.5">In harbour: all persons should report on</text>
+<text x="107" y="635" font-size="11.5">board as the vessel is about to proceed</text>
+<text x="107" y="652" font-size="11.5">to sea (at sea, fishing vsl: my nets</text>
+<text x="107" y="669" font-size="11.5">have come fast upon an obstruction)</text>
+<rect x="345" y="592" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f17"><rect x="355" y="604" width="72" height="48"/></clipPath><g clip-path="url(#f17)"><rect x="355" y="604" width="72" height="48" fill="#f6c800"/></g><rect x="355" y="604" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="391" y="674" text-anchor="middle" font-size="15" font-weight="bold">Q</text>
+<text x="437" y="618" font-size="11.5">My vessel is "healthy" and I request</text>
+<text x="437" y="635" font-size="11.5">free pratique</text>
+<rect x="675" y="592" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f18"><rect x="685" y="604" width="72" height="48"/></clipPath><g clip-path="url(#f18)"><rect x="685" y="604" width="72" height="48" fill="#d4202a"/><rect x="715.24" y="604" width="11.52" height="48" fill="#f6c800"/><rect x="685" y="622.24" width="72" height="11.52" fill="#f6c800"/></g><rect x="685" y="604" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="721" y="674" text-anchor="middle" font-size="15" font-weight="bold">R</text>
+<text x="767" y="618" font-size="11.5">(ไม่มีความหมายเป็นสัญญาณอักษรเดียว —</text>
+<text x="767" y="635" font-size="11.5">ใช้เป็น procedure signal "Received")</text>
+<rect x="15" y="700" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f19"><rect x="25" y="712" width="72" height="48"/></clipPath><g clip-path="url(#f19)"><rect x="25" y="712" width="72" height="48" fill="#ffffff"/><rect x="49.0" y="728.0" width="24.0" height="16.0" fill="#1f3f9a"/></g><rect x="25" y="712" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="61" y="782" text-anchor="middle" font-size="15" font-weight="bold">S</text>
+<text x="107" y="726" font-size="11.5">I am operating astern propulsion</text>
+<rect x="345" y="700" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f20"><rect x="355" y="712" width="72" height="48"/></clipPath><g clip-path="url(#f20)"><rect x="355" y="712" width="24.0" height="48" fill="#d4202a"/><rect x="379.0" y="712" width="24.0" height="48" fill="#ffffff"/><rect x="403.0" y="712" width="24.0" height="48" fill="#1f3f9a"/></g><rect x="355" y="712" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="391" y="782" text-anchor="middle" font-size="15" font-weight="bold">T</text>
+<text x="437" y="726" font-size="11.5">Keep clear of me; I am engaged in pair</text>
+<text x="437" y="743" font-size="11.5">trawling</text>
+<rect x="675" y="700" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f21"><rect x="685" y="712" width="72" height="48"/></clipPath><g clip-path="url(#f21)"><rect x="685" y="712" width="36.0" height="24.0" fill="#d4202a"/><rect x="721.0" y="712" width="36.0" height="24.0" fill="#ffffff"/><rect x="685" y="736.0" width="36.0" height="24.0" fill="#ffffff"/><rect x="721.0" y="736.0" width="36.0" height="24.0" fill="#d4202a"/></g><rect x="685" y="712" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="721" y="782" text-anchor="middle" font-size="15" font-weight="bold">U</text>
+<text x="767" y="726" font-size="11.5">You are running into danger</text>
+<rect x="15" y="808" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f22"><rect x="25" y="820" width="72" height="48"/></clipPath><g clip-path="url(#f22)"><rect x="25" y="820" width="72" height="48" fill="#ffffff"/><path d="M 25 820 L 97 868 M 97 820 L 25 868" stroke="#d4202a" stroke-width="10.56"/></g><rect x="25" y="820" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="61" y="890" text-anchor="middle" font-size="15" font-weight="bold">V</text>
+<text x="107" y="834" font-size="11.5">I require assistance</text>
+<rect x="345" y="808" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f23"><rect x="355" y="820" width="72" height="48"/></clipPath><g clip-path="url(#f23)"><rect x="355" y="820" width="72" height="48" fill="#1f3f9a"/><rect x="367.0" y="828.0" width="48.0" height="32.0" fill="#ffffff"/><rect x="379.0" y="836.0" width="24.0" height="16.0" fill="#d4202a"/></g><rect x="355" y="820" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="391" y="890" text-anchor="middle" font-size="15" font-weight="bold">W</text>
+<text x="437" y="834" font-size="11.5">I require medical assistance</text>
+<rect x="675" y="808" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f24"><rect x="685" y="820" width="72" height="48"/></clipPath><g clip-path="url(#f24)"><rect x="685" y="820" width="72" height="48" fill="#ffffff"/><rect x="715.24" y="820" width="11.52" height="48" fill="#1f3f9a"/><rect x="685" y="838.24" width="72" height="11.52" fill="#1f3f9a"/></g><rect x="685" y="820" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="721" y="890" text-anchor="middle" font-size="15" font-weight="bold">X</text>
+<text x="767" y="834" font-size="11.5">Stop carrying out your intentions and</text>
+<text x="767" y="851" font-size="11.5">watch for my signals</text>
+<rect x="15" y="916" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f25"><rect x="25" y="928" width="72" height="48"/></clipPath><g clip-path="url(#f25)"><rect x="25" y="928" width="72" height="48" fill="#f6c800"/><path d="M 37.0 928 L 49.0 928 L 1.0 976 L -11.0 976 Z" fill="#d4202a"/><path d="M 61.0 928 L 73.0 928 L 25.0 976 L 13.0 976 Z" fill="#d4202a"/><path d="M 85.0 928 L 97.0 928 L 49.0 976 L 37.0 976 Z" fill="#d4202a"/><path d="M 109.0 928 L 121.0 928 L 73.0 976 L 61.0 976 Z" fill="#d4202a"/><path d="M 133.0 928 L 145.0 928 L 97.0 976 L 85.0 976 Z" fill="#d4202a"/></g><rect x="25" y="928" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="61" y="998" text-anchor="middle" font-size="15" font-weight="bold">Y</text>
+<text x="107" y="942" font-size="11.5">I am dragging my anchor</text>
+<rect x="345" y="916" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="f26"><rect x="355" y="928" width="72" height="48"/></clipPath><g clip-path="url(#f26)"><path d="M 355 928 L 427 928 L 391.0 952.0 Z" fill="#f6c800"/><path d="M 427 928 L 427 976 L 391.0 952.0 Z" fill="#1f3f9a"/><path d="M 355 976 L 427 976 L 391.0 952.0 Z" fill="#d4202a"/><path d="M 355 928 L 355 976 L 391.0 952.0 Z" fill="#111111"/></g><rect x="355" y="928" width="72" height="48" fill="none" stroke="#475569"/>
+<text x="391" y="998" text-anchor="middle" font-size="15" font-weight="bold">Z</text>
+<text x="437" y="942" font-size="11.5">I require a tug (fishing vsl: I am</text>
+<text x="437" y="959" font-size="11.5">shooting nets)</text>
+<rect x="675" y="916" width="320" height="100" rx="6" fill="#f8fafc" stroke="#e2e8f0"/>
+<clipPath id="p27"><path d="M 685 934 L 775 945.0 L 775 967.0 L 685 978 Z"/></clipPath><g clip-path="url(#p27)"><rect x="685.0" y="934.0" width="18.5" height="44.0" fill="#d4202a"/><rect x="703.0" y="934.0" width="18.5" height="44.0" fill="#ffffff"/><rect x="721.0" y="934.0" width="18.5" height="44.0" fill="#d4202a"/><rect x="739.0" y="934.0" width="18.5" height="44.0" fill="#ffffff"/><rect x="757.0" y="934.0" width="18.5" height="44.0" fill="#d4202a"/></g><path d="M 685 934 L 775 945.0 L 775 967.0 L 685 978 Z" fill="none" stroke="#475569"/>
+<text x="785" y="946" font-size="11.5">Code / Answering pennant</text><text x="785" y="963" font-size="11.5">ตอบรับ · แสดงว่าใช้ ICS</text><text x="785" y="980" font-size="11.5">ใช้เป็นจุดทศนิยมกับตัวเลข</text>
+</svg>

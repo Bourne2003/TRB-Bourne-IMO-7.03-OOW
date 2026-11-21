@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">แรงและความเค้นที่กระทำต่อตัวเรือ (Stresses on the hull)</text>
+<rect x="30.0" y="60.0" width="220.0" height="200.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="140.0" y="84.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">Hogging</text>
+<path d="M 50 180 Q 140 130 230 180" fill="none" stroke="#b91c1c" stroke-width="12" stroke-linecap="round"/><text x="140.0" y="226.0" font-size="11" text-anchor="middle" fill="#334155">ยอดคลื่นกลางลำ</text>
+<text x="140.0" y="242.0" font-size="11" text-anchor="middle" fill="#334155">น้ำหนักมากที่หัว-ท้าย</text>
+<rect x="270.0" y="60.0" width="220.0" height="200.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="380.0" y="84.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">Sagging</text>
+<path d="M 290 140 Q 380 190 470 140" fill="none" stroke="#1d4ed8" stroke-width="12" stroke-linecap="round"/><text x="380.0" y="226.0" font-size="11" text-anchor="middle" fill="#334155">ท้องคลื่นกลางลำ</text>
+<text x="380.0" y="242.0" font-size="11" text-anchor="middle" fill="#334155">น้ำหนักมากกลางลำ</text>
+<rect x="510.0" y="60.0" width="220.0" height="200.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="620.0" y="84.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">Racking</text>
+<polygon points="570,120 660,120 680,200 590,200" fill="#e2e8f0" stroke="#0f172a" stroke-width="2"/><rect x="570" y="120" width="90" height="80" fill="none" stroke="#94a3b8" stroke-dasharray="4 3"/><text x="620.0" y="226.0" font-size="11" text-anchor="middle" fill="#334155">การโคลงทำให้ภาคตัด</text>
+<text x="620.0" y="242.0" font-size="11" text-anchor="middle" fill="#334155">บิดเป็นสี่เหลี่ยมด้านขนาน</text>
+<rect x="750.0" y="60.0" width="220.0" height="200.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="860.0" y="84.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">Panting</text>
+<path d="M 780 130 L 900 130 Q 950 160 900 190 L 780 190" fill="#e2e8f0" stroke="#0f172a" stroke-width="2"/><line x1="955.0" y1="142.0" x2="930.0" y2="149.2" stroke="#b91c1c" stroke-width="2" marker-end="url(#arR)"/>
+<line x1="955.0" y1="178.0" x2="930.0" y2="170.8" stroke="#b91c1c" stroke-width="2" marker-end="url(#arR)"/>
+<text x="860.0" y="226.0" font-size="11" text-anchor="middle" fill="#334155">แรงดันน้ำเปลี่ยนเป็นจังหวะที่หัว/ท้าย</text>
+<text x="860.0" y="242.0" font-size="11" text-anchor="middle" fill="#334155">แผ่นเปลือกขยับเข้าออก</text>
+<rect x="30.0" y="280.0" width="220.0" height="200.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="140.0" y="304.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">Pounding / Slamming</text>
+<path d="M 60 390 L 210 350" stroke="#0f172a" stroke-width="10"/><path d="M 50 420 Q 130 400 230 420" fill="none" stroke="#0369a1" stroke-width="3"/><line x1="190.0" y1="410.0" x2="190.0" y2="370.0" stroke="#b91c1c" stroke-width="3" marker-end="url(#arR)"/>
+<text x="140.0" y="446.0" font-size="11" text-anchor="middle" fill="#334155">ท้องหัวเรือกระแทกน้ำ</text>
+<text x="140.0" y="462.0" font-size="11" text-anchor="middle" fill="#334155">เมื่อโต้คลื่น</text>
+<rect x="270.0" y="280.0" width="220.0" height="200.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="380.0" y="304.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">Torsion</text>
+<polygon points="300,355 460,340 460,390 300,405" fill="#e2e8f0" stroke="#0f172a" stroke-width="2"/><path d="M 310 425 q -20 -10 0 -20" fill="none" stroke="#b91c1c" stroke-width="2" marker-end="url(#arR)"/><text x="380.0" y="446.0" font-size="11" text-anchor="middle" fill="#334155">ตัวเรือบิดตามยาว</text>
+<text x="380.0" y="462.0" font-size="11" text-anchor="middle" fill="#334155">(คลื่นเฉียง, ช่องเปิดกว้าง)</text>
+<rect x="510.0" y="280.0" width="220.0" height="200.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="620.0" y="304.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">Local stresses</text>
+<rect x="540.0" y="380.0" width="160.0" height="30.0" rx="0" fill="#e2e8f0" stroke="#0f172a" stroke-width="2"/>
+<rect x="600.0" y="340.0" width="40.0" height="40.0" rx="0" fill="#fde68a" stroke="#92400e" stroke-width="2"/>
+<line x1="620.0" y1="320.0" x2="620.0" y2="338.0" stroke="#b91c1c" stroke-width="3" marker-end="url(#arR)"/>
+<text x="620.0" y="446.0" font-size="11" text-anchor="middle" fill="#334155">น้ำหนักเฉพาะจุด สินค้าหนัก</text>
+<text x="620.0" y="462.0" font-size="11" text-anchor="middle" fill="#334155">ปั้นจั่น เข้าอู่ (docking)</text>
+<rect x="750.0" y="280.0" width="220.0" height="200.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="860.0" y="304.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">Vibration / fatigue</text>
+<path d="M 780 380 q 7 -20 14 0 q 7 20 13 0" fill="none" stroke="#7c3aed" stroke-width="2.5"/><path d="M 807 380 q 7 -20 14 0 q 7 20 13 0" fill="none" stroke="#7c3aed" stroke-width="2.5"/><path d="M 834 380 q 7 -20 14 0 q 7 20 13 0" fill="none" stroke="#7c3aed" stroke-width="2.5"/><path d="M 861 380 q 7 -20 14 0 q 7 20 13 0" fill="none" stroke="#7c3aed" stroke-width="2.5"/><path d="M 888 380 q 7 -20 14 0 q 7 20 13 0" fill="none" stroke="#7c3aed" stroke-width="2.5"/><path d="M 915 380 q 7 -20 14 0 q 7 20 13 0" fill="none" stroke="#7c3aed" stroke-width="2.5"/><text x="860.0" y="446.0" font-size="11" text-anchor="middle" fill="#334155">เครื่องยนต์ ใบจักร คลื่น</text>
+<text x="860.0" y="462.0" font-size="11" text-anchor="middle" fill="#334155">รอยร้าวจากความล้า</text>
+</svg>

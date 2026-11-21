@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 480" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="480" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การวัดสินค้าเหลวในถัง: Ullage, Sounding และการคำนวณปริมาณ</text>
+<rect x="120.0" y="90.0" width="260.0" height="330.0" rx="0" fill="#f8fafc" stroke="#0f172a" stroke-width="2.5"/>
+<rect x="122.0" y="200.0" width="256.0" height="218.0" rx="0" fill="#fde68a" stroke="#92400e" stroke-width="0"/>
+<rect x="122.0" y="398.0" width="256.0" height="20.0" rx="0" fill="#bae6fd" stroke="#0369a1" stroke-width="0"/>
+<text x="250.0" y="412.0" font-size="11" text-anchor="middle" fill="#075985" font-weight="bold">น้ำก้นถัง (free water)</text>
+<text x="250.0" y="320.0" font-size="14" text-anchor="middle" fill="#78350f" font-weight="bold">สินค้า (น้ำมัน)</text>
+<rect x="320.0" y="70.0" width="30.0" height="20.0" rx="0" fill="#94a3b8" stroke="#0f172a" stroke-width="1"/>
+<text x="335.0" y="64.0" font-size="11" text-anchor="middle" fill="#0f172a">reference point</text>
+<line x1="335.0" y1="90.0" x2="335.0" y2="200.0" stroke="#b91c1c" stroke-width="2" marker-end="url(#arR)"/>
+<line x1="335.0" y1="200.0" x2="335.0" y2="90.0" stroke="#b91c1c" stroke-width="2" marker-end="url(#arR)"/>
+<text x="390.0" y="149.0" font-size="13" text-anchor="start" fill="#b91c1c" font-weight="bold">Ullage</text>
+<line x1="160.0" y1="200.0" x2="160.0" y2="420.0" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arB)"/>
+<line x1="160.0" y1="420.0" x2="160.0" y2="200.0" stroke="#1d4ed8" stroke-width="2" marker-end="url(#arB)"/>
+<text x="166.0" y="280.0" font-size="13" text-anchor="start" fill="#1d4ed8" font-weight="bold">Sounding</text>
+<text x="250.0" y="450.0" font-size="12" text-anchor="middle" fill="#0f172a">Ullage + Sounding = ความสูงอ้างอิง (reference height)</text>
+<rect x="450.0" y="70.0" width="520.0" height="380.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="464.0" y="96.0" font-size="12.3" text-anchor="start" fill="#0f172a" font-weight="bold">ลำดับคำนวณปริมาณสินค้าเหลว (หลักการทั่วไป)</text>
+<text x="464.0" y="119.0" font-size="12.3" text-anchor="start" fill="#0f172a">1) วัด ullage/ความลึกน้ำก้นถัง/อุณหภูมิ ทุกถัง (ระบบปิด — closed gauging)</text>
+<text x="464.0" y="142.0" font-size="12.3" text-anchor="start" fill="#0f172a">2) แก้ trim/list (ตาราง correction ของถัง) → อ่าน TOV จาก tank table</text>
+<text x="464.0" y="165.0" font-size="12.3" text-anchor="start" fill="#0f172a">3) TOV − free water = GOV (Gross Observed Volume)</text>
+<text x="464.0" y="188.0" font-size="12.3" text-anchor="start" fill="#0f172a">4) GOV × VCF (Volume Correction Factor จาก ASTM/API</text>
+<text x="464.0" y="211.0" font-size="12.3" text-anchor="start" fill="#0f172a">    Table 54 ตามอุณหภูมิและความหนาแน่น) = GSV ที่ 15°C</text>
+<text x="464.0" y="234.0" font-size="12.3" text-anchor="start" fill="#0f172a">5) GSV − น้ำ/ตะกอนที่ผสม (S&amp;W) = NSV</text>
+<text x="464.0" y="257.0" font-size="12.3" text-anchor="start" fill="#0f172a">6) NSV × WCF (density in air) = น้ำหนัก (metric tons in air)</text>
+<text x="464.0" y="280.0" font-size="12.3" text-anchor="start" fill="#0f172a"></text>
+<text x="464.0" y="303.0" font-size="12.3" text-anchor="start" fill="#0f172a">เทียบตัวเลขเรือกับฝั่ง (ship/shore difference) ด้วย VEF</text>
+<text x="464.0" y="326.0" font-size="12.3" text-anchor="start" fill="#0f172a">ถ้าต่างเกินเกณฑ์ → แจ้งนายเรือ ออก Letter of Protest</text>
+<text x="464.0" y="349.0" font-size="12.3" text-anchor="start" fill="#0f172a"></text>
+<text x="464.0" y="372.0" font-size="12.3" text-anchor="start" fill="#0f172a">ความปลอดภัย: ระวัง static electricity, H₂S, benzene,</text>
+<text x="464.0" y="395.0" font-size="12.3" text-anchor="start" fill="#0f172a">อัตราบรรทุกเริ่มต้นช้า, ระดับ alarm ล้น (high/overfill),</text>
+<text x="464.0" y="418.0" font-size="12.3" text-anchor="start" fill="#0f172a">ระบบ inert gas (O₂ ในถัง ≤ 8%) — ตาม ISGOTT</text>
+</svg>

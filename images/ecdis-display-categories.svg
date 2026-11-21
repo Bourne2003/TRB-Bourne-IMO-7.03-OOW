@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="470" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ประเภทการแสดงผลของ ECDIS (IHO S-52 / MSC.232(82))</text>
+<rect x="60" y="70" width="270" height="350" rx="10" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+<text x="195" y="98" text-anchor="middle" font-size="16" font-weight="bold" fill="#1d4ed8">Display Base</text>
+<rect x="365" y="70" width="270" height="350" rx="10" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+<text x="500" y="98" text-anchor="middle" font-size="16" font-weight="bold" fill="#15803d">Standard Display</text>
+<rect x="670" y="70" width="270" height="350" rx="10" fill="#fef9c3" stroke="#a16207" stroke-width="2"/>
+<text x="805" y="98" text-anchor="middle" font-size="16" font-weight="bold" fill="#a16207">All Other Information</text>
+<text x="76" y="140" font-size="13" font-weight="bold">ลบออกจากจอไม่ได้</text>
+<text x="76" y="165" font-size="13">• แนวชายฝั่ง (high water)</text>
+<text x="76" y="190" font-size="13">• Own safety contour</text>
+<text x="76" y="215" font-size="13">• Isolated dangers ในน้ำปลอดภัย</text>
+<text x="76" y="240" font-size="13">  (ตื้นกว่า safety contour)</text>
+<text x="76" y="265" font-size="13">• Isolated dangers ในน้ำปลอดภัย</text>
+<text x="76" y="290" font-size="13">  เช่น สะพาน สายไฟ ทุ่น/หลักแสดง</text>
+<text x="76" y="315" font-size="13">• ระบบจัดเส้นทาง (TSS)</text>
+<text x="76" y="340" font-size="13">• Scale, range, orientation,</text>
+<text x="76" y="365" font-size="13">  display mode</text>
+<text x="76" y="390" font-size="13">• หน่วยความลึกและความสูง</text>
+<text x="381" y="140" font-size="13" font-weight="bold">แสดงเมื่อเปิดเครื่อง (default)</text>
+<text x="381" y="165" font-size="13">• Display Base +</text>
+<text x="381" y="190" font-size="13">• Drying line</text>
+<text x="381" y="215" font-size="13">• ทุ่น หลักแสดง เครื่องหมาย</text>
+<text x="381" y="240" font-size="13">• ขอบร่องน้ำ ช่องทาง</text>
+<text x="381" y="265" font-size="13">• วัตถุเด่นทางตาและเรดาร์</text>
+<text x="381" y="290" font-size="13">• เขตห้าม/จำกัด</text>
+<text x="381" y="315" font-size="13">• ขอบเขตมาตราส่วนแผนที่</text>
+<text x="381" y="340" font-size="13">• Cautionary notes</text>
+<text x="381" y="365" font-size="13">• ทางเรือข้ามฟาก</text>
+<text x="381" y="390" font-size="13">• Archipelagic sea lanes</text>
+<text x="686" y="140" font-size="13" font-weight="bold">เลือกแสดงทีละรายการ</text>
+<text x="686" y="165" font-size="13">• Spot soundings</text>
+<text x="686" y="190" font-size="13">• เคเบิล/ท่อใต้น้ำ</text>
+<text x="686" y="215" font-size="13">• รายละเอียดอันตราย/ไฟ</text>
+<text x="686" y="240" font-size="13">• Magnetic variation</text>
+<text x="686" y="265" font-size="13">• Graticule</text>
+<text x="686" y="290" font-size="13">• ชื่อสถานที่</text>
+<text x="686" y="315" font-size="13">• ลักษณะพื้นทะเล</text>
+<text x="686" y="340" font-size="13">• รายละเอียดอื่นทั้งหมด</text>
+<text x="686" y="365" font-size="13"></text>
+<text x="686" y="390" font-size="13">"All" ≠ ทุกอย่างจำเป็น</text>
+<text x="686" y="415" font-size="13">ระวังจอรก (clutter)</text>
+<text x="500" y="452" text-anchor="middle" font-size="13" fill="#b91c1c">ข้อควรจำ: "Standard" ไม่แสดง spot soundings — วางแผน/ตรวจเส้นทางต้องดูแบบ "All/Other" ที่ scale เหมาะสมด้วย</text>
+</svg>

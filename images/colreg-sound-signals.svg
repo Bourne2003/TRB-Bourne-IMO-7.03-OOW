@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 782" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="782" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="dm" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="#334155"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">สัญญาณเสียง (Rules 34–35) — short ≈ 1 วินาที, prolonged 4–6 วินาที</text>
+<rect x="10" y="60" width="980" height="30" fill="#fff"/>
+<text x="20" y="81" font-size="14" font-weight="bold" fill="#1e3a8a">1 short</text>
+<rect x="220" y="68" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="81" font-size="13">กำลังเปลี่ยนเข็มไปทางขวา (เห็นกัน)</text><text x="900" y="81" font-size="12" fill="#64748b">Rule 34(a)</text>
+<rect x="10" y="94" width="980" height="30" fill="#f8fafc"/>
+<text x="20" y="115" font-size="14" font-weight="bold" fill="#1e3a8a">2 short</text>
+<rect x="220" y="102" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="242" y="102" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="115" font-size="13">กำลังเปลี่ยนเข็มไปทางซ้าย (เห็นกัน)</text><text x="900" y="115" font-size="12" fill="#64748b">Rule 34(a)</text>
+<rect x="10" y="128" width="980" height="30" fill="#fff"/>
+<text x="20" y="149" font-size="14" font-weight="bold" fill="#1e3a8a">3 short</text>
+<rect x="220" y="136" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="242" y="136" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="264" y="136" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="149" font-size="13">กำลังใช้เครื่องถอยหลัง</text><text x="900" y="149" font-size="12" fill="#64748b">Rule 34(a)</text>
+<rect x="10" y="162" width="980" height="30" fill="#f8fafc"/>
+<text x="20" y="183" font-size="14" font-weight="bold" fill="#1e3a8a">5 short (อย่างน้อย)</text>
+<rect x="220" y="170" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="242" y="170" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="264" y="170" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="286" y="170" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="308" y="170" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="183" font-size="13">สงสัยเจตนา/การกระทำของอีกลำ</text><text x="900" y="183" font-size="12" fill="#64748b">Rule 34(d)</text>
+<rect x="10" y="196" width="980" height="30" fill="#fff"/>
+<text x="20" y="217" font-size="14" font-weight="bold" fill="#1e3a8a">2 long + 1 short</text>
+<rect x="220" y="204" width="56" height="14" rx="3" fill="#111827"/>
+<rect x="284" y="204" width="56" height="14" rx="3" fill="#111827"/>
+<rect x="348" y="204" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="217" font-size="13">จะแซงทางกราบขวาของท่าน (ร่องน้ำแคบ)</text><text x="900" y="217" font-size="12" fill="#64748b">Rule 34(c)</text>
+<rect x="10" y="230" width="980" height="30" fill="#f8fafc"/>
+<text x="20" y="251" font-size="14" font-weight="bold" fill="#1e3a8a">2 long + 2 short</text>
+<rect x="220" y="238" width="56" height="14" rx="3" fill="#111827"/>
+<rect x="284" y="238" width="56" height="14" rx="3" fill="#111827"/>
+<rect x="348" y="238" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="370" y="238" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="251" font-size="13">จะแซงทางกราบซ้ายของท่าน</text><text x="900" y="251" font-size="12" fill="#64748b">Rule 34(c)</text>
+<rect x="10" y="264" width="980" height="30" fill="#fff"/>
+<text x="20" y="285" font-size="14" font-weight="bold" fill="#1e3a8a">L S L S</text>
+<rect x="220" y="272" width="56" height="14" rx="3" fill="#111827"/>
+<rect x="284" y="272" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="306" y="272" width="56" height="14" rx="3" fill="#111827"/>
+<rect x="370" y="272" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="285" font-size="13">ตกลงให้แซง (เรือที่ถูกแซง)</text><text x="900" y="285" font-size="12" fill="#64748b">Rule 34(c)</text>
+<rect x="10" y="298" width="980" height="30" fill="#f8fafc"/>
+<text x="20" y="319" font-size="14" font-weight="bold" fill="#1e3a8a">1 long</text>
+<rect x="220" y="306" width="56" height="14" rx="3" fill="#111827"/>
+<text x="470" y="319" font-size="13">เข้าใกล้โค้ง/บริเวณที่บังสายตา (ฝ่ายที่ได้ยินตอบ 1 long)</text><text x="900" y="319" font-size="12" fill="#64748b">Rule 34(e)</text>
+<rect x="10" y="332" width="980" height="30" fill="#fff"/>
+<text x="20" y="353" font-size="14" font-weight="bold" fill="#1e3a8a">1 long ≤ 2 นาที</text>
+<rect x="220" y="340" width="56" height="14" rx="3" fill="#111827"/>
+<text x="470" y="353" font-size="13">Power-driven making way (ทัศนวิสัยจำกัด)</text><text x="900" y="353" font-size="12" fill="#64748b">Rule 35(a)</text>
+<rect x="10" y="366" width="980" height="30" fill="#f8fafc"/>
+<text x="20" y="387" font-size="14" font-weight="bold" fill="#1e3a8a">2 long ≤ 2 นาที</text>
+<rect x="220" y="374" width="56" height="14" rx="3" fill="#111827"/>
+<rect x="284" y="374" width="56" height="14" rx="3" fill="#111827"/>
+<text x="470" y="387" font-size="13">Power-driven underway not making way (ห่าง ~2 วินาที)</text><text x="900" y="387" font-size="12" fill="#64748b">Rule 35(b)</text>
+<rect x="10" y="400" width="980" height="30" fill="#fff"/>
+<text x="20" y="421" font-size="14" font-weight="bold" fill="#1e3a8a">1 long + 2 short</text>
+<rect x="220" y="408" width="56" height="14" rx="3" fill="#111827"/>
+<rect x="284" y="408" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="306" y="408" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="421" font-size="13">NUC, RAM, CBD, sailing, fishing, towing/pushing</text><text x="900" y="421" font-size="12" fill="#64748b">Rule 35(c)</text>
+<rect x="10" y="434" width="980" height="30" fill="#f8fafc"/>
+<text x="20" y="455" font-size="14" font-weight="bold" fill="#1e3a8a">1 long + 2 short</text>
+<rect x="220" y="442" width="56" height="14" rx="3" fill="#111827"/>
+<rect x="284" y="442" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="306" y="442" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="455" font-size="13">เรือประมงทอดสมอ / RAM ทอดสมอทำงาน (แทนระฆัง)</text><text x="900" y="455" font-size="12" fill="#64748b">Rule 35(d)</text>
+<rect x="10" y="468" width="980" height="30" fill="#fff"/>
+<text x="20" y="489" font-size="14" font-weight="bold" fill="#1e3a8a">1 long + 3 short</text>
+<rect x="220" y="476" width="56" height="14" rx="3" fill="#111827"/>
+<rect x="284" y="476" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="306" y="476" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="328" y="476" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="489" font-size="13">เรือที่ถูกลาก (ลำท้ายสุดที่มีคน)</text><text x="900" y="489" font-size="12" fill="#64748b">Rule 35(e)</text>
+<rect x="10" y="502" width="980" height="30" fill="#f8fafc"/>
+<text x="20" y="523" font-size="14" font-weight="bold" fill="#1e3a8a">4 short</text>
+<rect x="220" y="510" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="242" y="510" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="264" y="510" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="286" y="510" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="523" font-size="13">Pilot vessel identity (เพิ่มเติม)</text><text x="900" y="523" font-size="12" fill="#64748b">Rule 35(k)</text>
+<rect x="10" y="536" width="980" height="30" fill="#fff"/>
+<text x="20" y="557" font-size="14" font-weight="bold" fill="#1e3a8a">ทอดสมอ ≤ 1 นาที</text>
+<rect x="220" y="544" width="56" height="14" rx="3" fill="#b45309"/>
+<line x1="228" y1="545" x2="228" y2="557" stroke="#fff" stroke-width="1.5"/><line x1="236" y1="545" x2="236" y2="557" stroke="#fff" stroke-width="1.5"/><line x1="244" y1="545" x2="244" y2="557" stroke="#fff" stroke-width="1.5"/><line x1="252" y1="545" x2="252" y2="557" stroke="#fff" stroke-width="1.5"/><line x1="260" y1="545" x2="260" y2="557" stroke="#fff" stroke-width="1.5"/><line x1="268" y1="545" x2="268" y2="557" stroke="#fff" stroke-width="1.5"/><text x="248.0" y="542" text-anchor="middle" font-size="9" fill="#b45309">ระฆัง</text>
+<text x="470" y="557" font-size="13">รัวระฆังส่วนหน้าเรือ ~5 วินาที</text><text x="900" y="557" font-size="12" fill="#64748b">Rule 35(g)</text>
+<rect x="10" y="570" width="980" height="30" fill="#f8fafc"/>
+<text x="20" y="591" font-size="14" font-weight="bold" fill="#1e3a8a">ทอดสมอ ≥ 100 m</text>
+<rect x="220" y="578" width="56" height="14" rx="3" fill="#b45309"/>
+<line x1="228" y1="579" x2="228" y2="591" stroke="#fff" stroke-width="1.5"/><line x1="236" y1="579" x2="236" y2="591" stroke="#fff" stroke-width="1.5"/><line x1="244" y1="579" x2="244" y2="591" stroke="#fff" stroke-width="1.5"/><line x1="252" y1="579" x2="252" y2="591" stroke="#fff" stroke-width="1.5"/><line x1="260" y1="579" x2="260" y2="591" stroke="#fff" stroke-width="1.5"/><line x1="268" y1="579" x2="268" y2="591" stroke="#fff" stroke-width="1.5"/><text x="248.0" y="576" text-anchor="middle" font-size="9" fill="#b45309">ระฆัง</text>
+<rect x="284" y="578" width="56" height="14" rx="3" fill="#7c3aed"/>
+<line x1="292" y1="579" x2="292" y2="591" stroke="#fff" stroke-width="1.5"/><line x1="300" y1="579" x2="300" y2="591" stroke="#fff" stroke-width="1.5"/><line x1="308" y1="579" x2="308" y2="591" stroke="#fff" stroke-width="1.5"/><line x1="316" y1="579" x2="316" y2="591" stroke="#fff" stroke-width="1.5"/><line x1="324" y1="579" x2="324" y2="591" stroke="#fff" stroke-width="1.5"/><line x1="332" y1="579" x2="332" y2="591" stroke="#fff" stroke-width="1.5"/><text x="312.0" y="576" text-anchor="middle" font-size="9" fill="#7c3aed">ฆ้อง</text>
+<text x="470" y="591" font-size="13">รัวระฆังหัวเรือ แล้วรัวฆ้องท้ายเรือทันที ~5 วินาที</text><text x="900" y="591" font-size="12" fill="#64748b">Rule 35(g)</text>
+<rect x="10" y="604" width="980" height="30" fill="#fff"/>
+<text x="20" y="625" font-size="14" font-weight="bold" fill="#1e3a8a">S L S (option)</text>
+<rect x="220" y="612" width="14" height="14" rx="3" fill="#111827"/>
+<rect x="242" y="612" width="56" height="14" rx="3" fill="#111827"/>
+<rect x="306" y="612" width="14" height="14" rx="3" fill="#111827"/>
+<text x="470" y="625" font-size="13">เรือทอดสมอเตือนเรือที่เข้าใกล้</text><text x="900" y="625" font-size="12" fill="#64748b">Rule 35(g)</text>
+<rect x="10" y="638" width="980" height="30" fill="#f8fafc"/>
+<text x="20" y="659" font-size="14" font-weight="bold" fill="#1e3a8a">เกยตื้น ≤ 1 นาที</text>
+<circle cx="224" cy="653" r="5" fill="#b45309"/>
+<circle cx="240" cy="653" r="5" fill="#b45309"/>
+<circle cx="256" cy="653" r="5" fill="#b45309"/>
+<rect x="268" y="646" width="56" height="14" rx="3" fill="#b45309"/>
+<line x1="276" y1="647" x2="276" y2="659" stroke="#fff" stroke-width="1.5"/><line x1="284" y1="647" x2="284" y2="659" stroke="#fff" stroke-width="1.5"/><line x1="292" y1="647" x2="292" y2="659" stroke="#fff" stroke-width="1.5"/><line x1="300" y1="647" x2="300" y2="659" stroke="#fff" stroke-width="1.5"/><line x1="308" y1="647" x2="308" y2="659" stroke="#fff" stroke-width="1.5"/><line x1="316" y1="647" x2="316" y2="659" stroke="#fff" stroke-width="1.5"/><text x="296.0" y="644" text-anchor="middle" font-size="9" fill="#b45309">ระฆัง</text>
+<circle cx="336" cy="653" r="5" fill="#b45309"/>
+<circle cx="352" cy="653" r="5" fill="#b45309"/>
+<circle cx="368" cy="653" r="5" fill="#b45309"/>
+<text x="470" y="659" font-size="13">ตีระฆัง 3 ครั้ง + รัวระฆัง + ตีระฆัง 3 ครั้ง (+ฆ้องถ้า ≥100 m)</text><text x="900" y="659" font-size="12" fill="#64748b">Rule 35(h)</text>
+<rect x="20" y="682" width="14" height="10" rx="2" fill="#111827"/><text x="40" y="692" font-size="12" fill="#334155">หวูด (whistle)</text><rect x="150" y="682" width="24" height="10" rx="2" fill="#b45309"/><text x="180" y="692" font-size="12" fill="#334155">รัวระฆัง (bell)</text><circle cx="300" cy="687" r="5" fill="#b45309"/><text x="310" y="692" font-size="12" fill="#334155">ตีระฆัง 1 ครั้ง (stroke)</text><rect x="450" y="682" width="24" height="10" rx="2" fill="#7c3aed"/><text x="480" y="692" font-size="12" fill="#334155">รัวฆ้อง (gong)</text>
+<text x="20" y="714" font-size="12" fill="#334155">Rule 34(a)–(c) ใช้เฉพาะเมื่อมองเห็นกัน · Rule 35 ใช้ในหรือใกล้บริเวณทัศนวิสัยจำกัด ทั้งกลางวันและกลางคืน · เรือ 12–&lt;20 m และ &lt;12 m ใช้เสียงอื่นที่มีประสิทธิภาพแทนได้ (35(i),(j))</text>
+<text x="20" y="734" font-size="12" fill="#334155">ไฟประกอบ Rule 34(b): ไฟขาว all-round เห็นได้ ≥ 5 ไมล์ แวบละ ~1 วินาที เว้น ~1 วินาที และระหว่างชุดสัญญาณ ≥ 10 วินาที · ความยาวแถบในภาพเป็นสัดส่วนโดยประมาณ</text>
+</svg>

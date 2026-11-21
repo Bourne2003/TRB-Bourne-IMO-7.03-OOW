@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 474" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="474" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ชั่วโมงพักผ่อน (STCW A-VIII/1, MLC 2006) — ตัวอย่างตารางยาม 4-on/8-off</text>
+<line x1="300.0" y1="60" x2="300.0" y2="320" stroke="#e2e8f0"/><text x="300.0" y="335" text-anchor="middle" font-size="11">00:00</text>
+<line x1="356.6666666666667" y1="60" x2="356.6666666666667" y2="320" stroke="#e2e8f0"/><text x="356.6666666666667" y="335" text-anchor="middle" font-size="11">02:00</text>
+<line x1="413.3333333333333" y1="60" x2="413.3333333333333" y2="320" stroke="#e2e8f0"/><text x="413.3333333333333" y="335" text-anchor="middle" font-size="11">04:00</text>
+<line x1="470.0" y1="60" x2="470.0" y2="320" stroke="#e2e8f0"/><text x="470.0" y="335" text-anchor="middle" font-size="11">06:00</text>
+<line x1="526.6666666666666" y1="60" x2="526.6666666666666" y2="320" stroke="#e2e8f0"/><text x="526.6666666666666" y="335" text-anchor="middle" font-size="11">08:00</text>
+<line x1="583.3333333333333" y1="60" x2="583.3333333333333" y2="320" stroke="#e2e8f0"/><text x="583.3333333333333" y="335" text-anchor="middle" font-size="11">10:00</text>
+<line x1="640.0" y1="60" x2="640.0" y2="320" stroke="#e2e8f0"/><text x="640.0" y="335" text-anchor="middle" font-size="11">12:00</text>
+<line x1="696.6666666666666" y1="60" x2="696.6666666666666" y2="320" stroke="#e2e8f0"/><text x="696.6666666666666" y="335" text-anchor="middle" font-size="11">14:00</text>
+<line x1="753.3333333333333" y1="60" x2="753.3333333333333" y2="320" stroke="#e2e8f0"/><text x="753.3333333333333" y="335" text-anchor="middle" font-size="11">16:00</text>
+<line x1="810.0" y1="60" x2="810.0" y2="320" stroke="#e2e8f0"/><text x="810.0" y="335" text-anchor="middle" font-size="11">18:00</text>
+<line x1="866.6666666666666" y1="60" x2="866.6666666666666" y2="320" stroke="#e2e8f0"/><text x="866.6666666666666" y="335" text-anchor="middle" font-size="11">20:00</text>
+<line x1="923.3333333333333" y1="60" x2="923.3333333333333" y2="320" stroke="#e2e8f0"/><text x="923.3333333333333" y="335" text-anchor="middle" font-size="11">22:00</text>
+<line x1="980.0" y1="60" x2="980.0" y2="320" stroke="#e2e8f0"/><text x="980.0" y="335" text-anchor="middle" font-size="11">24:00</text>
+<text x="10" y="96" font-size="12" font-weight="bold">2/O (0000–0400, 1200–1600)</text>
+<rect x="300" y="70" width="680" height="40" fill="#dcfce7" stroke="#86efac"/>
+<rect x="300.0" y="70" width="113.3" height="40" fill="#1e3a8a"/>
+<rect x="640.0" y="70" width="113.3" height="40" fill="#1e3a8a"/>
+<text x="10" y="158" font-size="12" font-weight="bold">3/O (0800–1200, 2000–2400)</text>
+<rect x="300" y="132" width="680" height="40" fill="#dcfce7" stroke="#86efac"/>
+<rect x="526.7" y="132" width="113.3" height="40" fill="#1e3a8a"/>
+<rect x="866.7" y="132" width="113.3" height="40" fill="#1e3a8a"/>
+<text x="10" y="220" font-size="12" font-weight="bold">C/O (0400–0800, 1600–2000)</text>
+<rect x="300" y="194" width="680" height="40" fill="#dcfce7" stroke="#86efac"/>
+<rect x="413.3" y="194" width="113.3" height="40" fill="#1e3a8a"/>
+<rect x="753.3" y="194" width="113.3" height="40" fill="#1e3a8a"/>
+<text x="10" y="282" font-size="12" font-weight="bold">ตัวอย่างผิด: 3/O วันเข้าท่า</text>
+<rect x="300" y="256" width="680" height="40" fill="#dcfce7" stroke="#86efac"/>
+<rect x="385.0" y="256" width="85.0" height="40" fill="#b91c1c"/>
+<rect x="526.7" y="256" width="113.3" height="40" fill="#1e3a8a"/>
+<rect x="668.3" y="256" width="113.3" height="40" fill="#b91c1c"/>
+<rect x="810.0" y="256" width="28.3" height="40" fill="#b91c1c"/>
+<rect x="866.7" y="256" width="113.3" height="40" fill="#1e3a8a"/>
+<rect x="300" y="350" width="16" height="12" fill="#1e3a8a"/><text x="322" y="361" font-size="12">ยาม/ทำงาน</text>
+<rect x="420" y="350" width="16" height="12" fill="#b91c1c"/><text x="442" y="361" font-size="12">งานเพิ่ม (เข้าท่า ซ้อม ขนถ่ายสินค้า)</text>
+<rect x="700" y="350" width="16" height="12" fill="#dcfce7" stroke="#86efac"/><text x="722" y="361" font-size="12">พักผ่อน</text>
+<text x="10" y="392" font-size="13">เกณฑ์: พัก ≥ 10 ชม./24 ชม. และ ≥ 77 ชม./7 วัน · แบ่งได้ไม่เกิน 2 ช่วง โดยช่วงหนึ่ง ≥ 6 ชม. · ระหว่างช่วงพักห่างกันไม่เกิน 14 ชม.</text>
+<text x="10" y="414" font-size="13">MLC A2.3 ให้ใช้อีกแบบได้: ทำงานไม่เกิน 14 ชม./24 ชม. และ 72 ชม./7 วัน · ข้อยกเว้นตาม STCW A-VIII/1 วรรค 9: ≥ 70 ชม./7 วัน แบ่งได้ 3 ช่วง</text>
+<text x="10" y="440" font-size="13" fill="#b91c1c">แถวสุดท้าย (stand-by เข้าท่า 0300–0600, ยามสินค้า 1300–1700, ซ้อม 1800–1900): พักรวมเพียง 8 ชม. แบ่ง 5 ช่วง</text>
+<text x="10" y="462" font-size="13" fill="#b91c1c">ไม่มีช่วงใดถึง 6 ชม. → ผิดเกณฑ์ทั้ง 10 ชม./24 ชม. และการแบ่งช่วง (งานเข้าท่า/สินค้าไม่ใช่เหตุฉุกเฉินตาม A-VIII/1)</text>
+</svg>

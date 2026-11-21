@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 545" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="545" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ISM Code — ระบบการจัดการความปลอดภัย (SMS)</text>
+<circle cx="265.0" cy="115.0" r="49" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="265.0" y="105.0" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">นโยบาย</text>
+<text x="265.0" y="119.0" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">ความปลอดภัย</text>
+<text x="265.0" y="133.0" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">สิ่งแวดล้อม</text>
+<circle cx="365.0" cy="144.4" r="49" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="365.0" y="134.4" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">บริษัท:</text>
+<text x="365.0" y="148.4" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">ความรับผิดชอบ</text>
+<text x="365.0" y="162.4" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">และอำนาจ</text>
+<circle cx="433.3" cy="223.1" r="49" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="433.3" y="227.1" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">DPA</text>
+<circle cx="448.1" cy="326.3" r="49" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="448.1" y="316.3" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">นายเรือ:</text>
+<text x="448.1" y="330.3" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">อำนาจ</text>
+<text x="448.1" y="344.3" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">และหน้าที่</text>
+<circle cx="404.8" cy="421.1" r="49" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="404.8" y="418.1" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">ทรัพยากร</text>
+<text x="404.8" y="432.1" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">และบุคลากร</text>
+<circle cx="317.1" cy="477.5" r="49" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="317.1" y="474.5" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">แผนปฏิบัติ</text>
+<text x="317.1" y="488.5" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">งานบนเรือ</text>
+<circle cx="212.9" cy="477.5" r="49" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="212.9" y="474.5" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">เตรียมพร้อม</text>
+<text x="212.9" y="488.5" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">เหตุฉุกเฉิน</text>
+<circle cx="125.2" cy="421.1" r="49" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="125.2" y="411.1" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">รายงาน</text>
+<text x="125.2" y="425.1" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">ความไม่สอดคล้อง</text>
+<text x="125.2" y="439.1" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">อุบัติเหตุ</text>
+<circle cx="81.9" cy="326.3" r="49" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="81.9" y="316.3" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">บำรุงรักษา</text>
+<text x="81.9" y="330.3" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">เรือและ</text>
+<text x="81.9" y="344.3" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">อุปกรณ์</text>
+<circle cx="96.7" cy="223.1" r="49" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="96.7" y="227.1" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">เอกสาร</text>
+<circle cx="165.0" cy="144.4" r="49" fill="#eff6ff" stroke="#1d4ed8" stroke-width="2"/><text x="165.0" y="134.4" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">ตรวจสอบ</text>
+<text x="165.0" y="148.4" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">ทบทวน</text>
+<text x="165.0" y="162.4" font-size="9.8" text-anchor="middle" fill="#1e3a8a" font-weight="bold">ประเมินผล</text>
+<circle cx="265" cy="300" r="70" fill="#1d4ed8"/><text x="265.0" y="296.0" font-size="20" text-anchor="middle" fill="#fff" font-weight="bold">SMS</text>
+<text x="265.0" y="318.0" font-size="11" text-anchor="middle" fill="#fff">ของบริษัทและเรือ</text>
+<rect x="520.0" y="60.0" width="450.0" height="440.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="534.0" y="84.0" font-size="12" text-anchor="start" fill="#1d4ed8" font-weight="bold">วัตถุประสงค์</text>
+<text x="534.0" y="108.5" font-size="12" text-anchor="start" fill="#0f172a">• ความปลอดภัยในทะเล ป้องกันการบาดเจ็บ/สูญเสียชีวิต</text>
+<text x="534.0" y="133.0" font-size="12" text-anchor="start" fill="#0f172a">• หลีกเลี่ยงความเสียหายต่อสิ่งแวดล้อมและทรัพย์สิน</text>
+<text x="534.0" y="157.5" font-size="12" text-anchor="start" fill="#0f172a"></text>
+<text x="534.0" y="182.0" font-size="12" text-anchor="start" fill="#1d4ed8" font-weight="bold">ใบรับรอง</text>
+<text x="534.0" y="206.5" font-size="12" text-anchor="start" fill="#0f172a">• DOC (Document of Compliance) — บริษัท, สำเนาบนเรือ</text>
+<text x="534.0" y="231.0" font-size="12" text-anchor="start" fill="#0f172a">• SMC (Safety Management Certificate) — เรือ 5 ปี</text>
+<text x="534.0" y="255.5" font-size="12" text-anchor="start" fill="#0f172a">• ตรวจภายใน (internal audit) ทุกปี · ตรวจภายนอก</text>
+<text x="534.0" y="280.0" font-size="12" text-anchor="start" fill="#0f172a">  โดยรัฐเจ้าของธง/RO (initial, annual DOC, intermediate SMC,</text>
+<text x="534.0" y="304.5" font-size="12" text-anchor="start" fill="#0f172a">  renewal)</text>
+<text x="534.0" y="329.0" font-size="12" text-anchor="start" fill="#0f172a"></text>
+<text x="534.0" y="353.5" font-size="12" text-anchor="start" fill="#1d4ed8" font-weight="bold">สิ่งที่ OOW ทำในชีวิตประจำวัน</text>
+<text x="534.0" y="378.0" font-size="12" text-anchor="start" fill="#0f172a">• ปฏิบัติตามขั้นตอน/checklist ใน SMS</text>
+<text x="534.0" y="402.5" font-size="12" text-anchor="start" fill="#0f172a">• รายงาน non-conformity, near miss, อุบัติเหตุ</text>
+<text x="534.0" y="427.0" font-size="12" text-anchor="start" fill="#0f172a">• รู้จัก DPA — ช่องทางตรงจากเรือถึงผู้บริหารระดับสูง</text>
+<text x="534.0" y="451.5" font-size="12" text-anchor="start" fill="#0f172a">• ฝึกซ้อมตามแผน · บันทึกถูกต้อง</text>
+<text x="534.0" y="476.0" font-size="12" text-anchor="start" fill="#0f172a">• เสนอปรับปรุงขั้นตอนที่ไม่เหมาะสม (ไม่ข้ามเอง)</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="600" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#334155"/></marker></defs>
+<text x="500.0" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">คำสั่งหางเสือแบบวงจรปิด (closed loop) — SMCP A2/1 Standard wheel orders</text>
+<rect x="70" y="70" width="370" height="120" rx="12" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+<text x="255" y="104" text-anchor="middle" font-size="16" font-weight="bold" fill="#1d4ed8">OOW / นำร่อง สั่ง</text>
+<text x="255" y="136" text-anchor="middle" font-size="15" font-weight="bold">"Starboard twenty."</text>
+<text x="255" y="160" text-anchor="middle" font-size="13" font-weight="normal">พูดชัด ทิศก่อน แล้วมุม</text>
+<rect x="560" y="70" width="370" height="120" rx="12" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+<text x="745" y="104" text-anchor="middle" font-size="16" font-weight="bold" fill="#b45309">นายท้ายทวนคำสั่งทันที</text>
+<text x="745" y="136" text-anchor="middle" font-size="15" font-weight="bold">"Starboard twenty."</text>
+<text x="745" y="160" text-anchor="middle" font-size="13" font-weight="normal">(ทวนก่อนลงมือ)</text>
+<rect x="560" y="300" width="370" height="120" rx="12" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+<text x="745" y="334" text-anchor="middle" font-size="16" font-weight="bold" fill="#b45309">นายท้ายหมุนพวงมาลัย + รายงาน</text>
+<text x="745" y="366" text-anchor="middle" font-size="15" font-weight="bold">"Wheel starboard twenty."</text>
+<text x="745" y="390" text-anchor="middle" font-size="13" font-weight="normal">เมื่อหางเสือถึงมุมที่สั่ง</text>
+<rect x="70" y="300" width="370" height="120" rx="12" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2"/>
+<text x="255" y="334" text-anchor="middle" font-size="16" font-weight="bold" fill="#1d4ed8">OOW ตรวจและรับทราบ</text>
+<text x="255" y="366" text-anchor="middle" font-size="15" font-weight="bold">ดู rudder angle indicator</text>
+<text x="255" y="390" text-anchor="middle" font-size="13" font-weight="normal">และการหันของหัวเรือ (ROT)</text>
+<line x1="440" y1="130" x2="556" y2="130" stroke="#334155" stroke-width="2.5" marker-end="url(#ar)"/>
+<line x1="745" y1="190" x2="745" y2="296" stroke="#334155" stroke-width="2.5" marker-end="url(#ar)"/>
+<line x1="560" y1="360" x2="444" y2="360" stroke="#334155" stroke-width="2.5" marker-end="url(#ar)"/>
+<line x1="255" y1="300" x2="255" y2="194" stroke="#334155" stroke-width="2.5" marker-end="url(#ar)"/>
+<text x="500" y="250" text-anchor="middle" font-size="13" fill="#b91c1c" font-weight="bold">ทวนผิด / หางเสือไม่ไปตามสั่ง</text><text x="500" y="268" text-anchor="middle" font-size="13" fill="#b91c1c">→ OOW แก้คำสั่งทันที (ตรวจได้ก่อนเรือหันผิด)</text>
+<rect x="40" y="446" width="920" height="138" rx="10" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="56" y="472" font-size="14" font-weight="bold" fill="#0f172a">สั่งเข็มเป็นตัวเลข: บอกทิศที่จะหมุนก่อน แล้วพูดเลขทีละหลัก (รวมศูนย์)</text>
+<text x="56" y="498" font-size="12">OOW: "Port, steer one eight two."  →  นายท้าย: "Port, steer one eight two."  →  เมื่อนิ่งบนเข็ม: "Steady on one eight two."  →  OOW รับทราบ</text>
+<text x="56" y="520" font-size="12">มุมหางเสือพูดเป็นจำนวน (fifteen, twenty) ส่วนเข็ม/แบริ่งพูดทีละหลัก · คำสั่งค้างไว้จนกว่าจะมีคำสั่งใหม่ (held until countermanded)</text>
+<text x="56" y="542" font-size="12">นายท้ายต้องรายงานทันทีถ้าเรือไม่ตอบสนองหางเสือ · ถ้าสงสัยว่านายท้ายเหม่อ ให้ถาม "What is your heading?" → "My heading is ... degrees."</text>
+<text x="56" y="564" font-size="12">Steady = ลดการหันให้เร็วที่สุด · Meet her = ต้านการหันของหัวเรือ · Steady as she goes = ถือเข็มที่หัวเรือชี้ขณะสั่ง (นายท้ายขานเข็ม)</text>
+</svg>

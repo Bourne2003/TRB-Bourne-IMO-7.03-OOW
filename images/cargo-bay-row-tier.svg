@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="560" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">ระบบตำแหน่งตู้สินค้า Bay – Row – Tier (ISO 9711 / ระบบที่ใช้กันทั่วไป)</text>
+<text x="250.0" y="66.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">มองด้านข้าง: Bay</text>
+<rect x="380.0" y="150.0" width="60.0" height="40.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="410.0" y="176.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">01</text>
+<rect x="314.0" y="150.0" width="60.0" height="40.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="344.0" y="176.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">03</text>
+<rect x="248.0" y="150.0" width="60.0" height="40.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="278.0" y="176.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">05</text>
+<rect x="182.0" y="150.0" width="60.0" height="40.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="212.0" y="176.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">07</text>
+<rect x="116.0" y="150.0" width="60.0" height="40.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="146.0" y="176.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">09</text>
+<rect x="50.0" y="150.0" width="60.0" height="40.0" rx="0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="80.0" y="176.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">11</text>
+<rect x="182.0" y="110.0" width="126.0" height="38.0" rx="0" fill="#fde68a" stroke="#92400e" stroke-width="1.5"/>
+<text x="245.0" y="134.0" font-size="12" text-anchor="middle" fill="#78350f" font-weight="bold">40 ฟุต = Bay 06</text>
+<text x="250.0" y="218.0" font-size="12" text-anchor="middle" fill="#475569">← ท้ายเรือ                     หัวเรือ →</text>
+<text x="250.0" y="238.0" font-size="12" text-anchor="middle" fill="#0f172a">ตู้ 20 ฟุตใช้เลขคี่ · ตู้ 40 ฟุตที่คร่อมสอง bay ใช้เลขคู่ระหว่างกลาง</text>
+<text x="250.0" y="256.0" font-size="12" text-anchor="middle" fill="#0f172a">(เช่น ตู้ 40 ฟุตคร่อม bay 05 และ 07 = bay 06) — นับจากหัวไปท้าย</text>
+<text x="730.0" y="66.0" font-size="14" text-anchor="middle" fill="#0f172a" font-weight="bold">มองหน้าตัด (จากท้ายไปหัว): Row และ Tier</text>
+<path d="M 530 300 L 930 300 L 930 470 L 530 470 Z" fill="none" stroke="#0f172a" stroke-width="2.5"/><rect x="525.0" y="292.0" width="410.0" height="10.0" rx="0" fill="#94a3b8" stroke="#0f172a" stroke-width="1"/>
+<text x="940.0" y="300.0" font-size="11" text-anchor="start" fill="#334155">ฝาระวาง</text>
+<rect x="555.0" y="419.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<text x="546.0" y="448.0" font-size="11" text-anchor="end" fill="#b91c1c" font-weight="bold">02</text>
+<rect x="555.0" y="367.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<text x="546.0" y="396.0" font-size="11" text-anchor="end" fill="#b91c1c" font-weight="bold">04</text>
+<rect x="555.0" y="315.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<text x="546.0" y="344.0" font-size="11" text-anchor="end" fill="#b91c1c" font-weight="bold">06</text>
+<rect x="555.0" y="241.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<text x="546.0" y="270.0" font-size="11" text-anchor="end" fill="#15803d" font-weight="bold">82</text>
+<rect x="555.0" y="189.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<text x="546.0" y="218.0" font-size="11" text-anchor="end" fill="#15803d" font-weight="bold">84</text>
+<rect x="555.0" y="137.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<text x="546.0" y="166.0" font-size="11" text-anchor="end" fill="#15803d" font-weight="bold">86</text>
+<text x="576.0" y="488.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">08</text>
+<rect x="599.0" y="419.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="599.0" y="367.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="599.0" y="315.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="599.0" y="241.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="599.0" y="189.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="599.0" y="137.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<text x="620.0" y="488.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">06</text>
+<rect x="643.0" y="419.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="643.0" y="367.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="643.0" y="315.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="643.0" y="241.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="643.0" y="189.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="643.0" y="137.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<text x="664.0" y="488.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">04</text>
+<rect x="687.0" y="419.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="687.0" y="367.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="687.0" y="315.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="687.0" y="241.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="687.0" y="189.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="687.0" y="137.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<text x="708.0" y="488.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">02</text>
+<rect x="731.0" y="419.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="731.0" y="367.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="731.0" y="315.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="731.0" y="241.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="731.0" y="189.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="731.0" y="137.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<text x="752.0" y="488.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">01</text>
+<rect x="775.0" y="419.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="775.0" y="367.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="775.0" y="315.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="775.0" y="241.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="775.0" y="189.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="775.0" y="137.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<text x="796.0" y="488.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">03</text>
+<rect x="819.0" y="419.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="819.0" y="367.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="819.0" y="315.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="819.0" y="241.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="819.0" y="189.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="819.0" y="137.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<text x="840.0" y="488.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">05</text>
+<rect x="863.0" y="419.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="863.0" y="367.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="863.0" y="315.0" width="42.0" height="50.0" rx="0" fill="#e2e8f0" stroke="#64748b" stroke-width="1"/>
+<rect x="863.0" y="241.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="863.0" y="189.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<rect x="863.0" y="137.0" width="42.0" height="50.0" rx="0" fill="#dcfce7" stroke="#15803d" stroke-width="1"/>
+<text x="884.0" y="488.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">07</text>
+<line x1="730.0" y1="120.0" x2="730.0" y2="476.0" stroke="#b91c1c" stroke-width="1.2" stroke-dasharray="5 4"/>
+<text x="730.0" y="116.0" font-size="11" text-anchor="middle" fill="#b91c1c">แนวกลางลำ</text>
+<text x="630.0" y="510.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">← กราบซ้าย: เลขคู่</text>
+<text x="830.0" y="510.0" font-size="12" text-anchor="middle" fill="#1d4ed8" font-weight="bold">กราบขวา: เลขคี่ →</text>
+<text x="730.0" y="530.0" font-size="11" text-anchor="middle" fill="#475569">(ถ้าจำนวน row เป็นเลขคี่ row กลางลำ = 00)</text>
+<rect x="775.0" y="189.0" width="42.0" height="50.0" rx="0" fill="#fca5a5" stroke="#b91c1c" stroke-width="2.5"/>
+<rect x="40.0" y="300.0" width="420.0" height="230.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="56.0" y="326.0" font-size="14" text-anchor="start" fill="#0f172a" font-weight="bold">ตัวอย่างตำแหน่ง: 06 03 84</text>
+<text x="56.0" y="346.0" font-size="12.5" text-anchor="start" fill="#0f172a">• Bay 06 = ตู้ 40 ฟุต คร่อม bay 05/07</text>
+<text x="56.0" y="366.0" font-size="12.5" text-anchor="start" fill="#0f172a">• Row 03 = แถวที่สองกราบขวานับจากกลางลำ</text>
+<text x="56.0" y="386.0" font-size="12.5" text-anchor="start" fill="#0f172a">• Tier 84 = ชั้นที่สองบนดาดฟ้า</text>
+<text x="56.0" y="406.0" font-size="12.5" text-anchor="start" fill="#0f172a">(ตู้สีแดงในหน้าตัด)</text>
+<text x="56.0" y="426.0" font-size="12.5" text-anchor="start" fill="#0f172a"></text>
+<text x="56.0" y="446.0" font-size="12.5" text-anchor="start" fill="#0f172a">Tier ในระวาง: 02, 04, 06 … จากล่างขึ้นบน</text>
+<text x="56.0" y="466.0" font-size="12.5" text-anchor="start" fill="#0f172a">Tier บนดาดฟ้า: 82 (หรือ 80), 84, 86 …</text>
+<text x="56.0" y="486.0" font-size="12.5" text-anchor="start" fill="#0f172a">ใช้ใน bay plan / BAPLIE และระบบ loading computer</text>
+<text x="56.0" y="506.0" font-size="12.5" text-anchor="start" fill="#0f172a">ตรวจกับ stowage plan ของเรือเสมอ — บางสายเรือใช้ระบบต่างไปเล็กน้อย</text>
+</svg>

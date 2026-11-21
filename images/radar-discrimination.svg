@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="440" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arG" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker><marker id="arY" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#facc15"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การแยกเป้า (Discrimination) — Bearing ขึ้นกับ beam width, Range ขึ้นกับ pulse length</text>
+<path d="M 230 380 L 198.6 81.6 A 300 300 0 0 1 261.4 81.6 Z" fill="#fde68a" opacity="0.6" stroke="#b45309"/>
+<circle cx="218" cy="130" r="7" fill="#0f172a"/><circle cx="242" cy="130" r="7" fill="#0f172a"/>
+<text x="270" y="134" font-size="12">เป้า 2 ลำระยะเท่ากัน</text>
+<path d="M 185 100 Q 230 88 275 100" stroke="#16a34a" stroke-width="10" fill="none" opacity="0.8"/>
+<text x="230" y="75" text-anchor="middle" font-size="12" fill="#15803d">บนจอเห็นเป็น echo เดียวยาว</text>
+<text x="230" y="410" text-anchor="middle" font-size="14" font-weight="bold">Horizontal beam width (X ≈ 1°–2°)</text>
+<line x1="560" y1="200" x2="960" y2="200" stroke="#94a3b8"/>
+<rect x="600" y="180" width="160" height="40" fill="#fecaca" stroke="#b91c1c"/><text x="680" y="172" text-anchor="middle" font-size="12" fill="#b91c1c">ความยาวพัลส์ในอวกาศ (c × τ)</text>
+<circle cx="810" cy="200" r="7" fill="#0f172a"/><circle cx="860" cy="200" r="7" fill="#0f172a"/>
+<text x="835" y="240" text-anchor="middle" font-size="12">เป้าห่างกันน้อยกว่า ½ ความยาวพัลส์</text>
+<text x="835" y="258" text-anchor="middle" font-size="12">→ echo ซ้อนเป็นอันเดียว</text>
+<text x="760" y="320" text-anchor="middle" font-size="14" font-weight="bold">Range discrimination ≈ ½ × c × τ</text>
+<text x="760" y="345" text-anchor="middle" font-size="12">τ = 0.05 µs → ≈ 7.5 m · τ = 1.0 µs → ≈ 150 m</text>
+<text x="760" y="370" text-anchor="middle" font-size="12">MSC.192(79): แยก 40 m ในระยะ, 2.5° ในแบริ่ง (range scale ≤ 1.5 nm)</text>
+</svg>

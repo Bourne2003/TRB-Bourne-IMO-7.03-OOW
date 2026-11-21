@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 710" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="710" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การกระทำเบื้องต้นของ OOW หลังโดนกันหรือเกยตื้น (ลำดับทั่วไป)</text>
+<rect x="40" y="55" width="440" height="145" rx="12" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+<text x="56" y="91" font-size="15" font-weight="bold">1. ส่งสัญญาณเตือนภัยทั่วไป (General alarm)</text>
+<text x="56" y="117" font-size="12" fill="#334155">• เรียกนายเรือ</text>
+<text x="56" y="135" font-size="12" fill="#334155">• แจ้งห้องเครื่อง</text>
+<text x="56" y="153" font-size="12" fill="#334155">• ประกาศ PA</text>
+<rect x="520" y="55" width="440" height="145" rx="12" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+<text x="536" y="91" font-size="15" font-weight="bold">2. ควบคุมเรือ</text>
+<text x="536" y="117" font-size="12" fill="#334155">• หยุด/ลดเครื่องตามสถานการณ์</text>
+<text x="536" y="135" font-size="12" fill="#334155">• หางเสือ</text>
+<text x="536" y="153" font-size="12" fill="#334155">• อย่าถอยออกทันทีถ้าหัวเรือเสียบอีกลำ</text>
+<rect x="40" y="212" width="440" height="145" rx="12" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+<text x="56" y="248" font-size="15" font-weight="bold">3. ปิดประตูผนึกน้ำ (WT doors) และช่องเปิด</text>
+<text x="56" y="274" font-size="12" fill="#334155">• รักษา watertight integrity</text>
+<rect x="520" y="212" width="440" height="145" rx="12" fill="#fee2e2" stroke="#b91c1c" stroke-width="2"/>
+<text x="536" y="248" font-size="15" font-weight="bold">4. ไฟ/ทุ่นวัน/สัญญาณ</text>
+<text x="536" y="274" font-size="12" fill="#334155">• NUC หรือ aground</text>
+<text x="536" y="292" font-size="12" fill="#334155">• สัญญาณเสียง</text>
+<text x="536" y="310" font-size="12" fill="#334155">• VDR save</text>
+<rect x="40" y="369" width="440" height="145" rx="12" fill="#e0f2fe" stroke="#0369a1" stroke-width="2"/>
+<text x="56" y="405" font-size="15" font-weight="bold">5. ตำแหน่งและการสื่อสาร</text>
+<text x="56" y="431" font-size="12" fill="#334155">• fix ตำแหน่ง</text>
+<text x="56" y="449" font-size="12" fill="#334155">• VHF/DSC (ตามคำสั่งนายเรือ)</text>
+<text x="56" y="467" font-size="12" fill="#334155">• แลกข้อมูลกับอีกลำ</text>
+<rect x="520" y="369" width="440" height="145" rx="12" fill="#e0f2fe" stroke="#0369a1" stroke-width="2"/>
+<text x="536" y="405" font-size="15" font-weight="bold">6. ประเมินความเสียหาย</text>
+<text x="536" y="431" font-size="12" fill="#334155">• วัดถัง/ท้องเรือ (soundings)</text>
+<text x="536" y="449" font-size="12" fill="#334155">• ตรวจรอบลำ</text>
+<text x="536" y="467" font-size="12" fill="#334155">• น้ำเข้า? ไฟไหม้? รั่วไหล? คนบาดเจ็บ?</text>
+<rect x="40" y="526" width="440" height="145" rx="12" fill="#e0f2fe" stroke="#0369a1" stroke-width="2"/>
+<text x="56" y="562" font-size="15" font-weight="bold">7. ควบคุมความเสียหาย</text>
+<text x="56" y="588" font-size="12" fill="#334155">• สูบน้ำ</text>
+<text x="56" y="606" font-size="12" fill="#334155">• อุด/ค้ำยัน</text>
+<text x="56" y="624" font-size="12" fill="#334155">• stability &amp; stress</text>
+<text x="56" y="642" font-size="12" fill="#334155">• ป้องกันมลพิษ (SOPEP)</text>
+<rect x="520" y="526" width="440" height="145" rx="12" fill="#e0f2fe" stroke="#0369a1" stroke-width="2"/>
+<text x="536" y="562" font-size="15" font-weight="bold">8. เตรียมพร้อม</text>
+<text x="536" y="588" font-size="12" fill="#334155">• LSA</text>
+<text x="536" y="606" font-size="12" fill="#334155">• นับคน</text>
+<text x="536" y="624" font-size="12" fill="#334155">• แจ้งบริษัท (DPA)</text>
+<text x="536" y="642" font-size="12" fill="#334155">• รัฐชายฝั่ง</text>
+<text x="536" y="660" font-size="12" fill="#334155">• บันทึกเหตุการณ์</text>
+<text x="40" y="698" font-size="13" fill="#334155">ลำดับจริงขึ้นกับสถานการณ์และ emergency checklist ใน SMS — หลายข้อทำพร้อมกันโดยทีม · OOW ต้องไม่ลังเลทำการเพื่อความปลอดภัยทันที</text>
+</svg>

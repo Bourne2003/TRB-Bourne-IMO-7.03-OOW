@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="860" height="520" fill="#fff"/>
+<defs><marker id="a1" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="a1b" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker><marker id="a1r" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="a1g" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#15803d"/></marker></defs>
+<text x="430.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Doubling the angle on the bow และ Four-point bearing</text>
+<circle cx="560" cy="150" r="9" fill="#a21caf"/><text x="572" y="142" font-size="14" font-weight="bold" fill="#701a75">Lt</text>
+<line x1="60" y1="420" x2="800" y2="420" stroke="#0f172a" stroke-width="3" marker-end="url(#a1)"/>
+<text x="700" y="450" font-size="13" font-weight="bold">เข็ม 090°</text>
+<line x1="92.3" y1="420" x2="560" y2="150" stroke="#1d4ed8" stroke-width="2"/>
+<circle cx="92.3" cy="420" r="5" fill="#1d4ed8"/><text x="42.3" y="444" font-size="12" fill="#1d4ed8" font-weight="bold">30° on bow (2000)</text>
+<line x1="404.1" y1="420" x2="560" y2="150" stroke="#b91c1c" stroke-width="2"/>
+<circle cx="404.1" cy="420" r="5" fill="#b91c1c"/><text x="354.1" y="444" font-size="12" fill="#b91c1c" font-weight="bold">60° on bow (2024)</text>
+<line x1="560.0" y1="420" x2="560" y2="150" stroke="#15803d" stroke-width="2"/>
+<circle cx="560.0" cy="420" r="5" fill="#15803d"/><text x="510.0" y="444" font-size="12" fill="#15803d" font-weight="bold">Abeam</text>
+<text x="188.2" y="408" font-size="14" font-weight="bold" fill="#0f172a">d = ระยะที่แล่น</text>
+<text x="322.1" y="285.0" font-size="14" font-weight="bold" fill="#b91c1c">ระยะถึง Lt = d</text>
+<text x="570" y="285.0" font-size="13" fill="#15803d" font-weight="bold">ระยะผ่านตรงกราบ = d·sin60°</text>
+<rect x="40" y="50" width="285" height="96" rx="8" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="52" y="72" font-size="13">θ → 2θ : สามเหลี่ยมหน้าจั่ว</text>
+<text x="52" y="94" font-size="13">45° → 90° : run = distance abeam</text>
+<text x="52" y="116" font-size="13">26½° → 45° : run = distance abeam</text>
+<text x="52" y="138" font-size="13">(ทำนายระยะผ่านได้ล่วงหน้า)</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="520" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การปล่อยเรือชูชีพด้วย gravity davit (ลำดับทั่วไป — ปฏิบัติตามคู่มือของเรือ)</text>
+<circle cx="60" cy="88" r="16" fill="#f97316"/><text x="60.0" y="94.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">1</text>
+<rect x="90.0" y="70.0" width="520.0" height="38.0" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="1.2"/>
+<text x="102.0" y="94.0" font-size="11.6" text-anchor="start" fill="#0f172a">ตรวจ: ปลั๊กท่อระบายน้ำ (drain plug) ปิด, painter ต่อไปข้างหน้า, ทางลงน้ำโล่ง, เรือหยุด/ช้ามาก</text>
+<circle cx="60" cy="140" r="16" fill="#f97316"/><text x="60.0" y="146.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">2</text>
+<rect x="90.0" y="122.0" width="520.0" height="38.0" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="1.2"/>
+<text x="102.0" y="146.0" font-size="11.6" text-anchor="start" fill="#0f172a">ปลดตัวยึด: harbour pins/safety pins, gripes (สายรัด) — เรือพร้อมเคลื่อน</text>
+<circle cx="60" cy="192" r="16" fill="#f97316"/><text x="60.0" y="198.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">3</text>
+<rect x="90.0" y="174.0" width="520.0" height="38.0" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="1.2"/>
+<text x="102.0" y="198.0" font-size="11.6" text-anchor="start" fill="#0f172a">ลดเรือถึงดาดฟ้าขึ้นเรือ (embarkation deck) ดึงเข้าข้าง (tricing/bowsing) ให้คนขึ้น</text>
+<circle cx="60" cy="244" r="16" fill="#f97316"/><text x="60.0" y="250.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">4</text>
+<rect x="90.0" y="226.0" width="520.0" height="38.0" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="1.2"/>
+<text x="102.0" y="250.0" font-size="11.6" text-anchor="start" fill="#0f172a">คนขึ้นเรือ นั่ง คาดเข็มขัด สวม lifejacket — ปลดสาย bowsing/tricing</text>
+<circle cx="60" cy="296" r="16" fill="#f97316"/><text x="60.0" y="302.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">5</text>
+<rect x="90.0" y="278.0" width="520.0" height="38.0" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="1.2"/>
+<text x="102.0" y="302.0" font-size="11.6" text-anchor="start" fill="#0f172a">ผู้ควบคุมในเรือดึงสาย remote control ยกเบรก → เรือลดลงด้วยน้ำหนักตัวเอง (ควบคุมความเร็ว)</text>
+<circle cx="60" cy="348" r="16" fill="#f97316"/><text x="60.0" y="354.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">6</text>
+<rect x="90.0" y="330.0" width="520.0" height="38.0" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="1.2"/>
+<text x="102.0" y="354.0" font-size="11.6" text-anchor="start" fill="#0f172a">สตาร์ทเครื่องก่อนถึงน้ำ · เมื่อเรือลอยน้ำจริง (hydrostatic interlock) ปลด on-load release hooks</text>
+<circle cx="60" cy="400" r="16" fill="#f97316"/><text x="60.0" y="406.0" font-size="14" text-anchor="middle" fill="#fff" font-weight="bold">7</text>
+<rect x="90.0" y="382.0" width="520.0" height="38.0" rx="8" fill="#fff7ed" stroke="#c2410c" stroke-width="1.2"/>
+<text x="102.0" y="406.0" font-size="11.6" text-anchor="start" fill="#0f172a">ปลด painter เมื่อพร้อม · ขับออกห่างจากเรือ (ระวังใบจักรของเรือใหญ่และข้างเรือ)</text>
+<line x1="700.0" y1="420.0" x2="700.0" y2="120.0" stroke="#0f172a" stroke-width="5"/>
+<line x1="700.0" y1="120.0" x2="820.0" y2="100.0" stroke="#0f172a" stroke-width="6"/>
+<line x1="820.0" y1="100.0" x2="820.0" y2="250.0" stroke="#475569" stroke-width="2"/>
+<line x1="760.0" y1="112.0" x2="760.0" y2="250.0" stroke="#475569" stroke-width="2"/>
+<path d="M 730 250 L 850 250 Q 865 270 850 290 L 730 290 Q 715 270 730 250 Z" fill="#f97316" stroke="#7c2d12" stroke-width="2"/><text x="790.0" y="276.0" font-size="12" text-anchor="middle" fill="#fff" font-weight="bold">Lifeboat</text>
+<text x="825.0" y="92.0" font-size="11" text-anchor="start" fill="#0f172a" font-weight="bold">davit arm</text>
+<text x="825.0" y="200.0" font-size="11" text-anchor="start" fill="#334155">falls</text>
+<rect x="660.0" y="360.0" width="40.0" height="30.0" rx="0" fill="#94a3b8" stroke="#0f172a" stroke-width="1.5"/>
+<text x="680.0" y="405.0" font-size="10.5" text-anchor="middle" fill="#0f172a">winch</text>
+<line x1="680.0" y1="360.0" x2="760.0" y2="250.0" stroke="#c2410c" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="670.0" y="330.0" font-size="10.5" text-anchor="end" fill="#c2410c">สาย remote</text>
+<text x="670.0" y="344.0" font-size="10.5" text-anchor="end" fill="#c2410c">control (ยกเบรก)</text>
+<line x1="640.0" y1="420.0" x2="980.0" y2="420.0" stroke="#0284c7" stroke-width="2"/>
+<text x="810.0" y="440.0" font-size="11" text-anchor="middle" fill="#0284c7">ผิวน้ำ</text>
+<rect x="40.0" y="450.0" width="920.0" height="60.0" rx="10" fill="#fef2f2" stroke="#b91c1c" stroke-width="1.5"/>
+<text x="56.0" y="474.0" font-size="12" text-anchor="start" fill="#7f1d1d" font-weight="bold">ความปลอดภัย: อุบัติเหตุเรือชูชีพในการฝึกเคยทำให้คนเสียชีวิตจาก hook ปลดก่อนเวลา/ประกอบผิด — ตรวจตัวชี้ hook reset ก่อนยกเรือขึ้นทุกครั้ง</text>
+<text x="56.0" y="494.0" font-size="12" text-anchor="start" fill="#7f1d1d">คนในเรือขณะยกขึ้นให้น้อยที่สุด ปฏิบัติตาม MSC.1/Circ.1206/Rev.1 และการบำรุงรักษาตาม MSC.402(96) (ตรวจละเอียดรายปี, ทดสอบ 5 ปี โดยผู้ให้บริการที่ได้รับอนุญาต)</text>
+</svg>

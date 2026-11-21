@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="440" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Zones of Confidence (CATZOC) — ความน่าเชื่อถือของข้อมูลใน ENC</text>
+<text x="30" y="70" font-size="14" font-weight="bold">ZOC</text>
+<text x="110" y="70" font-size="14" font-weight="bold">สัญลักษณ์</text>
+<text x="260" y="70" font-size="14" font-weight="bold">ความแม่นยำตำแหน่ง</text>
+<text x="460" y="70" font-size="14" font-weight="bold">ความแม่นยำความลึก (m)</text>
+<text x="640" y="70" font-size="14" font-weight="bold">Seafloor coverage</text>
+<rect x="20" y="76" width="960" height="44" fill="#fff"/>
+<text x="30" y="104" font-size="16" font-weight="bold">A1</text>
+<text x="150.0" y="92.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="163.9" y="99.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="163.9" y="113.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="150.0" y="120.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="136.1" y="113.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="136.1" y="99.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="260" y="104" font-size="13">± 5 m + 5% ความลึก</text><text x="460" y="104" font-size="13">0.50 + 1% d</text><text x="640" y="104" font-size="12">สำรวจเต็มพื้นที่ (full area search) พบสิ่งที่มีนัยสำคัญทั้งหมด</text>
+<rect x="20" y="126" width="960" height="44" fill="#f8fafc"/>
+<text x="30" y="154" font-size="16" font-weight="bold">A2</text>
+<text x="150.0" y="142.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="165.2" y="151.7" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="159.4" y="167.3" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="140.6" y="167.3" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="134.8" y="151.7" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="260" y="154" font-size="13">± 20 m</text><text x="460" y="154" font-size="13">1.00 + 2% d</text><text x="640" y="154" font-size="12">สำรวจเต็มพื้นที่</text>
+<rect x="20" y="176" width="960" height="44" fill="#fff"/>
+<text x="30" y="204" font-size="16" font-weight="bold">B</text>
+<text x="150.0" y="192.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="166.0" y="206.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="150.0" y="220.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="134.0" y="206.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="260" y="204" font-size="13">± 50 m</text><text x="460" y="204" font-size="13">1.00 + 2% d</text><text x="640" y="204" font-size="12">ไม่เต็มพื้นที่ — ไม่คาดว่ามีอันตรายนอกแผนที่ แต่อาจมี</text>
+<rect x="20" y="226" width="960" height="44" fill="#f8fafc"/>
+<text x="30" y="254" font-size="16" font-weight="bold">C</text>
+<text x="150.0" y="242.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="163.9" y="263.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="136.1" y="263.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="260" y="254" font-size="13">± 500 m</text><text x="460" y="254" font-size="13">2.00 + 5% d</text><text x="640" y="254" font-size="12">ไม่ได้สำรวจเต็มพื้นที่ คาดว่ามีความลึกผิดปกติ</text>
+<rect x="20" y="276" width="960" height="44" fill="#fff"/>
+<text x="30" y="304" font-size="16" font-weight="bold">D</text>
+<text x="150.0" y="292.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="150.0" y="320.0" font-size="12" text-anchor="middle" fill="#a16207">★</text>
+<text x="260" y="304" font-size="13">แย่กว่า C</text><text x="460" y="304" font-size="13">แย่กว่า C</text><text x="640" y="304" font-size="12">ไม่ได้สำรวจเต็มพื้นที่ คาดว่ามีความลึกผิดปกติมาก</text>
+<rect x="20" y="326" width="960" height="44" fill="#f8fafc"/>
+<text x="30" y="354" font-size="16" font-weight="bold">U</text>
+<text x="150" y="356" font-size="15" text-anchor="middle" fill="#a16207">U</text>
+<text x="260" y="354" font-size="13">ยังไม่ประเมิน</text><text x="460" y="354" font-size="13">–</text><text x="640" y="354" font-size="12">ข้อมูลคุณภาพยังไม่ได้ประเมิน</text>
+<text x="30" y="405" font-size="12" fill="#334155">แสดงใน ECDIS เป็นรูปดาวในสามเหลี่ยม/วงรี (data quality indicator) เมื่อเปิดแสดง — ใช้เพิ่ม safety margin ในพื้นที่ ZOC ต่ำ (ค่าในตารางสรุปจาก IHO S-57 / S-67)</text>
+<text x="30" y="428" font-size="12" fill="#334155">S-101: CATZOC (M_QUAL) ถูกแทนด้วย Quality of Bathymetric Data ที่แยกความแม่นยำตำแหน่ง ความลึก และ seafloor coverage — การแสดงผลแบบดาวกำลังถูกทบทวน</text>
+</svg>

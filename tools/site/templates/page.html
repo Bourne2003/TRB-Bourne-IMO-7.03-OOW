@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="th" data-root="$root" data-page="$page"$html_attrs>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$title</title>
+<meta name="description" content="$description">
+<meta name="author" content="TIRAPHONG NANTAPAN">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#F3F6F8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#071526" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<script>$head_js</script>
+<link rel="stylesheet" href="${root}assets/style.css?v=$css_v">
+<link rel="icon" href="${root}assets/favicon.svg?v=$ico_v" type="image/svg+xml">
+$rel_links
+<script src="${root}assets/app.js?v=$js_v" defer></script>
+$extra_head
+</head>
+<body id="top" class="$body_class">
+<a class="skip" href="#main">ข้ามไปเนื้อหา</a>
+$progress
+$header
+$drawer
+<main id="main" class="prose$main_class" tabindex="-1"$main_attrs>
+$main</main>
+$outline
+$footer
+$prefs_dialog
+</body>
+</html>

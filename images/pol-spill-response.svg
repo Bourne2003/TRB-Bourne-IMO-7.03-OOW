@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 540" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="540" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การรับมือเมื่อน้ำมันรั่วไหลบนเรือ (ตาม SOPEP — ลำดับทั่วไป)</text>
+<rect x="30.0" y="70.0" width="220.0" height="170.0" rx="12" fill="#fff" stroke="#b91c1c" stroke-width="2.5"/>
+<rect x="30.0" y="70.0" width="220.0" height="40.0" rx="12" fill="#b91c1c" stroke="#b91c1c" stroke-width="0"/>
+<rect x="30.0" y="95.0" width="220.0" height="15.0" rx="0" fill="#b91c1c" stroke="#b91c1c" stroke-width="0"/>
+<text x="140.0" y="97.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">1. หยุดต้นเหตุ</text>
+<text x="140.0" y="145.0" font-size="12" text-anchor="middle" fill="#0f172a">หยุดปั๊ม/การถ่ายเท ปิดวาล์ว</text>
+<text x="140.0" y="169.0" font-size="12" text-anchor="middle" fill="#0f172a">กด emergency stop แจ้ง barge/ท่า</text>
+<line x1="252.0" y1="155.0" x2="268.0" y2="155.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="270.0" y="70.0" width="220.0" height="170.0" rx="12" fill="#fff" stroke="#b91c1c" stroke-width="2.5"/>
+<rect x="270.0" y="70.0" width="220.0" height="40.0" rx="12" fill="#b91c1c" stroke="#b91c1c" stroke-width="0"/>
+<rect x="270.0" y="95.0" width="220.0" height="15.0" rx="0" fill="#b91c1c" stroke="#b91c1c" stroke-width="0"/>
+<text x="380.0" y="97.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">2. แจ้งเตือน</text>
+<text x="380.0" y="145.0" font-size="12" text-anchor="middle" fill="#0f172a">สัญญาณ/ประกาศ แจ้ง OOW → นายเรือ</text>
+<text x="380.0" y="169.0" font-size="12" text-anchor="middle" fill="#0f172a">ต้นเรือ ต้นกล</text>
+<line x1="492.0" y1="155.0" x2="508.0" y2="155.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="510.0" y="70.0" width="220.0" height="170.0" rx="12" fill="#fff" stroke="#c2410c" stroke-width="2.5"/>
+<rect x="510.0" y="70.0" width="220.0" height="40.0" rx="12" fill="#c2410c" stroke="#c2410c" stroke-width="0"/>
+<rect x="510.0" y="95.0" width="220.0" height="15.0" rx="0" fill="#c2410c" stroke="#c2410c" stroke-width="0"/>
+<text x="620.0" y="97.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">3. ความปลอดภัย</text>
+<text x="620.0" y="145.0" font-size="12" text-anchor="middle" fill="#0f172a">ห้ามสูบบุหรี่/ประกายไฟ ระบายอากาศ</text>
+<text x="620.0" y="169.0" font-size="12" text-anchor="middle" fill="#0f172a">ป้องกันไฟไหม้ PPE</text>
+<line x1="732.0" y1="155.0" x2="748.0" y2="155.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="750.0" y="70.0" width="220.0" height="170.0" rx="12" fill="#fff" stroke="#c2410c" stroke-width="2.5"/>
+<rect x="750.0" y="70.0" width="220.0" height="40.0" rx="12" fill="#c2410c" stroke="#c2410c" stroke-width="0"/>
+<rect x="750.0" y="95.0" width="220.0" height="15.0" rx="0" fill="#c2410c" stroke="#c2410c" stroke-width="0"/>
+<text x="860.0" y="97.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">4. กักเก็บบนเรือ</text>
+<text x="860.0" y="145.0" font-size="12" text-anchor="middle" fill="#0f172a">scupper plugs, sorbents, ทราย</text>
+<text x="860.0" y="169.0" font-size="12" text-anchor="middle" fill="#0f172a">สูบเข้าถังว่าง/ถัง slop</text>
+<rect x="30.0" y="280.0" width="220.0" height="170.0" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="2.5"/>
+<rect x="30.0" y="280.0" width="220.0" height="40.0" rx="12" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<rect x="30.0" y="305.0" width="220.0" height="15.0" rx="0" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="140.0" y="307.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">5. รายงาน</text>
+<text x="140.0" y="355.0" font-size="12" text-anchor="middle" fill="#0f172a">รัฐชายฝั่ง/ท่า ตาม SOPEP (Protocol I)</text>
+<text x="140.0" y="379.0" font-size="12" text-anchor="middle" fill="#0f172a">บริษัท (DPA) P&amp;I ตัวแทน</text>
+<line x1="252.0" y1="365.0" x2="268.0" y2="365.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="270.0" y="280.0" width="220.0" height="170.0" rx="12" fill="#fff" stroke="#1d4ed8" stroke-width="2.5"/>
+<rect x="270.0" y="280.0" width="220.0" height="40.0" rx="12" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<rect x="270.0" y="305.0" width="220.0" height="15.0" rx="0" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="380.0" y="307.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">6. ถ้าหลุดลงทะเล</text>
+<text x="380.0" y="355.0" font-size="12" text-anchor="middle" fill="#0f172a">ประสานหน่วยงานรับมือฝั่ง</text>
+<text x="380.0" y="379.0" font-size="12" text-anchor="middle" fill="#0f172a">ห้ามใช้สารกระจายคราบน้ำมันเอง</text>
+<text x="380.0" y="403.0" font-size="12" text-anchor="middle" fill="#0f172a">ถ้าไม่ได้รับอนุญาต</text>
+<line x1="492.0" y1="365.0" x2="508.0" y2="365.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="510.0" y="280.0" width="220.0" height="170.0" rx="12" fill="#fff" stroke="#15803d" stroke-width="2.5"/>
+<rect x="510.0" y="280.0" width="220.0" height="40.0" rx="12" fill="#15803d" stroke="#15803d" stroke-width="0"/>
+<rect x="510.0" y="305.0" width="220.0" height="15.0" rx="0" fill="#15803d" stroke="#15803d" stroke-width="0"/>
+<text x="620.0" y="307.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">7. บันทึก</text>
+<text x="620.0" y="355.0" font-size="12" text-anchor="middle" fill="#0f172a">เวลา ตำแหน่ง ปริมาณ การกระทำ</text>
+<text x="620.0" y="379.0" font-size="12" text-anchor="middle" fill="#0f172a">ORB, logbook, ภาพถ่าย</text>
+<line x1="732.0" y1="365.0" x2="748.0" y2="365.0" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/>
+<rect x="750.0" y="280.0" width="220.0" height="170.0" rx="12" fill="#fff" stroke="#15803d" stroke-width="2.5"/>
+<rect x="750.0" y="280.0" width="220.0" height="40.0" rx="12" fill="#15803d" stroke="#15803d" stroke-width="0"/>
+<rect x="750.0" y="305.0" width="220.0" height="15.0" rx="0" fill="#15803d" stroke="#15803d" stroke-width="0"/>
+<text x="860.0" y="307.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">8. ทบทวน</text>
+<text x="860.0" y="355.0" font-size="12" text-anchor="middle" fill="#0f172a">สอบสวนสาเหตุ แก้ไข SMS</text>
+<text x="860.0" y="379.0" font-size="12" text-anchor="middle" fill="#0f172a">เติมอุปกรณ์ SOPEP</text>
+<text x="500.0" y="515.0" font-size="12" text-anchor="middle" fill="#334155">หลายขั้นทำพร้อมกันโดยทีม — ปฏิบัติตาม SOPEP/SMPEP ของเรือ ซึ่งมีรายชื่อผู้ติดต่อของรัฐชายฝั่ง (Appendix) และแผนผังระบบน้ำมัน</text>
+</svg>

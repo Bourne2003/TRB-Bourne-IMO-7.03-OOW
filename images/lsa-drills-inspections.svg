@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="500" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker><marker id="arB" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1d4ed8"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การฝึกสละเรือและการตรวจอุปกรณ์ช่วยชีวิต (SOLAS III/19–20) — สรุปความถี่</text>
+<rect x="30.0" y="60.0" width="160.0" height="92.0" rx="12" fill="#15803d" stroke="#15803d" stroke-width="0"/>
+<text x="110.0" y="112.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">ทุกสัปดาห์</text>
+<rect x="200.0" y="60.0" width="770.0" height="92.0" rx="12" fill="#f8fafc" stroke="#15803d" stroke-width="1.5"/>
+<text x="216.0" y="86.0" font-size="12" text-anchor="start" fill="#0f172a">• ตรวจด้วยตา: survival craft, rescue boats, อุปกรณ์ปล่อย — รวมสภาพ hook และ on-load release ที่ reset ครบ</text>
+<text x="216.0" y="112.0" font-size="12" text-anchor="start" fill="#0f172a">• เดินเครื่องเรือชูชีพ/เรือกู้ภัยรวมอย่างน้อย 3 นาที (ตรวจการเข้าเกียร์เดินหน้า-ถอยหลัง)</text>
+<text x="216.0" y="138.0" font-size="12" text-anchor="start" fill="#0f172a">• ทดสอบ general emergency alarm · เรือสินค้า: เลื่อนเรือชูชีพ (ไม่ใช่ free-fall) ออกจากที่เก็บเท่าที่จำเป็น · บันทึก log</text>
+<rect x="30.0" y="165.0" width="160.0" height="92.0" rx="12" fill="#1d4ed8" stroke="#1d4ed8" stroke-width="0"/>
+<text x="110.0" y="217.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">ทุกเดือน</text>
+<rect x="200.0" y="165.0" width="770.0" height="92.0" rx="12" fill="#f8fafc" stroke="#1d4ed8" stroke-width="1.5"/>
+<text x="216.0" y="191.0" font-size="12" text-anchor="start" fill="#0f172a">• Abandon ship drill และ fire drill — ลูกเรือทุกคนอย่างน้อยเดือนละครั้ง</text>
+<text x="216.0" y="217.0" font-size="12" text-anchor="start" fill="#0f172a">• ตรวจอุปกรณ์ช่วยชีวิตทั้งหมดตาม checklist (อุปกรณ์ในเรือครบ ใช้ได้) บันทึก log</text>
+<text x="216.0" y="243.0" font-size="12" text-anchor="start" fill="#0f172a">• Turn out เรือชูชีพ (ไม่ใช่ free-fall) จากที่เก็บโดยไม่มีคน · EPIRB self-test · ปล่อยเรือกู้ภัยเท่าที่ทำได้</text>
+<rect x="30.0" y="270.0" width="160.0" height="92.0" rx="12" fill="#7c3aed" stroke="#7c3aed" stroke-width="0"/>
+<text x="110.0" y="322.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">ทุก 3 เดือน</text>
+<rect x="200.0" y="270.0" width="770.0" height="92.0" rx="12" fill="#f8fafc" stroke="#7c3aed" stroke-width="1.5"/>
+<text x="216.0" y="296.0" font-size="12" text-anchor="start" fill="#0f172a">• ปล่อยเรือชูชีพ (davit) ลงน้ำพร้อมลูกเรือประจำเรือและบังคับในน้ำ</text>
+<text x="216.0" y="322.0" font-size="12" text-anchor="start" fill="#0f172a">• Free-fall: ลูกเรือขึ้นนั่งคาดเข็มขัด เริ่มขั้นตอนถึงก่อนปล่อยจริง แล้วปล่อย/ลดด้วยวิธีรอง</text>
+<text x="216.0" y="348.0" font-size="12" text-anchor="start" fill="#0f172a">• เรือกู้ภัย: ปล่อยและบังคับในน้ำอย่างน้อยทุก 3 เดือน</text>
+<rect x="30.0" y="375.0" width="160.0" height="92.0" rx="12" fill="#b91c1c" stroke="#b91c1c" stroke-width="0"/>
+<text x="110.0" y="427.0" font-size="15" text-anchor="middle" fill="#fff" font-weight="bold">6 เดือน – 5 ปี</text>
+<rect x="200.0" y="375.0" width="770.0" height="92.0" rx="12" fill="#f8fafc" stroke="#b91c1c" stroke-width="1.5"/>
+<text x="216.0" y="401.0" font-size="12" text-anchor="start" fill="#0f172a">• Free-fall: ปล่อยจริง (เฉพาะลูกเรือประจำ) หรือ simulated launching ไม่เกินทุก 6 เดือน</text>
+<text x="216.0" y="427.0" font-size="12" text-anchor="start" fill="#0f172a">• แพชูชีพ/HRU บำรุง: ทุก 12 เดือน (แพ ขยายได้ถึง 17 เดือน) · ตรวจละเอียดรายปีตาม MSC.402(96) · ทดสอบ EPIRB รายปี</text>
+<text x="216.0" y="453.0" font-size="12" text-anchor="start" fill="#0f172a">• Falls: กลับปลาย ≤ 30 เดือน เปลี่ยนเมื่อเสื่อมหรือ ≤ 5 ปี · ทดสอบ 5 ปีของอุปกรณ์ปล่อย</text>
+<text x="500.0" y="488.0" font-size="11.5" text-anchor="middle" fill="#334155">ถ้าลูกเรือเกิน 25% ไม่ได้ร่วมฝึกในเดือนก่อน: ฝึกภายใน 24 ชม. หลังออกเรือ · ลูกเรือใหม่ต้องได้รับการฝึกใช้อุปกรณ์ภายในเวลาที่กำหนด — ตรวจตามฉบับแก้ไขล่าสุดของ SOLAS/Flag</text>
+</svg>

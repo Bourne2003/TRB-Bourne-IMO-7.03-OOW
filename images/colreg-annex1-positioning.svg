@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 600" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="980" height="600" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="dm" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="#334155"/></marker></defs>
+<text x="490.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Annex I — ตำแหน่งไฟของเรือกล ≥ 50 m (มองด้านข้าง หัวเรือไปทางขวา)</text>
+<rect x="20" y="400" width="940" height="40" fill="#dbeafe"/>
+<path d="M 80 360 L 780 360 L 840 346 L 790 420 L 100 420 L 80 360 Z" fill="#475569" stroke="#0f172a"/>
+<rect x="520" y="256" width="80" height="104" fill="#94a3b8" stroke="#0f172a"/>
+<line x1="700" y1="360" x2="700" y2="208" stroke="#0f172a" stroke-width="4"/>
+<line x1="320" y1="360" x2="320" y2="148" stroke="#0f172a" stroke-width="4"/>
+<line x1="820" y1="346" x2="820" y2="274" stroke="#0f172a" stroke-width="3"/>
+<line x1="96" y1="360" x2="96" y2="330" stroke="#0f172a" stroke-width="3"/>
+<circle cx="700" cy="216" r="8" fill="#ffffff" stroke="#0f172a" stroke-width="1.5"/>
+<circle cx="320" cy="156" r="8" fill="#ffffff" stroke="#0f172a" stroke-width="1.5"/>
+<circle cx="600" cy="264" r="8" fill="#22c55e" stroke="#0f172a" stroke-width="1.5"/>
+<circle cx="820" cy="274" r="8" fill="#f1f5f9" stroke="#0f172a" stroke-width="1.5"/>
+<circle cx="96" cy="330" r="8" fill="#f1f5f9" stroke="#0f172a" stroke-width="1.5"/>
+<circle cx="84" cy="354" r="8" fill="#ffffff" stroke="#0f172a" stroke-width="1.5"/>
+<line x1="722" y1="360" x2="722" y2="225" stroke="#b91c1c" stroke-width="1.5" marker-end="url(#dm)" marker-start="url(#dm)"/><text x="730" y="296.5" text-anchor="start" font-size="12" fill="#b91c1c" stroke="#fff" stroke-width="4" paint-order="stroke">h₁ ≥ 6 m และ ≥ B (ไม่ต้องเกิน 12 m)</text>
+<line x1="320" y1="216" x2="700" y2="216" stroke="#94a3b8" stroke-dasharray="4 3"/>
+<line x1="298" y1="216" x2="298" y2="165" stroke="#b91c1c" stroke-width="1.5" marker-end="url(#dm)" marker-start="url(#dm)"/><text x="290" y="194.5" text-anchor="end" font-size="12" fill="#b91c1c" stroke="#fff" stroke-width="4" paint-order="stroke">ดวงหลังสูงกว่า ≥ 4.5 m</text>
+<line x1="614" y1="360" x2="614" y2="273" stroke="#b91c1c" stroke-width="1.5" marker-end="url(#dm)" marker-start="url(#dm)"/><text x="622" y="320.5" text-anchor="start" font-size="12" fill="#b91c1c" stroke="#fff" stroke-width="4" paint-order="stroke">sidelight ≤ ¾ h₁</text>
+<line x1="320" y1="444" x2="700" y2="444" stroke="#1d4ed8" stroke-width="1.5" marker-end="url(#dm)" marker-start="url(#dm)"/><text x="510.0" y="462" text-anchor="middle" font-size="12" fill="#1d4ed8">ระยะแนวนอน ≥ L/2 (ไม่ต้องเกิน 100 m)</text>
+<line x1="700" y1="480" x2="840" y2="480" stroke="#1d4ed8" stroke-width="1.5" marker-end="url(#dm)" marker-start="url(#dm)"/><text x="770.0" y="498" text-anchor="middle" font-size="12" fill="#1d4ed8">≤ L/4 จาก stem</text>
+<line x1="320" y1="360" x2="320" y2="486" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<line x1="700" y1="360" x2="700" y2="486" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<line x1="840" y1="346" x2="840" y2="486" stroke="#94a3b8" stroke-dasharray="3 3"/>
+<text x="712" y="204" font-size="12" font-weight="bold" stroke="#fff" stroke-width="4" paint-order="stroke">masthead หน้า</text>
+<text x="332" y="150" font-size="12" font-weight="bold" stroke="#fff" stroke-width="4" paint-order="stroke">masthead หลัง</text>
+<text x="612" y="248" font-size="12" font-weight="bold" fill="#15803d" stroke="#fff" stroke-width="4" paint-order="stroke">sidelight (ไม่อยู่หน้า masthead หน้า)</text>
+<text x="814" y="260" text-anchor="middle" font-size="12" stroke="#fff" stroke-width="4" paint-order="stroke">anchor หน้า ≥ 6 m</text>
+<text x="84" y="316" font-size="12" stroke="#fff" stroke-width="4" paint-order="stroke">anchor ท้าย (ต่ำกว่าหน้า ≥ 4.5 m)</text>
+<text x="78" y="382" text-anchor="end" font-size="11" fill="#0f172a">sternlight</text>
+<text x="220" y="386" font-size="12" fill="#f8fafc">ดาดฟ้าต่อเนื่องบนสุด (uppermost continuous deck) = ระดับ "hull" ที่ใช้วัดความสูงไฟ (§1)</text>
+<rect x="20" y="520" width="940" height="70" rx="8" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="32" y="540" font-size="11.5" fill="#334155">• แยกแนวตั้งของ masthead ให้มากพอที่เมื่อมองจากระดับน้ำทะเลห่าง 1,000 m หน้าหัวเรือ จะเห็นดวงหลังอยู่เหนือและแยกจากดวงหน้าทุกสภาพ trim ปกติ (§2(b))</text>
+<text x="32" y="560" font-size="11.5" fill="#334155">• ไฟ all-round หลายดวงแนวตั้ง: เรือ ≥ 20 m ห่าง ≥ 2 m ดวงล่าง ≥ 4 m เหนือ hull · เรือ &lt; 20 m ห่าง ≥ 1 m ดวงล่าง ≥ 2 m เหนือ gunwale · 3 ดวงเว้นระยะเท่ากัน (§2(i))</text>
+<text x="32" y="580" font-size="11.5" fill="#334155">• ภาพเป็นแผนผัง: ตัวเลขในภาพคือค่าขั้นต่ำ/สูงสุดของ Annex I — ไฟทอดสมอกับไฟเดินเรือแสดงพร้อมกันเพื่อบอกตำแหน่งเท่านั้น (ของจริงไม่เปิดพร้อมกัน)</text>
+</svg>

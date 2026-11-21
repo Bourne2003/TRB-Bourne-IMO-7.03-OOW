@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="900" height="620" fill="#fff"/>
+<text x="450.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Sector light ที่ทางเข้าร่องน้ำ (ตัวอย่างจำลอง)</text>
+<path d="M 0 50 L 900 50 L 900 110 Q 700 120 560 100 L 450 120 L 340 100 Q 200 120 0 110 Z" fill="#f5deb3" stroke="#8b6b3d" stroke-width="2"/>
+<path d="M 450 120 L 720.0 441.7 A 420 420 0 0 1 472.0 539.4 Z" fill="#16a34a" opacity="0.35"/>
+<path d="M 450 120 L 472.0 539.4 A 420 420 0 0 1 428.0 539.4 Z" fill="#ffffff" opacity="0.35"/>
+<path d="M 450 120 L 428.0 539.4 A 420 420 0 0 1 180.0 441.7 Z" fill="#dc2626" opacity="0.35"/>
+<line x1="450" y1="120" x2="720.0" y2="441.7" stroke="#334155" stroke-dasharray="4 4"/>
+<line x1="450" y1="120" x2="472.0" y2="539.4" stroke="#334155" stroke-dasharray="4 4"/>
+<line x1="450" y1="120" x2="428.0" y2="539.4" stroke="#334155" stroke-dasharray="4 4"/>
+<line x1="450" y1="120" x2="180.0" y2="441.7" stroke="#334155" stroke-dasharray="4 4"/>
+<circle cx="450" cy="120" r="9" fill="#facc15" stroke="#111827" stroke-width="2"/>
+<text x="464" y="114" font-size="14" font-weight="bold">Dir.Lt / Fl.WRG.4s</text>
+<text x="250" y="420" font-size="15" font-weight="bold" fill="#b91c1c">R 003°–040°</text>
+<text x="450" y="584" text-anchor="middle" font-size="15" font-weight="bold" fill="#334155">W 357°–003° (แนวร่องน้ำ — ไฟขาวแคบตรงกลาง)</text>
+<text x="560" y="420" font-size="15" font-weight="bold" fill="#15803d">G 320°–357°</text>
+<path d="M 450 560 L 450 170" stroke="#1e3a8a" stroke-width="3"/><path d="M 442 182 L 450 165 L 458 182 Z" fill="#1e3a8a"/>
+<text x="450" y="606" text-anchor="middle" font-size="12" fill="#1e3a8a">เรือขาเข้า ถือเข็ม 000° ตามแนวไฟขาว · เห็นแดง = หลุดไปทางซ้ายของแนว เห็นเขียว = หลุดไปทางขวา (ตาม Region A)</text>
+<rect x="620" y="140" width="270" height="120" rx="8" fill="#fff" stroke="#94a3b8"/>
+<text x="632" y="164" font-size="13">แบริ่งของ sector วัด "จากทะเล</text>
+<text x="632" y="185" font-size="13">มองเข้าหาไฟ" (from seaward)</text>
+<text x="632" y="206" font-size="13">อยู่ใน W = อยู่บนแนวร่องน้ำ</text>
+<text x="632" y="227" font-size="13">เห็น R/G = หลุดไปด้านข้าง</text>
+<text x="632" y="248" font-size="13">ขอบ sector ไม่คมชัด อย่าเชื่อ 100%</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="960" height="520" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="dm" markerUnits="userSpaceOnUse" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto-start-reverse"><path d="M0,0 L8,4 L0,8 z" fill="#334155"/></marker></defs>
+<text x="480.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Traffic Separation Scheme (Rule 10) — แผนผังจำลอง</text>
+<rect x="40" y="120" width="880" height="80" fill="#e0f2fe" stroke="#0284c7"/>
+<rect x="40" y="200" width="880" height="40" fill="#f9a8d4" opacity="0.6" stroke="#be185d"/>
+<rect x="40" y="240" width="880" height="80" fill="#e0f2fe" stroke="#0284c7"/>
+<rect x="40" y="60" width="880" height="60" fill="#fef9c3" stroke="#ca8a04" stroke-dasharray="6 4"/>
+<text x="60" y="95" font-size="14" font-weight="bold" fill="#854d0e">Inshore Traffic Zone (ITZ) — เรือ &lt;20 m, เรือใบ, เรือประมง, เรือเข้า-ออกท่าในเขตนี้</text>
+<path d="M 180 160 L 120 160" stroke="#0369a1" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M 120 280 L 180 280" stroke="#0369a1" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M 340 160 L 280 160" stroke="#0369a1" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M 280 280 L 340 280" stroke="#0369a1" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M 500 160 L 440 160" stroke="#0369a1" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M 440 280 L 500 280" stroke="#0369a1" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M 660 160 L 600 160" stroke="#0369a1" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M 600 280 L 660 280" stroke="#0369a1" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M 820 160 L 760 160" stroke="#0369a1" stroke-width="4" marker-end="url(#ar)"/>
+<path d="M 760 280 L 820 280" stroke="#0369a1" stroke-width="4" marker-end="url(#ar)"/>
+<text x="60" y="140" font-size="13" fill="#0369a1" font-weight="bold">Traffic lane (มุ่งตะวันตก ←)</text>
+<text x="60" y="310" font-size="13" fill="#0369a1" font-weight="bold">Traffic lane (มุ่งตะวันออก →)</text>
+<text x="480" y="226" text-anchor="middle" font-size="13" fill="#831843" font-weight="bold">Separation zone — โดยปกติห้ามเข้า ยกเว้นตาม Rule 10(e)</text>
+<path d="M 905 48 L 905 22" stroke="#0f172a" stroke-width="2" marker-end="url(#ar)"/><text x="918" y="44" font-size="13" font-weight="bold">N</text>
+<path d="M 720 470 L 720 52" stroke="#16a34a" stroke-width="3" stroke-dasharray="8 5" marker-end="url(#ar)"/>
+<text x="710" y="400" text-anchor="end" font-size="13" fill="#15803d" font-weight="bold">ข้าม TSS: หัวเรือตั้งฉากกับทิศจราจร</text><text x="710" y="418" text-anchor="end" font-size="13" fill="#15803d">(heading at right angles) 10(c)</text>
+<path d="M 80 380 Q 200 330 300 285" stroke="#7c3aed" stroke-width="3" fill="none" marker-end="url(#ar)"/>
+<text x="60" y="400" font-size="13" fill="#6d28d9" font-weight="bold">เข้า/ออก lane ที่ปลาย หรือทางด้านข้าง</text><text x="60" y="418" font-size="13" fill="#6d28d9" font-weight="bold">ด้วยมุมเล็กที่สุด 10(b)(iii)</text>
+<rect x="40" y="430" width="560" height="70" rx="8" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="52" y="452" font-size="12">• ไปตามทิศจราจรทั่วไปของ lane · อยู่ห่างเส้น/เขตแบ่ง · หลีกเลี่ยงการทอดสมอใน TSS/ปลาย TSS</text>
+<text x="52" y="472" font-size="12">• เรือ &lt;20 m, เรือใบ, เรือประมง ต้องไม่ขัดขวาง (not impede) เรือที่ใช้ lane</text>
+<text x="52" y="492" font-size="12">• TSS ไม่ได้ยกเลิกกฎอื่น — Rule 13–17 ยังใช้ระหว่างเรือใน lane</text>
+</svg>

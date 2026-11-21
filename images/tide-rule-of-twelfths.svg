@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1010 420" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1010" height="420" fill="#fff"/>
+<defs><marker id="m" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f172a"/></marker></defs>
+<text x="505.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">Rule of Twelfths — ระดับน้ำที่เปลี่ยนในแต่ละชั่วโมง</text>
+<rect x="130" y="294" width="80" height="66" fill="#93c5fd" stroke="#1d4ed8"/>
+<text x="170.0" y="286" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e3a8a">1/12</text>
+<text x="170.0" y="382" text-anchor="middle" font-size="13">ชม. 1</text>
+<text x="170.0" y="404" text-anchor="middle" font-size="12" fill="#475569">สะสม 1/12</text>
+<rect x="230" y="228" width="80" height="132" fill="#93c5fd" stroke="#1d4ed8"/>
+<text x="270.0" y="220" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e3a8a">2/12</text>
+<text x="270.0" y="382" text-anchor="middle" font-size="13">ชม. 2</text>
+<text x="270.0" y="404" text-anchor="middle" font-size="12" fill="#475569">สะสม 3/12</text>
+<rect x="330" y="162" width="80" height="198" fill="#93c5fd" stroke="#1d4ed8"/>
+<text x="370.0" y="154" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e3a8a">3/12</text>
+<text x="370.0" y="382" text-anchor="middle" font-size="13">ชม. 3</text>
+<text x="370.0" y="404" text-anchor="middle" font-size="12" fill="#475569">สะสม 6/12</text>
+<rect x="430" y="162" width="80" height="198" fill="#93c5fd" stroke="#1d4ed8"/>
+<text x="470.0" y="154" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e3a8a">3/12</text>
+<text x="470.0" y="382" text-anchor="middle" font-size="13">ชม. 4</text>
+<text x="470.0" y="404" text-anchor="middle" font-size="12" fill="#475569">สะสม 9/12</text>
+<rect x="530" y="228" width="80" height="132" fill="#93c5fd" stroke="#1d4ed8"/>
+<text x="570.0" y="220" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e3a8a">2/12</text>
+<text x="570.0" y="382" text-anchor="middle" font-size="13">ชม. 5</text>
+<text x="570.0" y="404" text-anchor="middle" font-size="12" fill="#475569">สะสม 11/12</text>
+<rect x="630" y="294" width="80" height="66" fill="#93c5fd" stroke="#1d4ed8"/>
+<text x="670.0" y="286" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e3a8a">1/12</text>
+<text x="670.0" y="382" text-anchor="middle" font-size="13">ชม. 6</text>
+<text x="670.0" y="404" text-anchor="middle" font-size="12" fill="#475569">สะสม 12/12</text>
+<line x1="120" y1="360" x2="720" y2="360" stroke="#0f172a" stroke-width="2"/>
+<text x="740" y="120" font-size="13">ตัวอย่าง: LW 0.8 m, range 3.0 m</text><text x="740" y="142" font-size="13">หลัง LW 2 ชม. ≈ 0.8 + 3/12×3.0</text><text x="740" y="164" font-size="13">≈ 1.55 m</text>
+<text x="740" y="200" font-size="12" fill="#b91c1c">ใช้กับ semi-diurnal ที่สม่ำเสมอ</text><text x="740" y="218" font-size="12" fill="#b91c1c">เท่านั้น (ไม่ใช้ในอ่าวไทย</text><text x="740" y="236" font-size="12" fill="#b91c1c">ส่วนใหญ่ที่เป็น diurnal/mixed)</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 610" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="980" height="610" fill="#fff"/>
+<defs><marker id="a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="context-stroke"/></marker></defs>
+<text x="490.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">การไหลเวียนของบรรยากาศทั่วโลกและแถบลมประจำ</text>
+<circle cx="450" cy="320" r="240" fill="#eff6ff" stroke="#1e3a8a" stroke-width="2"/>
+<line x1="330.0" y1="112.2" x2="570.0" y2="112.2" stroke="#94a3b8" stroke-width="3" stroke-dasharray="8 4"/>
+<text x="580.0" y="117.2" font-size="13" fill="#94a3b8" font-weight="bold">Polar front / Low ~60°</text>
+<line x1="242.2" y1="200.0" x2="657.8" y2="200.0" stroke="#f59e0b" stroke-width="3" stroke-dasharray="8 4"/>
+<text x="667.8" y="205.0" font-size="13" fill="#f59e0b" font-weight="bold">Subtropical High ~30°</text>
+<line x1="210.0" y1="320.0" x2="690.0" y2="320.0" stroke="#ef4444" stroke-width="3" stroke-dasharray="8 4"/>
+<text x="700.0" y="325.0" font-size="13" fill="#ef4444" font-weight="bold">ITCZ / Doldrums</text>
+<line x1="242.2" y1="440.0" x2="657.8" y2="440.0" stroke="#f59e0b" stroke-width="3" stroke-dasharray="8 4"/>
+<line x1="330.0" y1="527.8" x2="570.0" y2="527.8" stroke="#94a3b8" stroke-width="3" stroke-dasharray="8 4"/>
+<line x1="435.8" y1="76.7" x2="395.9" y2="99.7" stroke="#475569" stroke-width="3" marker-end="url(#a)"/>
+<line x1="469.9" y1="76.7" x2="430.1" y2="99.7" stroke="#475569" stroke-width="3" marker-end="url(#a)"/>
+<line x1="504.1" y1="76.7" x2="464.2" y2="99.7" stroke="#475569" stroke-width="3" marker-end="url(#a)"/>
+<line x1="336.7" y1="161.8" x2="376.6" y2="138.8" stroke="#15803d" stroke-width="3" marker-end="url(#a)"/>
+<line x1="430.1" y1="161.8" x2="469.9" y2="138.8" stroke="#15803d" stroke-width="3" marker-end="url(#a)"/>
+<line x1="523.4" y1="161.8" x2="563.3" y2="138.8" stroke="#15803d" stroke-width="3" marker-end="url(#a)"/>
+<line x1="342.4" y1="246.4" x2="302.6" y2="269.4" stroke="#1d4ed8" stroke-width="3" marker-end="url(#a)"/>
+<line x1="469.9" y1="246.4" x2="430.1" y2="269.4" stroke="#1d4ed8" stroke-width="3" marker-end="url(#a)"/>
+<line x1="597.4" y1="246.4" x2="557.6" y2="269.4" stroke="#1d4ed8" stroke-width="3" marker-end="url(#a)"/>
+<line x1="342.4" y1="393.6" x2="302.6" y2="370.6" stroke="#1d4ed8" stroke-width="3" marker-end="url(#a)"/>
+<line x1="469.9" y1="393.6" x2="430.1" y2="370.6" stroke="#1d4ed8" stroke-width="3" marker-end="url(#a)"/>
+<line x1="597.4" y1="393.6" x2="557.6" y2="370.6" stroke="#1d4ed8" stroke-width="3" marker-end="url(#a)"/>
+<line x1="336.7" y1="478.2" x2="376.6" y2="501.2" stroke="#15803d" stroke-width="3" marker-end="url(#a)"/>
+<line x1="430.1" y1="478.2" x2="469.9" y2="501.2" stroke="#15803d" stroke-width="3" marker-end="url(#a)"/>
+<line x1="523.4" y1="478.2" x2="563.3" y2="501.2" stroke="#15803d" stroke-width="3" marker-end="url(#a)"/>
+<line x1="435.8" y1="563.3" x2="395.9" y2="540.3" stroke="#475569" stroke-width="3" marker-end="url(#a)"/>
+<line x1="469.9" y1="563.3" x2="430.1" y2="540.3" stroke="#475569" stroke-width="3" marker-end="url(#a)"/>
+<line x1="504.1" y1="563.3" x2="464.2" y2="540.3" stroke="#475569" stroke-width="3" marker-end="url(#a)"/>
+<text x="12" y="93.2" font-size="13" font-weight="bold">Polar easterlies</text>
+<text x="12" y="155.3" font-size="13" font-weight="bold">Westerlies</text>
+<text x="12" y="262.9" font-size="13" font-weight="bold">NE Trades</text>
+<text x="12" y="387.1" font-size="13" font-weight="bold">SE Trades</text>
+<text x="12" y="494.7" font-size="13" font-weight="bold">Westerlies (Roaring Forties)</text>
+<text x="12" y="556.8" font-size="13" font-weight="bold">Polar easterlies</text>
+<rect x="700" y="400" width="270" height="190" rx="10" fill="#f8fafc" stroke="#94a3b8"/>
+<text x="714" y="428" font-size="13">Hadley cell: 0°–30°</text>
+<text x="714" y="452" font-size="13">Ferrel cell: 30°–60°</text>
+<text x="714" y="476" font-size="13">Polar cell: 60°–90°</text>
+<text x="714" y="500" font-size="13"></text>
+<text x="714" y="524" font-size="13">แถบทั้งหมดเลื่อนตามฤดู</text>
+<text x="714" y="548" font-size="13">(ตามดวงอาทิตย์) ราว 5°–10°</text>
+<text x="714" y="572" font-size="13">ITCZ ช่วง ก.ค.–ส.ค. อยู่ทางเหนือ</text>
+</svg>

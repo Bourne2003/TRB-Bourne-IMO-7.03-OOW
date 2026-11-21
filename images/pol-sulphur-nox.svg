@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" font-family="Tahoma, 'Noto Sans Thai', 'Leelawadee UI', Sarabun, sans-serif">
+<rect width="1000" height="500" fill="#fff"/>
+<defs><marker id="ar" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#0f172a"/></marker><marker id="arR" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#b91c1c"/></marker></defs>
+<text x="500.0" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#0f172a">MARPOL Annex VI: ขีดจำกัดกำมะถันในน้ำมันเชื้อเพลิง และ NOx Tier</text>
+<line x1="90.0" y1="380.0" x2="610.0" y2="380.0" stroke="#0f172a" stroke-width="1.5"/>
+<line x1="90.0" y1="80.0" x2="90.0" y2="380.0" stroke="#0f172a" stroke-width="1.5"/>
+<line x1="85.0" y1="380.0" x2="90.0" y2="380.0" stroke="#0f172a" stroke-width="1"/>
+<text x="82.0" y="384.0" font-size="11" text-anchor="end" fill="#0f172a">0.0</text>
+<line x1="90.0" y1="380.0" x2="610.0" y2="380.0" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="85.0" y1="320.0" x2="90.0" y2="320.0" stroke="#0f172a" stroke-width="1"/>
+<text x="82.0" y="324.0" font-size="11" text-anchor="end" fill="#0f172a">1.0</text>
+<line x1="90.0" y1="320.0" x2="610.0" y2="320.0" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="85.0" y1="260.0" x2="90.0" y2="260.0" stroke="#0f172a" stroke-width="1"/>
+<text x="82.0" y="264.0" font-size="11" text-anchor="end" fill="#0f172a">2.0</text>
+<line x1="90.0" y1="260.0" x2="610.0" y2="260.0" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="85.0" y1="200.0" x2="90.0" y2="200.0" stroke="#0f172a" stroke-width="1"/>
+<text x="82.0" y="204.0" font-size="11" text-anchor="end" fill="#0f172a">3.0</text>
+<line x1="90.0" y1="200.0" x2="610.0" y2="200.0" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="85.0" y1="140.0" x2="90.0" y2="140.0" stroke="#0f172a" stroke-width="1"/>
+<text x="82.0" y="144.0" font-size="11" text-anchor="end" fill="#0f172a">4.0</text>
+<line x1="90.0" y1="140.0" x2="610.0" y2="140.0" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="85.0" y1="80.0" x2="90.0" y2="80.0" stroke="#0f172a" stroke-width="1"/>
+<text x="82.0" y="84.0" font-size="11" text-anchor="end" fill="#0f172a">5.0</text>
+<line x1="90.0" y1="80.0" x2="610.0" y2="80.0" stroke="#f1f5f9" stroke-width="1"/>
+<line x1="90.0" y1="380.0" x2="90.0" y2="385.0" stroke="#0f172a" stroke-width="1"/>
+<text x="90.0" y="400.0" font-size="11" text-anchor="middle" fill="#0f172a">2008</text>
+<line x1="194.0" y1="380.0" x2="194.0" y2="385.0" stroke="#0f172a" stroke-width="1"/>
+<text x="194.0" y="400.0" font-size="11" text-anchor="middle" fill="#0f172a">2012</text>
+<line x1="272.0" y1="380.0" x2="272.0" y2="385.0" stroke="#0f172a" stroke-width="1"/>
+<text x="272.0" y="400.0" font-size="11" text-anchor="middle" fill="#0f172a">2015</text>
+<line x1="402.0" y1="380.0" x2="402.0" y2="385.0" stroke="#0f172a" stroke-width="1"/>
+<text x="402.0" y="400.0" font-size="11" text-anchor="middle" fill="#0f172a">2020</text>
+<line x1="532.0" y1="380.0" x2="532.0" y2="385.0" stroke="#0f172a" stroke-width="1"/>
+<text x="532.0" y="400.0" font-size="11" text-anchor="middle" fill="#0f172a">2025</text>
+<line x1="610.0" y1="380.0" x2="610.0" y2="385.0" stroke="#0f172a" stroke-width="1"/>
+<text x="610.0" y="400.0" font-size="11" text-anchor="middle" fill="#0f172a">2028</text>
+<text x="42" y="230.0" font-size="12" text-anchor="middle" transform="rotate(-90 42 230.0)">กำมะถัน % m/m</text><polyline points="90.0,110.0 194.0,110.0 194.0,170.0 402.0,170.0 402.0,350.0 610.0,350.0" fill="none" stroke="#b91c1c" stroke-width="3.5"/><polyline points="90.0,290.0 155.0,290.0 155.0,320.0 272.0,320.0 272.0,374.0 610.0,374.0" fill="none" stroke="#1d4ed8" stroke-width="3.5"/><text x="116.0" y="102.0" font-size="12" text-anchor="start" fill="#b91c1c" font-weight="bold">ทั่วโลก 4.50%</text>
+<text x="220.0" y="162.0" font-size="12" text-anchor="start" fill="#b91c1c" font-weight="bold">3.50% (2012)</text>
+<text x="408.0" y="340.0" font-size="12" text-anchor="start" fill="#b91c1c" font-weight="bold">0.50% (1 ม.ค. 2020)</text>
+<text x="116.0" y="282.0" font-size="12" text-anchor="start" fill="#1d4ed8" font-weight="bold">ECA 1.50 → 1.00%</text>
+<text x="278.0" y="366.0" font-size="12" text-anchor="start" fill="#1d4ed8" font-weight="bold">ECA 0.10% (1 ม.ค. 2015)</text>
+<rect x="640.0" y="60.0" width="330.0" height="420.0" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<text x="652.0" y="82.0" font-size="11.8" text-anchor="start" fill="#0f172a" font-weight="bold">SOx ECA (0.10% m/m) — วันที่ใช้ขีดจำกัด</text>
+<text x="652.0" y="103.5" font-size="11.8" text-anchor="start" fill="#0f172a">• Baltic · North Sea (2015) · North American</text>
+<text x="652.0" y="125.0" font-size="11.8" text-anchor="start" fill="#0f172a">  · US Caribbean (2015)</text>
+<text x="652.0" y="146.5" font-size="11.8" text-anchor="start" fill="#0f172a">• Mediterranean (1 พ.ค. 2025)</text>
+<text x="652.0" y="168.0" font-size="11.8" text-anchor="start" fill="#0f172a">• Canadian Arctic · Norwegian Sea (1 มี.ค. 2027)</text>
+<text x="652.0" y="189.5" font-size="11.8" text-anchor="start" fill="#0f172a">• North-East Atlantic (1 ก.ย. 2028) — รับรองแล้ว</text>
+<text x="652.0" y="211.0" font-size="11.8" text-anchor="start" fill="#0f172a">  ตรวจรายการ/เส้นเขตล่าสุดก่อนเดินทาง</text>
+<text x="652.0" y="232.5" font-size="11.8" text-anchor="start" fill="#0f172a"></text>
+<text x="652.0" y="254.0" font-size="11.8" text-anchor="start" fill="#0f172a" font-weight="bold">NOx (Reg. 13) — เครื่องดีเซล &gt; 130 kW</text>
+<text x="652.0" y="275.5" font-size="11.8" text-anchor="start" fill="#0f172a">• Tier I (2000) · Tier II (2011) ทั่วโลก</text>
+<text x="652.0" y="297.0" font-size="11.8" text-anchor="start" fill="#0f172a">• Tier III ใน NOx ECA ตามวันสร้างเรือ:</text>
+<text x="652.0" y="318.5" font-size="11.8" text-anchor="start" fill="#0f172a">  N. American/US Caribbean 2016 · Baltic/</text>
+<text x="652.0" y="340.0" font-size="11.8" text-anchor="start" fill="#0f172a">  North Sea 2021 · Canadian Arctic 2025 ·</text>
+<text x="652.0" y="361.5" font-size="11.8" text-anchor="start" fill="#0f172a">  Norwegian Sea 2026 · NE Atlantic 2027</text>
+<text x="652.0" y="383.0" font-size="11.8" text-anchor="start" fill="#0f172a"></text>
+<text x="652.0" y="404.5" font-size="11.8" text-anchor="start" fill="#0f172a">ห้ามบรรทุกเชื้อเพลิง &gt; 0.50% เพื่อใช้ (ไม่มี</text>
+<text x="652.0" y="426.0" font-size="11.8" text-anchor="start" fill="#0f172a">EGCS/scrubber) ตั้งแต่ 1 มี.ค. 2020 · เปลี่ยนน้ำมัน</text>
+<text x="652.0" y="447.5" font-size="11.8" text-anchor="start" fill="#0f172a">ก่อนเข้า ECA: บันทึกเวลา ตำแหน่ง ปริมาณ</text>
+</svg>
