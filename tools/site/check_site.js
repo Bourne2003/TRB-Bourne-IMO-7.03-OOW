@@ -1,8 +1,8 @@
 // Optional local QA for the online book (not run in CI).
 // 1) python3 tools/build_site.py
 // 2) serve it under the project sub-path, e.g.
-//    S=/tmp/srv; mkdir -p $S && ln -sfn "$PWD/_site" "$S/Marnie-OOW-IMO_7.03-TRB" && python3 -m http.server 8765 -d "$S"
-// 3) node tools/site/check_site.js [http://localhost:8765/Marnie-OOW-IMO_7.03-TRB/]
+//    S=/tmp/srv; mkdir -p $S && ln -sfn "$PWD/_site" "$S/TRB-OOW-Borune" && python3 -m http.server 8765 -d "$S"
+// 3) node tools/site/check_site.js [http://localhost:8765/TRB-OOW-Borune/]
 // Uses the globally installed Playwright (npm root -g) and its bundled Chromium.
 'use strict';
 const { execSync } = require('child_process');
@@ -10,7 +10,7 @@ const path = require('path');
 const fs = require('fs');
 const { chromium } = require(`${execSync('npm root -g').toString().trim()}/playwright`);
 
-const BASE = process.argv[2] || 'http://localhost:8765/Marnie-OOW-IMO_7.03-TRB/';
+const BASE = process.argv[2] || 'http://localhost:8765/TRB-OOW-Borune/';
 const SITE = path.resolve(__dirname, '..', '..', '_site');
 const ORIGIN = new URL(BASE).origin;
 const COLREG = 'chapters/01-navigation/1.2.1-A-colregs.html';
@@ -146,11 +146,11 @@ async function open(page, rel, wait = 'load') {
     const page = await newPage(browser, { scheme: 'dark' });
     await open(page, COLREG);
     const auto = await page.evaluate(() => getComputedStyle(document.body).backgroundColor);
-    check('F1 auto follows prefers-color-scheme: dark', auto === 'rgb(26, 25, 23)', auto);
+    check('F1 auto follows prefers-color-scheme: dark', auto === 'rgb(4, 12, 24)', auto);
     await page.click('.aa-btn');
     await page.click('label:has(input[value="sepia"])');
     const meta = await page.evaluate(() => [document.documentElement.dataset.theme, document.querySelector('meta[name=theme-color]').content]);
-    check('F1 sepia sets data-theme and theme-color', meta[0] === 'sepia' && meta[1].toUpperCase() === '#F4ECD8', meta);
+    check('F1 sepia sets data-theme and theme-color', meta[0] === 'sepia' && meta[1].toUpperCase() === '#F3EBD9', meta);
     await page.keyboard.press('Escape');
     let atDCL = null;
     page.once('domcontentloaded', async () => {});
@@ -420,7 +420,7 @@ async function open(page, rel, wait = 'load') {
     await fp.goto('file://' + path.join(SITE, COLREG)); await fp.evaluate(() => document.fonts.ready);
     const imgs = await fp.evaluate(async () => { const i = document.querySelector('.fig img'); i.loading = 'eager'; await i.decode().catch(() => {}); return [i.naturalWidth, document.fonts.check('400 1em Trirong')]; });
     check('L5 file:// no console errors (font preloads are skipped off http)', fp.errors.length === 0, fp.errors.slice(0, 3));
-    check('L5 file:// css, drawer, images and fonts', css === 'rgb(252, 251, 248)' && dopen && imgs[0] > 0 && imgs[1], { css, dopen, imgs });
+    check('L5 file:// css, drawer, images and fonts', css === 'rgb(244, 247, 250)' && dopen && imgs[0] > 0 && imgs[1], { css, dopen, imgs });
     await fp.context().close();
   }
 

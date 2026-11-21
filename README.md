@@ -76,10 +76,12 @@
 
 ## อ่านออนไลน์ (GitHub Pages)
 
-อ่านสมุดเล่มนี้แบบหนังสือออนไลน์ได้ที่ **[https://bourne2003.github.io/Marnie-OOW-IMO_7.03-TRB/](https://bourne2003.github.io/Marnie-OOW-IMO_7.03-TRB/)** — หน้ากระดาษคอลัมน์เดียวอ่านสบายตา มีสารบัญ ค้นหา ปรับธีม (สว่าง ซีเปีย กลางคืน) และขนาดตัวอักษรได้ และมีโหมดซ่อนแนวตอบไว้ทดสอบตัวเอง เว็บสร้างใหม่จากไฟล์ Markdown ชุดนี้โดยอัตโนมัติทุกครั้งที่ push ขึ้น branch `bourne2003/dreamy-brown-vesf2e` (workflow `.github/workflows/pages.yml`)
+อ่านสมุดเล่มนี้แบบหนังสือออนไลน์ได้ที่ **[https://bourne2003.github.io/TRB-OOW-Borune/](https://bourne2003.github.io/TRB-OOW-Borune/)** — หน้ากระดาษคอลัมน์เดียวอ่านสบายตา มีสารบัญ ค้นหา ปรับธีม (สว่าง ซีเปีย กลางคืน) และขนาดตัวอักษรได้ และมีโหมดซ่อนแนวตอบไว้ทดสอบตัวเอง เว็บสร้างใหม่จากไฟล์ Markdown ชุดนี้โดยอัตโนมัติทุกครั้งที่ push ลง branch `main` ผ่าน workflow `.github/workflows/pages.yml`
+
+> หมายเหตุ — URL ของเว็บที่เผยแพร่อาจต่างจากชื่อ repository (`TRB-Bourne-IMO-7.03-OOW`) ขึ้นต้นด้วยชื่อผู้ใช้ GitHub (`bourne2003`) และชื่อ site ที่ตั้งใน GitHub Pages (`TRB-OOW-Borune`) ถ้าคุณ deploy repository นี้ภายใต้ชื่ออื่น ให้แก้ `SITE_URL` ใน `tools/build_site.py:40` ให้ตรงกับที่อยู่จริงของเว็บก่อน build
 
 - **สร้างและดูบนเครื่อง** — `pip install markdown-it-py==4.2.0 mdit-py-plugins==0.6.1` แล้วรัน `python3 tools/build_site.py` จะได้โฟลเดอร์ `_site/` จากนั้นรัน `python3 -m http.server -d _site` แล้วเปิด http://localhost:8000/ (เปิดไฟล์ `_site/index.html` จากเครื่องโดยตรงก็ได้)
-- **เปิดใช้ GitHub Pages (ทำครั้งเดียว)** — ใน repository ไปที่ Settings → Pages → Build and deployment → Source: **GitHub Actions** แล้ว re-run workflow หรือ push ใหม่ — ก่อนเปิดใช้ workflow ยังสร้างเว็บและตรวจลิงก์ทุกครั้ง แต่ข้ามขั้น deploy
+- **เปิดใช้ GitHub Pages (ทำครั้งเดียว)** — ใน repository ไปที่ Settings → Pages → Build and deployment → Source: **GitHub Actions** แล้ว re-run workflow หรือ push ใหม่ workflow จะ build `_site/` และ deploy อัตโนมัติ — ก่อนเปิดใช้ workflow ยังสร้างเว็บและตรวจลิงก์ทุกครั้ง แต่ข้ามขั้น deploy
 - **หมายเหตุ** — repository แบบ private ต้องใช้แผน GitHub ที่รองรับ Pages (Pro, Team หรือ Enterprise) และเว็บที่เผยแพร่จะเป็น **สาธารณะ** ใครมีลิงก์ก็อ่านได้ (ยกเว้นบัญชี Enterprise Cloud ที่ตั้ง Pages เป็น private)
 
 ## โครงสร้างไฟล์

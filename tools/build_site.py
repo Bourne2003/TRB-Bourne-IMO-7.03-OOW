@@ -37,7 +37,7 @@ AUTHOR = 'TIRAPHONG NANTAPAN'
 BOOK = 'สมุดบันทึกการฝึก OOW'
 COVER_TITLE = 'สมุดบันทึกการฝึกนายประจำเรือฝ่ายเดินเรือ (OOW) — TIRAPHONG NANTAPAN'
 # ที่อยู่จริงของเว็บ — ใช้เฉพาะในหน้า 404 (GitHub Pages เสิร์ฟหน้านั้นที่ path ใดก็ได้ จึงใช้ลิงก์ relative ไม่ได้)
-SITE_URL = 'https://bourne2003.github.io/Marnie-OOW-IMO_7.03-TRB/'
+SITE_URL = 'https://bourne2003.github.io/TRB-OOW-Borune/'
 
 SITE_PARTS = [
     ('intro', 'บทนำ', None, 'chapters/00-intro'),
@@ -1428,6 +1428,9 @@ def write_site(out, final_out, assets_txt, docs, cover_html, index_v, index_json
     for f in images:
         shutil.copyfile(os.path.join(ROOT, 'images', f), os.path.join(idir, f))
 
+    write(os.path.join(out, 'sitemap.xml'), sitemap_xml(docs, SITE_URL))
+    write(os.path.join(out, 'robots.txt'), robots_txt(SITE_URL))
+
     pages = validate_site(out)
     total_fig = sum(d.n_fig for d in docs)
     total_cap = sum(d.ctx.captions for d in docs)
@@ -1451,6 +1454,55 @@ def write_site(out, final_out, assets_txt, docs, cover_html, index_v, index_json
                f'{size / 1e6:.1f} MB total, largest page {largest[0]} ({largest[1] / 1e3:.0f} KB)')
     LOG.summary = summary
     return 0
+
+
+# --------------------------------------------------------------------------- sitemap and robots
+
+SITEMAP_URLSET = (
+    '<?xml version="1.0" encoding="UTF-8"?>\n'
+    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"\n'
+    '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n'
+    '$URLS$'
+    '</urlset>\n'
+)
+
+SITEMAP_URL = (
+    '  <url>\n'
+    '    <loc>$LOC$</loc>\n'
+    '    <lastmod>$LASTMOD$</lastmod>\n'
+    '    <changefreq>$CHANGEFREQ$</changefreq>\n'
+    '    <priority>$PRIORITY$</priority>\n'
+    '  </url>\n'
+)
+
+
+def sitemap_xml(docs, site_url):
+    """สร้าง sitemap.xml จากรายการเอกสารทั้งหมด"""
+    urls = []
+    for d in docs:
+        loc = site_url.rstrip('/') + '/' + d.out
+        lastmod = d.date or '2026-01-01'
+        if d.rel == 'chapters/00-intro/00-introduction.md':
+            changefreq, priority = 'monthly', '0.8'
+        elif d.is_appendix:
+            changefreq, priority = 'monthly', '0.7'
+        else:
+            changefreq, priority = 'monthly', '0.6'
+        urls.append(SITEMAP_URL.replace('$LOC$', esc(loc))
+                    .replace('$LASTMOD$', lastmod)
+                    .replace('$CHANGEFREQ$', changefreq)
+                    .replace('$PRIORITY$', priority))
+    return SITEMAP_URLSET.replace('$URLS$', ''.join(urls))
+
+
+def robots_txt(site_url):
+    """สร้าง robots.txt"""
+    return (
+        'User-agent: *\n'
+        'Allow: /\n'
+        '\n'
+        'Sitemap: ' + site_url.rstrip('/') + '/sitemap.xml\n'
+    )
 
 
 def report(code, summary):

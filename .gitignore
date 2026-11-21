@@ -1,0 +1,15 @@
+# Build artifacts
+_site/
+__pycache__/
+*.pyc
+.python-version
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

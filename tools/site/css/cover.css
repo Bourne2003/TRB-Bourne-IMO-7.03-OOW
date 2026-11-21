@@ -294,9 +294,10 @@ html:not(.has-last) .page-cover .continue{display:none}
 .page-cover .tp-kicker{font-size:.76rem!important;letter-spacing:.16em!important;color:#D7C58F}
 .page-cover .tp-title{
   max-width:11.5em;
+  font-family:var(--font-book);
   font-size:clamp(2.6rem,4.4vw,4.25rem);
-  line-height:1.02;
-  letter-spacing:-.055em;
+  line-height:1.26;
+  letter-spacing:-.01em;
   color:#F7FAFC;
   text-wrap:balance;
 }
@@ -363,7 +364,26 @@ html:not(.has-last) .page-cover .continue{display:none}
 .page-cover .tp-panel dl div{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;padding:.72rem 0;border-bottom:1px solid rgba(188,215,233,.10)}
 .page-cover .tp-panel dt{color:#9FB1C0;font:400 .72rem/1.4 var(--font-ui)}
 .page-cover .tp-panel dd{margin:0;color:#F1F5F7;font:700 1.05rem/1 var(--font-ui);font-variant-numeric:tabular-nums}
-.page-cover .continue{display:none!important}
+.page-cover .tp-panel{
+  position:relative;
+  overflow:hidden;
+  grid-column:2;
+  grid-row:1 / 12;
+  align-self:center;
+  justify-self:stretch;
+  min-height:390px;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  padding:2rem 1.75rem 1.25rem;
+  border:1px solid rgba(188,215,233,.18);
+  border-radius:20px;
+  background:
+    linear-gradient(145deg,rgba(255,255,255,.065),rgba(255,255,255,.018)),
+    rgba(7,21,38,.62);
+  box-shadow:0 24px 60px rgba(0,0,0,.22),inset 0 1px rgba(255,255,255,.055);
+  backdrop-filter:blur(18px) saturate(130%);
+}
 .page-cover h2#preface{margin-top:4rem!important}
 .page-cover .toc{
   width:min(1120px,100%);
@@ -418,11 +438,6 @@ html:not(.has-last) .page-cover .continue{display:none}
   .page-cover .titlepage > .tp-panel{display:none!important}
 }
 
-/* Match the preferred editorial cover: title-led left, typographic
-   navigation mark in the upper-right, no busy information panel. */
-.page-cover .tp-panel{
-  display:none!important;
-}
 .page-cover .titlepage{
   grid-template-columns:minmax(0,1.08fr) minmax(260px,.92fr);
   min-height:min(600px,calc(100svh - 7.25rem));
